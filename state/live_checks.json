@@ -6,7 +6,7 @@
    "url": "https://ghproxy.net/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/lives/live_verified.txt",
    "epg": "https://epg.pw/api/v1/getEpgInfo?token=tvbox",
    "ua": "TVBox",
-   "channels": 6242,
+   "channels": 6327,
    "groups": [
     "其他",
     "卫视",
@@ -17,12 +17,12 @@
     "地方-吉林",
     "地方-四川"
    ],
-   "bytes": 554762,
+   "bytes": 561216,
    "stream_tests": [
     {
-     "stream": "http://198.204.228.26/live/sdwshd.m3u8",
-     "ok": true,
-     "why": "ct:application/vnd.apple.mpegurl"
+     "stream": "http://111.22.153.159:35455/itv/1000000006000032327.m3u8?cdn=ystenlive",
+     "ok": false,
+     "why": "no_response"
     },
     {
      "stream": "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297",
@@ -30,14 +30,14 @@
      "why": "ct:audio/x-mpegurl"
     },
     {
-     "stream": "https://live.ottiptv.cc/huya/23863787",
-     "ok": true,
-     "why": "ct:video/x-flv"
+     "stream": "https://jwcdnqx.hebyun.com.cn/zb/xlzh/1500k/tzwj_video.m3u8",
+     "ok": false,
+     "why": "http_404"
     },
     {
-     "stream": "https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1746307365&key=f8b778466518d5f6d89b1a38fcbea28d",
+     "stream": "http://139.227.221.147:9901/tsfile/live/0130_1.m3u8?key=txiptv",
      "ok": false,
-     "why": "http_403"
+     "why": "no_response"
     },
     {
      "stream": "http://124.88.144.73:1935/live/dywt/playlist.m3u8",
@@ -45,24 +45,9 @@
      "why": "no_response"
     }
    ],
-   "streams_ok": 3,
+   "streams_ok": 1,
    "status": "ok",
    "ffprobe": [
-    {
-     "stream": "http://198.204.228.26/live/sdwshd.m3u8",
-     "ok": true,
-     "info": {
-      "codecs": [
-       "h264",
-       "aac"
-      ],
-      "video": {
-       "codec": "h264",
-       "w": 1280,
-       "h": 720
-      }
-     }
-    },
     {
      "stream": "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297",
      "ok": true,

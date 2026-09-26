@@ -6,64 +6,9 @@
    "url": "https://ghproxy.net/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/lives/live_verified.txt",
    "epg": "https://epg.pw/api/v1/getEpgInfo?token=tvbox",
    "ua": "TVBox",
-   "channels": 6327,
-   "groups": [
-    "其他",
-    "卫视",
-    "地方-上海",
-    "地方-云南",
-    "地方-内蒙古",
-    "地方-北京",
-    "地方-吉林",
-    "地方-四川"
-   ],
-   "bytes": 561216,
-   "stream_tests": [
-    {
-     "stream": "http://111.22.153.159:35455/itv/1000000006000032327.m3u8?cdn=ystenlive",
-     "ok": false,
-     "why": "no_response"
-    },
-    {
-     "stream": "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297",
-     "ok": true,
-     "why": "ct:audio/x-mpegurl"
-    },
-    {
-     "stream": "https://jwcdnqx.hebyun.com.cn/zb/xlzh/1500k/tzwj_video.m3u8",
-     "ok": false,
-     "why": "http_404"
-    },
-    {
-     "stream": "http://139.227.221.147:9901/tsfile/live/0130_1.m3u8?key=txiptv",
-     "ok": false,
-     "why": "no_response"
-    },
-    {
-     "stream": "http://124.88.144.73:1935/live/dywt/playlist.m3u8",
-     "ok": false,
-     "why": "no_response"
-    }
-   ],
-   "streams_ok": 1,
-   "status": "ok",
-   "ffprobe": [
-    {
-     "stream": "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297",
-     "ok": true,
-     "info": {
-      "codecs": [
-       "h264",
-       "aac"
-      ],
-      "video": {
-       "codec": "h264",
-       "w": 1920,
-       "h": 1080
-      }
-     }
-    }
-   ]
+   "status": "dead",
+   "reason": "fetch_404",
+   "channels": 0
   }
  ]
 }

@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-26T04:32:27",
- "deps_files": 7366,
- "deps_bytes": 729637382,
+ "generated_at": "2026-09-26T22:34:27",
+ "deps_files": 7381,
+ "deps_bytes": 731644458,
  "duplicate_groups": 953,
- "duplicate_savable_bytes": 434395315,
- "unreferenced_count": 6383,
- "unreferenced_bytes": 579131909,
+ "duplicate_savable_bytes": 436394762,
+ "unreferenced_count": 6375,
+ "unreferenced_bytes": 580165131,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
@@ -386,7 +386,7 @@
   },
   {
    "path": "deps/manifest.json",
-   "bytes": 3278183
+   "bytes": 3285491
   },
   {
    "path": "deps/auto/24-106s/lib/spider.jar",

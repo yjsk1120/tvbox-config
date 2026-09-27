@@ -2712,45 +2712,6 @@
    "type": 0,
    "url": "https://gh.halonice.com/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/lives/live_other.txt",
    "epg": "https://live.fanmingming.cn/e.xml"
-  },
-  {
-   "name": "IPTV国内直连",
-   "type": 0,
-   "url": "https://git.820828.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
-  },
-  {
-   "name": "live2",
-   "type": 0,
-   "playerType": 1,
-   "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u",
-   "ua": "okhttp/3.15",
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "央卫",
-   "type": 0,
-   "url": "https://livetv.wqwqwq.sbs/tv.m3u",
-   "playerType": 1,
-   "logo": "https://live.fanmingming.com/tv/{name}.png"
-  },
-  {
-   "name": "4GTV",
-   "type": 0,
-   "url": "https://tvv.wqwqwq.sbs/iptv.m3u",
-   "playerType": 1,
-   "logo": "https://live.fanmingming.com/tv/{name}.png"
-  },
-  {
-   "name": "YanG-1989",
-   "url": "https://tv.iill.top/m3u/Adult",
-   "type": 0
-  },
-  {
-   "name": "地方台",
-   "type": 0,
-   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt",
-   "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml"
   }
  ],
  "parses": [
@@ -4206,55 +4167,6 @@
    "name": "💕分享者嗅探*",
    "type": 0,
    "url": "http://154.44.26.196/player/qu.php?v="
-  },
-  {
-   "name": "解析10",
-   "type": 0,
-   "url": "https://tool.bitefu.net/video/?url="
-  },
-  {
-   "name": "解析15",
-   "type": 0,
-   "url": "https://www.xinlangjiexi.com/m3u8/?url="
-  },
-  {
-   "name": "解析17",
-   "type": 0,
-   "url": "https://bfzyplayer.com/player/?url="
-  },
-  {
-   "name": "解析18",
-   "type": 0,
-   "url": "https://jsjiexi.com/play/?url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "mgtv",
-     "芒果",
-     "letv",
-     "乐视",
-     "pptv",
-     "PPTV",
-     "sohu",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩"
-    ],
-    "header": {
-     "User-Agent": "okhttp/4.1.0"
-    }
-   }
-  },
-  {
-   "name": "解析19",
-   "type": 1,
-   "url": "https://jx.51flv.cc/play.php?url="
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "spider": "https://git.820828.xyz/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
+ "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
  "wallpaper": "https://t.alcy.cc/ys",
  "parses": [
   {
@@ -1454,69 +1454,9 @@
    "name": "💕分享者嗅探*",
    "type": 0,
    "url": "http://154.44.26.196/player/qu.php?v="
-  },
-  {
-   "name": "解析10",
-   "type": 0,
-   "url": "https://tool.bitefu.net/video/?url="
-  },
-  {
-   "name": "解析15",
-   "type": 0,
-   "url": "https://www.xinlangjiexi.com/m3u8/?url="
-  },
-  {
-   "name": "解析17",
-   "type": 0,
-   "url": "https://bfzyplayer.com/player/?url="
-  },
-  {
-   "name": "解析18",
-   "type": 0,
-   "url": "https://jsjiexi.com/play/?url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "mgtv",
-     "芒果",
-     "letv",
-     "乐视",
-     "pptv",
-     "PPTV",
-     "sohu",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩"
-    ],
-    "header": {
-     "User-Agent": "okhttp/4.1.0"
-    }
-   }
-  },
-  {
-   "name": "解析19",
-   "type": 1,
-   "url": "https://jx.51flv.cc/play.php?url="
   }
  ],
  "sites": [
-  {
-   "key": "gdlsE",
-   "name": "香奶儿资源(已修复)",
-   "type": 0,
-   "api": "https://www.gdlsp.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/5-721s",
-   "group": "直连点播"
-  },
   {
    "key": "香奶儿资源站",
    "name": "香奶 | 采集",
@@ -1524,42 +1464,6 @@
    "api": "https://www.gdlsp.com/api/xml.php",
    "searchable": 0,
    "quickSearch": 0,
-   "ext": "proxy",
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "ms4nii",
-   "name": "美少女资源(已修复)",
-   "type": 0,
-   "api": "https://www.msnii.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/5-721s",
-   "group": "直连点播"
-  },
-  {
-   "key": "小乐",
-   "name": "小乐｜星源",
-   "type": 1,
-   "api": "https://xy.183933.xyz/php/ls.php/vod",
-   "playUrl": "http://8.155.50.80/xiayexk.php?url=",
-   "changeable": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "白嫖",
-   "name": "白嫖 | 采集",
-   "type": 0,
-   "api": "https://www.kxgav.com/api/xml.php",
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
    "ext": "proxy",
    "group": "直连点播",
    "_origin": "feishu-sync"
@@ -1576,15 +1480,27 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "CNTV低分辨",
-   "name": "CNTV低分辨",
+   "key": "白嫖",
+   "name": "白嫖 | 采集",
+   "type": 0,
+   "api": "https://www.kxgav.com/api/xml.php",
+   "searchable": 0,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy",
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "小乐",
+   "name": "小乐｜星源",
    "type": 1,
-   "api": "https://zhangqun1818.serv00.net/cctv.php",
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
+   "api": "https://xy.183933.xyz/php/ls.php/vod",
+   "playUrl": "http://8.155.50.80/xiayexk.php?url=",
    "changeable": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
    "group": "直连点播",
    "_origin": "feishu-sync"
   },
@@ -1602,13 +1518,37 @@
    "_origin": "feishu-sync"
   },
   {
+   "key": "CNTV低分辨",
+   "name": "CNTV低分辨",
+   "type": 1,
+   "api": "https://zhangqun1818.serv00.net/cctv.php",
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "changeable": 1,
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "请勿贩卖📚在线_采集集合",
+   "name": "请勿贩卖📚在线·采集集合",
+   "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+   "type": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
    "key": "2-3",
    "name": "👖体育",
    "type": 1,
    "api": "./ext/t4.json",
    "group": "直连点播",
    "_origin": "feishu-sync",
-   "jar": "https://git.820828.xyz/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+   "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
   }
  ]
 }

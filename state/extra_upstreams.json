@@ -1,220 +1,220 @@
 {
- "generated_at": "2026-09-26 22:07:35",
+ "generated_at": "2026-09-27 22:08:53",
  "upstreams": [
   {
-   "name": "auto/1-298s",
-   "kind": "tvbox",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/2-64s",
-   "kind": "tvbox",
-   "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/3-298s",
-   "kind": "tvbox",
-   "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/4-40s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/songlees355-wq/okay/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/5-721s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/haygcao/tvbox-master-aggregator/main/tvbox.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/6-48s",
-   "kind": "tvbox",
-   "url": "https://dxawi.github.io/0/0.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/7-46s",
-   "kind": "tvbox",
-   "url": "http://ztha.top/TVBox/thdjk.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/8-92s",
-   "kind": "tvbox",
-   "url": "https://clun.top/box.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/9-33s",
-   "kind": "tvbox",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/10-62s",
-   "kind": "tvbox",
-   "url": "https://szyyds.cn/tv/x.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/11-43s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/qq145968/my.img/main/3.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/12-509s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/haygcao/tvbox-master-aggregator/main/tvbox_advanced.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/13-32s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/qq145968/my.img/main/2.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/14-203s",
+   "name": "auto/1-203s",
    "kind": "tvbox",
    "url": "https://leezn.eu.org/TVBox/js.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/15-28s",
+   "name": "auto/2-298s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/cx342662/cx342662.github.io/main/ix3.json",
+   "url": "https://raw.githubusercontent.com/hkuc/tvbox-config/main/tv/5/js.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/16-151s",
+   "name": "auto/3-62s",
+   "kind": "tvbox",
+   "url": "https://szyyds.cn/tv/x.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/4-298s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/hkuc/tvbox-config/main/tv/3/js.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/5-33s",
+   "kind": "tvbox",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/6-298s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/hkuc/tvbox-config/main/tv/0/js.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/7-298s",
+   "kind": "tvbox",
+   "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/8-298s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/hkuc/tvbox-config/main/tv/6/js.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/9-298s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/hkuc/tvbox-config/main/tv/2/js.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/10-298s",
+   "kind": "tvbox",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/11-151s",
    "kind": "tvbox",
    "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/17-46s",
-   "kind": "tvbox",
-   "url": "https://ztha.top/TVBox/thdjk.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/18-28s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/cx342662/cx342662.github.io/main/ix.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/19-58s",
+   "name": "auto/12-58s",
    "kind": "tvbox",
    "url": "https://fastly.jsdelivr.net/gh/jyoketsu/tv@main/m.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/20-106s",
+   "name": "auto/13-298s",
    "kind": "tvbox",
-   "url": "http://550.3vcn.work/wdjyys.json",
+   "url": "https://raw.githubusercontent.com/hkuc/tvbox-config/main/tv/4/js.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/21-151s",
+   "name": "auto/14-92s",
+   "kind": "tvbox",
+   "url": "https://clun.top/box.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/15-298s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/hkuc/tvbox-config/main/tv/1/js.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/16-151s",
    "kind": "tvbox",
    "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/22-35s",
+   "name": "auto/17-48s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/qq145968/my.img/main/1.json",
+   "url": "https://dxawi.github.io/0/0.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/23-29s",
+   "name": "auto/18-64s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/bluefriendCN/set/main/ma.json",
+   "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/24-8s",
+   "name": "auto/19-48s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/haygcao/tvbox-master-aggregator/main/tvbox_multi.json",
+   "url": "https://raw.githubusercontent.com/Zss03040464/tvbox-config/main/config.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/20-46s",
+   "kind": "tvbox",
+   "url": "https://ztha.top/TVBox/thdjk.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/21-46s",
+   "kind": "tvbox",
+   "url": "http://ztha.top/TVBox/thdjk.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/22-60s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/SH2413/TVBOX-XIANLU/main/active.json",
    "auto": true,
    "score": 80
   },
   {
-   "name": "auto/25-15s",
+   "name": "auto/23-3s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/songlees355-wq/okay/main/zy.txt",
+   "url": "https://raw.githubusercontent.com/harryzhaozy/CatVodSpider/main/json/config.json",
    "auto": true,
    "score": 80
   },
   {
-   "name": "auto/26-38s",
+   "name": "auto/24-141s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/songlees355-wq/okay/main/laosj.json",
+   "url": "https://raw.githubusercontent.com/SH2413/TVBOX-XIANLU/main/sources.json",
    "auto": true,
    "score": 80
   },
   {
-   "name": "auto/27-17s",
+   "name": "auto/25-7s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/mingjunkirs-ship-it/tv-config-aggregator/main/sources.json",
+   "url": "https://raw.githubusercontent.com/geuclide97/tvbox-tools/main/tools-min.json",
    "auto": true,
    "score": 80
   },
   {
-   "name": "auto/28-23s",
+   "name": "auto/26-81s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+   "url": "https://raw.githubusercontent.com/SH2413/TVBOX-XIANLU/main/disabled.json",
    "auto": true,
    "score": 80
   },
   {
-   "name": "auto/29-15s",
+   "name": "auto/27-10s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/songlees355-wq/okay/main/%E8%87%AA%E7%94%A8.json",
+   "url": "https://raw.githubusercontent.com/SH2413/TVBOX-XIANLU/main/tvbox.json",
    "auto": true,
    "score": 80
   },
   {
-   "name": "auto/30-4s",
+   "name": "auto/28-4s",
    "kind": "tvbox",
    "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json",
    "auto": true,
    "score": 80
   },
   {
-   "name": "auto/31-23s",
+   "name": "auto/29-7s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/local.json",
+   "url": "https://raw.githubusercontent.com/geuclide97/tvbox-tools/main/tools.json",
+   "auto": true,
+   "score": 80
+  },
+  {
+   "name": "auto/30-23s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+   "auto": true,
+   "score": 80
+  },
+  {
+   "name": "auto/31-18s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/hkuc/tvbox-config/main/url.json",
    "auto": true,
    "score": 80
   }

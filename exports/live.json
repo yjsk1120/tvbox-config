@@ -2712,6 +2712,75 @@
    "type": 0,
    "url": "https://gh.halonice.com/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/lives/live_other.txt",
    "epg": "https://live.fanmingming.cn/e.xml"
+  },
+  {
+   "name": "线路③",
+   "type": 0,
+   "url": "https://live.445569.xyz/live.m3u"
+  },
+  {
+   "name": "线路④",
+   "type": 1,
+   "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+  },
+  {
+   "name": "线路⑤",
+   "type": 0,
+   "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
+   "timeout": 10,
+   "playerType": 2,
+   "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz,http://epg.51zmt.top:8000/e.xml,https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz",
+   "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
+   "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0"
+  },
+  {
+   "name": "综合",
+   "type": 0,
+   "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/PeIgAty8.txt",
+   "playerType": 2,
+   "timeout": 10
+  },
+  {
+   "name": "肥羊BST",
+   "type": 0,
+   "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750254905151/bsttsb.txt",
+   "playerType": 2,
+   "timeout": 10
+  },
+  {
+   "name": "国内Live",
+   "type": 0,
+   "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740592110565/zq.fif.txt",
+   "playerType": 2,
+   "timeout": 10,
+   "catchup": {
+    "type": "append",
+    "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+   }
+  },
+  {
+   "name": "国内移动",
+   "type": 0,
+   "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739616589773/zq.txt",
+   "playerType": 2,
+   "timeout": 10,
+   "catchup": {
+    "type": "append",
+    "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+   }
+  },
+  {
+   "name": "港澳台",
+   "type": 0,
+   "url": "http://rihou.cc:567/gggg.nzk",
+   "playerType": 1
+  },
+  {
+   "name": "IPTV扫描",
+   "type": 0,
+   "url": "https://jiaxin610.github.io/tvbox-config/lives.m3u",
+   "epg": "",
+   "logo": ""
   }
  ],
  "parses": [
@@ -2803,16 +2872,6 @@
    "name": "-云解析-",
    "type": 0,
    "url": "https://jx.yparse.com/index.php?url=",
-   "ext": {
-    "header": {
-     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-    }
-   }
-  },
-  {
-   "name": "-剖云-",
-   "type": 0,
-   "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
    "ext": {
     "header": {
      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"

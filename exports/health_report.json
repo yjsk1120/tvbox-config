@@ -1,254 +1,225 @@
 {
- "generated_at": "2026-09-27T22:36:19",
+ "generated_at": "2026-09-29T00:23:14",
  "is_baseline": false,
  "vod": {
-  "total": 3567,
+  "total": 3594,
   "summary": {
-   "healthy": 121,
-   "degraded": 641,
-   "unknown": 1016,
-   "dead": 1789
+   "healthy": 126,
+   "degraded": 633,
+   "unknown": 1051,
+   "dead": 1784
   },
   "new": [
    {
-    "key": "量子-2",
-    "name": "♻️量子",
+    "key": "四九资源",
+    "name": "四九资源",
     "health": "unknown"
    },
    {
-    "key": "drpy_js_豆瓣-8",
-    "name": "🔥量子🔥",
+    "key": "梦楠",
+    "name": "🌙梦楠",
     "health": "unknown"
    },
    {
-    "key": "U酷影视",
-    "name": "[590ms|5] U酷影视",
+    "key": "飘花",
+    "name": "🌸飘花",
     "health": "unknown"
    },
    {
-    "key": "yinghua-2",
-    "name": "樱花资源",
+    "key": "小枫",
+    "name": "🍁小枫",
     "health": "unknown"
    },
    {
-    "key": "lzi",
-    "name": "量子资源",
+    "key": "vod_04",
+    "name": "🎬卧龙资源",
     "health": "unknown"
    },
    {
-    "key": "csp_xml_无尽",
-    "name": "❤无尽资源",
+    "key": "八戒",
+    "name": "🐘八戒",
     "health": "unknown"
    },
    {
-    "key": "laosebizy.com",
-    "name": "💕老色逼(直连)",
+    "key": "奇虎",
+    "name": "🐯奇虎",
     "health": "unknown"
    },
    {
-    "key": "ad1116ca9a9b3057570066086c9c9698",
-    "name": "7-非凡",
+    "key": "思古",
+    "name": "📖思古",
     "health": "unknown"
    },
    {
-    "key": "guangsu2",
-    "name": "🍀光速HTTP",
+    "key": "快手",
+    "name": "📱快手",
     "health": "unknown"
    },
    {
-    "key": "极速",
-    "name": "️✈️极速采集",
+    "key": "看剧",
+    "name": "📺看剧",
     "health": "unknown"
    },
    {
-    "key": "ikunzy-2",
-    "name": "影视 🔰 ikun[直连]",
+    "key": "神速",
+    "name": "🚀神速",
     "health": "unknown"
    },
    {
-    "key": "11CK2",
-    "name": "ckzyCK资源",
+    "key": "黄瓜",
+    "name": "🥒黄瓜",
     "health": "unknown"
    },
    {
-    "key": "jisu",
-    "name": "极速资源",
+    "key": "天涯采集",
+    "name": "影视 • 天涯",
     "health": "unknown"
    },
    {
-    "key": "lzi2",
-    "name": "量子资源",
+    "key": "xinlang",
+    "name": "新浪资源",
     "health": "unknown"
    },
    {
-    "key": "ikun-3",
-    "name": "iKun资源",
+    "key": "奶香",
+    "name": "🚀奶香",
     "health": "unknown"
    }
   ],
   "gone": [
    {
-    "key": "奶香",
-    "name": "🚀奶香"
+    "key": "色逼",
+    "name": "[137ms|zy] 🍊色逼"
    },
    {
-    "key": "155资源站",
-    "name": "155 | 采集"
+    "key": "csp_xml_ikun",
+    "name": "❤ikun资源"
    },
    {
-    "key": "didizy.com",
-    "name": "♥滴滴(直连)"
+    "key": "滴滴-2",
+    "name": "[137ms|zy] 🍊滴滴"
    },
    {
-    "key": "虎牙",
-    "name": "🌼虎牙┃采集🌼"
+    "key": "虎牙-4",
+    "name": "[137ms|zy] 🍏虎牙"
    },
    {
-    "key": "0be92695deec6ee83ef66a6fca1e88e4",
-    "name": "34-魔都"
+    "key": "猫眼资源-3",
+    "name": "影视 • 猫眼[直连]"
    },
    {
-    "key": "api_23",
-    "name": "TV-暴风资源"
+    "key": "魔都",
+    "name": "🥇💢魔都✨"
    },
    {
-    "key": "2b95a57602ae920c848d81627e162f9e",
-    "name": "28-无尽"
+    "key": "csp_xml_量子资源",
+    "name": "[367ms|直播] 🐝量子资源"
    },
    {
-    "key": "cjzy_heimuer",
-    "name": "♠️木耳┃影视"
+    "key": "U酷资源-2",
+    "name": "[322ms|我的] U酷资源"
    },
    {
-    "key": "幸细胞",
-    "name": "幸细胞"
+    "key": "zuid",
+    "name": "最大资源"
    },
    {
-    "key": "追剧吧",
-    "name": "追剧吧"
+    "key": "U酷资源風",
+    "name": "影视 • 尤酷[直连]"
    },
    {
-    "key": "量子影视",
-    "name": "量子影视"
+    "key": "lezi2",
+    "name": "🍀乐子HTTP"
    },
    {
-    "key": "site_1787075110437",
-    "name": "U酷"
+    "key": "730acd683fc317fa1a584e5613e727f0",
+    "name": "2-非凡"
    },
    {
-    "key": "7ced0073619101d397b5c86fc3578ed4",
-    "name": "💥┃火狐2K┃有广"
+    "key": "zy_lziapi",
+    "name": "速优"
    },
    {
-    "key": "ck",
-    "name": "CK"
+    "key": "量子资源",
+    "name": "🌼量子┃影视🌼"
    },
    {
-    "key": "OK",
-    "name": "[137ms|zy] 🍏OK"
+    "key": "辣椒",
+    "name": "辣椒 | 采集"
    }
   ],
-  "down": [
+  "down": [],
+  "recovered": [
    {
-    "key": "xsj",
-    "name": "影视|视觉",
-    "from": "degraded",
-    "to": "dead"
+    "key": "奇迹资源",
+    "name": "影视 • 奇迹[直连]",
+    "from": "dead",
+    "to": "healthy"
    },
    {
-    "key": "永乐XBPQ",
-    "name": "😄┃永乐┃视频",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "修罗",
-    "name": "修罗｜磁力",
-    "from": "degraded",
-    "to": "dead"
+    "key": "魅影影视",
+    "name": "💖分享魅影",
+    "from": "dead",
+    "to": "degraded"
    },
    {
     "key": "xbpq_喵次元",
     "name": "💖喵喵动漫",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "黑狐",
-    "name": "🦊黑狐┃BPQ",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "d'd",
-    "name": "修罗|弹幕",
-    "from": "degraded",
-    "to": "dead"
+    "from": "dead",
+    "to": "degraded"
    },
    {
     "key": "赵本山小品网",
     "name": "🤡本山┃大全",
-    "from": "degraded",
-    "to": "dead"
-   }
-  ],
-  "recovered": [
-   {
-    "key": "csp_appys_大猫",
-    "name": "大猫",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "csp_appys_萌蛋蛋",
-    "name": "萌蛋",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "修罗影视",
-    "name": "修罗｜影视",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "BiliGequ",
-    "name": "🎉歌曲┃Bili",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "BiliXiqu",
-    "name": "🎉戏曲┃Bili",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "美剧迷",
-    "name": "弹幕 | 美剧迷[jar]",
     "from": "dead",
     "to": "degraded"
    }
   ],
   "counts": {
-   "new": 164,
-   "gone": 99,
-   "down": 7,
-   "recovered": 6
+   "new": 187,
+   "gone": 160,
+   "down": 0,
+   "recovered": 4
   }
  },
  "live": {
-  "total": 330,
+  "total": 335,
   "summary": {
-   "unknown": 330
+   "unknown": 335
   },
   "counts": {
-   "new": 0,
-   "gone": 6,
+   "new": 5,
+   "gone": 0,
    "down": 0,
    "recovered": 0
   },
-  "new": [],
+  "new": [
+   {
+    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/PeIgAty8.txt",
+    "name": "综合",
+    "health": "unknown"
+   },
+   {
+    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750254905151/bsttsb.txt",
+    "name": "肥羊BST",
+    "health": "unknown"
+   },
+   {
+    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740592110565/zq.fif.txt",
+    "name": "国内Live",
+    "health": "unknown"
+   },
+   {
+    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739616589773/zq.txt",
+    "name": "国内移动",
+    "health": "unknown"
+   },
+   {
+    "key": "https://jiaxin610.github.io/tvbox-config/lives.m3u",
+    "name": "IPTV扫描",
+    "health": "unknown"
+   }
+  ],
   "down": []
  }
 }

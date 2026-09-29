@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-27T22:36:18",
- "deps_files": 7390,
- "deps_bytes": 732832838,
- "duplicate_groups": 953,
- "duplicate_savable_bytes": 437559831,
- "unreferenced_count": 6404,
- "unreferenced_bytes": 582317379,
+ "generated_at": "2026-09-29T00:23:14",
+ "deps_files": 7454,
+ "deps_bytes": 740437407,
+ "duplicate_groups": 960,
+ "duplicate_savable_bytes": 441864466,
+ "unreferenced_count": 6417,
+ "unreferenced_bytes": 583284682,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
@@ -30,6 +30,11 @@
   {
    "path": "deps/auto/31-51s/jar/fan.txt",
    "suffix": ".txt",
+   "content": "jar"
+  },
+  {
+   "path": "deps/auto/11-40s/vip/jar/moyuer.php",
+   "suffix": ".php",
    "content": "jar"
   },
   {
@@ -73,16 +78,26 @@
    "content": "jar"
   },
   {
+   "path": "deps/xingwei/kstore/xw/lib/jp.png",
+   "suffix": ".png",
+   "content": "jar"
+  },
+  {
    "path": "deps/gao/0821/jar/fan.txt",
    "suffix": ".txt",
    "content": "jar"
   }
  ],
- "jar_suffix_mismatch_count": 14,
+ "jar_suffix_mismatch_count": 16,
  "jar_suffix_rewrite_suggestions": [
   {
    "from": "deps/nxppru/0821/jar/fan.txt",
    "to": "deps/nxppru/0821/jar/fan.jar",
+   "referenced": true
+  },
+  {
+   "from": "deps/auto/11-40s/vip/jar/moyuer.php",
+   "to": "deps/auto/11-40s/vip/jar/moyuer.jar",
    "referenced": true
   },
   {
@@ -93,6 +108,11 @@
   {
    "from": "deps/qist/fty/jar/fan.txt",
    "to": "deps/qist/fty/jar/fan.jar",
+   "referenced": true
+  },
+  {
+   "from": "deps/xingwei/kstore/xw/lib/jp.png",
+   "to": "deps/xingwei/kstore/xw/lib/jp.jar",
    "referenced": true
   }
  ],
@@ -273,6 +293,7 @@
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/dianshi/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/jsm/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/XYQ/lib/drpy-core-lite.min.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/xingwei/kstore/xw/js/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/bocai/x4pro/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/hajimi/kstore/js/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/hajimi/kstore/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy-core-lite.min.js",
@@ -297,6 +318,7 @@
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/dianshi/lib/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/jsm/lib/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/XYQ/lib/drpy2.min.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/xingwei/kstore/xw/js/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/bocai/x4pro/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/hajimi/kstore/js/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/hajimi/kstore/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js"
@@ -386,7 +408,7 @@
   },
   {
    "path": "deps/manifest.json",
-   "bytes": 3290220
+   "bytes": 3315264
   },
   {
    "path": "deps/auto/24-106s/lib/spider.jar",

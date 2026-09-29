@@ -1,5 +1,5 @@
 {
- "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
+ "spider": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
  "wallpaper": "https://t.alcy.cc/ys",
  "parses": [
   {
@@ -90,16 +90,6 @@
    "name": "-云解析-",
    "type": 0,
    "url": "https://jx.yparse.com/index.php?url=",
-   "ext": {
-    "header": {
-     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-    }
-   }
-  },
-  {
-   "name": "-剖云-",
-   "type": 0,
-   "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
    "ext": {
     "header": {
      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
@@ -1458,15 +1448,37 @@
  ],
  "sites": [
   {
-   "key": "香奶儿资源站",
-   "name": "香奶 | 采集",
-   "type": 0,
-   "api": "https://www.gdlsp.com/api/xml.php",
-   "searchable": 0,
-   "quickSearch": 0,
-   "ext": "proxy",
-   "group": "直连点播",
-   "_origin": "feishu-sync"
+   "key": "site_2",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/DRjopper/tvbox/main/final.txt",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_1",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/DRjopper/tvbox/main/231016.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_3",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://raw.liucn.cc/box/m.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
   },
   {
    "key": "小湿妹",
@@ -1476,6 +1488,54 @@
    "searchable": 0,
    "quickSearch": 1,
    "ext": "proxy",
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "site_4",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://gh-proxy.com/raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "小乐",
+   "name": "小乐｜星源",
+   "type": 1,
+   "api": "https://xy.183933.xyz/php/ls.php/vod",
+   "playUrl": "http://8.155.50.80/xiayexk.php?url=",
+   "changeable": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "site_5",
+   "name": "我的片库",
+   "type": 1,
+   "api": "http://home.jundie.top:81/top98.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "CNTV低分辨",
+   "name": "CNTV低分辨",
+   "type": 1,
+   "api": "https://zhangqun1818.serv00.net/cctv.php",
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "changeable": 1,
    "group": "直连点播",
    "_origin": "feishu-sync"
   },
@@ -1492,15 +1552,13 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "小乐",
-   "name": "小乐｜星源",
-   "type": 1,
-   "api": "https://xy.183933.xyz/php/ls.php/vod",
-   "playUrl": "http://8.155.50.80/xiayexk.php?url=",
-   "changeable": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
+   "key": "香奶儿资源站",
+   "name": "香奶 | 采集",
+   "type": 0,
+   "api": "https://www.gdlsp.com/api/xml.php",
+   "searchable": 0,
+   "quickSearch": 0,
+   "ext": "proxy",
    "group": "直连点播",
    "_origin": "feishu-sync"
   },
@@ -1518,28 +1576,114 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "CNTV低分辨",
-   "name": "CNTV低分辨",
+   "key": "site_14",
+   "name": "我的片库",
    "type": 1,
-   "api": "https://zhangqun1818.serv00.net/cctv.php",
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "changeable": 1,
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "请勿贩卖📚在线_采集集合",
-   "name": "请勿贩卖📚在线·采集集合",
-   "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
-   "type": 1,
+   "api": "https://szyyds.cn/tv/x.json",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1,
-   "group": "直连点播",
-   "_origin": "feishu-sync"
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_6",
+   "name": "我的片库",
+   "type": 1,
+   "api": "http://ok321.top/ok",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_7",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://100km.top/0",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_8",
+   "name": "我的片库",
+   "type": 1,
+   "api": "http://pt.sxtv.top:66/sx.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_9",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://fmbox.cc",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_11",
+   "name": "我的片库",
+   "type": 1,
+   "api": "http://yuhuahx.com/育华学堂/斧头帮.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_12",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://www.macms.pro/box/3.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_13",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://gitee.com/dongchenliu/liu/raw/master/yb.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_15",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://chuanshuo.77blog.cn/tv.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
+  },
+  {
+   "key": "site_16",
+   "name": "我的片库",
+   "type": 1,
+   "api": "https://龙伊.top",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "直连点播"
   },
   {
    "key": "2-3",
@@ -1548,7 +1692,18 @@
    "api": "./ext/t4.json",
    "group": "直连点播",
    "_origin": "feishu-sync",
-   "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+   "jar": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+  },
+  {
+   "key": "site_10",
+   "name": "我的片库",
+   "type": 1,
+   "api": "http://www.mpanso.com/小米/DEMO.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filter": 1,
+   "_origin": "auto/20-74s",
+   "group": "网盘"
   }
  ]
 }

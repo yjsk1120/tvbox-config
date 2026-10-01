@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-30T23:29:36",
- "deps_files": 7487,
- "deps_bytes": 755891980,
+ "generated_at": "2026-10-01T23:42:34",
+ "deps_files": 7491,
+ "deps_bytes": 755395408,
  "duplicate_groups": 960,
- "duplicate_savable_bytes": 447169851,
- "unreferenced_count": 6490,
- "unreferenced_bytes": 597751223,
+ "duplicate_savable_bytes": 446671367,
+ "unreferenced_count": 6494,
+ "unreferenced_bytes": 597254651,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
@@ -280,7 +280,6 @@
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/11-298s/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/10-235s/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/24-3s/js/drpy-core-lite.min.js",
-    "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/js/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/https:/raw.github.com/tly824/tvbox/master/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/https:/raw.githubusercontent.com/qist/tvbox/master/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy-core-lite.min.js",
@@ -403,7 +402,7 @@
   },
   {
    "path": "deps/manifest.json",
-   "bytes": 3330094
+   "bytes": 3332006
   },
   {
    "path": "deps/auto/24-106s/lib/spider.jar",

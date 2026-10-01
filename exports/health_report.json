@@ -1,248 +1,287 @@
 {
- "generated_at": "2026-09-30T23:29:37",
+ "generated_at": "2026-10-01T23:42:34",
  "is_baseline": false,
  "vod": {
-  "total": 3460,
+  "total": 3591,
   "summary": {
    "healthy": 122,
-   "degraded": 633,
-   "unknown": 909,
-   "dead": 1796
+   "degraded": 629,
+   "unknown": 1038,
+   "dead": 1802
   },
   "new": [
    {
-    "key": "yhzy",
-    "name": "樱花资源",
+    "key": "haihua",
+    "name": "海豚资源",
     "health": "unknown"
    },
    {
-    "key": "gszy",
+    "key": "极速资源",
+    "name": "影视 • 极速[直连]",
+    "health": "unknown"
+   },
+   {
+    "key": "zuid",
+    "name": "最大资源",
+    "health": "unknown"
+   },
+   {
+    "key": "guangsu2",
+    "name": "🍀光速HTTP",
+    "health": "unknown"
+   },
+   {
+    "key": "huya",
+    "name": "虎牙资源",
+    "health": "unknown"
+   },
+   {
+    "key": "guangsu",
     "name": "光速资源",
     "health": "unknown"
    },
    {
-    "key": "滴滴",
-    "name": "滴滴 | 采集",
+    "key": "jiangyu",
+    "name": "鲸鱼资源",
     "health": "unknown"
    },
    {
-    "key": "新浪资源",
-    "name": "新浪资源(切)",
+    "key": "jkunzy.com",
+    "name": "💕jkun(直连)",
     "health": "unknown"
    },
    {
-    "key": "天涯采集",
-    "name": "影视 • 天涯",
+    "key": "heimuer",
+    "name": "虎牙",
     "health": "unknown"
    },
    {
-    "key": "api_42",
-    "name": "TV-金鹰点播",
+    "key": "yinghua-2",
+    "name": "樱花资源",
     "health": "unknown"
    },
    {
-    "key": "鸭鸭资源",
-    "name": "[322ms|我的] 鸭鸭资源",
+    "key": "电影天堂-3",
+    "name": "️天堂┃采集",
     "health": "unknown"
    },
    {
-    "key": "wujin4",
-    "name": "无尽资源3",
+    "key": "U酷资源-2",
+    "name": "[322ms|我的] U酷资源",
     "health": "unknown"
    },
    {
-    "key": "wujin",
-    "name": "wujinapi无尽",
+    "key": "csp_xml_无尽",
+    "name": "❤无尽资源",
     "health": "unknown"
    },
    {
-    "key": "a红牛资源",
-    "name": "🐂红牛┃采集",
+    "key": "csp_非凡资源",
+    "name": "🥗┃非凡┃资源",
     "health": "unknown"
    },
    {
-    "key": "牛牛资源",
-    "name": "[322ms|我的] 牛牛资源",
-    "health": "unknown"
-   },
-   {
-    "key": "OK",
-    "name": "[137ms|zy] 🍏OK",
-    "health": "unknown"
-   },
-   {
-    "key": "天涯资源",
-    "name": "[193ms|apple] 天涯资源",
-    "health": "unknown"
-   },
-   {
-    "key": "a极速资源",
-    "name": "🎀极速┃采集",
-    "health": "unknown"
-   },
-   {
-    "key": "闪电资源-2",
-    "name": "[322ms|我的] 闪电资源",
+    "key": "ikun-3",
+    "name": "iKun资源",
     "health": "unknown"
    }
   ],
   "gone": [
    {
-    "key": "电影天堂-3",
-    "name": "️天堂┃采集"
+    "key": "滴滴-2",
+    "name": "[137ms|zy] 🍊滴滴"
    },
    {
-    "key": "ikun",
-    "name": "ikun | 采集"
+    "key": "mdzy",
+    "name": "魔都资源"
    },
    {
-    "key": "0a80243b21a08dc935258557df03cf34",
-    "name": "75-辣椒资源*"
+    "key": "didizy.com",
+    "name": "♥滴滴(直连)"
    },
    {
-    "key": "lsb",
-    "name": "lsb"
+    "key": "csp_xml_光速",
+    "name": "❤光速资源"
    },
    {
-    "key": "zy360",
-    "name": "360资源"
+    "key": "精品资源站",
+    "name": "精品 | 采集"
    },
    {
-    "key": "155资源站",
-    "name": "155 | 采集"
+    "key": "7e324c0872c13fd329e818c33a659046",
+    "name": "10-如意"
    },
    {
-    "key": "zy_猫眼资源",
-    "name": "接口┃猫眼影视"
+    "key": "精品",
+    "name": "[137ms|zy] 🍊精品🪜"
    },
    {
-    "key": "U酷影视",
-    "name": "[590ms|5] U酷影视"
+    "key": "沙鱼",
+    "name": "沙鱼 | 采集"
    },
    {
-    "key": "lezi",
-    "name": "乐子资源"
+    "key": "yhzy",
+    "name": "樱花资源"
    },
    {
-    "key": "b31acfcd3fce887b832b0c47754159b5",
-    "name": "25-最大"
+    "key": "gszy",
+    "name": "光速资源"
    },
    {
-    "key": "csp_xml_优质",
-    "name": "❤优质资源"
+    "key": "新浪资源",
+    "name": "新浪资源(切)"
    },
    {
-    "key": "https://www.caoliuzyw.com/",
-    "name": "c榴（直连）"
+    "key": "天涯采集",
+    "name": "影视 • 天涯"
    },
    {
-    "key": "华为吧",
-    "name": "test01"
+    "key": "api_42",
+    "name": "TV-金鹰点播"
    },
    {
-    "key": "csp_xml_39",
-    "name": "影趣影视"
+    "key": "鸭鸭资源",
+    "name": "[322ms|我的] 鸭鸭资源"
    },
    {
-    "key": "csp_xml_木子看剧",
-    "name": "木子看剧"
+    "key": "wujin4",
+    "name": "无尽资源3"
    }
   ],
   "down": [
    {
-    "key": "奇迹资源",
-    "name": "影视 • 奇迹[直连]",
-    "from": "healthy",
-    "to": "dead"
-   },
-   {
-    "key": "素白白",
-    "name": "素白白✨蓝光影视",
+    "key": "fbfa5eed414e1f6137f2496a68005ef5",
+    "name": "43-HG",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "芬奇",
-    "name": "芬奇｜APP",
+    "key": "567影院",
+    "name": "5️⃣南瓜┃影院",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "魅影影视",
-    "name": "💖分享魅影",
+    "key": "csp_appys_大猫",
+    "name": "大猫",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "csp_XBPQ_碟迷",
-    "name": "💫┃碟迷┃XB",
+    "key": "冷心",
+    "name": "冷心｜APP",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "乌卡猫影院",
-    "name": "🙀乌猫┃影视",
+    "key": "BiliXiqu",
+    "name": "🎉戏曲┃Bili",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "金漫TV",
-    "name": "🥝金曼┃影视",
+    "key": "BiliGequ",
+    "name": "🎉歌曲┃Bili",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "短剧好看",
-    "name": "✨短剧好看✨乐哥甄选✨",
+    "key": "美剧迷",
+    "name": "弹幕 | 美剧迷[jar]",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "XBPQ_短剧TV",
-    "name": "🆖短剧┃TV",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "碟迷影院",
-    "name": "🛸碟迷┃影视",
+    "key": "csp_XBPQ_6080z",
+    "name": "💫┃6080┃XB",
     "from": "degraded",
     "to": "dead"
    }
   ],
   "recovered": [
    {
-    "key": "xbpq_喵次元",
-    "name": "💖喵喵动漫",
+    "key": "芬奇",
+    "name": "芬奇｜APP",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "美剧迷",
-    "name": "弹幕 | 美剧迷[jar]",
+    "key": "素白白",
+    "name": "素白白✨蓝光影视",
+    "from": "dead",
+    "to": "degraded"
+   },
+   {
+    "key": "csp_XBPQ_碟迷",
+    "name": "💫┃碟迷┃XB",
+    "from": "dead",
+    "to": "degraded"
+   },
+   {
+    "key": "乌卡猫影院",
+    "name": "🙀乌猫┃影视",
+    "from": "dead",
+    "to": "degraded"
+   },
+   {
+    "key": "金漫TV",
+    "name": "🥝金曼┃影视",
+    "from": "dead",
+    "to": "degraded"
+   },
+   {
+    "key": "XBPQ_短剧TV",
+    "name": "🆖短剧┃TV",
+    "from": "dead",
+    "to": "degraded"
+   },
+   {
+    "key": "碟迷影院",
+    "name": "🛸碟迷┃影视",
     "from": "dead",
     "to": "degraded"
    }
   ],
   "counts": {
-   "new": 49,
-   "gone": 477,
-   "down": 10,
-   "recovered": 2
+   "new": 182,
+   "gone": 51,
+   "down": 8,
+   "recovered": 7
   }
  },
  "live": {
-  "total": 330,
+  "total": 334,
   "summary": {
-   "unknown": 330
+   "unknown": 334
   },
   "counts": {
-   "new": 0,
-   "gone": 9,
+   "new": 4,
+   "gone": 0,
    "down": 0,
    "recovered": 0
   },
-  "new": [],
+  "new": [
+   {
+    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/ip.txt",
+    "name": "iptv",
+    "health": "unknown"
+   },
+   {
+    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/mt.txt",
+    "name": "mitv",
+    "health": "unknown"
+   },
+   {
+    "key": "http://127.0.0.1:9978/proxy?do=live&url=http://mywlkj.ddns.net:754/tv.php",
+    "name": "ddns",
+    "health": "unknown"
+   },
+   {
+    "key": "https://live.fanmingming.com/tv/m3u/index.m3u",
+    "name": "央视卫视",
+    "health": "unknown"
+   }
+  ],
   "down": []
  }
 }

@@ -12,6 +12,19 @@
    "_origin": "qist/9918"
   },
   {
+   "key": "大奶子",
+   "name": "大奶子 | 采集",
+   "type": 1,
+   "api": "https://apidanaizi.com/api.php/provide/vod",
+   "searchable": 1,
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "changeable": 1,
+   "_origin": "cluntop/fun"
+  },
+  {
    "key": "玉兔",
    "name": "玉兔 | 采集",
    "type": 1,
@@ -24,17 +37,22 @@
    "_origin": "cluntop/fun"
   },
   {
-   "key": "大奶子",
-   "name": "大奶子 | 采集",
+   "key": "apilj.com",
+   "name": "成人06",
    "type": 1,
-   "api": "https://apidanaizi.com/api.php/provide/vod",
+   "api": "http://apilj.com/api.php/provide/vod/at/json/",
+   "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
    "searchable": 1,
+   "recordable": 0,
    "style": {
     "type": "rect",
     "ratio": 1.33
    },
-   "changeable": 1,
-   "_origin": "cluntop/fun"
+   "header": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+   },
+   "_origin": "qist/9918"
   },
   {
    "key": "森林专场",
@@ -76,6 +94,17 @@
    "_origin": "qist/9918"
   },
   {
+   "key": "番号",
+   "name": "番号 | 采集",
+   "type": 1,
+   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
    "key": "fhapi9.com",
    "name": "★废柴(直连)",
    "type": 1,
@@ -85,10 +114,30 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "apilj.com",
-   "name": "成人06",
+   "key": "bt4.cc",
+   "name": "★91麻豆②(直连)",
    "type": 1,
-   "api": "http://apilj.com/api.php/provide/vod/at/json/",
+   "api": "http://bt4.cc/api.php/provide/vod/from/mdm3u8/",
+   "searchable": 1,
+   "filterable": 1,
+   "_origin": "qist/9918"
+  },
+  {
+   "key": "麻豆视频",
+   "name": "麻豆 | 采集",
+   "type": 1,
+   "api": "https://91md.me/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
+   "key": "91md.me",
+   "name": "成人07",
+   "type": 1,
+   "api": "http://91md.me/api.php/provide/vod/",
    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
    "searchable": 1,
    "recordable": 0,
@@ -110,17 +159,6 @@
    "quickSearch": 1,
    "searchable": 1,
    "changeable": 1,
-   "ext": "proxy",
-   "_origin": "cluntop/fun"
-  },
-  {
-   "key": "番号",
-   "name": "番号 | 采集",
-   "type": 1,
-   "api": "http://fhapi9.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
    "ext": "proxy",
    "_origin": "cluntop/fun"
   },

@@ -1,272 +1,332 @@
 {
- "generated_at": "2026-09-30T23:29:37",
+ "generated_at": "2026-10-01T23:42:34",
  "vod": {
-  "ikunzy-2": {
-   "name": "影视 🔰 ikun[直连]",
+  "155zy.com": {
+   "name": "♥155(直连)",
    "health": "healthy",
-   "latency_ms": 113,
-   "level": "L3"
-  },
-  "滴滴-2": {
-   "name": "[137ms|zy] 🍊滴滴",
-   "health": "healthy",
-   "latency_ms": 218,
-   "level": "L3"
-  },
-  "小鸡": {
-   "name": "[137ms|zy] 🍊小鸡",
-   "health": "healthy",
-   "latency_ms": 239,
-   "level": "L3"
-  },
-  "11辣椒资源": {
-   "name": "apilj辣椒资源",
-   "health": "healthy",
-   "latency_ms": 189,
-   "level": "L3"
-  },
-  "大众-2": {
-   "name": "大众",
-   "health": "healthy",
-   "latency_ms": 224,
+   "latency_ms": 820,
    "level": "L3"
   },
   "laosebizy.com": {
    "name": "💕老色逼(直连)",
    "health": "healthy",
-   "latency_ms": 125,
+   "latency_ms": 329,
+   "level": "L3"
+  },
+  "滴滴": {
+   "name": "滴滴 | 采集",
+   "health": "healthy",
+   "latency_ms": 138,
+   "level": "L3"
+  },
+  "ikunzy-2": {
+   "name": "影视 🔰 ikun[直连]",
+   "health": "healthy",
+   "latency_ms": 293,
    "level": "L3"
   },
   "电影天堂-4": {
    "name": "🧞无广┃[采集]",
    "health": "healthy",
-   "latency_ms": 89,
+   "latency_ms": 595,
    "level": "L3"
   },
-  "奶香": {
-   "name": "🚀奶香",
+  "大众-2": {
+   "name": "大众",
    "health": "healthy",
-   "latency_ms": 625,
+   "latency_ms": 252,
    "level": "L3"
   },
-  "mdzy": {
-   "name": "魔都资源",
+  "小鸡": {
+   "name": "[137ms|zy] 🍊小鸡",
    "health": "healthy",
-   "latency_ms": 187,
+   "latency_ms": 344,
    "level": "L3"
   },
-  "19": {
-   "name": "[137ms|zy] 🍊19",
+  "11辣椒资源": {
+   "name": "apilj辣椒资源",
    "health": "healthy",
-   "latency_ms": 369,
-   "level": "L3"
-  },
-  "didizy.com": {
-   "name": "♥滴滴(直连)",
-   "health": "healthy",
-   "latency_ms": 260,
-   "level": "L3"
-  },
-  "csp_xml_光速": {
-   "name": "❤光速资源",
-   "health": "healthy",
-   "latency_ms": 193,
-   "level": "L3"
-  },
-  "杏吧": {
-   "name": "[137ms|zy] 🍊杏吧",
-   "health": "healthy",
-   "latency_ms": 473,
+   "latency_ms": 394,
    "level": "L3"
   },
   "极品": {
    "name": "[137ms|zy] 🍊极品",
    "health": "healthy",
-   "latency_ms": 489,
+   "latency_ms": 522,
+   "level": "L3"
+  },
+  "奶香": {
+   "name": "🚀奶香",
+   "health": "healthy",
+   "latency_ms": 522,
    "level": "L3"
   },
   "嘿嘿场": {
    "name": "嘿嘿 | 采集",
    "health": "healthy",
-   "latency_ms": 430,
+   "latency_ms": 367,
+   "level": "L3"
+  },
+  "虎牙": {
+   "name": "🌼虎牙┃采集🌼",
+   "health": "healthy",
+   "latency_ms": 110,
+   "level": "L3"
+  },
+  "0be92695deec6ee83ef66a6fca1e88e4": {
+   "name": "34-魔都",
+   "health": "healthy",
+   "latency_ms": 350,
+   "level": "L3"
+  },
+  "杏吧": {
+   "name": "[137ms|zy] 🍊杏吧",
+   "health": "healthy",
+   "latency_ms": 633,
    "level": "L3"
   },
   "jingpinx.com": {
    "name": "★精品下(直连)",
    "health": "healthy",
-   "latency_ms": 687,
+   "latency_ms": 647,
    "level": "L3"
   },
-  "猫眼资源-3": {
-   "name": "影视 • 猫眼[直连]",
+  "19": {
+   "name": "[137ms|zy] 🍊19",
    "health": "healthy",
-   "latency_ms": 600,
+   "latency_ms": 172,
    "level": "L3"
   },
-  "155zy.com": {
-   "name": "♥155(直连)",
+  "acd47931ed9a83e500f70bbb7c5c0c2b": {
+   "name": "54-奇艺",
    "health": "healthy",
-   "latency_ms": 671,
-   "level": "L3"
-  },
-  "精品资源站": {
-   "name": "精品 | 采集",
-   "health": "healthy",
-   "latency_ms": 935,
-   "level": "L3"
-  },
-  "巨量": {
-   "name": "巨量",
-   "health": "healthy",
-   "latency_ms": 1010,
-   "level": "L3"
-  },
-  "7e324c0872c13fd329e818c33a659046": {
-   "name": "10-如意",
-   "health": "healthy",
-   "latency_ms": 789,
-   "level": "L3"
-  },
-  "精品": {
-   "name": "[137ms|zy] 🍊精品🪜",
-   "health": "healthy",
-   "latency_ms": 901,
+   "latency_ms": 812,
    "level": "L3"
   },
   "番茄-2": {
    "name": "[137ms|zy] 🍊番茄🪜",
    "health": "healthy",
-   "latency_ms": 1016,
+   "latency_ms": 1035,
    "level": "L3"
   },
-  "沙鱼": {
-   "name": "沙鱼 | 采集",
+  "巨量": {
+   "name": "巨量",
    "health": "healthy",
-   "latency_ms": 1459,
+   "latency_ms": 2421,
    "level": "L3"
-  },
-  "3b413ffe4c72f0b8f99ca6a868075d99": {
-   "name": "38-U酷",
-   "health": "degraded",
-   "latency_ms": 80,
-   "level": "L2"
-  },
-  "baofeng": {
-   "name": "🍀暴风资源",
-   "health": "degraded",
-   "latency_ms": 201,
-   "level": "L2"
   },
   "csp_xml_量子资源": {
    "name": "[367ms|直播] 🐝量子资源",
    "health": "degraded",
-   "latency_ms": 46,
+   "latency_ms": 379,
    "level": "L2"
   },
-  "建安采集": {
-   "name": "影视 • 建安",
+  "3b413ffe4c72f0b8f99ca6a868075d99": {
+   "name": "38-U酷",
    "health": "degraded",
-   "latency_ms": 313,
+   "latency_ms": 336,
    "level": "L2"
   },
-  "2b95a57602ae920c848d81627e162f9e": {
-   "name": "28-无尽",
+  "baofeng": {
+   "name": "暴风资源",
    "health": "degraded",
-   "latency_ms": 103,
-   "level": "L2"
-  },
-  "fbfa5eed414e1f6137f2496a68005ef5": {
-   "name": "43-HG",
-   "health": "degraded",
-   "latency_ms": 2506,
+   "latency_ms": 196,
    "level": "L2"
   },
   "zy_优质资源": {
    "name": "接口┃优质资源",
    "health": "degraded",
-   "latency_ms": 192,
+   "latency_ms": 345,
+   "level": "L2"
+  },
+  "建安采集": {
+   "name": "影视 • 建安",
+   "health": "degraded",
+   "latency_ms": 445,
+   "level": "L2"
+  },
+  "2b95a57602ae920c848d81627e162f9e": {
+   "name": "28-无尽",
+   "health": "degraded",
+   "latency_ms": 137,
    "level": "L2"
   },
   "c175280641d5263f0d0d9cbfab0162c3": {
    "name": "13-非凡",
    "health": "degraded",
-   "latency_ms": 95,
+   "latency_ms": 1224,
    "level": "L2"
   },
   "西瓜": {
    "name": "[137ms|zy] 🍏西瓜",
    "health": "degraded",
-   "latency_ms": 211,
-   "level": "L2"
-  },
-  "迷你": {
-   "name": "💝分享迷你",
-   "health": "degraded",
-   "latency_ms": 892,
-   "level": "L2"
-  },
-  "星球": {
-   "name": "[137ms|zy] 🍏星球🪜",
-   "health": "degraded",
-   "latency_ms": 1217,
-   "level": "L2"
-  },
-  "ds05": {
-   "name": "🍀都司资源",
-   "health": "degraded",
-   "latency_ms": 1455,
+   "latency_ms": 466,
    "level": "L2"
   },
   "桃花": {
    "name": "[137ms|zy] 🍊桃花",
    "health": "degraded",
-   "latency_ms": 1011,
+   "latency_ms": 877,
+   "level": "L2"
+  },
+  "迷你": {
+   "name": "💝分享迷你",
+   "health": "degraded",
+   "latency_ms": 958,
+   "level": "L2"
+  },
+  "ds05": {
+   "name": "🍀都司资源",
+   "health": "degraded",
+   "latency_ms": 1573,
+   "level": "L2"
+  },
+  "星球": {
+   "name": "[137ms|zy] 🍏星球🪜",
+   "health": "degraded",
+   "latency_ms": 1293,
    "level": "L2"
   },
   "d09daf6b15ef9ed1f4fc5aff8b87e40a": {
    "name": "62-秒播",
    "health": "degraded",
-   "latency_ms": 1698,
+   "latency_ms": 2009,
    "level": "L2"
   },
   "官采": {
    "name": "🎫官采┃[采集]",
    "health": "degraded",
-   "latency_ms": 1973,
+   "latency_ms": 2287,
    "level": "L2"
   },
-  "yhzy": {
-   "name": "樱花资源",
+  "haihua": {
+   "name": "海豚资源",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "gszy": {
+  "极速资源": {
+   "name": "影视 • 极速[直连]",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "zuid": {
+   "name": "最大资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "guangsu2": {
+   "name": "🍀光速HTTP",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "huya": {
+   "name": "虎牙资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "guangsu": {
    "name": "光速资源",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "百度影视": {
-   "name": "💝分享百度",
-   "health": "dead",
-   "latency_ms": null,
-   "level": "L0"
-  },
-  "滴滴": {
-   "name": "滴滴 | 采集",
+  "jiangyu": {
+   "name": "鲸鱼资源",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "新浪资源": {
-   "name": "新浪资源(切)",
+  "jkunzy.com": {
+   "name": "💕jkun(直连)",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "天涯采集": {
-   "name": "影视 • 天涯",
+  "heimuer": {
+   "name": "虎牙",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "yinghua-2": {
+   "name": "樱花资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "电影天堂-3": {
+   "name": "️天堂┃采集",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "U酷资源-2": {
+   "name": "[322ms|我的] U酷资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "csp_xml_无尽": {
+   "name": "❤无尽资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "csp_非凡资源": {
+   "name": "🥗┃非凡┃资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "ikun-3": {
+   "name": "iKun资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "量子-2": {
+   "name": "♻️量子",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "tyyszy": {
+   "name": "天涯资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "lzi": {
+   "name": "量子资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "iKun资源": {
+   "name": "[590ms|5] iKun资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "索尼": {
+   "name": "影视 • 索尼[直连]",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "csp_xml_新浪": {
+   "name": "❤新浪资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "dyttzy": {
+   "name": "电影天堂",
    "health": "unknown",
    "latency_ms": null,
    "level": null
@@ -277,38 +337,80 @@
    "latency_ms": null,
    "level": "L0"
   },
-  "api_42": {
-   "name": "TV-金鹰点播",
+  "src_13": {
+   "name": "极速2",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "鸭鸭资源": {
-   "name": "[322ms|我的] 鸭鸭资源",
+  "src_8": {
+   "name": "极速资源",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "wujin4": {
-   "name": "无尽资源3",
+  "site_1789643682508": {
+   "name": "新浪",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "wujin": {
-   "name": "wujinapi无尽",
+  "wujinnet": {
+   "name": "无尽NET",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "a红牛资源": {
-   "name": "🐂红牛┃采集",
+  "lzi2": {
+   "name": "量子资源",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "牛牛资源": {
-   "name": "[322ms|我的] 牛牛资源",
+  "百度影视": {
+   "name": "💝分享百度",
+   "health": "dead",
+   "latency_ms": null,
+   "level": "L0"
+  },
+  "api_43": {
+   "name": "TV-金鹰资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "ffzy.tv": {
+   "name": "非凡2",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "闪电资源": {
+   "name": "闪电资源(切)",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "site_1788070701483": {
+   "name": "电影天堂",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "jinying": {
+   "name": "金鹰点播",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "lezi2": {
+   "name": "🍀乐子HTTP",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "辣椒": {
+   "name": "辣椒 | 采集",
    "health": "unknown",
    "latency_ms": null,
    "level": null
@@ -319,53 +421,197 @@
    "latency_ms": null,
    "level": "L0"
   },
-  "OK": {
-   "name": "[137ms|zy] 🍏OK",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "天涯资源": {
-   "name": "[193ms|apple] 天涯资源",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "a极速资源": {
-   "name": "🎀极速┃采集",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "闪电资源-2": {
-   "name": "[322ms|我的] 闪电资源",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "ck": {
-   "name": "CK",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "鸭鸭资源2": {
-   "name": "[322ms|我的] 鸭鸭资源2",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "牛牛影视": {
-   "name": "[590ms|5] 牛牛影视",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
   "semaozy.com": {
    "name": "色猫(FQ)",
    "health": "dead",
    "latency_ms": null,
    "level": "L0"
+  },
+  "11CK2": {
+   "name": "ckzyCK资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "豆瓣-5": {
+   "name": "豆瓣",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "d2fee2579b5b9f122d45709ce08226fb": {
+   "name": "12-量子",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "ikun": {
+   "name": "ikun | 采集",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "U酷影视": {
+   "name": "[590ms|5] U酷影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "lezi": {
+   "name": "乐子资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "极速": {
+   "name": "️✈️极速采集",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "site_1787075480731": {
+   "name": "豪华",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "金鹰资源": {
+   "name": "金鹰资源(切)",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "b31acfcd3fce887b832b0c47754159b5": {
+   "name": "25-最大",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "hhzy2": {
+   "name": "豪华资源(代理)",
+   "health": "dead",
+   "latency_ms": null,
+   "level": "L0"
+  },
+  "dbzy2": {
+   "name": "豆瓣资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "色逼": {
+   "name": "[137ms|zy] 🍊色逼",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "subo": {
+   "name": "速博资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "site_1787074851217": {
+   "name": "红牛云",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "lsb": {
+   "name": "lsb",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "U酷资源風": {
+   "name": "影视 • 尤酷[直连]",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "4797280cffa831567a8b737ec684ac1d": {
+   "name": "19-量子",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "wujincc": {
+   "name": "无尽CC",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "csp_xml_ikun": {
+   "name": "❤ikun资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "zuidame": {
+   "name": "最大点播",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "96eb0562e1d21f2ef02d4c5e5bbf9ea7": {
+   "name": "20-量子",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "hongniu": {
+   "name": "🐂 红牛",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "yzzy": {
+   "name": "优质资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "5d7bbc2b3aa0bfea3296946bf1ecda92": {
+   "name": "17-量子",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "火狐-3": {
+   "name": "[137ms|zy] 🍏火狐",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "xml_火狐": {
+   "name": "🔥️火狐┃秒播",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "548c69066731916a1611dacb0e3b452c": {
+   "name": "15-量子",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "6c22ca0c90b5e44cd830d7ca515efa9c": {
+   "name": "16-量子",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "360-2": {
+   "name": "360 | 采集",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "fb264ae3b34e829817f35b9b59ea9c36": {
+   "name": "14-量子",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "湿园": {
    "name": "[137ms|zy] 🍊湿园",
@@ -373,32 +619,158 @@
    "latency_ms": null,
    "level": "L0"
   },
+  "site_1787074753306": {
+   "name": "极速",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "pt": {
    "name": "移动｜星源",
    "health": "dead",
    "latency_ms": null,
    "level": "L0"
   },
-  "sbzy": {
-   "name": "速博资源",
+  "鸡坤-2": {
+   "name": "[137ms|zy] 🍊鸡坤",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "shenma": {
-   "name": "神马云",
+  "dytt": {
+   "name": "电影天堂",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "site_1787075347510": {
-   "name": "牛牛",
+  "lajiaozy.com": {
+   "name": "辣椒(FQ)",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "site_1787075223334": {
-   "name": "快车",
+  "360": {
+   "name": "360 资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "非@凡": {
+   "name": "💖分享非凡",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "U酷资源": {
+   "name": "U酷资源(优)",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "site_1787074438064": {
+   "name": "新浪云",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "xinlang": {
+   "name": "新浪资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "速播资源": {
+   "name": "[322ms|我的] 速播资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "site_1787074461775": {
+   "name": "虎牙云",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "暴风影视": {
+   "name": "[590ms|5] 暴风影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "src_0": {
+   "name": "非凡资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "360资源": {
+   "name": "🍀｜360｜采集",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "豆瓣影视": {
+   "name": "[590ms|5] 豆瓣影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "ffzy-2": {
+   "name": "非凡影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "新浪影视": {
+   "name": "💝分享新浪",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "csp_xml_非凡资源": {
+   "name": "❤非凡资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "jinyingzy.com": {
+   "name": "🎬金鹰点播",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "csp_xml_优质": {
+   "name": "❤优质资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "柚子影视": {
+   "name": "[590ms|5] 柚子影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "ad1116ca9a9b3057570066086c9c9698": {
+   "name": "7-非凡",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "csp_xml_非凡资源-2": {
+   "name": "[367ms|直播] 🐝非凡资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "IK": {
+   "name": "IK",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "yilingba2": {
+   "name": "1080JSON",
    "health": "unknown",
    "latency_ms": null,
    "level": null
@@ -409,8 +781,20 @@
    "latency_ms": null,
    "level": "L0"
   },
-  "OK资源-2": {
-   "name": "[322ms|我的] OK资源",
+  "csp_xml_暴风": {
+   "name": "❤暴风资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "zy360": {
+   "name": "360资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "茅台-3": {
+   "name": "[137ms|zy] 🍏茅台",
    "health": "unknown",
    "latency_ms": null,
    "level": null
@@ -421,38 +805,218 @@
    "latency_ms": null,
    "level": "L0"
   },
-  "hhzy2": {
-   "name": "豪华资源(代理)",
-   "health": "dead",
-   "latency_ms": null,
-   "level": "L0"
-  },
-  "api_45": {
-   "name": "TV-非凡资源",
+  "site_1787074663422": {
+   "name": "光速云",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "蛋蛋魔法": {
-   "name": "影视 • 蛋蛋魔法[直连]",
-   "health": "dead",
-   "latency_ms": null,
-   "level": "L0"
-  },
-  "艾旦": {
-   "name": "艾旦 | 采集",
-   "health": "dead",
-   "latency_ms": null,
-   "level": "L0"
-  },
-  "api_35": {
-   "name": "TV-茅台资源",
+  "360zy": {
+   "name": "☀三六🔹秒播",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "奶香香": {
-   "name": "奶香 | 采集",
+  "量子影视-2": {
+   "name": "[590ms|5] 量子影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "如意资源": {
+   "name": "🌼如意┃影视🌼",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "量子资源": {
+   "name": "🌼量子┃影视🌼",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "zy_猫眼资源": {
+   "name": "接口┃猫眼影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "猫眼影视": {
+   "name": "[590ms|5] 猫眼影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "site_1787075954622": {
+   "name": "速播",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "zy_lziapi": {
+   "name": "速优",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "豆瓣采集3": {
+   "name": "[322ms|我的] 豆瓣采集3",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "drpy_js_豆瓣-8": {
+   "name": "🔥量子🔥",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "src_9": {
+   "name": "豪华资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "maotai": {
+   "name": "茅台资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "豆瓣采集2": {
+   "name": "[322ms|我的] 豆瓣采集2",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "柚子资源": {
+   "name": "🍊柚子资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "e743537b66dc4d8932f3a3800fdb7477": {
+   "name": "37-豪华",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "4d6422f0a2bc81fc9606ecc2d97208eb": {
+   "name": "8-非凡",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "csp_sp_龙门动漫": {
+   "name": "爬虫┃龙门动漫",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "155": {
+   "name": "155",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "155资源站": {
+   "name": "155 | 采集",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "site_1788420456236": {
+   "name": "爱奇艺",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "茅台影视": {
+   "name": "[590ms|5] 茅台影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "暴风资源2": {
+   "name": "[322ms|我的] 暴风资源2",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "金鹰影视": {
+   "name": "[590ms|5] 金鹰影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "蝙蝠": {
+   "name": "[137ms|zy] 🍊蝙蝠",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "茅台资源": {
+   "name": "[193ms|apple] 茅台资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "site_1788023706071": {
+   "name": "非凡",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "天涯": {
+   "name": "天涯",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "茅台-2": {
+   "name": "茅台",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "acfun": {
+   "name": "A站｜星源",
+   "health": "dead",
+   "latency_ms": null,
+   "level": "L0"
+  },
+  "moduzy": {
+   "name": "魔都影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "src_11": {
+   "name": "dd资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "feifancj2": {
+   "name": "🍀非凡采集HTTPS",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "非凡影视-2": {
+   "name": "[590ms|5] 非凡影视",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "艾旦影视": {
+   "name": "艾旦影视(聚)",
+   "health": "dead",
+   "latency_ms": null,
+   "level": "L0"
+  },
+  "非凡资源": {
+   "name": "[322ms|我的] 非凡资源",
    "health": "unknown",
    "latency_ms": null,
    "level": null
@@ -463,35 +1027,47 @@
    "latency_ms": null,
    "level": "L0"
   },
-  "艾旦影视": {
-   "name": "艾旦影视(聚)",
-   "health": "dead",
-   "latency_ms": null,
-   "level": "L0"
-  },
-  "acfun": {
-   "name": "A站｜星源",
-   "health": "dead",
-   "latency_ms": null,
-   "level": "L0"
-  },
-  "豆瓣采集": {
-   "name": "[322ms|我的] 豆瓣采集",
+  "iqiyi": {
+   "name": "iqiyi资源",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "虎牙": {
-   "name": "🌼虎牙┃采集🌼",
+  "ruyi": {
+   "name": "如意资源",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "越南": {
-   "name": "[137ms|zy] 🍊越南",
+  "艾旦": {
+   "name": "艾旦 | 采集",
+   "health": "dead",
+   "latency_ms": null,
+   "level": "L0"
+  },
+  "虎牙-4": {
+   "name": "[137ms|zy] 🍏虎牙",
    "health": "unknown",
    "latency_ms": null,
-   "level": "L?"
+   "level": null
+  },
+  "site_1787074897988": {
+   "name": "如意云",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "蛋蛋魔法": {
+   "name": "影视 • 蛋蛋魔法[直连]",
+   "health": "dead",
+   "latency_ms": null,
+   "level": "L0"
+  },
+  "fbfa5eed414e1f6137f2496a68005ef5": {
+   "name": "43-HG",
+   "health": "dead",
+   "latency_ms": null,
+   "level": "L0"
   },
   "奇迹资源": {
    "name": "影视 • 奇迹[直连]",
@@ -499,26 +1075,26 @@
    "latency_ms": null,
    "level": "L0"
   },
-  "5df752820b133e0e7b9ba6634e3f7dbb": {
-   "name": "70-闪电",
+  "猫眼资源-3": {
+   "name": "影视 • 猫眼[直连]",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": "L?"
+  },
+  "73b5c89acc8a7c24118857fc514e9218": {
+   "name": "6-非凡",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "6e31126e4b7e6db33dcde3d30e309463": {
-   "name": "55-最大",
+  "3a565658ffb7ec926e61756240866e64": {
+   "name": "30-无尽",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "0be92695deec6ee83ef66a6fca1e88e4": {
-   "name": "34-魔都",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "bf7e48d845aea9b3a2ec1bd253dc9bc3": {
-   "name": "59-闪电",
+  "cj_采集": {
+   "name": "🧞旺旺",
    "health": "unknown",
    "latency_ms": null,
    "level": null
@@ -529,14 +1105,50 @@
    "latency_ms": null,
    "level": "L0"
   },
-  "e750d6da567daae09c179aec32891d63": {
-   "name": "35-最大",
+  "ba51fa806dc0be9906a19d02b8e6dad1": {
+   "name": "64-牛牛",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "acd47931ed9a83e500f70bbb7c5c0c2b": {
-   "name": "54-奇艺",
+  "a794df941b177a5eb1e4e991fb5eaccb": {
+   "name": "9-非凡",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "730acd683fc317fa1a584e5613e727f0": {
+   "name": "2-非凡",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "08770a213d5c282a0fe20bf7648a9aba": {
+   "name": "3-非凡",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "16952cefcaeeda11b0bae2529a576e12": {
+   "name": "11-暴风",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "77791ef659e8282af587e24e7b0c18a5": {
+   "name": "33-墨斗",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "041c843aea19129a4716a6db4ab444ff": {
+   "name": "45-91视频",
+   "health": "dead",
+   "latency_ms": null,
+   "level": "L0"
+  },
+  "cc8221d0e6ce9ce89d28e502caeb555d": {
+   "name": "56-天涯",
    "health": "unknown",
    "latency_ms": null,
    "level": null
@@ -547,113 +1159,125 @@
    "latency_ms": null,
    "level": "L0"
   },
-  "041c843aea19129a4716a6db4ab444ff": {
-   "name": "45-91视频",
-   "health": "dead",
-   "latency_ms": null,
-   "level": "L0"
-  },
-  "Ckzy": {
-   "name": "Ck资源",
+  "ck": {
+   "name": "CK",
    "health": "healthy",
-   "latency_ms": 119,
-   "level": "L3"
-  },
-  "鸡坤": {
-   "name": "鸡坤 | 采集",
-   "health": "healthy",
-   "latency_ms": 85,
+   "latency_ms": 215,
    "level": "L3"
   },
   "site_1787076069698": {
    "name": "无水印",
    "health": "healthy",
-   "latency_ms": 216,
-   "level": "L3"
-  },
-  "黑料-2": {
-   "name": "[137ms|zy] 🍊黑料",
-   "health": "healthy",
-   "latency_ms": 671,
-   "level": "L3"
-  },
-  "dbzy": {
-   "name": "豆瓣资源",
-   "health": "healthy",
-   "latency_ms": 693,
+   "latency_ms": 357,
    "level": "L3"
   },
   "maotaizy": {
    "name": "茅台资源",
    "health": "healthy",
-   "latency_ms": 802,
+   "latency_ms": 694,
    "level": "L3"
   },
-  "suoni": {
-   "name": "索尼资源",
-   "health": "degraded",
-   "latency_ms": 134,
-   "level": "L1"
+  "豆瓣采集": {
+   "name": "[322ms|我的] 豆瓣采集",
+   "health": "healthy",
+   "latency_ms": 1520,
+   "level": "L3"
   },
-  "tianya": {
-   "name": "天涯资源",
+  "黑料-2": {
+   "name": "[137ms|zy] 🍊黑料",
+   "health": "healthy",
+   "latency_ms": 871,
+   "level": "L3"
+  },
+  "鸡坤": {
+   "name": "鸡坤 | 采集",
    "health": "degraded",
-   "latency_ms": 170,
+   "latency_ms": 159,
    "level": "L1"
   },
   "火速": {
    "name": "火速 | 采集",
    "health": "degraded",
-   "latency_ms": 224,
+   "latency_ms": 103,
    "level": "L1"
   },
-  "csp_xml_闪电资源": {
-   "name": "❤闪电资源",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "a7309ad5614fb7c13fa6d3e49639f8be": {
-   "name": "63-丫丫",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "kczy": {
-   "name": "快车资源",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "b9b8345a1d11cc2cd5a80e63b4e149d0": {
-   "name": "71-闪电*",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "be2647749acad7d9ad787c87cb03e9d4": {
-   "name": "36-牛牛",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "ckzy": {
-   "name": "C K 资源",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
+  "tianya": {
+   "name": "天涯资源",
+   "health": "degraded",
+   "latency_ms": 142,
+   "level": "L1"
   },
   "vnzyz.com": {
    "name": "💕越南(直连)",
+   "health": "degraded",
+   "latency_ms": 293,
+   "level": "L1"
+  },
+  "csp_SNzy": {
+   "name": "🐉┃索尼┃高清",
    "health": "unknown",
    "latency_ms": null,
-   "level": "L?"
+   "level": null
+  },
+  "a758bb61ad33c8750290eb6483cb5fd5": {
+   "name": "77-电影天堂*",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "0a80243b21a08dc935258557df03cf34": {
+   "name": "75-辣椒资源*",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "yaya": {
+   "name": "丫丫点播",
+   "health": "dead",
+   "latency_ms": 67,
+   "level": "C0"
+  },
+  "索尼资源": {
+   "name": "索尼┃资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "魔都": {
+   "name": "🥇💢魔都✨",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "1080资源库": {
+   "name": "1080资源库(切)",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "e5df2aa0492ba0d57b047c1cdf009001": {
+   "name": "66-360*",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "Clun📚在线_茅台": {
+   "name": "Clun📚在线·茅台 | 采集",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "小乐": {
    "name": "小乐｜星源",
    "health": "dead",
    "latency_ms": null,
    "level": "L0"
+  },
+  "请勿贩卖📚在线_采集集合": {
+   "name": "请勿贩卖📚在线·采集集合",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "CNTV低分辨": {
    "name": "CNTV低分辨",
@@ -675,80 +1299,62 @@
   },
   "小湿妹": {
    "name": "湿妹 | 采集",
-   "health": "degraded",
-   "latency_ms": 319,
-   "level": "L1"
+   "health": "healthy",
+   "latency_ms": 476,
+   "level": "L3"
   },
   "香奶儿资源站": {
    "name": "香奶 | 采集",
-   "health": "degraded",
-   "latency_ms": 276,
-   "level": "L1"
+   "health": "healthy",
+   "latency_ms": 428,
+   "level": "L3"
   },
   "白嫖": {
    "name": "白嫖 | 采集",
    "health": "degraded",
-   "latency_ms": 620,
+   "latency_ms": 399,
    "level": "L1"
   },
   "csp_AppYsV2_3": {
    "name": "💕速看100[V2]",
    "health": "degraded",
-   "latency_ms": 57,
+   "latency_ms": 43,
    "level": null
   },
-  "第七电影": {
-   "name": "🍉第七电影┃xb",
+  "视频库": {
+   "name": "✅视频┃影视",
    "health": "degraded",
-   "latency_ms": 66,
-   "level": null
-  },
-  "奴娜": {
-   "name": "奴娜丨APP",
-   "health": "degraded",
-   "latency_ms": 71,
-   "level": null
-  },
-  "片库": {
-   "name": "🅿七味",
-   "health": "degraded",
-   "latency_ms": 73,
-   "level": null
-  },
-  "csp_MYYS": {
-   "name": "👻忍者",
-   "health": "degraded",
-   "latency_ms": 82,
-   "level": null
-  },
-  "电影先生1": {
-   "name": "❤️|电影┃先生",
-   "health": "degraded",
-   "latency_ms": 87,
-   "level": null
-  },
-  "Auete": {
-   "name": "🏝┃Aue┃无广",
-   "health": "dead",
-   "latency_ms": 4950,
-   "level": "C0"
-  },
-  "567影院": {
-   "name": "5️⃣南瓜┃影院",
-   "health": "degraded",
-   "latency_ms": 100,
-   "level": null
-  },
-  "csp_IkanBot": {
-   "name": "👀爱看┃[采集]",
-   "health": "degraded",
-   "latency_ms": 100,
+   "latency_ms": 55,
    "level": null
   },
   "七味": {
    "name": "七味｜磁力",
    "health": "degraded",
-   "latency_ms": 115,
+   "latency_ms": 74,
+   "level": null
+  },
+  "奴娜": {
+   "name": "奴娜丨APP",
+   "health": "degraded",
+   "latency_ms": 78,
+   "level": null
+  },
+  "csp_IkanBot": {
+   "name": "👀爱看┃[采集]",
+   "health": "degraded",
+   "latency_ms": 123,
+   "level": null
+  },
+  "电影先生1": {
+   "name": "❤️|电影┃先生",
+   "health": "degraded",
+   "latency_ms": 127,
+   "level": null
+  },
+  "片库": {
+   "name": "🅿七味",
+   "health": "degraded",
+   "latency_ms": 134,
    "level": null
   },
   "csp_MeiJu69": {
@@ -757,23 +1363,53 @@
    "latency_ms": 2217,
    "level": "C0"
   },
+  "第七电影": {
+   "name": "🍉第七电影┃xb",
+   "health": "degraded",
+   "latency_ms": 139,
+   "level": null
+  },
+  "4k_csp_Nmys": {
+   "name": "🌾┃农民┃直连",
+   "health": "degraded",
+   "latency_ms": 142,
+   "level": null
+  },
   "王子": {
    "name": "王子 • APP",
    "health": "unknown",
-   "latency_ms": 157,
+   "latency_ms": 162,
    "level": "C?"
+  },
+  "csp_AppYsV2_4": {
+   "name": "💕迪迪",
+   "health": "degraded",
+   "latency_ms": 202,
+   "level": null
   },
   "csp_WoGG1": {
    "name": "💖玩偶影视4K-备1",
    "health": "degraded",
-   "latency_ms": 164,
+   "latency_ms": 205,
    "level": null
   },
-  "视频库": {
-   "name": "✅视频┃影视",
+  "zxzj": {
+   "name": "🍊┃在线┃外剧",
+   "health": "dead",
+   "latency_ms": 5003,
+   "level": "C0"
+  },
+  "csp_MYYS": {
+   "name": "👻忍者",
    "health": "degraded",
-   "latency_ms": 198,
+   "latency_ms": 216,
    "level": null
+  },
+  "Auete": {
+   "name": "🏝┃Aue┃无广",
+   "health": "dead",
+   "latency_ms": 4950,
+   "level": "C0"
   },
   "布布": {
    "name": "布布 • APP",
@@ -781,10 +1417,16 @@
    "latency_ms": 2855,
    "level": "C5"
   },
-  "csp_AppYsV2_4": {
-   "name": "💕迪迪",
+  "酷影": {
+   "name": "酷影✨蓝光影视",
    "health": "degraded",
-   "latency_ms": 208,
+   "latency_ms": 254,
+   "level": null
+  },
+  "玩偶 | 讴歌": {
+   "name": "玩偶 | 讴歌",
+   "health": "degraded",
+   "latency_ms": 256,
    "level": null
   },
   "酷影视": {
@@ -793,82 +1435,52 @@
    "latency_ms": 4991,
    "level": "C0"
   },
-  "酷影": {
-   "name": "酷影✨蓝光影视",
-   "health": "degraded",
-   "latency_ms": 219,
-   "level": null
+  "枫叶影视": {
+   "name": "枫叶 • 影视",
+   "health": "healthy",
+   "latency_ms": 5831,
+   "level": "C5"
   },
-  "4k_csp_Nmys": {
-   "name": "🌾┃农民┃直连",
+  "SaoHuo": {
+   "name": "🌶️┆骚火┆影视",
    "health": "degraded",
-   "latency_ms": 232,
-   "level": null
-  },
-  "csp_sp_龙门影视": {
-   "name": "推荐┃龙门影视",
-   "health": "degraded",
-   "latency_ms": 240,
+   "latency_ms": 332,
    "level": null
   },
   "厂长-3": {
    "name": "🏭┃厂长┃影视",
    "health": "degraded",
-   "latency_ms": 247,
+   "latency_ms": 339,
    "level": null
   },
-  "csp_SixV": {
-   "name": "💕6V电影网(磁力)",
+  "zxzj-2": {
+   "name": "🍊在线┃秒播",
    "health": "degraded",
-   "latency_ms": 250,
+   "latency_ms": 350,
    "level": null
   },
-  "WoNiu": {
-   "name": "🐌┆蜗牛┆4K",
+  "永永": {
+   "name": "永永┃APP",
    "health": "degraded",
-   "latency_ms": 307,
+   "latency_ms": 364,
    "level": null
   },
-  "玩偶 | 蜡笔": {
-   "name": "玩偶 | 蜡笔",
+  "csp_xpath_测试": {
+   "name": " 🌾测试(XPF)",
    "health": "degraded",
-   "latency_ms": 313,
+   "latency_ms": 373,
    "level": null
   },
   "csp_sp_厂长资源": {
    "name": "推荐┃厂长资源",
    "health": "degraded",
-   "latency_ms": 318,
+   "latency_ms": 395,
    "level": null
   },
-  "csp_Lib-2": {
-   "name": "🔷LibVio",
+  "玩偶 | 蜡笔": {
+   "name": "玩偶 | 蜡笔",
    "health": "degraded",
-   "latency_ms": 342,
-   "level": null
-  },
-  "五大采集平台采": {
-   "name": "❤️‍分享官采",
-   "health": "degraded",
-   "latency_ms": 350,
-   "level": null
-  },
-  "荐片": {
-   "name": "🎬┃荐片┃影视",
-   "health": "healthy",
-   "latency_ms": 24946,
-   "level": "C3"
-  },
-  "曼波动漫": {
-   "name": "🎀omofun｜动漫追番",
-   "health": "degraded",
-   "latency_ms": 355,
-   "level": null
-  },
-  "BiliHeji": {
-   "name": "[371ms|大嗷呜] 🎉合集┃Bili",
-   "health": "degraded",
-   "latency_ms": 373,
+   "latency_ms": 429,
    "level": null
   },
   "剧圈99": {
@@ -883,10 +1495,10 @@
    "latency_ms": 905,
    "level": "C3"
   },
-  "csp_xpath_测试": {
-   "name": " 🌾测试(XPF)",
+  "闪影": {
+   "name": "闪影｜APP",
    "health": "degraded",
-   "latency_ms": 413,
+   "latency_ms": 501,
    "level": null
   },
   "蓝鹰": {
@@ -895,166 +1507,34 @@
    "latency_ms": 790,
    "level": "C3"
   },
-  "金都": {
-   "name": "金都｜APP",
+  "云朵影视-2": {
+   "name": "☁️┆云朵┆APP",
    "health": "degraded",
-   "latency_ms": 414,
+   "latency_ms": 518,
    "level": null
   },
-  "Auete-2": {
-   "name": "🏝奥特┃无广┃纯净",
+  "五大采集平台采": {
+   "name": "❤️‍分享官采",
    "health": "degraded",
-   "latency_ms": 416,
+   "latency_ms": 520,
    "level": null
   },
-  "闪影": {
-   "name": "闪影｜APP",
+  "bl": {
+   "name": "🤪┆摆烂┆4K",
    "health": "degraded",
-   "latency_ms": 423,
+   "latency_ms": 520,
    "level": null
   },
   "闪影视界": {
    "name": "💝分享闪影",
    "health": "degraded",
-   "latency_ms": 423,
+   "latency_ms": 521,
    "level": null
-  },
-  "SaoHuo": {
-   "name": "🌶️┆骚火┆影视",
-   "health": "degraded",
-   "latency_ms": 442,
-   "level": null
-  },
-  "Czsapp": {
-   "name": "📔厂长.直连",
-   "health": "degraded",
-   "latency_ms": 452,
-   "level": null
-  },
-  "全网影视": {
-   "name": "神荼✨蓝光影视",
-   "health": "degraded",
-   "latency_ms": 462,
-   "level": null
-  },
-  "zxzj-2": {
-   "name": "🍊在线┃秒播",
-   "health": "degraded",
-   "latency_ms": 464,
-   "level": null
-  },
-  "Kan360": {
-   "name": "🫐┆三六┆影视",
-   "health": "degraded",
-   "latency_ms": 471,
-   "level": null
-  },
-  "zxzj": {
-   "name": "🍊┃在线┃外剧",
-   "health": "dead",
-   "latency_ms": 5003,
-   "level": "C0"
-  },
-  "立播-2": {
-   "name": "🌟立播┃秒播",
-   "health": "degraded",
-   "latency_ms": 485,
-   "level": null
-  },
-  "csp_appys_萌蛋蛋": {
-   "name": "萌蛋",
-   "health": "degraded",
-   "latency_ms": 486,
-   "level": null
-  },
-  "永永": {
-   "name": "永永┃APP",
-   "health": "degraded",
-   "latency_ms": 491,
-   "level": null
-  },
-  "csp_xb_lib": {
-   "name": "LIB(XBiu)",
-   "health": "dead",
-   "latency_ms": 35,
-   "level": "C0"
   },
   "tvyb": {
    "name": "影视|云播",
    "health": "degraded",
-   "latency_ms": 507,
-   "level": null
-  },
-  "稀饭fm": {
-   "name": "[367ms|直播] 🥣┃稀饭┃影视",
-   "health": "degraded",
-   "latency_ms": 511,
-   "level": null
-  },
-  "csp_XBPQ_南瓜影视": {
-   "name": "南瓜影视",
-   "health": "dead",
-   "latency_ms": 2782,
-   "level": "C0"
-  },
-  "FanShu": {
-   "name": "🍠┆番薯┆动漫",
-   "health": "degraded",
-   "latency_ms": 536,
-   "level": null
-  },
-  "csp_xb_cokemv": {
-   "name": "cokemv(XBiu)",
-   "health": "dead",
-   "latency_ms": 180325,
-   "level": "C0"
-  },
-  "csp_xb_zxzj": {
-   "name": "在线之家(XBiu)",
-   "health": "dead",
-   "latency_ms": 726,
-   "level": "C0"
-  },
-  "方舟动漫": {
-   "name": "方舟 • 动漫",
-   "health": "degraded",
-   "latency_ms": 595,
-   "level": null
-  },
-  "XingHui": {
-   "name": "✨┆星绘┆动漫",
-   "health": "degraded",
-   "latency_ms": 613,
-   "level": null
-  },
-  "еҺӮй•ҝ": {
-   "name": "рҹҸӯв”ғеҺӮй•ҝв”ғеҪұи§Ҷ",
-   "health": "degraded",
-   "latency_ms": 626,
-   "level": null
-  },
-  "Ddrk": {
-   "name": "[3080ms|接口] 低端影视",
-   "health": "degraded",
-   "latency_ms": 630,
-   "level": null
-  },
-  "厂长": {
-   "name": "📔┃厂长┃不卡",
-   "health": "dead",
-   "latency_ms": 7099,
-   "level": "C0"
-  },
-  "csp_sp_飘花电影": {
-   "name": "磁力┃飘花电影",
-   "health": "degraded",
-   "latency_ms": 635,
-   "level": null
-  },
-  "吉利": {
-   "name": "吉利(xBPQ)",
-   "health": "degraded",
-   "latency_ms": 637,
+   "latency_ms": 533,
    "level": null
   },
   "csp_xb_auete": {
@@ -1063,118 +1543,130 @@
    "latency_ms": 335,
    "level": "C0"
   },
-  "jin夏听书": {
-   "name": "📚jin夏丨听书资源",
+  "csp_SixV": {
+   "name": "💕6V电影网(磁力)",
    "health": "degraded",
-   "latency_ms": 670,
+   "latency_ms": 589,
+   "level": null
+  },
+  "方舟动漫": {
+   "name": "方舟 • 动漫",
+   "health": "degraded",
+   "latency_ms": 599,
+   "level": null
+  },
+  "Czsapp": {
+   "name": "📔厂长.直连",
+   "health": "degraded",
+   "latency_ms": 612,
+   "level": null
+  },
+  "芬奇": {
+   "name": "芬奇｜APP",
+   "health": "degraded",
+   "latency_ms": 616,
+   "level": null
+  },
+  "csp_XBPQ_南瓜影视": {
+   "name": "南瓜影视",
+   "health": "dead",
+   "latency_ms": 2782,
+   "level": "C0"
+  },
+  "BiliHeji": {
+   "name": "[371ms|大嗷呜] 🎉合集┃Bili",
+   "health": "degraded",
+   "latency_ms": 663,
+   "level": null
+  },
+  "全网影视": {
+   "name": "神荼✨蓝光影视",
+   "health": "degraded",
+   "latency_ms": 672,
+   "level": null
+  },
+  "csp_Lib-2": {
+   "name": "🔷LibVio",
+   "health": "degraded",
+   "latency_ms": 675,
    "level": null
   },
   "csp_Ysgc": {
    "name": "工厂",
    "health": "degraded",
-   "latency_ms": 679,
+   "latency_ms": 683,
    "level": null
   },
-  "csp_NewCz": {
-   "name": "厂长",
+  "吉利": {
+   "name": "吉利(xBPQ)",
    "health": "degraded",
-   "latency_ms": 686,
+   "latency_ms": 688,
    "level": null
   },
-  "次元城": {
-   "name": "次元城",
+  "csp_xb_cokemv": {
+   "name": "cokemv(XBiu)",
+   "health": "dead",
+   "latency_ms": 180325,
+   "level": "C0"
+  },
+  "荐片": {
+   "name": "🎬┃荐片┃影视",
+   "health": "healthy",
+   "latency_ms": 24946,
+   "level": "C3"
+  },
+  "厂长": {
+   "name": "📔┃厂长┃不卡",
+   "health": "dead",
+   "latency_ms": 7099,
+   "level": "C0"
+  },
+  "csp_xb_lib": {
+   "name": "LIB(XBiu)",
+   "health": "dead",
+   "latency_ms": 35,
+   "level": "C0"
+  },
+  "立播-2": {
+   "name": "🌟立播┃秒播",
    "health": "degraded",
-   "latency_ms": 698,
+   "latency_ms": 726,
    "level": null
   },
-  "新6V-2": {
-   "name": "🧲┃新6V┃磁力",
-   "health": "degraded",
-   "latency_ms": 712,
-   "level": null
-  },
-  "新6V-3": {
-   "name": "🧲新6V┃磁力",
-   "health": "degraded",
-   "latency_ms": 727,
-   "level": null
-  },
-  "云朵影视-2": {
-   "name": "☁️┆云朵┆APP",
-   "health": "degraded",
-   "latency_ms": 729,
-   "level": null
+  "csp_xb_zxzj": {
+   "name": "在线之家(XBiu)",
+   "health": "dead",
+   "latency_ms": 726,
+   "level": "C0"
   },
   "XiFan": {
    "name": "🥣┃稀饭┃动漫",
    "health": "degraded",
-   "latency_ms": 754,
+   "latency_ms": 750,
    "level": null
   },
-  "bl": {
-   "name": "🤪┆摆烂┆4K",
+  "曼波动漫": {
+   "name": "🎀omofun｜动漫追番",
    "health": "degraded",
-   "latency_ms": 757,
+   "latency_ms": 751,
    "level": null
   },
-  "csp_xpath_网络搜集库qiumi": {
-   "name": "JRKAN直播赛事",
+  "稀饭fm": {
+   "name": "[367ms|直播] 🥣┃稀饭┃影视",
    "health": "degraded",
-   "latency_ms": 763,
+   "latency_ms": 760,
    "level": null
   },
-  "TingBookJinXia": {
-   "name": "🎙️┆堇夏┆有声",
+  "金都": {
+   "name": "金都｜APP",
    "health": "degraded",
-   "latency_ms": 770,
+   "latency_ms": 764,
    "level": null
   },
-  "狐狸君磁力": {
-   "name": "💖分享狐狸",
+  "mutefun": {
+   "name": "😄DFun┃动漫┃蓝光",
    "health": "degraded",
-   "latency_ms": 771,
-   "level": null
-  },
-  "Rebo": {
-   "name": "🍓┆热播┆APP",
-   "health": "degraded",
-   "latency_ms": 900,
-   "level": null
-  },
-  "tu": {
-   "name": "📚少儿┃兔兔┃教育",
-   "health": "degraded",
-   "latency_ms": 973,
-   "level": null
-  },
-  "Wwys": {
-   "name": "🍙┆糯米┆影视",
-   "health": "degraded",
-   "latency_ms": 996,
-   "level": null
-  },
-  "小鹿": {
-   "name": "小鹿｜APP",
-   "health": "degraded",
-   "latency_ms": 1007,
-   "level": null
-  },
-  "csp_小学": {
-   "name": "📚┃小学┃课堂",
-   "health": "healthy",
-   "latency_ms": 1086,
-   "level": "C3"
-  },
-  "csp_xb_ysgc": {
-   "name": "影视工厂(XBiu)",
-   "health": "dead",
-   "latency_ms": 18686,
-   "level": "C0"
-  },
-  "xsj": {
-   "name": "影视|视觉",
-   "health": "degraded",
-   "latency_ms": 1018,
+   "latency_ms": 767,
    "level": null
   },
   "xgapp": {
@@ -1183,22 +1675,70 @@
    "latency_ms": 10888,
    "level": "C0"
   },
-  "飞飞": {
-   "name": "飞飞┃APP",
+  "csp_xb_ysgc": {
+   "name": "影视工厂(XBiu)",
+   "health": "dead",
+   "latency_ms": 18686,
+   "level": "C0"
+  },
+  "Ddrk": {
+   "name": "[3080ms|接口] 低端影视",
    "health": "degraded",
-   "latency_ms": 1053,
+   "latency_ms": 842,
    "level": null
   },
-  "TingBook": {
-   "name": "📻┆六月┆有声",
+  "WoNiu": {
+   "name": "🐌┆蜗牛┆4K",
    "health": "degraded",
-   "latency_ms": 1079,
+   "latency_ms": 844,
    "level": null
   },
-  "mutefun": {
-   "name": "😄DFun┃动漫┃蓝光",
+  "csp_appys_萌蛋蛋": {
+   "name": "萌蛋",
    "health": "degraded",
-   "latency_ms": 1133,
+   "latency_ms": 868,
+   "level": null
+  },
+  "csp_sp_飘花电影": {
+   "name": "磁力┃飘花电影",
+   "health": "degraded",
+   "latency_ms": 871,
+   "level": null
+  },
+  "次元城": {
+   "name": "次元城",
+   "health": "degraded",
+   "latency_ms": 905,
+   "level": null
+  },
+  "Auete-2": {
+   "name": "🏝奥特┃无广┃纯净",
+   "health": "degraded",
+   "latency_ms": 922,
+   "level": null
+  },
+  "新6V-3": {
+   "name": "🧲新6V┃磁力",
+   "health": "degraded",
+   "latency_ms": 922,
+   "level": null
+  },
+  "Rebo": {
+   "name": "🍓┆热播┆APP",
+   "health": "degraded",
+   "latency_ms": 932,
+   "level": null
+  },
+  "Kan360": {
+   "name": "🫐┆三六┆影视",
+   "health": "degraded",
+   "latency_ms": 937,
+   "level": null
+  },
+  "新6V-2": {
+   "name": "🧲┃新6V┃磁力",
+   "health": "degraded",
+   "latency_ms": 951,
    "level": null
   },
   "csp_xb_zbk": {
@@ -1207,28 +1747,154 @@
    "latency_ms": 180392,
    "level": "C0"
   },
+  "xsj": {
+   "name": "影视|视觉",
+   "health": "degraded",
+   "latency_ms": 989,
+   "level": null
+  },
+  "еҺӮй•ҝ": {
+   "name": "рҹҸӯв”ғеҺӮй•ҝв”ғеҪұи§Ҷ",
+   "health": "degraded",
+   "latency_ms": 992,
+   "level": null
+  },
+  "TingBookJinXia": {
+   "name": "🎙️┆堇夏┆有声",
+   "health": "degraded",
+   "latency_ms": 1003,
+   "level": null
+  },
+  "XingHui": {
+   "name": "✨┆星绘┆动漫",
+   "health": "degraded",
+   "latency_ms": 1075,
+   "level": null
+  },
+  "csp_NewCz": {
+   "name": "厂长",
+   "health": "degraded",
+   "latency_ms": 1075,
+   "level": null
+  },
   "玩偶 | 木偶": {
    "name": "玩偶 | 木偶",
    "health": "degraded",
-   "latency_ms": 1230,
+   "latency_ms": 1165,
    "level": null
   },
-  "途趣影院": {
-   "name": "🚙途趣┃影视",
+  "FanShu": {
+   "name": "🍠┆番薯┆动漫",
    "health": "degraded",
-   "latency_ms": 1276,
+   "latency_ms": 1188,
+   "level": null
+  },
+  "tu": {
+   "name": "📚少儿┃兔兔┃教育",
+   "health": "degraded",
+   "latency_ms": 1193,
+   "level": null
+  },
+  "Wwys": {
+   "name": "🍙┆糯米┆影视",
+   "health": "degraded",
+   "latency_ms": 1221,
    "level": null
   },
   "58动漫": {
    "name": "💖吾吧动漫",
    "health": "degraded",
-   "latency_ms": 1304,
+   "latency_ms": 1235,
    "level": null
   },
-  "焦炭影视": {
-   "name": "💣焦炭影视",
+  "csp_xpath_网络搜集库qiumi": {
+   "name": "JRKAN直播赛事",
    "health": "degraded",
-   "latency_ms": 1358,
+   "latency_ms": 1237,
+   "level": null
+  },
+  "狐狸君磁力": {
+   "name": "💖分享狐狸",
+   "health": "degraded",
+   "latency_ms": 1243,
+   "level": null
+  },
+  "飞飞": {
+   "name": "飞飞┃APP",
+   "health": "degraded",
+   "latency_ms": 1296,
+   "level": null
+  },
+  "TingBook": {
+   "name": "📻┆六月┆有声",
+   "health": "degraded",
+   "latency_ms": 1306,
+   "level": null
+  },
+  "csp_Guazi": {
+   "name": "🍉瓜子",
+   "health": "degraded",
+   "latency_ms": 1332,
+   "level": null
+  },
+  "途趣影院": {
+   "name": "🚙途趣┃影视",
+   "health": "degraded",
+   "latency_ms": 1363,
+   "level": null
+  },
+  "csp_小学": {
+   "name": "📚┃小学┃课堂",
+   "health": "healthy",
+   "latency_ms": 1086,
+   "level": "C3"
+  },
+  "金牌-2": {
+   "name": "🥇金牌",
+   "health": "degraded",
+   "latency_ms": 1381,
+   "level": null
+  },
+  "小鹿": {
+   "name": "小鹿｜APP",
+   "health": "degraded",
+   "latency_ms": 1410,
+   "level": null
+  },
+  "jin夏听书": {
+   "name": "📚jin夏丨听书资源",
+   "health": "degraded",
+   "latency_ms": 1416,
+   "level": null
+  },
+  "AppV7Mtq": {
+   "name": "📦蒙太奇",
+   "health": "degraded",
+   "latency_ms": 1421,
+   "level": null
+  },
+  "BbkqLive": {
+   "name": "🏆88体育",
+   "health": "degraded",
+   "latency_ms": 1426,
+   "level": null
+  },
+  "永乐": {
+   "name": "🍰永乐",
+   "health": "degraded",
+   "latency_ms": 1479,
+   "level": null
+  },
+  "Czzy": {
+   "name": "🏭厂长",
+   "health": "degraded",
+   "latency_ms": 1480,
+   "level": null
+  },
+  "AppV6Tg": {
+   "name": "🐶特狗",
+   "health": "degraded",
+   "latency_ms": 1497,
    "level": null
   },
   "csp_初中": {
@@ -1240,55 +1906,19 @@
   "刺猬影视": {
    "name": "[367ms|直播] 🦔刺猬影视(优)",
    "health": "degraded",
-   "latency_ms": 1411,
+   "latency_ms": 1683,
    "level": null
   },
-  "csp_biubiu_cupfox": {
-   "name": "🦊茶杯狐",
+  "素白白": {
+   "name": "素白白✨蓝光影视",
    "health": "degraded",
-   "latency_ms": 1479,
+   "latency_ms": 1850,
    "level": null
   },
-  "玩偶 | 讴歌": {
-   "name": "玩偶 | 讴歌",
+  "wencai": {
+   "name": "✏️┆文才┆影视",
    "health": "degraded",
-   "latency_ms": 1491,
-   "level": null
-  },
-  "Czzy": {
-   "name": "🏭厂长",
-   "health": "degraded",
-   "latency_ms": 1504,
-   "level": null
-  },
-  "BbkqLive": {
-   "name": "🏆88体育",
-   "health": "degraded",
-   "latency_ms": 1513,
-   "level": null
-  },
-  "AppV6Tg": {
-   "name": "🐶特狗",
-   "health": "degraded",
-   "latency_ms": 1519,
-   "level": null
-  },
-  "AppV7Mtq": {
-   "name": "📦蒙太奇",
-   "health": "degraded",
-   "latency_ms": 1525,
-   "level": null
-  },
-  "金牌-2": {
-   "name": "🥇金牌",
-   "health": "degraded",
-   "latency_ms": 1551,
-   "level": null
-  },
-  "Jpys": {
-   "name": "金牌影视",
-   "health": "degraded",
-   "latency_ms": 1552,
+   "latency_ms": 1859,
    "level": null
   },
   "蔬菜": {
@@ -1297,46 +1927,16 @@
    "latency_ms": 24,
    "level": "C0"
   },
-  "wencai": {
-   "name": "✏️┆文才┆影视",
+  "焦炭影视": {
+   "name": "💣焦炭影视",
    "health": "degraded",
-   "latency_ms": 1593,
+   "latency_ms": 2035,
    "level": null
   },
-  "线路9": {
-   "name": "🔥金牌",
+  "csp_biubiu_cupfox": {
+   "name": "🦊茶杯狐",
    "health": "degraded",
-   "latency_ms": 1773,
-   "level": null
-  },
-  "哔哩影视": {
-   "name": "🌈｜哔哩｜影视",
-   "health": "degraded",
-   "latency_ms": 2025,
-   "level": null
-  },
-  "P4_绿豆": {
-   "name": "🐼┃绿豆┃影视",
-   "health": "dead",
-   "latency_ms": 1,
-   "level": "C0"
-  },
-  "永乐": {
-   "name": "🍰永乐",
-   "health": "degraded",
-   "latency_ms": 2306,
-   "level": null
-  },
-  "csp_Guazi": {
-   "name": "🍉瓜子",
-   "health": "degraded",
-   "latency_ms": 2522,
-   "level": null
-  },
-  "csp_appys_大猫": {
-   "name": "大猫",
-   "health": "degraded",
-   "latency_ms": 4576,
+   "latency_ms": 2223,
    "level": null
   },
   "金牌影视": {
@@ -1344,6 +1944,36 @@
    "health": "healthy",
    "latency_ms": 5159,
    "level": "C3"
+  },
+  "P4_绿豆": {
+   "name": "🐼┃绿豆┃影视",
+   "health": "dead",
+   "latency_ms": 1,
+   "level": "C0"
+  },
+  "哔哩影视": {
+   "name": "🌈｜哔哩｜影视",
+   "health": "degraded",
+   "latency_ms": 2728,
+   "level": null
+  },
+  "Jpys": {
+   "name": "金牌影视",
+   "health": "degraded",
+   "latency_ms": 3148,
+   "level": null
+  },
+  "线路9": {
+   "name": "🔥金牌",
+   "health": "degraded",
+   "latency_ms": 3611,
+   "level": null
+  },
+  "csp_sp_龙门影视": {
+   "name": "推荐┃龙门影视",
+   "health": "degraded",
+   "latency_ms": 7688,
+   "level": null
   },
   "FREEOK": {
    "name": " ☺FREEOK ",
@@ -1483,6 +2113,12 @@
    "latency_ms": 5104,
    "level": "C0"
   },
+  "BD": {
+   "name": "BD|首页",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "bili": {
    "name": "B站 | Bili[jar]",
    "health": "dead",
@@ -1507,27 +2143,9 @@
    "latency_ms": null,
    "level": null
   },
-  "extend": {
-   "name": "Extend",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
   "浪ku": {
    "name": "L酷✨蓝光影视",
    "health": "dead",
-   "latency_ms": null,
-   "level": null
-  },
-  "one": {
-   "name": "One",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
-  },
-  "two": {
-   "name": "Two",
-   "health": "unknown",
    "latency_ms": null,
    "level": null
   },
@@ -1536,6 +2154,12 @@
    "health": "healthy",
    "latency_ms": 36995,
    "level": "C5"
+  },
+  "csp_XYQHikerAL_多多": {
+   "name": "V信65267199",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "youtube": {
    "name": "YouTube",
@@ -1879,6 +2503,12 @@
    "latency_ms": null,
    "level": null
   },
+  "天天弹幕版": {
+   "name": "⛅️天天┃弹幕",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "csp_XYQHiker_来看点播": {
    "name": "⛅️来看点播(XYQH)",
    "health": "dead",
@@ -1989,12 +2619,6 @@
   },
   "HDmoli": {
    "name": "《魔力🔸高清》",
-   "health": "dead",
-   "latency_ms": null,
-   "level": null
-  },
-  "三六零弹幕": {
-   "name": "三六零✨蓝光影视",
    "health": "dead",
    "latency_ms": null,
    "level": null
@@ -2395,12 +3019,6 @@
    "latency_ms": 33,
    "level": "C0"
   },
-  "csp_xb_lgyys": {
-   "name": "蓝光影院(XBiu)",
-   "health": "dead",
-   "latency_ms": 87,
-   "level": "C0"
-  },
   "蓝鸟": {
    "name": "蓝鸟 • APP",
    "health": "dead",
@@ -2695,6 +3313,12 @@
    "latency_ms": 7327,
    "level": "C0"
   },
+  "不太灵": {
+   "name": "🍄不太灵┃磁力",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "抠搜-2": {
    "name": "🍄抠抠┃搜搜",
    "health": "dead",
@@ -2749,6 +3373,12 @@
    "latency_ms": null,
    "level": null
   },
+  "JOJO弹幕版": {
+   "name": "🍭JOJO┃弹幕",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "Tiu6": {
    "name": "🍭┆Tiu6┆搜索",
    "health": "dead",
@@ -2776,6 +3406,12 @@
   "南坊": {
    "name": "🎃┃南坊┃App",
    "health": "dead",
+   "latency_ms": null,
+   "level": null
+  },
+  "南瓜弹幕版": {
+   "name": "🎃南瓜┃弹幕",
+   "health": "unknown",
    "latency_ms": null,
    "level": null
   },
@@ -2872,6 +3508,12 @@
   "FishHuban": {
    "name": "🐅┃虎斑┃4K",
    "health": "dead",
+   "latency_ms": null,
+   "level": null
+  },
+  "sp360": {
+   "name": "🐛360┃解析",
+   "health": "unknown",
    "latency_ms": null,
    "level": null
   },
@@ -3060,6 +3702,12 @@
    "health": "dead",
    "latency_ms": 5382,
    "level": "C0"
+  },
+  "玩偶弹幕版": {
+   "name": "👽玩偶┃4K弹幕",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "美奇影视": {
    "name": "👽美奇影视 ",
@@ -3469,6 +4117,12 @@
    "latency_ms": null,
    "level": null
   },
+  "酷看弹幕版": {
+   "name": "😎酷看┃弹幕",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "影视大全": {
    "name": "😐影视大全",
    "health": "dead",
@@ -3607,6 +4261,12 @@
    "latency_ms": null,
    "level": null
   },
+  "Up云搜": {
+   "name": "😻Up搜┃搜索",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "app影院": {
    "name": "😻app影院",
    "health": "dead",
@@ -3676,6 +4336,12 @@
   "光棍影视": {
    "name": "🚶光棍影视",
    "health": "dead",
+   "latency_ms": null,
+   "level": null
+  },
+  "泥巴弹幕版": {
+   "name": "🛫泥巴┃弹幕",
+   "health": "unknown",
    "latency_ms": null,
    "level": null
   },
@@ -3775,6 +4441,12 @@
    "latency_ms": null,
    "level": null
   },
+  "白票弹幕版": {
+   "name": "🦄白票┃弹幕",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "咕咕": {
    "name": "🦉咕咕┃动漫",
    "health": "dead",
@@ -3832,31 +4504,37 @@
   "优众影视": {
    "name": " 🍁优众影视",
    "health": "dead",
-   "latency_ms": 195,
+   "latency_ms": 243,
    "level": null
   },
   "csp_xb_35ju": {
    "name": " 💠星空影院(R)",
    "health": "dead",
-   "latency_ms": 633,
+   "latency_ms": 760,
    "level": null
   },
   "csp_xb_test ": {
    "name": " 💠测试(R)",
    "health": "dead",
-   "latency_ms": 171,
+   "latency_ms": 440,
    "level": null
   },
   "csp_appys_2号币": {
    "name": "2号币",
    "health": "dead",
-   "latency_ms": 118,
+   "latency_ms": 129,
    "level": null
   },
   "3Q": {
    "name": "3Q┃APP",
    "health": "dead",
    "latency_ms": null,
+   "level": null
+  },
+  "567影院": {
+   "name": "5️⃣南瓜┃影院",
+   "health": "dead",
+   "latency_ms": 10405,
    "level": null
   },
   "80S": {
@@ -3940,7 +4618,7 @@
   "YunZhenXiang": {
    "name": "[1390ms|xn--6orr3pi6g9uu] 秒播┃二七",
    "health": "dead",
-   "latency_ms": 8059,
+   "latency_ms": 8101,
    "level": null
   },
   "feiyu_video": {
@@ -3958,7 +4636,7 @@
   "新感觉": {
    "name": "[1416ms|金鹰] 💪新感觉｜APP",
    "health": "dead",
-   "latency_ms": 202,
+   "latency_ms": 226,
    "level": null
   },
   "QxiTv": {
@@ -4516,7 +5194,7 @@
   "天天影视-2": {
    "name": "⛅️天天┃蓝光┃弹幕",
    "health": "dead",
-   "latency_ms": 24835,
+   "latency_ms": 24832,
    "level": null
   },
   "在线之家-2": {
@@ -4564,7 +5242,7 @@
   "剧透社": {
    "name": "⭐️剧透社",
    "health": "dead",
-   "latency_ms": 830,
+   "latency_ms": 1123,
    "level": null
   },
   "小米米兔": {
@@ -4588,7 +5266,7 @@
   "久久": {
    "name": "久久｜APP",
    "health": "dead",
-   "latency_ms": 427,
+   "latency_ms": 502,
    "level": null
   },
   "csp_xb_lez": {
@@ -4687,6 +5365,12 @@
    "latency_ms": null,
    "level": null
   },
+  "csp_appys_大猫": {
+   "name": "大猫",
+   "health": "dead",
+   "latency_ms": 8407,
+   "level": null
+  },
   "csp_XBPQ_qiyou": {
    "name": "奇优",
    "health": "dead",
@@ -4702,12 +5386,12 @@
   "csp_xpath_wanmeikk": {
    "name": "完美看看(XP)",
    "health": "dead",
-   "latency_ms": 174,
+   "latency_ms": 244,
    "level": null
   },
   "csp_sp_芒果视频": {
    "name": "官方┃芒芒苦海",
-   "health": "unknown",
+   "health": "dead",
    "latency_ms": null,
    "level": null
   },
@@ -4740,6 +5424,12 @@
    "health": "dead",
    "latency_ms": 5346,
    "level": "C0"
+  },
+  "Yingso": {
+   "name": "影搜",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "影视": {
    "name": "影视",
@@ -4792,37 +5482,31 @@
   "映画": {
    "name": "映画｜APP",
    "health": "dead",
-   "latency_ms": 8054,
+   "latency_ms": 8082,
    "level": null
   },
   "csp_appysv2_M2_暖光影视": {
    "name": "暖光影视",
    "health": "dead",
-   "latency_ms": 46,
+   "latency_ms": 39,
    "level": null
   },
   "木瓜": {
    "name": "木瓜｜APP",
    "health": "dead",
-   "latency_ms": 74,
+   "latency_ms": 25,
    "level": null
-  },
-  "枫叶影视": {
-   "name": "枫叶 • 影视",
-   "health": "healthy",
-   "latency_ms": 5831,
-   "level": "C5"
   },
   "枫叶电影1": {
    "name": "枫叶电影",
    "health": "dead",
-   "latency_ms": 281,
+   "latency_ms": 215,
    "level": null
   },
   "csp_appys_段友": {
    "name": "段友",
    "health": "dead",
-   "latency_ms": 12120,
+   "latency_ms": 8477,
    "level": null
   },
   "nbys": {
@@ -4830,6 +5514,12 @@
    "health": "dead",
    "latency_ms": 89,
    "level": "C0"
+  },
+  "NN": {
+   "name": "泥泥|首页",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "玩我哥哥": {
    "name": "测┃玩我┃哥哥",
@@ -4840,13 +5530,13 @@
   "浪酷影视": {
    "name": "浪酷｜APP",
    "health": "dead",
-   "latency_ms": 3462,
+   "latency_ms": 5697,
    "level": null
   },
   "游戏 | 直播": {
    "name": "游戏 | 直播",
    "health": "dead",
-   "latency_ms": 11,
+   "latency_ms": 9,
    "level": null
   },
   "csp_Bliyc": {
@@ -4858,7 +5548,7 @@
   "漫国动漫": {
    "name": "漫国 • 动漫",
    "health": "dead",
-   "latency_ms": 8006,
+   "latency_ms": 8008,
    "level": null
   },
   "热播影视": {
@@ -4867,10 +5557,16 @@
    "latency_ms": 1173,
    "level": "C3"
   },
+  "IkBot": {
+   "name": "爱看|首页",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "猎豹": {
    "name": "猎豹｜APP",
    "health": "dead",
-   "latency_ms": 8070,
+   "latency_ms": 8051,
    "level": null
   },
   "猫抓": {
@@ -4882,13 +5578,13 @@
   "玩偶 | 多多": {
    "name": "玩偶 | 多多",
    "health": "dead",
-   "latency_ms": 10022,
+   "latency_ms": 10015,
    "level": null
   },
   "玩偶 | 小米": {
    "name": "玩偶 | 小米",
    "health": "dead",
-   "latency_ms": 37,
+   "latency_ms": 9,
    "level": null
   },
   "玩偶虎斑": {
@@ -4900,7 +5596,7 @@
   "玩偶虎斑2": {
    "name": "玩偶 | 虎斑2",
    "health": "dead",
-   "latency_ms": 757,
+   "latency_ms": 1004,
    "level": null
   },
   "玩偶 | 闪电uc": {
@@ -4975,12 +5671,6 @@
    "latency_ms": 0,
    "level": null
   },
-  "素白白": {
-   "name": "素白白✨蓝光影视",
-   "health": "dead",
-   "latency_ms": 81,
-   "level": null
-  },
   "聚合": {
    "name": "聚合 • 搜索",
    "health": "dead",
@@ -4990,7 +5680,7 @@
   "腐剧": {
    "name": "腐剧",
    "health": "dead",
-   "latency_ms": 16058,
+   "latency_ms": 16143,
    "level": null
   },
   "SPQQ": {
@@ -5005,12 +5695,6 @@
    "latency_ms": null,
    "level": null
   },
-  "芬奇": {
-   "name": "芬奇｜APP",
-   "health": "dead",
-   "latency_ms": 310,
-   "level": null
-  },
   "饺子影视": {
    "name": "蒸饺✨蓝光影视",
    "health": "dead",
@@ -5023,10 +5707,16 @@
    "latency_ms": 1095,
    "level": "C0"
   },
+  "csp_xb_lgyys": {
+   "name": "蓝光影院(XBiu)",
+   "health": "dead",
+   "latency_ms": 87,
+   "level": "C0"
+  },
   "薯条": {
    "name": "薯条｜APP",
    "health": "dead",
-   "latency_ms": 8133,
+   "latency_ms": 8192,
    "level": null
   },
   "Mayiys": {
@@ -5044,7 +5734,7 @@
   "还行": {
    "name": "还行",
    "health": "dead",
-   "latency_ms": 513,
+   "latency_ms": 736,
    "level": null
   },
   "csp_appysv2_追剧TV": {
@@ -5086,13 +5776,13 @@
   "顾我": {
    "name": "顾我｜APP",
    "health": "dead",
-   "latency_ms": 8064,
+   "latency_ms": 8061,
    "level": null
   },
   "csp_fantuan": {
    "name": "饭团",
    "health": "dead",
-   "latency_ms": 35,
+   "latency_ms": 103,
    "level": null
   },
   "csp_XBPQ_饭团": {
@@ -5134,7 +5824,7 @@
   "csp_XYQ_lu1": {
    "name": "️📺电视直播",
    "health": "dead",
-   "latency_ms": 172,
+   "latency_ms": 252,
    "level": null
   },
   "Wexemby": {
@@ -5170,7 +5860,7 @@
   "VIP电影": {
    "name": "🇻VIP┃影视",
    "health": "dead",
-   "latency_ms": 10014,
+   "latency_ms": 10016,
    "level": null
   },
   "移动-2": {
@@ -5284,7 +5974,7 @@
   "宝片电影": {
    "name": "🍉宝片┃xb",
    "health": "dead",
-   "latency_ms": 191,
+   "latency_ms": 39,
    "level": null
   },
   "西瓜视频": {
@@ -5368,7 +6058,7 @@
   "奈飞中文": {
    "name": "🎗┃奈飞┃秒播",
    "health": "dead",
-   "latency_ms": 202,
+   "latency_ms": 264,
    "level": null
   },
   "MTV1": {
@@ -5464,7 +6154,7 @@
   "啊哈DJ": {
    "name": "🎹┃啊哈┃音乐",
    "health": "dead",
-   "latency_ms": 10014,
+   "latency_ms": 7888,
    "level": null
   },
   "csp_Vidhub2": {
@@ -5500,7 +6190,7 @@
   "csp_Zxzj": {
    "name": "🏠在线之家",
    "health": "dead",
-   "latency_ms": 187,
+   "latency_ms": 62,
    "level": null
   },
   "csp_SC1080": {
@@ -5559,7 +6249,7 @@
   },
   "剧荒TV（SP）": {
    "name": "🐞剧荒影视(SP)",
-   "health": "unknown",
+   "health": "dead",
    "latency_ms": null,
    "level": null
   },
@@ -5583,7 +6273,7 @@
   },
   "图图（SP）": {
    "name": "🐞图图（SP）",
-   "health": "unknown",
+   "health": "dead",
    "latency_ms": null,
    "level": null
   },
@@ -5644,7 +6334,7 @@
   "MqTv": {
    "name": "🐦┃麻雀┃影视",
    "health": "dead",
-   "latency_ms": 540,
+   "latency_ms": 614,
    "level": null
   },
   "Buguyy": {
@@ -5656,7 +6346,7 @@
   "怀桑": {
    "name": "🐦金蝉丨蓝光秒播",
    "health": "dead",
-   "latency_ms": 8110,
+   "latency_ms": 8062,
    "level": null
   },
   "csp_QQ": {
@@ -5740,13 +6430,13 @@
   "csp_MLYS": {
    "name": "🐴毛驴",
    "health": "dead",
-   "latency_ms": 8108,
+   "latency_ms": 8528,
    "level": null
   },
   "八天App": {
    "name": "🐷八天┃[APP]",
    "health": "dead",
-   "latency_ms": 220,
+   "latency_ms": 502,
    "level": null
   },
   "csp_Cokemv": {
@@ -5806,7 +6496,7 @@
   "多多影音": {
    "name": "👲┃多多┃影音",
    "health": "dead",
-   "latency_ms": 7838,
+   "latency_ms": 10005,
    "level": null
   },
   "csp_xq": {
@@ -5926,13 +6616,13 @@
   "火狐": {
    "name": "💓｜火狐｜APP",
    "health": "dead",
-   "latency_ms": 8076,
+   "latency_ms": 8204,
    "level": null
   },
   "csp_Voflix": {
    "name": "💕Voflix",
    "health": "dead",
-   "latency_ms": 196,
+   "latency_ms": 168,
    "level": null
   },
   "ChuXin": {
@@ -5974,13 +6664,13 @@
   "全片源": {
    "name": "💖分享全网",
    "health": "dead",
-   "latency_ms": 8201,
+   "latency_ms": 8510,
    "level": null
   },
   "千梦影视": {
    "name": "💖分享千梦",
    "health": "dead",
-   "latency_ms": 38,
+   "latency_ms": 107,
    "level": null
   },
   "fxzYD": {
@@ -5992,7 +6682,7 @@
   "魅影影视": {
    "name": "💖分享魅影",
    "health": "dead",
-   "latency_ms": 8085,
+   "latency_ms": 8059,
    "level": null
   },
   "csp_CandyMuj_haokongbu": {
@@ -6058,7 +6748,7 @@
   "哔嘀弹幕": {
    "name": "💘哔嘀｜弹幕",
    "health": "dead",
-   "latency_ms": 10014,
+   "latency_ms": 10015,
    "level": null
   },
   "csp_亮亮": {
@@ -6202,13 +6892,13 @@
   "永乐XBPQ": {
    "name": "😄┃永乐┃视频",
    "health": "dead",
-   "latency_ms": 8058,
+   "latency_ms": 8043,
    "level": null
   },
   "影视备份": {
    "name": "😈影迷┃影视",
    "health": "dead",
-   "latency_ms": 74,
+   "latency_ms": 25,
    "level": null
   },
   "KZN": {
@@ -6226,7 +6916,7 @@
   "线路7": {
    "name": "🚀帧享",
    "health": "dead",
-   "latency_ms": 8010,
+   "latency_ms": 8185,
    "level": null
   },
   "HkybSpider": {
@@ -6238,13 +6928,13 @@
   "AiKan_Spider": {
    "name": "🚀秒播┃爱看剧场",
    "health": "dead",
-   "latency_ms": 189,
+   "latency_ms": 8008,
    "level": null
   },
   "追剧APP": {
    "name": "🚀追剧┃APP",
    "health": "dead",
-   "latency_ms": 82,
+   "latency_ms": 108,
    "level": null
   },
   "Dm84-2": {
@@ -6269,12 +6959,6 @@
    "name": "🛫┃唐人街┃飞",
    "health": "dead",
    "latency_ms": 1201,
-   "level": "C0"
-  },
-  "csp_Nbys": {
-   "name": "🛫┃泥巴┃飞",
-   "health": "dead",
-   "latency_ms": 444,
    "level": "C0"
   },
   "csp_Xiaoh": {
@@ -6322,19 +7006,19 @@
   "Yyy": {
    "name": "🦁在线直播〔SP〕",
    "health": "dead",
-   "latency_ms": 29,
+   "latency_ms": 33,
    "level": null
   },
   "快影": {
    "name": "🦄️快影",
    "health": "dead",
-   "latency_ms": 188,
+   "latency_ms": 111,
    "level": null
   },
   "光鸭社区-2": {
    "name": "🦆光鸭社区",
    "health": "dead",
-   "latency_ms": 8338,
+   "latency_ms": 8208,
    "level": null
   },
   "毛驴": {
@@ -6370,13 +7054,13 @@
   "木偶哥哥": {
    "name": "🧸┃木偶┃哥哥",
    "health": "dead",
-   "latency_ms": 235,
+   "latency_ms": 252,
    "level": null
   },
   "先生": {
    "name": "🍜养生｜OG",
    "health": "degraded",
-   "latency_ms": 33,
+   "latency_ms": 24,
    "level": null
   },
   "csp_AppRZ": {
@@ -6385,166 +7069,172 @@
    "latency_ms": 1167,
    "level": "C0"
   },
-  "猴影视": {
-   "name": "🐵猴哥丨蓝光秒播",
+  "菲儿影视": {
+   "name": "🥪菲菲┃蓝光┃无广",
    "health": "degraded",
-   "latency_ms": 101,
-   "level": null
-  },
-  "csp_XBiu口袋影院": {
-   "name": "💢口袋影视(XB)",
-   "health": "degraded",
-   "latency_ms": 107,
-   "level": null
-  },
-  "兔子": {
-   "name": "🐇┃兔子┃APP",
-   "health": "degraded",
-   "latency_ms": 111,
+   "latency_ms": 175,
    "level": null
   },
   "小猫": {
    "name": "小猫|自定",
    "health": "degraded",
-   "latency_ms": 143,
-   "level": null
-  },
-  "juxiafan": {
-   "name": "💝分享剧匣",
-   "health": "degraded",
-   "latency_ms": 145,
-   "level": null
-  },
-  "3QQQ": {
-   "name": "[448ms|【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 大鹅┃1080P",
-   "health": "degraded",
-   "latency_ms": 214,
-   "level": null
-  },
-  "三米ys": {
-   "name": "《三米🔸影视》",
-   "health": "degraded",
-   "latency_ms": 223,
-   "level": null
-  },
-  "番社动漫": {
-   "name": "番社 • 动漫",
-   "health": "unknown",
-   "latency_ms": 223,
-   "level": "C?"
-  },
-  "外剧": {
-   "name": "外剧丨APP",
-   "health": "degraded",
-   "latency_ms": 226,
-   "level": null
-  },
-  "萝卜": {
-   "name": "萝卜｜APP",
-   "health": "degraded",
-   "latency_ms": 240,
-   "level": null
-  },
-  "驿站": {
-   "name": "驿站丨APP",
-   "health": "degraded",
-   "latency_ms": 246,
-   "level": null
-  },
-  "哆啦新番社": {
-   "name": "哆啦┃新番社",
-   "health": "degraded",
-   "latency_ms": 262,
-   "level": null
-  },
-  "线路10": {
-   "name": "🏭厂长",
-   "health": "degraded",
-   "latency_ms": 298,
-   "level": null
-  },
-  "看美剧": {
-   "name": "🇺🇸美剧┃看看",
-   "health": "degraded",
-   "latency_ms": 311,
-   "level": null
-  },
-  "麦田": {
-   "name": "[448ms|【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 麦田┃1080P",
-   "health": "degraded",
-   "latency_ms": 322,
-   "level": null
-  },
-  "xbpq_喵次元": {
-   "name": "💖喵喵动漫",
-   "health": "degraded",
-   "latency_ms": 324,
-   "level": null
-  },
-  "布布影视APP": {
-   "name": "[1390ms|xn--6orr3pi6g9uu] 大鹅┃二九",
-   "health": "degraded",
-   "latency_ms": 330,
-   "level": null
-  },
-  "爱优影视": {
-   "name": "🫰🏻爱优┃影视",
-   "health": "degraded",
-   "latency_ms": 330,
-   "level": null
-  },
-  "紫金": {
-   "name": "紫金丨APP",
-   "health": "degraded",
-   "latency_ms": 331,
+   "latency_ms": 178,
    "level": null
   },
   "木耳": {
    "name": "木耳|弹幕",
    "health": "degraded",
-   "latency_ms": 332,
+   "latency_ms": 179,
    "level": null
   },
-  "修罗影视": {
-   "name": "修罗｜影视",
+  "看美剧": {
+   "name": "🇺🇸美剧┃看看",
    "health": "degraded",
-   "latency_ms": 343,
+   "latency_ms": 182,
    "level": null
   },
-  "菲儿影视": {
-   "name": "🥪菲菲┃蓝光┃无广",
+  "猴影视": {
+   "name": "🐵猴哥丨蓝光秒播",
    "health": "degraded",
-   "latency_ms": 351,
+   "latency_ms": 209,
    "level": null
   },
   "仓鼠": {
    "name": "🐹仓鼠┃蓝光┃弹幕",
    "health": "degraded",
+   "latency_ms": 211,
+   "level": null
+  },
+  "csp_XBiu口袋影院": {
+   "name": "💢口袋影视(XB)",
+   "health": "degraded",
+   "latency_ms": 238,
+   "level": null
+  },
+  "哆啦新番社": {
+   "name": "哆啦┃新番社",
+   "health": "degraded",
+   "latency_ms": 257,
+   "level": null
+  },
+  "爱优影视": {
+   "name": "🫰🏻爱优┃影视",
+   "health": "degraded",
+   "latency_ms": 273,
+   "level": null
+  },
+  "3QQQ": {
+   "name": "[448ms|【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 大鹅┃1080P",
+   "health": "degraded",
+   "latency_ms": 299,
+   "level": null
+  },
+  "萝卜": {
+   "name": "萝卜｜APP",
+   "health": "degraded",
+   "latency_ms": 326,
+   "level": null
+  },
+  "juxiafan": {
+   "name": "💝分享剧匣",
+   "health": "degraded",
+   "latency_ms": 338,
+   "level": null
+  },
+  "驿站": {
+   "name": "驿站丨APP",
+   "health": "degraded",
+   "latency_ms": 347,
+   "level": null
+  },
+  "三米ys": {
+   "name": "《三米🔸影视》",
+   "health": "degraded",
+   "latency_ms": 352,
+   "level": null
+  },
+  "xbpq_喵次元": {
+   "name": "💖喵喵动漫",
+   "health": "degraded",
    "latency_ms": 353,
+   "level": null
+  },
+  "布布影视APP": {
+   "name": "[1390ms|xn--6orr3pi6g9uu] 大鹅┃二九",
+   "health": "degraded",
+   "latency_ms": 354,
+   "level": null
+  },
+  "兔子": {
+   "name": "🐇┃兔子┃APP",
+   "health": "degraded",
+   "latency_ms": 357,
+   "level": null
+  },
+  "番社动漫": {
+   "name": "番社 • 动漫",
+   "health": "unknown",
+   "latency_ms": 388,
+   "level": "C?"
+  },
+  "修罗影视": {
+   "name": "修罗｜影视",
+   "health": "degraded",
+   "latency_ms": 417,
+   "level": null
+  },
+  "麦田": {
+   "name": "[448ms|【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 麦田┃1080P",
+   "health": "degraded",
+   "latency_ms": 418,
+   "level": null
+  },
+  "线路10": {
+   "name": "🏭厂长",
+   "health": "degraded",
+   "latency_ms": 453,
+   "level": null
+  },
+  "紫金": {
+   "name": "紫金丨APP",
+   "health": "degraded",
+   "latency_ms": 484,
    "level": null
   },
   "咕噜-2": {
    "name": "咕噜丨APP",
    "health": "degraded",
-   "latency_ms": 392,
+   "latency_ms": 492,
    "level": null
   },
   "半日": {
    "name": "🅰半日",
    "health": "degraded",
-   "latency_ms": 424,
+   "latency_ms": 514,
+   "level": null
+  },
+  "csp_е°‘е„ҝ": {
+   "name": "рҹ“ҡв”ғе°‘е„ҝв”ғж•ҷиӮІ",
+   "health": "degraded",
+   "latency_ms": 530,
+   "level": null
+  },
+  "拾光": {
+   "name": "拾光┃秒播APP",
+   "health": "degraded",
+   "latency_ms": 535,
+   "level": null
+  },
+  "来看影视": {
+   "name": "[616ms|软件] 来看｜影视",
+   "health": "degraded",
+   "latency_ms": 586,
    "level": null
   },
   "鬼片之家": {
    "name": "🧛鬼片┃影视",
    "health": "degraded",
-   "latency_ms": 455,
-   "level": null
-  },
-  "湘漓": {
-   "name": "湘漓｜APP",
-   "health": "degraded",
-   "latency_ms": 529,
+   "latency_ms": 590,
    "level": null
   },
   "肥猫": {
@@ -6553,34 +7243,100 @@
    "latency_ms": 53,
    "level": "C0"
   },
-  "жҪ®жөҒ": {
-   "name": "рҹҸңв”ғжҪ®жөҒв”ғAPP",
+  "知年": {
+   "name": "📅┆知年┆APP",
    "health": "degraded",
-   "latency_ms": 548,
+   "latency_ms": 637,
+   "level": null
+  },
+  "雪糕影视": {
+   "name": "雪糕影视🎦XB",
+   "health": "degraded",
+   "latency_ms": 692,
+   "level": null
+  },
+  "天天-4": {
+   "name": "天天|弹幕",
+   "health": "degraded",
+   "latency_ms": 693,
+   "level": null
+  },
+  "湘漓": {
+   "name": "湘漓｜APP",
+   "health": "degraded",
+   "latency_ms": 727,
+   "level": null
+  },
+  "csp_Xlys": {
+   "name": "[906ms|https://www.ls660.com/TV/feimao.json] 🏔️┃修罗┃磁力",
+   "health": "degraded",
+   "latency_ms": 737,
    "level": null
   },
   "双黄": {
    "name": "🥚双黄┃BPQ",
    "health": "degraded",
-   "latency_ms": 572,
+   "latency_ms": 743,
    "level": null
   },
-  "五八": {
-   "name": "五八丨APP",
+  "首发-2": {
+   "name": "🚀首发",
    "health": "degraded",
-   "latency_ms": 603,
-   "level": null
-  },
-  "线路5": {
-   "name": "🔥🔥首发",
-   "health": "degraded",
-   "latency_ms": 669,
+   "latency_ms": 792,
    "level": null
   },
   "追番达人99": {
    "name": "🐎追番┃1080P",
    "health": "degraded",
-   "latency_ms": 707,
+   "latency_ms": 793,
+   "level": null
+  },
+  "新首发": {
+   "name": "👻标清┃1080P",
+   "health": "degraded",
+   "latency_ms": 794,
+   "level": null
+  },
+  "师兄": {
+   "name": "🐵师兄",
+   "health": "degraded",
+   "latency_ms": 815,
+   "level": null
+  },
+  "王子-2": {
+   "name": "🍟王子",
+   "health": "degraded",
+   "latency_ms": 823,
+   "level": null
+  },
+  "иҚҗзүҮ": {
+   "name": "рҹҺ¬в”ғиҚҗзүҮв”ғеҪұи§Ҷ",
+   "health": "degraded",
+   "latency_ms": 835,
+   "level": null
+  },
+  "南枝": {
+   "name": "☘️┃南枝┃APP",
+   "health": "degraded",
+   "latency_ms": 882,
+   "level": null
+  },
+  "葫芦": {
+   "name": "[448ms|【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 葫芦┃1080P",
+   "health": "degraded",
+   "latency_ms": 899,
+   "level": null
+  },
+  "жҪ®жөҒ": {
+   "name": "рҹҸңв”ғжҪ®жөҒв”ғAPP",
+   "health": "degraded",
+   "latency_ms": 903,
+   "level": null
+  },
+  "漫国": {
+   "name": "漫国丨动漫",
+   "health": "degraded",
+   "latency_ms": 942,
    "level": null
   },
   "光盘": {
@@ -6589,172 +7345,94 @@
    "latency_ms": 41,
    "level": "C0"
   },
-  "来看影视": {
-   "name": "[616ms|软件] 来看｜影视",
+  "五八": {
+   "name": "五八丨APP",
    "health": "degraded",
-   "latency_ms": 709,
+   "latency_ms": 990,
    "level": null
   },
-  "南枝": {
-   "name": "☘️┃南枝┃APP",
+  "线路5": {
+   "name": "🔥🔥首发",
    "health": "degraded",
-   "latency_ms": 709,
-   "level": null
-  },
-  "天天-4": {
-   "name": "天天|弹幕",
-   "health": "degraded",
-   "latency_ms": 719,
+   "latency_ms": 1019,
    "level": null
   },
   "广播迷": {
    "name": "♻️广播",
    "health": "degraded",
-   "latency_ms": 729,
+   "latency_ms": 1096,
    "level": null
   },
-  "漫国": {
-   "name": "漫国丨动漫",
+  "外剧": {
+   "name": "外剧丨APP",
    "health": "degraded",
-   "latency_ms": 770,
-   "level": null
-  },
-  "知年": {
-   "name": "📅┆知年┆APP",
-   "health": "degraded",
-   "latency_ms": 777,
-   "level": null
-  },
-  "葫芦": {
-   "name": "[448ms|【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 葫芦┃1080P",
-   "health": "degraded",
-   "latency_ms": 807,
-   "level": null
-  },
-  "csp_е°‘е„ҝ": {
-   "name": "рҹ“ҡв”ғе°‘е„ҝв”ғж•ҷиӮІ",
-   "health": "degraded",
-   "latency_ms": 813,
-   "level": null
-  },
-  "新首发": {
-   "name": "👻标清┃1080P",
-   "health": "degraded",
-   "latency_ms": 817,
-   "level": null
-  },
-  "如意": {
-   "name": "如意|采集",
-   "health": "degraded",
-   "latency_ms": 839,
-   "level": null
-  },
-  "拾光": {
-   "name": "拾光┃秒播APP",
-   "health": "degraded",
-   "latency_ms": 842,
-   "level": null
-  },
-  "csp_Xlys": {
-   "name": "[906ms|https://www.ls660.com/TV/feimao.json] 🏔️┃修罗┃磁力",
-   "health": "degraded",
-   "latency_ms": 881,
-   "level": null
-  },
-  "冷心": {
-   "name": "冷心｜APP",
-   "health": "degraded",
-   "latency_ms": 895,
-   "level": null
-  },
-  "sp_sp_农民影视": {
-   "name": "切片┃农民影视",
-   "health": "degraded",
-   "latency_ms": 959,
-   "level": null
-  },
-  "雪糕影视": {
-   "name": "雪糕影视🎦XB",
-   "health": "degraded",
-   "latency_ms": 1059,
-   "level": null
-  },
-  "热播之家": {
-   "name": "✅热播┃影视",
-   "health": "degraded",
-   "latency_ms": 1070,
-   "level": null
-  },
-  "听心99": {
-   "name": "☀听心🔹视频",
-   "health": "degraded",
-   "latency_ms": 1101,
-   "level": null
-  },
-  "иҚҗзүҮ": {
-   "name": "рҹҺ¬в”ғиҚҗзүҮв”ғеҪұи§Ҷ",
-   "health": "degraded",
-   "latency_ms": 1123,
-   "level": null
-  },
-  "热剧": {
-   "name": "热剧丨APP",
-   "health": "degraded",
-   "latency_ms": 1212,
-   "level": null
-  },
-  "首发-2": {
-   "name": "🚀首发",
-   "health": "degraded",
-   "latency_ms": 1287,
-   "level": null
-  },
-  "师兄": {
-   "name": "🐵师兄",
-   "health": "degraded",
-   "latency_ms": 1314,
-   "level": null
-  },
-  "王子-2": {
-   "name": "🍟王子",
-   "health": "degraded",
-   "latency_ms": 1365,
+   "latency_ms": 1159,
    "level": null
   },
   "嫖嫖嫖": {
    "name": "《嫖嫖🔹秒播》",
    "health": "degraded",
-   "latency_ms": 1428,
-   "level": null
-  },
-  "jarcai": {
-   "name": "文才|弹幕",
-   "health": "degraded",
-   "latency_ms": 1534,
-   "level": null
-  },
-  "布卡": {
-   "name": "[367ms|直播] 🧿布卡｜影视",
-   "health": "degraded",
-   "latency_ms": 1665,
-   "level": null
-  },
-  "追追": {
-   "name": "追追|弹幕",
-   "health": "degraded",
-   "latency_ms": 1705,
+   "latency_ms": 1367,
    "level": null
   },
   "歪比": {
    "name": "歪比巴卜",
    "health": "degraded",
-   "latency_ms": 1794,
+   "latency_ms": 1536,
+   "level": null
+  },
+  "如意": {
+   "name": "如意|采集",
+   "health": "degraded",
+   "latency_ms": 1563,
+   "level": null
+  },
+  "听心99": {
+   "name": "☀听心🔹视频",
+   "health": "degraded",
+   "latency_ms": 1618,
+   "level": null
+  },
+  "热剧": {
+   "name": "热剧丨APP",
+   "health": "degraded",
+   "latency_ms": 1644,
+   "level": null
+  },
+  "jarcai": {
+   "name": "文才|弹幕",
+   "health": "degraded",
+   "latency_ms": 1728,
+   "level": null
+  },
+  "sp_sp_农民影视": {
+   "name": "切片┃农民影视",
+   "health": "degraded",
+   "latency_ms": 1773,
+   "level": null
+  },
+  "布卡": {
+   "name": "[367ms|直播] 🧿布卡｜影视",
+   "health": "degraded",
+   "latency_ms": 1817,
+   "level": null
+  },
+  "热播之家": {
+   "name": "✅热播┃影视",
+   "health": "degraded",
+   "latency_ms": 1898,
    "level": null
   },
   "csp_sp_金牌影视": {
    "name": "爬虫┃金牌影视",
    "health": "degraded",
-   "latency_ms": 5338,
+   "latency_ms": 3447,
+   "level": null
+  },
+  "追追": {
+   "name": "追追|弹幕",
+   "health": "degraded",
+   "latency_ms": 3655,
    "level": null
   },
   "磁力": {
@@ -7390,7 +8068,7 @@
   "living": {
    "name": "[906ms|https://www.ls660.com/TV/feimao.json] 🐼┃游戏┃直播",
    "health": "dead",
-   "latency_ms": 10,
+   "latency_ms": 13,
    "level": null
   },
   "йҹ©еңҲ": {
@@ -7462,7 +8140,7 @@
   "csp_红狐狸影视": {
    "name": "《洪湖🔸秒播》",
    "health": "dead",
-   "latency_ms": 9582,
+   "latency_ms": 9493,
    "level": null
   },
   "HBYiQi": {
@@ -7492,13 +8170,19 @@
   "修罗": {
    "name": "修罗｜磁力",
    "health": "dead",
-   "latency_ms": 9244,
+   "latency_ms": 9690,
    "level": null
   },
   "HBqwKan": {
    "name": "全网|弹幕",
    "health": "dead",
    "latency_ms": null,
+   "level": null
+  },
+  "冷心": {
+   "name": "冷心｜APP",
+   "health": "dead",
+   "latency_ms": 8493,
    "level": null
   },
   "土豆-2": {
@@ -7510,7 +8194,7 @@
   "布雷": {
    "name": "布雷丨APP",
    "health": "dead",
-   "latency_ms": 601,
+   "latency_ms": 758,
    "level": null
   },
   "天天": {
@@ -7534,7 +8218,7 @@
   "旗星": {
    "name": "旗星｜APP",
    "health": "dead",
-   "latency_ms": 221,
+   "latency_ms": 432,
    "level": null
   },
   "无极99": {
@@ -7552,25 +8236,25 @@
   "暴风": {
    "name": "暴风|弹幕",
    "health": "dead",
-   "latency_ms": 8008,
+   "latency_ms": 8009,
    "level": null
   },
   "木兮影视": {
    "name": "木兮｜影视",
    "health": "dead",
-   "latency_ms": 464,
+   "latency_ms": 653,
    "level": null
   },
   "枫叶电影": {
    "name": "枫叶电影",
    "health": "dead",
-   "latency_ms": 337,
+   "latency_ms": 128,
    "level": null
   },
   "🌸樱花动漫": {
    "name": "樱花动漫",
    "health": "dead",
-   "latency_ms": 96,
+   "latency_ms": 50,
    "level": null
   },
   "橙子99": {
@@ -7585,6 +8269,12 @@
    "latency_ms": null,
    "level": null
   },
+  "HBBaoHuo": {
+   "name": "火火|弹幕",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "HBPianKu8": {
    "name": "片库|弹幕",
    "health": "dead",
@@ -7594,7 +8284,7 @@
   "猫爪": {
    "name": "猫爪｜APP",
    "health": "dead",
-   "latency_ms": 363,
+   "latency_ms": 401,
    "level": null
   },
   "HBGuaZi": {
@@ -7618,13 +8308,13 @@
   "若雪": {
    "name": "若雪丨APP",
    "health": "dead",
-   "latency_ms": 112,
+   "latency_ms": 31,
    "level": null
   },
   "jianpian": {
    "name": "荐片|弹幕",
    "health": "dead",
-   "latency_ms": 43,
+   "latency_ms": 46,
    "level": null
   },
   "落雨": {
@@ -7654,19 +8344,19 @@
   "追番99": {
    "name": "追番｜APP",
    "health": "dead",
-   "latency_ms": 73,
+   "latency_ms": 298,
    "level": null
   },
   "酷浪": {
    "name": "酷浪|弹幕",
    "health": "dead",
-   "latency_ms": 2991,
+   "latency_ms": 1902,
    "level": null
   },
   "顾我99": {
    "name": "顾我丨APP",
    "health": "dead",
-   "latency_ms": 8008,
+   "latency_ms": 8004,
    "level": null
   },
   "风铃": {
@@ -7708,7 +8398,7 @@
   "永乐APP": {
    "name": "🌺永乐 • FS",
    "health": "dead",
-   "latency_ms": 8031,
+   "latency_ms": 8018,
    "level": null
   },
   "csp_AppJg": {
@@ -7786,32 +8476,32 @@
   "耐看": {
    "name": "🕶┃耐看┃影视",
    "health": "dead",
-   "latency_ms": 347,
+   "latency_ms": 429,
    "level": null
   },
   "忍者": {
    "name": "🥷忍者┃蓝光┃弹幕",
    "health": "dead",
-   "latency_ms": 406,
+   "latency_ms": 26,
    "level": null
   },
   "疯狗": {
    "name": "🧿疯狗┃影视",
    "health": "dead",
-   "latency_ms": 8448,
+   "latency_ms": 8045,
+   "level": null
+  },
+  "yj": {
+   "name": "影视|哔嘀",
+   "health": "degraded",
+   "latency_ms": 110,
    "level": null
   },
   "MV_vod-2": {
    "name": "⚡┃明星┃MV",
    "health": "degraded",
-   "latency_ms": 83,
+   "latency_ms": 138,
    "level": null
-  },
-  "csp_SeedHub": {
-   "name": "🧲SeedHub",
-   "health": "degraded",
-   "latency_ms": 75,
-   "level": "C1"
   },
   "咕咕动漫": {
    "name": "咕咕 • 动漫",
@@ -7822,13 +8512,19 @@
   "W55Movie": {
    "name": "[3080ms|接口] 555电影",
    "health": "degraded",
-   "latency_ms": 144,
+   "latency_ms": 145,
    "level": null
   },
-  "yj": {
-   "name": "影视|哔嘀",
+  "csp_SeedHub": {
+   "name": "🧲SeedHub",
    "health": "degraded",
-   "latency_ms": 171,
+   "latency_ms": 75,
+   "level": "C1"
+  },
+  "myali": {
+   "name": "❤️｜我的┃阿里",
+   "health": "degraded",
+   "latency_ms": 181,
    "level": null
   },
   "csp_Ikanbot": {
@@ -7837,28 +8533,16 @@
    "latency_ms": 22876,
    "level": "C1"
   },
-  "BiliCzong": {
-   "name": "📚初中┃教育",
+  "哔哩哔哩演唱会": {
+   "name": "哔哩｜音乐",
    "health": "degraded",
-   "latency_ms": 220,
+   "latency_ms": 221,
    "level": null
   },
   "myuc": {
    "name": "❤️｜我的┃优囍",
    "health": "degraded",
-   "latency_ms": 225,
-   "level": null
-  },
-  "ChangZhang": {
-   "name": "[3080ms|接口] 厂长影视",
-   "health": "degraded",
-   "latency_ms": 248,
-   "level": null
-  },
-  "myali": {
-   "name": "❤️｜我的┃阿里",
-   "health": "degraded",
-   "latency_ms": 276,
+   "latency_ms": 326,
    "level": null
   },
   "即可": {
@@ -7867,10 +8551,10 @@
    "latency_ms": 90243,
    "level": "C1"
   },
-  "哔哩哔哩演唱会": {
-   "name": "哔哩｜音乐",
+  "ChangZhang": {
+   "name": "[3080ms|接口] 厂长影视",
    "health": "degraded",
-   "latency_ms": 363,
+   "latency_ms": 373,
    "level": null
   },
   "双星99": {
@@ -7891,88 +8575,82 @@
    "latency_ms": 2036,
    "level": "C2"
   },
+  "BiliCzong": {
+   "name": "📚初中┃教育",
+   "health": "degraded",
+   "latency_ms": 903,
+   "level": null
+  },
   "csp_高中": {
    "name": "📚┃高中┃课堂",
    "health": "degraded",
    "latency_ms": 1341,
    "level": "C1"
   },
-  "BiliSer": {
-   "name": "📚少儿┃教育",
+  "BiliXxue": {
+   "name": "📚小学┃教育",
    "health": "degraded",
-   "latency_ms": 807,
+   "latency_ms": 1022,
    "level": null
   },
   "BiliGzong": {
    "name": "📚高中┃教育",
    "health": "degraded",
-   "latency_ms": 812,
-   "level": null
-  },
-  "BiliXxue": {
-   "name": "📚小学┃教育",
-   "health": "degraded",
-   "latency_ms": 877,
+   "latency_ms": 1097,
    "level": null
   },
   "MTV-2": {
    "name": "🎧明星┃MV",
    "health": "degraded",
-   "latency_ms": 934,
+   "latency_ms": 1116,
    "level": null
   },
-  "BiliXiqu": {
-   "name": "🎉戏曲┃Bili",
+  "BiliSer": {
+   "name": "📚少儿┃教育",
    "health": "degraded",
-   "latency_ms": 963,
+   "latency_ms": 1139,
    "level": null
   },
   "版本信息": {
    "name": "版本｜信息",
    "health": "degraded",
-   "latency_ms": 1158,
-   "level": null
-  },
-  "BiliGequ": {
-   "name": "🎉歌曲┃Bili",
-   "health": "degraded",
-   "latency_ms": 1171,
-   "level": null
-  },
-  "GuaziLive": {
-   "name": "🏆瓜子体育",
-   "health": "degraded",
-   "latency_ms": 1299,
-   "level": null
-  },
-  "音乐": {
-   "name": "🎤音乐现场",
-   "health": "degraded",
-   "latency_ms": 1335,
+   "latency_ms": 1565,
    "level": null
   },
   "比特影视": {
    "name": "💰比特影视",
    "health": "degraded",
-   "latency_ms": 1431,
+   "latency_ms": 1968,
    "level": null
   },
   "配置": {
    "name": "⚔️｜配置｜中心",
    "health": "degraded",
-   "latency_ms": 1440,
+   "latency_ms": 2007,
    "level": null
   },
-  "Kanqiu": {
-   "name": "⚽┆看球┆体育",
+  "音乐": {
+   "name": "🎤音乐现场",
    "health": "degraded",
-   "latency_ms": 1855,
+   "latency_ms": 2142,
+   "level": null
+  },
+  "GuaziLive": {
+   "name": "🏆瓜子体育",
+   "health": "degraded",
+   "latency_ms": 2147,
    "level": null
   },
   "MjHggg": {
    "name": "🎬漫剧",
    "health": "degraded",
-   "latency_ms": 1970,
+   "latency_ms": 2152,
+   "level": null
+  },
+  "Kanqiu": {
+   "name": "⚽┆看球┆体育",
+   "health": "degraded",
+   "latency_ms": 2165,
    "level": null
   },
   "Lgyy": {
@@ -9346,7 +10024,7 @@
   "HkTv": {
    "name": "[3080ms|接口] TVB云播影视",
    "health": "dead",
-   "latency_ms": 32,
+   "latency_ms": 27,
    "level": null
   },
   "Zxzj": {
@@ -9394,7 +10072,7 @@
   "Xinsj": {
    "name": "♻️视觉",
    "health": "dead",
-   "latency_ms": 232,
+   "latency_ms": 47,
    "level": null
   },
   "88": {
@@ -9484,7 +10162,7 @@
   "應用商店": {
    "name": "應用商店",
    "health": "dead",
-   "latency_ms": 942,
+   "latency_ms": 736,
    "level": null
   },
   "戏曲多多": {
@@ -9538,7 +10216,7 @@
   "csp_xpath_huya": {
    "name": "虎牙(XP)",
    "health": "dead",
-   "latency_ms": 106,
+   "latency_ms": 228,
    "level": null
   },
   "蜻蜓FM": {
@@ -9550,7 +10228,13 @@
   "csp_xpath_kuqimv-2": {
    "name": "酷奇MV(XP)",
    "health": "dead",
-   "latency_ms": 66,
+   "latency_ms": 188,
+   "level": null
+  },
+  "Liangzi": {
+   "name": "量子影视",
+   "health": "unknown",
+   "latency_ms": null,
    "level": null
   },
   "酷狗": {
@@ -9571,6 +10255,12 @@
    "latency_ms": null,
    "level": null
   },
+  "Mtyy": {
+   "name": "麦田影院",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "P4_哔嘀": {
    "name": "️️💦┃哔嘀┃影视",
    "health": "degraded",
@@ -9580,67 +10270,79 @@
   "csp_bilirt": {
    "name": "🅱️┃儿童┃最爱",
    "health": "dead",
-   "latency_ms": 10009,
+   "latency_ms": 10016,
    "level": null
   },
   "csp_mtv": {
    "name": "🅱️┃哔哩┃MTV",
    "health": "dead",
-   "latency_ms": 10012,
+   "latency_ms": 10016,
    "level": null
   },
   "哔哩健身": {
    "name": "🅱️┃哔哩┃健身",
    "health": "dead",
-   "latency_ms": 10011,
+   "latency_ms": 10009,
    "level": null
   },
   "哔哩初中": {
    "name": "🅱️┃哔哩┃初中",
    "health": "dead",
-   "latency_ms": 10007,
+   "latency_ms": 9982,
    "level": null
   },
   "哔哩小学": {
    "name": "🅱️┃哔哩┃小学",
    "health": "dead",
-   "latency_ms": 10018,
+   "latency_ms": 9771,
    "level": null
   },
   "哔哩少儿": {
    "name": "🅱️┃哔哩┃少儿",
    "health": "dead",
-   "latency_ms": 10011,
+   "latency_ms": 9001,
    "level": null
   },
   "哔哩幼儿": {
    "name": "🅱️┃哔哩┃幼儿",
    "health": "dead",
-   "latency_ms": 10013,
+   "latency_ms": 8994,
    "level": null
   },
   "csp_Biliyy": {
    "name": "🅱️┃哔哩┃音乐",
    "health": "dead",
-   "latency_ms": 10013,
+   "latency_ms": 8963,
    "level": null
   },
   "哔哩高中": {
    "name": "🅱️┃哔哩┃高中",
    "health": "dead",
-   "latency_ms": 10008,
+   "latency_ms": 8885,
    "level": null
   },
   "csp_bilims": {
    "name": "🅱️┃喜欢┃美食",
    "health": "dead",
-   "latency_ms": 10012,
+   "latency_ms": 8673,
    "level": null
   },
   "BiliLive": {
    "name": "🌇｜哔哩｜直播",
    "health": "dead",
    "latency_ms": null,
+   "level": null
+  },
+  "BiliXiqu": {
+   "name": "🎉戏曲┃Bili",
+   "health": "dead",
+   "latency_ms": 8684,
+   "level": null
+  },
+  "BiliGequ": {
+   "name": "🎉歌曲┃Bili",
+   "health": "dead",
+   "latency_ms": 8405,
    "level": null
   },
   "聚合直播": {
@@ -9682,7 +10384,7 @@
   "酷奇MV": {
    "name": "🎸酷奇MV",
    "health": "dead",
-   "latency_ms": 12208,
+   "latency_ms": 8199,
    "level": null
   },
   "QiutongTY": {
@@ -9898,7 +10600,7 @@
   "玖卿乐播": {
    "name": "🧯玖卿乐播(优)",
    "health": "dead",
-   "latency_ms": 94,
+   "latency_ms": 336,
    "level": null
   },
   "csp_MeijuTT": {
@@ -9916,361 +10618,367 @@
   "drpy_js_Anime1动畫": {
    "name": "动漫 • Anime1动畫",
    "health": "degraded",
-   "latency_ms": 94,
+   "latency_ms": 106,
    "level": "D1"
+  },
+  "DRJS_虎牙": {
+   "name": "虎牙直播(JS)",
+   "health": "healthy",
+   "latency_ms": 1207,
+   "level": "D3"
   },
   "drpy_js_好趣网": {
    "name": "电视┃好趣网[js]",
    "health": "degraded",
-   "latency_ms": 508,
+   "latency_ms": 550,
    "level": "D2"
   },
-  "drpy_js_tzfile": {
-   "name": "团长[js]",
-   "health": "healthy",
-   "latency_ms": 2097,
-   "level": "D3"
-  },
-  "drpy_js_厂长资源": {
-   "name": "影视 | 厂长资源[js]",
-   "health": "degraded",
-   "latency_ms": 930,
-   "level": "D2"
-  },
-  "drpy_js_量子资源": {
-   "name": "影视 | 量子资源[js]",
-   "health": "degraded",
-   "latency_ms": 351,
-   "level": "D2"
-  },
-  "drpy_js_奇珍异兽": {
-   "name": "官源 • 爱奇艺",
-   "health": "healthy",
-   "latency_ms": 14726,
-   "level": "D5"
-  },
-  "drpy_js_DJ音乐": {
-   "name": "音频 • DJ音乐",
+  "drpy_js_蓝光影院": {
+   "name": "影视 | 蓝光影院[js]",
    "health": "dead",
-   "latency_ms": 1839,
-   "level": "D0"
-  },
-  "dr_iqiyi": {
-   "name": "🥝┃爱奇异(官)",
-   "health": "healthy",
-   "latency_ms": 13017,
-   "level": "D5"
-  },
-  "drpy_js_539影视": {
-   "name": "影视 | 539影视[js]",
-   "health": "dead",
-   "latency_ms": 475,
+   "latency_ms": 20033,
    "level": "D0"
   },
   "爱动漫_js": {
    "name": "💝爱┃动漫",
    "health": "degraded",
-   "latency_ms": 49497,
+   "latency_ms": 49615,
    "level": "D2"
   },
-  "drpy_js_188影视": {
-   "name": "影视 | 188影视[js]",
+  "drpy_js_539影视": {
+   "name": "影视 | 539影视[js]",
    "health": "dead",
-   "latency_ms": 1398,
-   "level": "D0"
-  },
-  "drpy_js_博看听书": {
-   "name": "听书 • 博看听书",
-   "health": "degraded",
-   "latency_ms": 1449,
-   "level": "D2"
-  },
-  "博看听书网": {
-   "name": "🅱️博看｜小说",
-   "health": "degraded",
-   "latency_ms": 1664,
-   "level": "D2"
-  },
-  "drpy_js_菜狗": {
-   "name": "官源 • 搜狗",
-   "health": "degraded",
-   "latency_ms": 1289,
-   "level": "D2"
-  },
-  "dr_搜狗": {
-   "name": "🚛┃搜狗(官)",
-   "health": "degraded",
-   "latency_ms": 1252,
-   "level": "D2"
-  },
-  "dr_奇珍异兽": {
-   "name": "🦍┃奇珍┃异兽",
-   "health": "healthy",
-   "latency_ms": 13311,
-   "level": "D5"
-  },
-  "js_a8音乐": {
-   "name": "🎸┃奥迪┃音乐",
-   "health": "dead",
-   "latency_ms": 14389,
-   "level": "D0"
-  },
-  "nangua": {
-   "name": "🎃┃南瓜┃影视",
-   "health": "degraded",
-   "latency_ms": 1844,
-   "level": "D1"
-  },
-  "drpy_js_A8音乐": {
-   "name": "音频 • A8音乐",
-   "health": "dead",
-   "latency_ms": 15950,
+   "latency_ms": 578,
    "level": "D0"
   },
   "虎牙直播": {
    "name": "《虎牙🐯直播》",
    "health": "healthy",
-   "latency_ms": 13379,
+   "latency_ms": 3907,
    "level": "D5"
   },
-  "畅梦": {
-   "name": "🍫畅梦┃秒播",
+  "drpy_js_量子资源": {
+   "name": "影视 | 量子资源[js]",
    "health": "degraded",
-   "latency_ms": 1849,
-   "level": "D1"
+   "latency_ms": 373,
+   "level": "D2"
   },
-  "drpy_js_南瓜影视": {
-   "name": "影视 | 南瓜影视[js]",
+  "drpy_js_厂长资源": {
+   "name": "影视 | 厂长资源[js]",
    "health": "degraded",
-   "latency_ms": 1936,
-   "level": "D1"
-  },
-  "drpy_js_喜马拉雅": {
-   "name": "听书 | 喜马拉雅 ",
-   "health": "dead",
-   "latency_ms": 1540,
-   "level": "D0"
-  },
-  "异世界": {
-   "name": "异世界",
-   "health": "degraded",
-   "latency_ms": 13945,
+   "latency_ms": 1211,
    "level": "D2"
   },
   "drpy_js_异世界动漫": {
    "name": "动漫 | 异世界动漫 ",
    "health": "degraded",
-   "latency_ms": 16164,
+   "latency_ms": 671,
    "level": "D2"
+  },
+  "drpy_js_tzfile": {
+   "name": "团长[js]",
+   "health": "healthy",
+   "latency_ms": 3374,
+   "level": "D3"
+  },
+  "drpy_js_188影视": {
+   "name": "影视 | 188影视[js]",
+   "health": "dead",
+   "latency_ms": 1389,
+   "level": "D0"
+  },
+  "drpy_js_喜马拉雅": {
+   "name": "听书 | 喜马拉雅 ",
+   "health": "dead",
+   "latency_ms": 2041,
+   "level": "D0"
+  },
+  "drpy_js_菜狗": {
+   "name": "官源 • 搜狗",
+   "health": "degraded",
+   "latency_ms": 1673,
+   "level": "D2"
+  },
+  "dr_iqiyi": {
+   "name": "🥝┃爱奇异(官)",
+   "health": "healthy",
+   "latency_ms": 15709,
+   "level": "D5"
+  },
+  "dr_奇珍异兽": {
+   "name": "🦍┃奇珍┃异兽",
+   "health": "healthy",
+   "latency_ms": 16030,
+   "level": "D5"
+  },
+  "dr_搜狗": {
+   "name": "🚛┃搜狗(官)",
+   "health": "degraded",
+   "latency_ms": 1527,
+   "level": "D2"
+  },
+  "drpy_js_奇珍异兽": {
+   "name": "官源 • 爱奇艺",
+   "health": "healthy",
+   "latency_ms": 16874,
+   "level": "D5"
+  },
+  "异世界": {
+   "name": "异世界",
+   "health": "degraded",
+   "latency_ms": 630,
+   "level": "D2"
+  },
+  "博看听书网": {
+   "name": "🅱️博看｜小说",
+   "health": "degraded",
+   "latency_ms": 2125,
+   "level": "D2"
+  },
+  "drpy_js_博看听书": {
+   "name": "听书 • 博看听书",
+   "health": "degraded",
+   "latency_ms": 2556,
+   "level": "D2"
+  },
+  "js_a8音乐": {
+   "name": "🎸┃奥迪┃音乐",
+   "health": "dead",
+   "latency_ms": 2522,
+   "level": "D0"
+  },
+  "drpy_js_A8音乐": {
+   "name": "音频 • A8音乐",
+   "health": "dead",
+   "latency_ms": 2814,
+   "level": "D0"
+  },
+  "drpy_js_DJ音乐": {
+   "name": "音频 • DJ音乐",
+   "health": "dead",
+   "latency_ms": 2637,
+   "level": "D0"
+  },
+  "畅梦": {
+   "name": "🍫畅梦┃秒播",
+   "health": "degraded",
+   "latency_ms": 1715,
+   "level": "D1"
+  },
+  "nangua": {
+   "name": "🎃┃南瓜┃影视",
+   "health": "degraded",
+   "latency_ms": 2285,
+   "level": "D1"
+  },
+  "drpy_js_南瓜影视": {
+   "name": "影视 | 南瓜影视[js]",
+   "health": "degraded",
+   "latency_ms": 1941,
+   "level": "D1"
   },
   "drpy_js_333影视": {
    "name": "影视 | 333影视[js]",
    "health": "dead",
-   "latency_ms": 53,
+   "latency_ms": 70,
    "level": "D0"
   },
   "js_大师兄": {
    "name": "🐵┃师兄┃影视",
    "health": "dead",
-   "latency_ms": 512,
+   "latency_ms": 706,
    "level": "D0"
   },
-  "DRJS_虎牙": {
-   "name": "虎牙直播(JS)",
+  "drpy_js_极影网": {
+   "name": "磁力 | 极影网[js]",
    "health": "degraded",
-   "latency_ms": 5415,
+   "latency_ms": 650,
    "level": "D2"
   },
   "js_czsapp": {
    "name": "🏭️┃厂长┃Js",
    "health": "degraded",
-   "latency_ms": 319,
+   "latency_ms": 532,
    "level": "D2"
-  },
-  "drpy_js_极影网": {
-   "name": "磁力 | 极影网[js]",
-   "health": "degraded",
-   "latency_ms": 557,
-   "level": "D2"
-  },
-  "斗鱼js": {
-   "name": "🐟斗鱼┃直播",
-   "health": "healthy",
-   "latency_ms": 1099,
-   "level": "D3"
   },
   "js_007": {
    "name": "🕵‍┃特工┃影视",
    "health": "dead",
-   "latency_ms": 1663,
+   "latency_ms": 1374,
    "level": "D0"
+  },
+  "斗鱼js": {
+   "name": "🐟斗鱼┃直播",
+   "health": "healthy",
+   "latency_ms": 1823,
+   "level": "D3"
   },
   "dr_低端": {
    "name": "🔥┃低端┃Js",
    "health": "dead",
-   "latency_ms": 85,
+   "latency_ms": 340,
    "level": "D0"
-  },
-  "drpy_js_ikanbot2": {
-   "name": "影视 | 爱看机器人2[js]",
-   "health": "degraded",
-   "latency_ms": 453,
-   "level": "D2"
   },
   "drpy_js_爱看机器人": {
    "name": "影视 | 爱看机器人[js]",
    "health": "degraded",
-   "latency_ms": 562,
+   "latency_ms": 190,
    "level": "D2"
+  },
+  "drpy_js_ikanbot2": {
+   "name": "影视 | 爱看机器人2[js]",
+   "health": "degraded",
+   "latency_ms": 632,
+   "level": "D2"
+  },
+  "Cat_荐片": {
+   "name": "☀鉴片🔹极速",
+   "health": "unknown",
+   "latency_ms": 144,
+   "level": "S0"
   },
   "js_武享吧": {
    "name": "🥎┃格斗┃直播",
    "health": "dead",
-   "latency_ms": 121,
+   "latency_ms": 173,
    "level": "D0"
-  },
-  "drpy_js_ikanbot3": {
-   "name": "影视 | 爱看机器人3[js]",
-   "health": "degraded",
-   "latency_ms": 311,
-   "level": "D2"
   },
   "cupfox_in": {
    "name": "茶杯狐 • cupfox.in",
    "health": "degraded",
-   "latency_ms": 769,
+   "latency_ms": 558,
    "level": "D2"
   },
-  "drpy_js_电影港": {
-   "name": "电影港[js]",
+  "drpy_js_ikanbot3": {
+   "name": "影视 | 爱看机器人3[js]",
    "health": "degraded",
-   "latency_ms": 238,
+   "latency_ms": 391,
    "level": "D2"
   },
   "js_Lib": {
    "name": "🍲┃Lib┃影视",
    "health": "dead",
-   "latency_ms": 420,
+   "latency_ms": 2359,
    "level": "D0"
+  },
+  "drpy_js_电影港": {
+   "name": "电影港[js]",
+   "health": "degraded",
+   "latency_ms": 445,
+   "level": "D2"
   },
   "js_骚火电影": {
    "name": "🔥┃骚火┃影视",
    "health": "degraded",
-   "latency_ms": 439,
+   "latency_ms": 403,
+   "level": "D2"
+  },
+  "dr_荐片": {
+   "name": "⏳┃荐片┃Js",
+   "health": "degraded",
+   "latency_ms": 1031,
+   "level": "D1"
+  },
+  "drpy_js_磁力熊[磁]": {
+   "name": "磁力 | 磁力熊[js]",
+   "health": "degraded",
+   "latency_ms": 1868,
+   "level": "D2"
+  },
+  "js_磁力熊": {
+   "name": "🐻‍贝尔磁力┃Js",
+   "health": "degraded",
+   "latency_ms": 825,
    "level": "D2"
   },
   "drpy_js_荐片": {
    "name": "影视 | 荐片[js]",
    "health": "degraded",
-   "latency_ms": 816,
+   "latency_ms": 799,
    "level": "D1"
-  },
-  "dr_荐片": {
-   "name": "⏳┃荐片┃Js",
-   "health": "degraded",
-   "latency_ms": 812,
-   "level": "D1"
-  },
-  "Cat_荐片": {
-   "name": "☀鉴片🔹极速",
-   "health": "unknown",
-   "latency_ms": 499,
-   "level": "S0"
-  },
-  "js_磁力熊": {
-   "name": "🐻‍贝尔磁力┃Js",
-   "health": "degraded",
-   "latency_ms": 1205,
-   "level": "D2"
-  },
-  "drpy_js_磁力熊[磁]": {
-   "name": "磁力 | 磁力熊[js]",
-   "health": "degraded",
-   "latency_ms": 1222,
-   "level": "D2"
-  },
-  "dr_童趣": {
-   "name": "🧗‍┃童趣┃播视",
-   "health": "degraded",
-   "latency_ms": 1723,
-   "level": "D2"
   },
   "哔站记录片": {
    "name": "🍬🅱哔站影视",
    "health": "unknown",
-   "latency_ms": 891,
+   "latency_ms": 995,
    "level": "S0"
   },
-  "drpy_js_xb6v": {
-   "name": "新版6v[js]",
+  "dr_童趣": {
+   "name": "🧗‍┃童趣┃播视",
    "health": "degraded",
-   "latency_ms": 2450,
+   "latency_ms": 1726,
    "level": "D2"
   },
   "js_6V": {
    "name": "✡️六维磁力┃Js",
    "health": "dead",
-   "latency_ms": 2488,
+   "latency_ms": 3022,
    "level": "D0"
   },
   "drpy_js_6V新版[磁]": {
    "name": "磁力 | 6V新版[js]",
    "health": "dead",
-   "latency_ms": 2568,
+   "latency_ms": 3006,
    "level": "D0"
+  },
+  "drpy_js_xb6v": {
+   "name": "新版6v[js]",
+   "health": "degraded",
+   "latency_ms": 2916,
+   "level": "D2"
   },
   "drpy_js_4KHDR": {
    "name": "4KHDR[js]",
    "health": "degraded",
-   "latency_ms": 25061,
+   "latency_ms": 25060,
    "level": "D2"
   },
   "drpy_js_MP4US": {
    "name": "MP4电影[js]",
    "health": "degraded",
-   "latency_ms": 502,
+   "latency_ms": 562,
    "level": "D2"
   },
   "NT动漫": {
    "name": "NT┃动漫",
    "health": "dead",
-   "latency_ms": 123,
+   "latency_ms": 39,
    "level": "D0"
   },
   "js_bzys": {
    "name": "🌋┃B站┃影视",
    "health": "dead",
-   "latency_ms": 15065,
+   "latency_ms": 15056,
    "level": "D0"
   },
   "js_555": {
    "name": "🌟┃三五┃影视",
    "health": "degraded",
-   "latency_ms": 506,
+   "latency_ms": 176,
    "level": "D1"
   },
   "js_Xinsj": {
    "name": "🐠┃视觉┃影院",
    "health": "dead",
-   "latency_ms": 15028,
+   "latency_ms": 15035,
    "level": "D0"
   },
   "js_农民": {
    "name": "👨‍🌾┃农民┃影视",
    "health": "dead",
-   "latency_ms": 720,
+   "latency_ms": 868,
    "level": "D0"
   },
   "js_电影先生": {
    "name": "🤵┃电影┃先生",
    "health": "dead",
-   "latency_ms": 686,
+   "latency_ms": 1046,
    "level": "D0"
   },
   "js_4KHDR": {
    "name": "🧲世界磁力┃Js",
    "health": "degraded",
-   "latency_ms": 25044,
+   "latency_ms": 25054,
    "level": "D2"
   },
   "58动漫网": {
@@ -10390,13 +11098,13 @@
   "hipy_js_360吧[球]": {
    "name": "⚽360吧[球]",
    "health": "degraded",
-   "latency_ms": 778,
+   "latency_ms": 455,
    "level": "D1"
   },
   "926tv[球]_js": {
    "name": "⚽926tv[球](drpy_t3)",
    "health": "degraded",
-   "latency_ms": 34,
+   "latency_ms": 43,
    "level": "D2"
   },
   "py_咖啡直播": {
@@ -10408,7 +11116,7 @@
   "TVB云播_js": {
    "name": "《云播🔹在线》",
    "health": "degraded",
-   "latency_ms": 843,
+   "latency_ms": 946,
    "level": "D2"
   },
   "py_七区-2": {
@@ -10750,31 +11458,31 @@
   "hipy_js_TVB云播": {
    "name": "🎦TVB云播(drpy_t3)",
    "health": "degraded",
-   "latency_ms": 814,
+   "latency_ms": 933,
    "level": "D2"
   },
   "hipy_js_哔哩影视[官]": {
    "name": "🎦哔哩影视[官](drpy_t3)",
    "health": "degraded",
-   "latency_ms": 885,
+   "latency_ms": 1142,
    "level": "D2"
   },
   "好趣网": {
    "name": "🎦好趣网",
    "health": "degraded",
-   "latency_ms": 515,
+   "latency_ms": 491,
    "level": "D2"
   },
   "hipy_js_黑木耳资源[资]": {
    "name": "🎦木耳资源",
    "health": "dead",
-   "latency_ms": 186,
+   "latency_ms": 168,
    "level": "D0"
   },
   "js_subaibai": {
    "name": "🎦白白影视",
    "health": "degraded",
-   "latency_ms": 448,
+   "latency_ms": 483,
    "level": "D2"
   },
   "贱贱": {
@@ -10804,7 +11512,7 @@
   "hipy_js_贝乐虎[儿]": {
    "name": "🐯贝乐虎[儿](drpy_t3)",
    "health": "degraded",
-   "latency_ms": 776,
+   "latency_ms": 1232,
    "level": "D1"
   },
   "7-3": {
@@ -10822,7 +11530,7 @@
   "宝片视频_js": {
    "name": "👨‍🍳‍宝片视频(drpy_t3)",
    "health": "dead",
-   "latency_ms": 190,
+   "latency_ms": 63,
    "level": "D0"
   },
   "皮皮虾_js": {
@@ -10843,796 +11551,808 @@
    "latency_ms": null,
    "level": "S0"
   },
+  "drpy_js_虎牙直播": {
+   "name": "直播┃虎牙[js]",
+   "health": "healthy",
+   "latency_ms": 2956,
+   "level": "D3"
+  },
   "drpy_js_大师兄影视": {
    "name": "起飞 | 大师兄影视[js]",
    "health": "dead",
-   "latency_ms": 567,
+   "latency_ms": 298,
    "level": "D0"
   },
-  "drpy_js_虎牙直播": {
-   "name": "直播┃虎牙[js]",
+  "drpy_js_美剧迷": {
+   "name": "磁力 | 美剧迷[js]",
    "health": "degraded",
-   "latency_ms": 6724,
+   "latency_ms": 40,
    "level": "D2"
   },
   "drpy_js_美剧迷p": {
    "name": "美剧迷[js]",
    "health": "degraded",
-   "latency_ms": 30,
-   "level": "D2"
-  },
-  "drpy_js_美剧迷": {
-   "name": "磁力 | 美剧迷[js]",
-   "health": "degraded",
-   "latency_ms": 26,
-   "level": "D2"
-  },
-  "cc": {
-   "name": "请勿相信视频中任何广告",
-   "health": "degraded",
-   "latency_ms": 913,
+   "latency_ms": 39,
    "level": "D2"
   },
   "bb": {
    "name": "配置接口完全免费",
    "health": "degraded",
-   "latency_ms": 924,
+   "latency_ms": 1076,
    "level": "D2"
   },
-  "drpy_js_欧乐影院[飞]": {
-   "name": "起飞 | 欧乐影院[js]",
-   "health": "dead",
-   "latency_ms": 643,
-   "level": "D0"
-  },
-  "drpy_js_鸭奈飞": {
-   "name": "鸭奈飞 ",
-   "health": "dead",
-   "latency_ms": 234,
-   "level": "D0"
-  },
-  "drpy_js_妮可动漫": {
-   "name": "动漫 | 妮可动漫 ",
+  "cc": {
+   "name": "请勿相信视频中任何广告",
    "health": "degraded",
-   "latency_ms": 191,
+   "latency_ms": 1080,
    "level": "D2"
   },
-  "drpy_js_花猫TV": {
-   "name": "影视 | 花猫TV[js]",
+  "drpy_js_KUBO影视[飞]": {
+   "name": "起飞 | KUBO影视[js]",
    "health": "dead",
-   "latency_ms": 199,
+   "latency_ms": 2006,
    "level": "D0"
   },
   "drpy_js_yyetsp": {
    "name": "人人搜[js]",
    "health": "healthy",
-   "latency_ms": 256,
+   "latency_ms": 302,
    "level": "D4"
   },
-  "drpy_js_Auete": {
-   "name": "影视 | Auete[js]",
-   "health": "dead",
-   "latency_ms": 59,
-   "level": "D0"
-  },
-  "drpy_js_爱迪[V2]": {
-   "name": "影视 | 爱迪[V2][js]",
+  "drpy_js_妮可动漫": {
+   "name": "动漫 | 妮可动漫 ",
    "health": "degraded",
-   "latency_ms": 5069,
-   "level": "D1"
-  },
-  "drpy_js_美剧网": {
-   "name": "影视 | 美剧网[js]",
-   "health": "dead",
-   "latency_ms": 566,
-   "level": "D0"
-  },
-  "drpy_js_蜥蜴影视": {
-   "name": "影视 | 蜥蜴影视[js]",
-   "health": "dead",
-   "latency_ms": 655,
-   "level": "D0"
-  },
-  "drpy_js_起飞影院": {
-   "name": "起飞 | 起飞影院[js]",
-   "health": "dead",
-   "latency_ms": 135,
-   "level": "D0"
-  },
-  "drpy_js_我的哔哩": {
-   "name": "弹幕┃我的哔哩[js]",
-   "health": "degraded",
-   "latency_ms": 1410,
-   "level": "D1"
-  },
-  "drpy_js_哔哩直播": {
-   "name": "弹幕┃哔哩直播[js]",
-   "health": "degraded",
-   "latency_ms": 1400,
-   "level": "D1"
-  },
-  "drpy_js_迷你库[V2]": {
-   "name": "迷你库[V2]",
-   "health": "degraded",
-   "latency_ms": 330,
-   "level": "D2"
-  },
-  "drpy_js_奈飞中文": {
-   "name": "影视 | 奈飞中文[js]",
-   "health": "dead",
-   "latency_ms": 892,
-   "level": "D0"
-  },
-  "drpy_js_思古影视": {
-   "name": "影视 | 思古影视",
-   "health": "dead",
-   "latency_ms": 375,
-   "level": "D0"
-  },
-  "斗鱼直播": {
-   "name": "《斗鱼🐟直播》",
-   "health": "healthy",
-   "latency_ms": 1099,
-   "level": "D3"
-  },
-  "drpy_js_看了么": {
-   "name": "影视 | 看了么[js]",
-   "health": "dead",
-   "latency_ms": 787,
-   "level": "D0"
-  },
-  "drpy_js_斗鱼直播": {
-   "name": "直播┃斗鱼[js]",
-   "health": "healthy",
-   "latency_ms": 1739,
-   "level": "D3"
-  },
-  "drpy_js_孜然影视": {
-   "name": "影视 | 孜然影视[js]",
-   "health": "dead",
-   "latency_ms": 618,
-   "level": "D0"
-  },
-  "drpy_js_低端": {
-   "name": "❤  低端 ",
-   "health": "dead",
-   "latency_ms": 93,
-   "level": "D0"
-  },
-  "drpy_js_快看": {
-   "name": "影视 | 快看[js]",
-   "health": "dead",
-   "latency_ms": 659,
-   "level": "D0"
-  },
-  "drpy_js_胖虎": {
-   "name": "起飞 | 胖虎[js]",
-   "health": "dead",
-   "latency_ms": 409,
-   "level": "D0"
-  },
-  "dr_360影视": {
-   "name": "📺┃360(官) ",
-   "health": "healthy",
-   "latency_ms": 4841,
-   "level": "D5"
-  },
-  "drpy_js_影视工场": {
-   "name": "影视 | 影视工场[js]",
-   "health": "dead",
-   "latency_ms": 1625,
-   "level": "D0"
-  },
-  "drpy_js_007影视": {
-   "name": "007影视 ",
-   "health": "dead",
-   "latency_ms": 1676,
-   "level": "D0"
-  },
-  "drpy_js_9U电影": {
-   "name": "9U电影 ",
-   "health": "dead",
-   "latency_ms": 643,
-   "level": "D0"
-  },
-  "drpy_js_网易公版影像": {
-   "name": "聚合 • 网易公版",
-   "health": "degraded",
-   "latency_ms": 1924,
+   "latency_ms": 256,
    "level": "D2"
   },
   "drpy_js_爱看影院": {
    "name": "影视 | 爱看影院[js]",
    "health": "dead",
-   "latency_ms": 116,
+   "latency_ms": 153,
    "level": "D0"
   },
-  "drpy_js_8号影院": {
-   "name": " 8号影院 ",
+  "drpy_js_胖虎": {
+   "name": "起飞 | 胖虎[js]",
    "health": "dead",
-   "latency_ms": 1089,
+   "latency_ms": 280,
+   "level": "D0"
+  },
+  "drpy_js_迷你库[V2]": {
+   "name": "迷你库[V2]",
+   "health": "degraded",
+   "latency_ms": 637,
+   "level": "D2"
+  },
+  "drpy_js_看了么": {
+   "name": "影视 | 看了么[js]",
+   "health": "dead",
+   "latency_ms": 2641,
+   "level": "D0"
+  },
+  "drpy_js_思古影视": {
+   "name": "影视 | 思古影视",
+   "health": "dead",
+   "latency_ms": 267,
+   "level": "D0"
+  },
+  "drpy_js_9U电影": {
+   "name": "9U电影 ",
+   "health": "dead",
+   "latency_ms": 325,
+   "level": "D0"
+  },
+  "drpy_js_孜然影视": {
+   "name": "影视 | 孜然影视[js]",
+   "health": "dead",
+   "latency_ms": 363,
+   "level": "D0"
+  },
+  "drpy_js_爱迪[V2]": {
+   "name": "影视 | 爱迪[V2][js]",
+   "health": "degraded",
+   "latency_ms": 5072,
+   "level": "D1"
+  },
+  "drpy_js_鸭奈飞": {
+   "name": "鸭奈飞 ",
+   "health": "dead",
+   "latency_ms": 371,
+   "level": "D0"
+  },
+  "drpy_js_花猫TV": {
+   "name": "影视 | 花猫TV[js]",
+   "health": "dead",
+   "latency_ms": 275,
+   "level": "D0"
+  },
+  "drpy_js_欧乐影院[飞]": {
+   "name": "起飞 | 欧乐影院[js]",
+   "health": "dead",
+   "latency_ms": 1140,
+   "level": "D0"
+  },
+  "drpy_js_奈飞中文": {
+   "name": "影视 | 奈飞中文[js]",
+   "health": "dead",
+   "latency_ms": 850,
+   "level": "D0"
+  },
+  "斗鱼直播": {
+   "name": "《斗鱼🐟直播》",
+   "health": "healthy",
+   "latency_ms": 922,
+   "level": "D3"
+  },
+  "drpy_js_我的哔哩": {
+   "name": "弹幕┃我的哔哩[js]",
+   "health": "degraded",
+   "latency_ms": 1194,
+   "level": "D1"
+  },
+  "drpy_js_哔哩直播": {
+   "name": "弹幕┃哔哩直播[js]",
+   "health": "degraded",
+   "latency_ms": 1125,
+   "level": "D1"
+  },
+  "drpy_js_美剧网": {
+   "name": "影视 | 美剧网[js]",
+   "health": "dead",
+   "latency_ms": 926,
+   "level": "D0"
+  },
+  "drpy_js_Auete": {
+   "name": "影视 | Auete[js]",
+   "health": "dead",
+   "latency_ms": 36,
+   "level": "D0"
+  },
+  "drpy_js_蜥蜴影视": {
+   "name": "影视 | 蜥蜴影视[js]",
+   "health": "dead",
+   "latency_ms": 1054,
+   "level": "D0"
+  },
+  "drpy_js_起飞影院": {
+   "name": "起飞 | 起飞影院[js]",
+   "health": "dead",
+   "latency_ms": 58,
+   "level": "D0"
+  },
+  "drpy_js_影视工场": {
+   "name": "影视 | 影视工场[js]",
+   "health": "dead",
+   "latency_ms": 1103,
+   "level": "D0"
+  },
+  "drpy_js_007影视": {
+   "name": "007影视 ",
+   "health": "dead",
+   "latency_ms": 1095,
+   "level": "D0"
+  },
+  "drpy_js_低端": {
+   "name": "❤  低端 ",
+   "health": "dead",
+   "latency_ms": 346,
+   "level": "D0"
+  },
+  "drpy_js_快看": {
+   "name": "影视 | 快看[js]",
+   "health": "dead",
+   "latency_ms": 896,
    "level": "D0"
   },
   "drpy_js_星辰影院": {
    "name": "影视 | 星辰影院[js]",
    "health": "dead",
-   "latency_ms": 2073,
+   "latency_ms": 1451,
+   "level": "D0"
+  },
+  "drpy_js_斗鱼直播": {
+   "name": "直播┃斗鱼[js]",
+   "health": "healthy",
+   "latency_ms": 1500,
+   "level": "D3"
+  },
+  "dr_360影视": {
+   "name": "📺┃360(官) ",
+   "health": "healthy",
+   "latency_ms": 6036,
+   "level": "D5"
+  },
+  "drpy_js_网易公版影像": {
+   "name": "聚合 • 网易公版",
+   "health": "degraded",
+   "latency_ms": 2518,
+   "level": "D2"
+  },
+  "drpy_js_8号影院": {
+   "name": " 8号影院 ",
+   "health": "dead",
+   "latency_ms": 1017,
    "level": "D0"
   },
   "追剧弹幕": {
    "name": "《追剧🔹弹幕》",
    "health": "degraded",
-   "latency_ms": 5591,
-   "level": "D1"
-  },
-  "drpy_js_18哈": {
-   "name": "影视 | 18哈[js]",
-   "health": "degraded",
-   "latency_ms": 127,
+   "latency_ms": 3417,
    "level": "D1"
   },
   "drpy_js_武享吧": {
    "name": "格斗 | 武享吧[js]",
    "health": "dead",
-   "latency_ms": 120,
+   "latency_ms": 145,
    "level": "D0"
   },
   "drpy_js_69美剧[V2]": {
    "name": "影视 | 69美剧[V2]",
    "health": "degraded",
-   "latency_ms": 163,
+   "latency_ms": 263,
    "level": "D2"
   },
-  "drpy_js_中国人": {
-   "name": "影视 | 中国人[js]",
-   "health": "dead",
-   "latency_ms": 68,
-   "level": "D0"
-  },
-  "drpy_js_UrleBird[飞]": {
-   "name": "影视 | UrleBird[飞][js]",
-   "health": "healthy",
-   "latency_ms": 205,
-   "level": "D5"
-  },
-  "drpy_js_69美剧": {
-   "name": "影视 | 69美剧[js]",
-   "health": "dead",
-   "latency_ms": 270,
-   "level": "D0"
-  },
-  "drpy_js_4k剧院": {
-   "name": "影视 | 4k剧院[js]",
-   "health": "dead",
-   "latency_ms": 128,
-   "level": "D0"
-  },
-  "drpy_js_追剧迷": {
-   "name": "影视 | 追剧迷[js]",
-   "health": "dead",
-   "latency_ms": 127,
-   "level": "D0"
-  },
-  "drpy_js_楚门影院": {
-   "name": "影视 | 楚门影院[js]",
-   "health": "dead",
-   "latency_ms": 168,
-   "level": "D0"
+  "drpy_js_18哈": {
+   "name": "影视 | 18哈[js]",
+   "health": "degraded",
+   "latency_ms": 87,
+   "level": "D1"
   },
   "drpy_js_中国人线上看": {
    "name": "影视 | 中国人线上看[js]",
    "health": "dead",
-   "latency_ms": 71,
-   "level": "D0"
-  },
-  "drpy_js_小宝影院[飞]": {
-   "name": "起飞 | 小宝影院[js]",
-   "health": "dead",
-   "latency_ms": 161,
+   "latency_ms": 97,
    "level": "D0"
   },
   "drpy_js_去看吧": {
    "name": "动漫 • 去看吧",
    "health": "dead",
-   "latency_ms": 204,
+   "latency_ms": 168,
    "level": "D0"
-  },
-  "drpy_js_rrdyw": {
-   "name": "rrdyw[js]",
-   "health": "degraded",
-   "latency_ms": 184,
-   "level": "D2"
   },
   "drpy_js_热播之家": {
    "name": "影视 | 热播之家[js]",
    "health": "dead",
-   "latency_ms": 1486,
+   "latency_ms": 1512,
    "level": "D0"
   },
-  "drpy_js_美视网": {
-   "name": "影视 | 美视网[js]",
+  "drpy_js_4k剧院": {
+   "name": "影视 | 4k剧院[js]",
    "health": "dead",
-   "latency_ms": 174,
+   "latency_ms": 163,
+   "level": "D0"
+  },
+  "drpy_js_中国人": {
+   "name": "影视 | 中国人[js]",
+   "health": "dead",
+   "latency_ms": 85,
+   "level": "D0"
+  },
+  "drpy_js_小宝影院[飞]": {
+   "name": "起飞 | 小宝影院[js]",
+   "health": "dead",
+   "latency_ms": 235,
+   "level": "D0"
+  },
+  "drpy_js_楚门影院": {
+   "name": "影视 | 楚门影院[js]",
+   "health": "dead",
+   "latency_ms": 180,
+   "level": "D0"
+  },
+  "drpy_js_69美剧": {
+   "name": "影视 | 69美剧[js]",
+   "health": "dead",
+   "latency_ms": 176,
    "level": "D0"
   },
   "drpy_js_人人影视": {
    "name": "影视 | 人人影视[js]",
    "health": "dead",
-   "latency_ms": 268,
+   "latency_ms": 263,
    "level": "D0"
   },
-  "drpy_js_KUBO影视[飞]": {
-   "name": "起飞 | KUBO影视[js]",
+  "drpy_js_rrdyw": {
+   "name": "rrdyw[js]",
+   "health": "degraded",
+   "latency_ms": 165,
+   "level": "D2"
+  },
+  "drpy_js_UrleBird[飞]": {
+   "name": "影视 | UrleBird[飞][js]",
+   "health": "healthy",
+   "latency_ms": 218,
+   "level": "D5"
+  },
+  "drpy_js_i275听书": {
+   "name": "听书┃i275听书[js]",
+   "health": "degraded",
+   "latency_ms": 285,
+   "level": "D2"
+  },
+  "drpy_js_美视网": {
+   "name": "影视 | 美视网[js]",
    "health": "dead",
-   "latency_ms": 537,
+   "latency_ms": 246,
+   "level": "D0"
+  },
+  "drpy_js_追剧迷": {
+   "name": "影视 | 追剧迷[js]",
+   "health": "dead",
+   "latency_ms": 144,
+   "level": "D0"
+  },
+  "drpy_js_电影先生": {
+   "name": "影视 | 电影先生[js]",
+   "health": "dead",
+   "latency_ms": 112,
+   "level": "D0"
+  },
+  "drpy_js_奇妙搜[夸]": {
+   "name": "奇妙搜[js]",
+   "health": "dead",
+   "latency_ms": 231,
    "level": "D0"
   },
   "drpy_js_AnFuns": {
    "name": "动漫┃AnFuns[js]",
    "health": "dead",
-   "latency_ms": 393,
-   "level": "D0"
-  },
-  "anfuns": {
-   "name": "ANF动漫",
-   "health": "dead",
-   "latency_ms": 504,
-   "level": "D0"
-  },
-  "drpy_js_校长影视": {
-   "name": "校长[js]",
-   "health": "degraded",
-   "latency_ms": 430,
-   "level": "D2"
-  },
-  "drpy_js_奇妙搜[夸]": {
-   "name": "奇妙搜[js]",
-   "health": "dead",
-   "latency_ms": 274,
+   "latency_ms": 516,
    "level": "D0"
   },
   "drpy_js_哔嘀影视": {
    "name": "影视 | 哔嘀影视[js]",
    "health": "degraded",
-   "latency_ms": 374,
+   "latency_ms": 576,
    "level": "D2"
   },
-  "drpy_js_电影先生": {
-   "name": "影视 | 电影先生[js]",
+  "anfuns": {
+   "name": "ANF动漫",
    "health": "dead",
-   "latency_ms": 158,
+   "latency_ms": 496,
    "level": "D0"
   },
-  "drpy_js_i275听书": {
-   "name": "听书┃i275听书[js]",
+  "drpy_js_映迷[V2]": {
+   "name": "影视 | 映迷[V2]",
    "health": "degraded",
-   "latency_ms": 302,
-   "level": "D2"
-  },
-  "drpy_js_爱壹帆[飞]": {
-   "name": "起飞 | 爱壹帆[js]",
-   "health": "dead",
-   "latency_ms": 546,
-   "level": "D0"
-  },
-  "drpy_js_爱弹幕": {
-   "name": "动漫 | 爱弹幕[js]",
-   "health": "dead",
-   "latency_ms": 388,
-   "level": "D0"
-  },
-  "360吧": {
-   "name": "《360⚽球吧》",
-   "health": "degraded",
-   "latency_ms": 558,
+   "latency_ms": 377,
    "level": "D1"
   },
-  "闪雷": {
-   "name": "闪雷 • MP4",
-   "health": "healthy",
-   "latency_ms": 2539,
-   "level": "D3"
-  },
-  "drpy_js_路漫漫": {
-   "name": "动漫 • 路漫漫",
+  "drpy_js_校长影视": {
+   "name": "校长[js]",
    "health": "degraded",
-   "latency_ms": 138,
-   "level": "D2"
-  },
-  "drpy_js_云播影院": {
-   "name": "云播影院 ",
-   "health": "degraded",
-   "latency_ms": 831,
-   "level": "D2"
-  },
-  "drpy_js_TVB云播": {
-   "name": "影视 | TVB云播[js]",
-   "health": "degraded",
-   "latency_ms": 873,
-   "level": "D2"
-  },
-  "drpy_js_落攻阁影视": {
-   "name": "影视 | 落攻阁影视[js]",
-   "health": "degraded",
-   "latency_ms": 161,
-   "level": "D1"
-  },
-  "drpy_js_爱车MV": {
-   "name": "MV | 爱车MV[js]",
-   "health": "dead",
-   "latency_ms": 440,
-   "level": "D0"
-  },
-  "drpy_js_达达龟": {
-   "name": "影视 | 达达龟[js]",
-   "health": "dead",
-   "latency_ms": 48928,
-   "level": "D0"
-  },
-  "妮可": {
-   "name": "妮可动漫",
-   "health": "degraded",
-   "latency_ms": 1796,
-   "level": "D2"
-  },
-  "dr_腾云驾雾": {
-   "name": "☁️┃腾云┃驾雾",
-   "health": "degraded",
-   "latency_ms": 919,
-   "level": "D2"
-  },
-  "drpy_js_映迷影院": {
-   "name": "影视 | 映迷影院[js]",
-   "health": "dead",
-   "latency_ms": 270,
-   "level": "D0"
-  },
-  "drpy_js_吼吼[V2]": {
-   "name": "影视 | 吼吼[V2]",
-   "health": "degraded",
-   "latency_ms": 163,
-   "level": "D1"
-  },
-  "drpy_js_meow": {
-   "name": "meow搜[js]",
-   "health": "dead",
-   "latency_ms": 183,
-   "level": "D0"
-  },
-  "drpy_js_影探[V2]": {
-   "name": "影视 | 影探[V2]",
-   "health": "degraded",
-   "latency_ms": 1081,
-   "level": "D1"
-  },
-  "drpy_js_腾云驾雾": {
-   "name": "官源 • 腾讯",
-   "health": "healthy",
-   "latency_ms": 3941,
-   "level": "D5"
-  },
-  "drpy_js_kuba": {
-   "name": "酷吧[js]",
-   "health": "degraded",
-   "latency_ms": 814,
+   "latency_ms": 330,
    "level": "D2"
   },
   "drpy_js_落攻阁影视[V2]": {
    "name": "影视 | 落攻阁影视[V2]",
    "health": "degraded",
-   "latency_ms": 804,
+   "latency_ms": 1247,
    "level": "D1"
   },
-  "drpy_js_LIBVIO": {
-   "name": "影视 | LIBVIO[js]",
-   "health": "dead",
-   "latency_ms": 411,
-   "level": "D0"
-  },
-  "drpy_js_骚火电影": {
-   "name": "影视 | 骚火电影[js]",
+  "360吧": {
+   "name": "《360⚽球吧》",
    "health": "degraded",
-   "latency_ms": 274,
-   "level": "D2"
-  },
-  "drpy_js_蛋蛋剧": {
-   "name": "影视 | 蛋蛋剧[js]",
-   "health": "dead",
-   "latency_ms": 584,
-   "level": "D0"
-  },
-  "drpy_js_怡萱动漫": {
-   "name": "动漫 | 怡萱动漫[js]",
-   "health": "degraded",
-   "latency_ms": 44,
+   "latency_ms": 313,
    "level": "D1"
-  },
-  "妮可动漫": {
-   "name": "妮可动漫",
-   "health": "degraded",
-   "latency_ms": 1966,
-   "level": "D2"
   },
   "cat_骚火": {
    "name": "☀骚火🔹视频",
    "health": "unknown",
-   "latency_ms": 515,
+   "latency_ms": 352,
    "level": "S0"
   },
-  "drpy_js_映迷[V2]": {
-   "name": "影视 | 映迷[V2]",
-   "health": "degraded",
-   "latency_ms": 898,
-   "level": "D1"
-  },
-  "drpy_js_宝片[V2]": {
-   "name": "影视 | 宝片[V2]",
-   "health": "degraded",
-   "latency_ms": 1152,
-   "level": "D1"
-  },
-  "dr_百忙无果": {
-   "name": "🍋┃百忙┃无果",
-   "health": "degraded",
-   "latency_ms": 1654,
-   "level": "D2"
-  },
-  "drpy_js_348电影网": {
-   "name": "影视 | 348电影网[js]",
+  "drpy_js_爱壹帆[飞]": {
+   "name": "起飞 | 爱壹帆[js]",
    "health": "dead",
-   "latency_ms": 1068,
+   "latency_ms": 828,
    "level": "D0"
   },
-  "drpy_js_童趣": {
-   "name": "少儿┃童趣[js]",
-   "health": "degraded",
-   "latency_ms": 1347,
-   "level": "D2"
-  },
-  "cat_旺旺网": {
-   "name": "☀旺旺🔹视频",
-   "health": "unknown",
-   "latency_ms": 593,
-   "level": "S0"
-  },
-  "drpy_js_相声随身听": {
-   "name": "相声┃相声随身听[js]",
+  "drpy_js_爱车MV": {
+   "name": "MV | 爱车MV[js]",
    "health": "dead",
-   "latency_ms": 787,
+   "latency_ms": 457,
    "level": "D0"
   },
-  "drpy_js_广播迷FM": {
-   "name": "广播┃广播迷FM[js]",
-   "health": "degraded",
-   "latency_ms": 1933,
-   "level": "D2"
-  },
-  "drpy_js_百忙无果": {
-   "name": "官源 • 芒果",
-   "health": "degraded",
-   "latency_ms": 2016,
-   "level": "D2"
+  "drpy_js_meow": {
+   "name": "meow搜[js]",
+   "health": "dead",
+   "latency_ms": 116,
+   "level": "D0"
   },
   "dr_mgtv": {
    "name": "🥭┃芒果(官)",
    "health": "degraded",
-   "latency_ms": 1922,
+   "latency_ms": 1196,
    "level": "D2"
   },
-  "个影": {
-   "name": "🌀个影｜1920",
-   "health": "unknown",
-   "latency_ms": 637,
-   "level": "S0"
-  },
-  "cat体育聚合": {
-   "name": "⚽聚合🔹球赛",
-   "health": "unknown",
-   "latency_ms": 647,
-   "level": "S0"
-  },
-  "drpy_js_评书随身听": {
-   "name": "评书┃评书随身听[js]",
-   "health": "dead",
-   "latency_ms": 672,
-   "level": "D0"
-  },
-  "drpy_js_乐鱼影视": {
-   "name": "影视 | 乐鱼影视[js]",
+  "drpy_js_路漫漫": {
+   "name": "动漫 • 路漫漫",
    "health": "degraded",
-   "latency_ms": 82,
+   "latency_ms": 169,
    "level": "D2"
   },
-  "cat咖啡体育": {
-   "name": "⚽咖啡🔹球赛",
-   "health": "unknown",
-   "latency_ms": 691,
-   "level": "S0"
-  },
-  "drpy_js_首播影院": {
-   "name": "影视 | 首播影院[js]",
-   "health": "dead",
-   "latency_ms": 1142,
-   "level": "D0"
-  },
-  "drpy_js_哔哩影视": {
-   "name": "弹幕 | 哔哩影视[js]",
-   "health": "degraded",
-   "latency_ms": 912,
-   "level": "D2"
-  },
-  "怡萱动漫": {
-   "name": "怡萱动漫",
-   "health": "degraded",
-   "latency_ms": 465,
-   "level": "D2"
-  },
-  "cat蜘蛛体育": {
-   "name": "⚽蜘蛛🔹球赛",
-   "health": "unknown",
-   "latency_ms": 813,
-   "level": "S0"
-  },
-  "cat_剧迷网": {
-   "name": "☀剧迷🔹视频",
-   "health": "unknown",
-   "latency_ms": 904,
-   "level": "S0"
-  },
-  "drpy_js_兔小贝": {
-   "name": "少儿┃兔小贝[js]",
+  "闪雷": {
+   "name": "闪雷 • MP4",
    "health": "healthy",
-   "latency_ms": 3629,
-   "level": "D4"
+   "latency_ms": 2173,
+   "level": "D3"
   },
-  "drpy_js_网飞.TV": {
-   "name": "影视 | 网飞.TV[js]",
-   "health": "dead",
-   "latency_ms": 1378,
-   "level": "D0"
-  },
-  "drpy_js_dydhhy": {
-   "name": "dydhhy[js]",
+  "drpy_js_百忙无果": {
+   "name": "官源 • 芒果",
    "health": "degraded",
-   "latency_ms": 1114,
+   "latency_ms": 1243,
    "level": "D2"
   },
-  "drpy_js_jsapi2": {
-   "name": "影视 | 百度测试[js]",
+  "drpy_js_云播影院": {
+   "name": "云播影院 ",
    "health": "degraded",
-   "latency_ms": 5,
+   "latency_ms": 967,
    "level": "D2"
   },
-  "剧圈圈": {
-   "name": "《剧圈🔹影院》",
-   "health": "dead",
-   "latency_ms": 53079,
-   "level": "D0"
-  },
-  "drpy_js_酷云77": {
-   "name": "影视 | 酷云77[js]",
+  "drpy_js_TVB云播": {
+   "name": "影视 | TVB云播[js]",
    "health": "degraded",
-   "latency_ms": 2293,
-   "level": "D1"
-  },
-  "drpy_js_两个BT": {
-   "name": "影视 | 两个BT[js]",
-   "health": "degraded",
-   "latency_ms": 1469,
+   "latency_ms": 984,
    "level": "D2"
   },
-  "drpy_js_飞兔影视": {
-   "name": "影视 | 飞兔影视[js]",
+  "drpy_js_动漫岛": {
+   "name": "动漫岛",
    "health": "dead",
-   "latency_ms": 2606,
+   "latency_ms": 867,
    "level": "D0"
   },
-  "cat_非凡网": {
-   "name": "☀非凡🔹影視",
-   "health": "unknown",
-   "latency_ms": 1493,
-   "level": "S0"
-  },
-  "drpy_js_看韩剧": {
-   "name": " 看韩剧 ",
+  "drpy_js_兰花影院": {
+   "name": "起飞 | 兰花影院[js]",
    "health": "dead",
-   "latency_ms": 30030,
+   "latency_ms": 1064,
+   "level": "D0"
+  },
+  "dr_百忙无果": {
+   "name": "🍋┃百忙┃无果",
+   "health": "degraded",
+   "latency_ms": 1551,
+   "level": "D2"
+  },
+  "drpy_js_kuba": {
+   "name": "酷吧[js]",
+   "health": "degraded",
+   "latency_ms": 1050,
+   "level": "D2"
+  },
+  "drpy_js_达达龟": {
+   "name": "影视 | 达达龟[js]",
+   "health": "dead",
+   "latency_ms": 50304,
    "level": "D0"
   },
   "dr_qq": {
    "name": "🐧┃腾讯(官)",
    "health": "degraded",
-   "latency_ms": 2345,
+   "latency_ms": 1192,
    "level": "D2"
   },
-  "drpy_js_南柯电影": {
-   "name": " 南柯电影 ",
+  "drpy_js_LIBVIO": {
+   "name": "影视 | LIBVIO[js]",
    "health": "dead",
-   "latency_ms": 1478,
+   "latency_ms": 1172,
    "level": "D0"
   },
-  "dr_youku": {
-   "name": "🥔┃优酷(官)",
+  "怡萱动漫": {
+   "name": "怡萱动漫",
    "health": "degraded",
-   "latency_ms": 742,
+   "latency_ms": 359,
+   "level": "D2"
+  },
+  "drpy_js_吼吼[V2]": {
+   "name": "影视 | 吼吼[V2]",
+   "health": "degraded",
+   "latency_ms": 103,
    "level": "D1"
   },
-  "drpy_js_动漫岛": {
-   "name": "动漫岛",
+  "drpy_js_骚火电影": {
+   "name": "影视 | 骚火电影[js]",
+   "health": "degraded",
+   "latency_ms": 405,
+   "level": "D2"
+  },
+  "drpy_js_爱弹幕": {
+   "name": "动漫 | 爱弹幕[js]",
    "health": "dead",
-   "latency_ms": 748,
+   "latency_ms": 499,
    "level": "D0"
+  },
+  "drpy_js_蛋蛋剧": {
+   "name": "影视 | 蛋蛋剧[js]",
+   "health": "dead",
+   "latency_ms": 719,
+   "level": "D0"
+  },
+  "drpy_js_哔哩影视": {
+   "name": "弹幕 | 哔哩影视[js]",
+   "health": "degraded",
+   "latency_ms": 910,
+   "level": "D2"
+  },
+  "drpy_js_落攻阁影视": {
+   "name": "影视 | 落攻阁影视[js]",
+   "health": "degraded",
+   "latency_ms": 582,
+   "level": "D1"
+  },
+  "drpy_js_飞兔影视": {
+   "name": "影视 | 飞兔影视[js]",
+   "health": "dead",
+   "latency_ms": 2093,
+   "level": "D0"
+  },
+  "drpy_js_影探[V2]": {
+   "name": "影视 | 影探[V2]",
+   "health": "degraded",
+   "latency_ms": 1331,
+   "level": "D1"
+  },
+  "妮可动漫": {
+   "name": "妮可动漫",
+   "health": "degraded",
+   "latency_ms": 1658,
+   "level": "D2"
+  },
+  "drpy_js_怡萱动漫": {
+   "name": "动漫 | 怡萱动漫[js]",
+   "health": "degraded",
+   "latency_ms": 234,
+   "level": "D1"
+  },
+  "妮可": {
+   "name": "妮可动漫",
+   "health": "degraded",
+   "latency_ms": 2098,
+   "level": "D2"
+  },
+  "drpy_js_映迷影院": {
+   "name": "影视 | 映迷影院[js]",
+   "health": "dead",
+   "latency_ms": 840,
+   "level": "D0"
+  },
+  "drpy_js_童趣": {
+   "name": "少儿┃童趣[js]",
+   "health": "degraded",
+   "latency_ms": 1528,
+   "level": "D2"
+  },
+  "drpy_js_348电影网": {
+   "name": "影视 | 348电影网[js]",
+   "health": "dead",
+   "latency_ms": 1402,
+   "level": "D0"
+  },
+  "drpy_js_评书随身听": {
+   "name": "评书┃评书随身听[js]",
+   "health": "dead",
+   "latency_ms": 974,
+   "level": "D0"
+  },
+  "drpy_js_乐鱼影视": {
+   "name": "影视 | 乐鱼影视[js]",
+   "health": "degraded",
+   "latency_ms": 137,
+   "level": "D2"
+  },
+  "drpy_js_相声随身听": {
+   "name": "相声┃相声随身听[js]",
+   "health": "dead",
+   "latency_ms": 959,
+   "level": "D0"
+  },
+  "drpy_js_广播迷FM": {
+   "name": "广播┃广播迷FM[js]",
+   "health": "degraded",
+   "latency_ms": 2512,
+   "level": "D2"
+  },
+  "drpy_js_网飞.TV": {
+   "name": "影视 | 网飞.TV[js]",
+   "health": "dead",
+   "latency_ms": 253,
+   "level": "D0"
+  },
+  "cat咖啡体育": {
+   "name": "⚽咖啡🔹球赛",
+   "health": "unknown",
+   "latency_ms": 923,
+   "level": "S0"
+  },
+  "个影": {
+   "name": "🌀个影｜1920",
+   "health": "unknown",
+   "latency_ms": 932,
+   "level": "S0"
+  },
+  "cat_旺旺网": {
+   "name": "☀旺旺🔹视频",
+   "health": "unknown",
+   "latency_ms": 972,
+   "level": "S0"
+  },
+  "drpy_js_dydhhy": {
+   "name": "dydhhy[js]",
+   "health": "degraded",
+   "latency_ms": 1289,
+   "level": "D2"
+  },
+  "drpy_js_兔小贝": {
+   "name": "少儿┃兔小贝[js]",
+   "health": "healthy",
+   "latency_ms": 4261,
+   "level": "D4"
+  },
+  "剧圈圈": {
+   "name": "《剧圈🔹影院》",
+   "health": "dead",
+   "latency_ms": 55878,
+   "level": "D0"
+  },
+  "drpy_js_58动漫": {
+   "name": "动漫 | 58动漫[js]",
+   "health": "dead",
+   "latency_ms": 2345,
+   "level": "D0"
+  },
+  "cat_非凡网": {
+   "name": "☀非凡🔹影視",
+   "health": "unknown",
+   "latency_ms": 1241,
+   "level": "S0"
+  },
+  "cat_剧迷网": {
+   "name": "☀剧迷🔹视频",
+   "health": "unknown",
+   "latency_ms": 1292,
+   "level": "S0"
+  },
+  "drpy_js_酷云77": {
+   "name": "影视 | 酷云77[js]",
+   "health": "degraded",
+   "latency_ms": 3139,
+   "level": "D1"
+  },
+  "cat体育聚合": {
+   "name": "⚽聚合🔹球赛",
+   "health": "unknown",
+   "latency_ms": 1524,
+   "level": "S0"
+  },
+  "drpy_js_两个BT": {
+   "name": "影视 | 两个BT[js]",
+   "health": "degraded",
+   "latency_ms": 1867,
+   "level": "D2"
+  },
+  "drpy_js_腾云驾雾": {
+   "name": "官源 • 腾讯",
+   "health": "healthy",
+   "latency_ms": 4934,
+   "level": "D5"
+  },
+  "drpy_js_看韩剧": {
+   "name": " 看韩剧 ",
+   "health": "dead",
+   "latency_ms": 30034,
+   "level": "D0"
+  },
+  "dr_腾云驾雾": {
+   "name": "☁️┃腾云┃驾雾",
+   "health": "degraded",
+   "latency_ms": 3042,
+   "level": "D2"
   },
   "drpy_js_优酷": {
    "name": "官源 • 优酷",
    "health": "degraded",
-   "latency_ms": 1067,
+   "latency_ms": 1190,
    "level": "D1"
   },
   "drpy_js_有声绘本网": {
    "name": "少儿 | 有声绘本[js]",
    "health": "dead",
-   "latency_ms": 2951,
+   "latency_ms": 4177,
+   "level": "D0"
+  },
+  "dr_youku": {
+   "name": "🥔┃优酷(官)",
+   "health": "degraded",
+   "latency_ms": 1412,
+   "level": "D1"
+  },
+  "drpy_js_南柯电影": {
+   "name": " 南柯电影 ",
+   "health": "dead",
+   "latency_ms": 1854,
+   "level": "D0"
+  },
+  "cat蜘蛛体育": {
+   "name": "⚽蜘蛛🔹球赛",
+   "health": "unknown",
+   "latency_ms": 3131,
+   "level": "S0"
+  },
+  "drpy_js_jsapi2": {
+   "name": "影视 | 百度测试[js]",
+   "health": "degraded",
+   "latency_ms": 6,
+   "level": "D2"
+  },
+  "drpy_js_宝片[V2]": {
+   "name": "影视 | 宝片[V2]",
+   "health": "degraded",
+   "latency_ms": 6689,
+   "level": "D1"
+  },
+  "drpy_js_首播影院": {
+   "name": "影视 | 首播影院[js]",
+   "health": "dead",
+   "latency_ms": 1335,
    "level": "D0"
   },
   "drpy_js_四个圈儿": {
    "name": " 四个圈儿 ",
    "health": "dead",
-   "latency_ms": 230,
+   "latency_ms": 277,
    "level": "D0"
   },
   "drpy_js_柒之社": {
    "name": " 柒之社 ",
    "health": "dead",
-   "latency_ms": 341,
+   "latency_ms": 186,
    "level": "D0"
   },
   "drpy_js_粤爱看": {
    "name": " 粤爱看 ",
    "health": "dead",
-   "latency_ms": 364,
+   "latency_ms": 335,
    "level": "D0"
   },
   "drpy_js_被窝电影": {
    "name": " 被窝电影 ",
    "health": "dead",
-   "latency_ms": 977,
+   "latency_ms": 754,
    "level": "D0"
   },
   "drpy_js_97tvs": {
    "name": "97tvs[js]",
    "health": "degraded",
-   "latency_ms": 211,
+   "latency_ms": 266,
    "level": "D2"
   },
   "AGE动漫": {
    "name": "AGE动漫",
    "health": "degraded",
-   "latency_ms": 477,
+   "latency_ms": 340,
    "level": "D2"
   },
   "drpy_js_酷奇MV": {
    "name": "MV┃酷奇[js]",
    "health": "degraded",
-   "latency_ms": 8960,
+   "latency_ms": 4711,
    "level": "D2"
   },
   "drpy_js_libvio": {
    "name": "libvio[js]",
    "health": "dead",
-   "latency_ms": 14882,
+   "latency_ms": 20036,
    "level": "D0"
   },
   "爱看影视": {
    "name": "❤┃爱看┃蓝光",
    "health": "degraded",
-   "latency_ms": 178,
+   "latency_ms": 251,
    "level": "D1"
   },
   "drpy_js_乐猪TV": {
    "name": "乐猪TV ",
    "health": "dead",
-   "latency_ms": 332,
+   "latency_ms": 293,
    "level": "D0"
   },
   "drpy_js_抓饭体育": {
@@ -11641,514 +12361,496 @@
    "latency_ms": 80,
    "level": "D2"
   },
-  "drpy_js_58动漫": {
-   "name": "动漫 | 58动漫[js]",
-   "health": "dead",
-   "latency_ms": 2373,
-   "level": "D0"
-  },
   "drpy_js_奇米动漫": {
    "name": "动漫 | 奇米动漫[js]",
    "health": "dead",
-   "latency_ms": 396,
+   "latency_ms": 212,
    "level": "D0"
   },
   "drpy_js_异世界动漫漫": {
    "name": "动漫 | 异世界动漫[js]",
    "health": "degraded",
-   "latency_ms": 352,
+   "latency_ms": 184,
    "level": "D2"
   },
   "drpy_js_曲奇动漫": {
    "name": "动漫 | 曲奇动漫[js]",
    "health": "degraded",
-   "latency_ms": 242,
+   "latency_ms": 230,
    "level": "D2"
   },
   "drpy_js_NT动漫": {
    "name": "动漫 • NT动漫",
    "health": "dead",
-   "latency_ms": 119,
+   "latency_ms": 143,
    "level": "D0"
   },
   "drpy_js_NyaFun": {
    "name": "动漫┃NyaFun[js]",
    "health": "degraded",
-   "latency_ms": 350,
+   "latency_ms": 227,
    "level": "D1"
   },
   "drpy_js_六月听书": {
    "name": "听书 | 六月听书[js]",
    "health": "degraded",
-   "latency_ms": 20026,
+   "latency_ms": 20028,
    "level": "D2"
   },
   "drpy_js_有声小说": {
    "name": "听书 • 有声小说",
    "health": "degraded",
-   "latency_ms": 30025,
+   "latency_ms": 30027,
    "level": "D2"
   },
   "drpy_js_海洋听书": {
    "name": "听书 • 海洋听书",
    "health": "degraded",
-   "latency_ms": 20028,
+   "latency_ms": 20037,
    "level": "D2"
   },
   "drpy_js_爱上你听书网": {
    "name": "听书 • 爱上你听书",
    "health": "dead",
-   "latency_ms": 15064,
+   "latency_ms": 15053,
    "level": "D0"
   },
   "drpy_js_139影视": {
    "name": "影视 | 139影视[js]",
    "health": "dead",
-   "latency_ms": 30034,
+   "latency_ms": 30039,
    "level": "D0"
   },
   "drpy_js_369影视": {
    "name": "影视 | 369影视[js]",
    "health": "dead",
-   "latency_ms": 95,
+   "latency_ms": 90,
    "level": "D0"
   },
   "drpy_js_4K电影网": {
    "name": "影视 | 4K电影网[js]",
    "health": "dead",
-   "latency_ms": 468,
+   "latency_ms": 1492,
    "level": "D0"
   },
   "drpy_js_555电影[V2]": {
    "name": "影视 | 555电影[V2]",
    "health": "degraded",
-   "latency_ms": 396,
+   "latency_ms": 489,
    "level": "D1"
   },
   "drpy_js_567电影院": {
    "name": "影视 | 567电影院[js]",
    "health": "dead",
-   "latency_ms": 151,
+   "latency_ms": 104,
    "level": "D0"
   },
   "drpy_js_996影视": {
    "name": "影视 | 996影视[js]",
    "health": "dead",
-   "latency_ms": 120,
+   "latency_ms": 146,
    "level": "D0"
   },
   "drpy_js_B站影视": {
    "name": "影视 | B站影视[js]",
    "health": "dead",
-   "latency_ms": 15065,
+   "latency_ms": 15062,
    "level": "D0"
   },
   "drpy_js_Fun4K": {
    "name": "影视 | Fun4K[js]",
    "health": "dead",
-   "latency_ms": 193,
+   "latency_ms": 232,
    "level": "D0"
   },
   "drpy_js_JangoIndex": {
    "name": "影视 | JangoIndex[js]",
    "health": "degraded",
-   "latency_ms": 232,
+   "latency_ms": 279,
    "level": "D2"
   },
   "drpy_js_KOK影院": {
    "name": "影视 | KOK影院[js]",
    "health": "degraded",
-   "latency_ms": 1023,
+   "latency_ms": 1288,
    "level": "D2"
   },
   "drpy_js_NY影院": {
    "name": "影视 | NY影院[js]",
    "health": "dead",
-   "latency_ms": 104,
+   "latency_ms": 143,
    "level": "D0"
   },
   "drpy_js_UM电影[V2]": {
    "name": "影视 | UM电影[V2]",
    "health": "degraded",
-   "latency_ms": 233,
+   "latency_ms": 44,
    "level": "D1"
   },
   "drpy_js_cokemv[V2]": {
    "name": "影视 | cokemv[V2]",
    "health": "degraded",
-   "latency_ms": 10040,
+   "latency_ms": 10030,
    "level": "D1"
   },
   "drpy_js_cokemv": {
    "name": "影视 | cokemv[js]",
    "health": "dead",
-   "latency_ms": 341,
+   "latency_ms": 107,
    "level": "D0"
   },
   "drpy_js_voflix": {
    "name": "影视 | voflix[js]",
    "health": "dead",
-   "latency_ms": 349,
+   "latency_ms": 83,
    "level": "D0"
   },
   "drpy_js_兄弟影视": {
    "name": "影视 | 兄弟影视[js]",
    "health": "dead",
-   "latency_ms": 320,
+   "latency_ms": 493,
    "level": "D0"
   },
   "drpy_js_免费看": {
    "name": "影视 | 免费看[js]",
    "health": "dead",
-   "latency_ms": 184,
+   "latency_ms": 273,
    "level": "D0"
   },
   "drpy_js_农民": {
    "name": "影视 | 农民影视[js]",
    "health": "degraded",
-   "latency_ms": 400,
+   "latency_ms": 689,
    "level": "D2"
   },
   "drpy_js_凌云影视": {
    "name": "影视 | 凌云影视[js]",
    "health": "dead",
-   "latency_ms": 445,
+   "latency_ms": 199,
    "level": "D0"
   },
   "drpy_js_刺桐[V2]": {
    "name": "影视 | 刺桐[V2][js]",
    "health": "degraded",
-   "latency_ms": 573,
+   "latency_ms": 1170,
    "level": "D1"
   },
   "drpy_js_剧迷su": {
    "name": "影视 | 剧迷su[js]",
    "health": "dead",
-   "latency_ms": 365,
+   "latency_ms": 285,
    "level": "D0"
   },
   "drpy_js_北川影视": {
    "name": "影视 | 北川影视[js]",
    "health": "dead",
-   "latency_ms": 417,
+   "latency_ms": 469,
    "level": "D0"
   },
   "drpy_js_北极狐[V2]": {
    "name": "影视 | 北极狐[V2]",
    "health": "degraded",
-   "latency_ms": 64,
+   "latency_ms": 94,
    "level": "D1"
   },
   "drpy_js_咕噜[V2]": {
    "name": "影视 | 咕噜[V2]",
    "health": "degraded",
-   "latency_ms": 204,
+   "latency_ms": 137,
    "level": "D1"
   },
   "drpy_js_喵次元": {
    "name": "影视 | 喵次元[js]",
    "health": "degraded",
-   "latency_ms": 325,
+   "latency_ms": 96,
    "level": "D1"
   },
   "drpy_js_在线之家": {
    "name": "影视 | 在线之家[js]",
    "health": "dead",
-   "latency_ms": 273,
+   "latency_ms": 394,
    "level": "D0"
   },
   "drpy_js_多瑙影视": {
    "name": "影视 | 多瑙影视[js]",
    "health": "dead",
-   "latency_ms": 380,
+   "latency_ms": 164,
    "level": "D0"
   },
   "drpy_js_大米星球[V2]": {
    "name": "影视 | 大米星球[V2]",
    "health": "degraded",
-   "latency_ms": 289,
+   "latency_ms": 438,
    "level": "D1"
   },
   "drpy_js_大米星球": {
    "name": "影视 | 大米星球[js]",
    "health": "dead",
-   "latency_ms": 101,
+   "latency_ms": 432,
    "level": "D0"
   },
   "drpy_js_奈飞狗[V2]": {
    "name": "影视 | 奈飞狗[V2]",
    "health": "degraded",
-   "latency_ms": 417,
+   "latency_ms": 202,
    "level": "D1"
   },
   "drpy_js_小狗影院": {
    "name": "影视 | 小狗影院[js]",
    "health": "dead",
-   "latency_ms": 133,
+   "latency_ms": 137,
    "level": "D0"
   },
   "drpy_js_小白菜电影": {
    "name": "影视 | 小白菜电影[js]",
    "health": "dead",
-   "latency_ms": 30028,
+   "latency_ms": 30037,
    "level": "D0"
   },
   "drpy_js_尘落影视": {
    "name": "影视 | 尘落影视[js]",
    "health": "dead",
-   "latency_ms": 328,
+   "latency_ms": 396,
    "level": "D0"
   },
   "drpy_js_干饭影视": {
    "name": "影视 | 干饭影视[js]",
    "health": "dead",
-   "latency_ms": 99,
+   "latency_ms": 52,
    "level": "D0"
   },
   "drpy_js_影视之家[V2]": {
    "name": "影视 | 影视之家[V2][js]",
    "health": "degraded",
-   "latency_ms": 152,
+   "latency_ms": 218,
    "level": "D1"
   },
   "drpy_js_徕米TV": {
    "name": "影视 | 徕米TV[js]",
    "health": "dead",
-   "latency_ms": 78,
+   "latency_ms": 499,
    "level": "D0"
   },
   "drpy_js_思古影视[V2]": {
    "name": "影视 | 思古影视[V2]",
    "health": "degraded",
-   "latency_ms": 5073,
+   "latency_ms": 5067,
    "level": "D1"
   },
   "drpy_js_悠久影院": {
    "name": "影视 | 悠久影院[js]",
    "health": "dead",
-   "latency_ms": 797,
+   "latency_ms": 963,
    "level": "D0"
   },
   "drpy_js_我爱跟剧": {
    "name": "影视 | 我爱跟剧[js]",
    "health": "dead",
-   "latency_ms": 514,
+   "latency_ms": 35,
    "level": "D0"
   },
   "drpy_js_新视觉影视": {
    "name": "影视 | 新视觉影视[js]",
    "health": "dead",
-   "latency_ms": 15027,
+   "latency_ms": 15028,
    "level": "D0"
   },
   "drpy_js_时光影视": {
    "name": "影视 | 时光影视[js]",
    "health": "dead",
-   "latency_ms": 766,
+   "latency_ms": 973,
    "level": "D0"
   },
   "drpy_js_曲奇影视[V2]": {
    "name": "影视 | 曲奇影视[V2]",
    "health": "degraded",
-   "latency_ms": 360,
+   "latency_ms": 492,
    "level": "D1"
   },
   "drpy_js_朴樱影视": {
    "name": "影视 | 朴樱影视[js]",
    "health": "dead",
-   "latency_ms": 292,
+   "latency_ms": 183,
    "level": "D0"
   },
   "drpy_js_欧帝影院": {
    "name": "影视 | 欧帝影院[js]",
    "health": "dead",
-   "latency_ms": 118,
+   "latency_ms": 111,
    "level": "D0"
   },
   "drpy_js_海兔影院": {
    "name": "影视 | 海兔影院[js]",
    "health": "dead",
-   "latency_ms": 105,
+   "latency_ms": 280,
    "level": "D0"
   },
   "drpy_js_热播库": {
    "name": "影视 | 热播库[js]",
    "health": "dead",
-   "latency_ms": 11138,
+   "latency_ms": 19441,
    "level": "D0"
   },
   "drpy_js_爱看": {
    "name": "影视 | 爱看[js]",
    "health": "dead",
-   "latency_ms": 187,
-   "level": "D0"
-  },
-  "drpy_js_爱迪影视": {
-   "name": "影视 | 爱迪影视[js]",
-   "health": "dead",
-   "latency_ms": 22716,
+   "latency_ms": 260,
    "level": "D0"
   },
   "drpy_js_玄天": {
    "name": "影视 | 玄天[js]",
    "health": "dead",
-   "latency_ms": 423,
+   "latency_ms": 484,
    "level": "D0"
   },
   "drpy_js_皮皮鸭": {
    "name": "影视 | 皮皮鸭[js]",
    "health": "degraded",
-   "latency_ms": 57,
+   "latency_ms": 63,
    "level": "D2"
   },
   "drpy_js_私人影院": {
    "name": "影视 | 私人影院[js]",
    "health": "degraded",
-   "latency_ms": 171,
+   "latency_ms": 159,
    "level": "D2"
   },
   "drpy_js_米爱影视": {
    "name": "影视 | 米爱影视[js]",
    "health": "dead",
-   "latency_ms": 418,
+   "latency_ms": 669,
    "level": "D0"
   },
   "drpy_js_素白白": {
    "name": "影视 | 素白白[js]",
    "health": "degraded",
-   "latency_ms": 726,
+   "latency_ms": 391,
    "level": "D2"
   },
   "drpy_js_美益达[V2]": {
    "name": "影视 | 美益达[V2]",
    "health": "degraded",
-   "latency_ms": 341,
+   "latency_ms": 86,
    "level": "D1"
   },
   "drpy_js_花屋影院": {
    "name": "影视 | 花屋影院[js]",
    "health": "dead",
-   "latency_ms": 52,
-   "level": "D0"
-  },
-  "drpy_js_蓝光影院": {
-   "name": "影视 | 蓝光影院[js]",
-   "health": "dead",
-   "latency_ms": 20032,
+   "latency_ms": 78,
    "level": "D0"
   },
   "drpy_js_蛋蛋赞": {
    "name": "影视 | 蛋蛋赞[js]",
    "health": "dead",
-   "latency_ms": 751,
+   "latency_ms": 160,
    "level": "D0"
   },
   "drpy_js_西瓜影院": {
    "name": "影视 | 西瓜影院[js]",
    "health": "dead",
-   "latency_ms": 100,
+   "latency_ms": 163,
    "level": "D0"
   },
   "drpy_js_路人甲[V2]": {
    "name": "影视 | 路人甲[V2]",
    "health": "degraded",
-   "latency_ms": 107,
+   "latency_ms": 230,
    "level": "D1"
   },
   "drpy_js_量子影视": {
    "name": "影视 | 量子影视[js]",
    "health": "dead",
-   "latency_ms": 20064,
+   "latency_ms": 20016,
    "level": "D0"
   },
   "drpy_js_鑫鑫[V2]": {
    "name": "影视 | 鑫鑫[V2]",
    "health": "degraded",
-   "latency_ms": 136,
+   "latency_ms": 165,
    "level": "D1"
   },
   "drpy_js_阿布影院": {
    "name": "影视 | 阿布影院[js]",
    "health": "dead",
-   "latency_ms": 813,
+   "latency_ms": 923,
    "level": "D0"
   },
   "nt动漫": {
    "name": "拿铁动漫",
    "health": "dead",
-   "latency_ms": 75,
+   "latency_ms": 139,
    "level": "D0"
   },
   "drpy_js_JustLive": {
    "name": "直播┃JustLive[js]",
    "health": "degraded",
-   "latency_ms": 127,
+   "latency_ms": 68,
    "level": "D1"
   },
   "drpy_js_555影视[飞]": {
    "name": "起飞 | 555影视[js]",
    "health": "dead",
-   "latency_ms": 368,
+   "latency_ms": 538,
    "level": "D0"
   },
   "drpy_js_if101[飞]": {
    "name": "起飞 | if101[js]",
    "health": "dead",
-   "latency_ms": 511,
+   "latency_ms": 345,
    "level": "D0"
   },
   "drpy_js_华乐影院": {
    "name": "起飞 | 华乐影院[js]",
    "health": "dead",
-   "latency_ms": 30026,
+   "latency_ms": 30029,
    "level": "D0"
   },
   "drpy_js_天天视频": {
    "name": "起飞 | 天天视频[js]",
    "health": "dead",
-   "latency_ms": 47,
+   "latency_ms": 58,
    "level": "D0"
   },
   "drpy_js_独播库[飞]": {
    "name": "起飞 | 独播库[js]",
    "health": "dead",
-   "latency_ms": 8778,
+   "latency_ms": 2382,
    "level": "D0"
   },
   "drpy_js_啦啦DJ": {
    "name": "音频 | 啦啦DJ[js]",
    "health": "dead",
-   "latency_ms": 30026,
+   "latency_ms": 30028,
    "level": "D0"
   },
   "drpy_js_清风DJ": {
    "name": "音频 | 清风DJ[js]",
    "health": "dead",
-   "latency_ms": 389,
+   "latency_ms": 705,
    "level": "D0"
   },
   "风车动漫": {
    "name": "风车动漫",
    "health": "dead",
-   "latency_ms": 796,
+   "latency_ms": 971,
    "level": "D0"
   },
   "爱上听书": {
    "name": "🅱️爱上｜听书",
    "health": "dead",
-   "latency_ms": 15109,
+   "latency_ms": 15064,
    "level": "D0"
   },
   "圣城影视": {
    "name": "🏰┃圣城┃影视",
    "health": "dead",
-   "latency_ms": 423,
+   "latency_ms": 121,
    "level": "D0"
   },
   "六月听书": {
    "name": "📚️听书┃六月",
    "health": "degraded",
-   "latency_ms": 20025,
+   "latency_ms": 20033,
    "level": "D2"
   },
   "Anime1-3": {
@@ -12238,25 +12940,25 @@
   "星辰": {
    "name": "☀星星🔹秒播",
    "health": "unknown",
-   "latency_ms": 192,
+   "latency_ms": 241,
    "level": "S0"
   },
   "cat_永乐网": {
    "name": "☀永乐🔹视频",
    "health": "unknown",
-   "latency_ms": 8031,
+   "latency_ms": 8014,
    "level": "S0"
   },
   "cat_优夏网": {
    "name": "☀游侠🔹视频",
    "health": "unknown",
-   "latency_ms": 401,
+   "latency_ms": 541,
    "level": "S0"
   },
   "cat_荐片app": {
    "name": "☀荐片🔹蓝光",
    "health": "unknown",
-   "latency_ms": 636,
+   "latency_ms": 608,
    "level": "S0"
   },
   "py_金牌": {
@@ -12358,14 +13060,20 @@
   "drpy_js_360影视": {
    "name": "官源 • 360",
    "health": "healthy",
-   "latency_ms": 7798,
+   "latency_ms": 9367,
    "level": "D5"
   },
   "drpy_js_7喜影院": {
    "name": "影视 | 7喜影院[js]",
    "health": "degraded",
-   "latency_ms": 73,
+   "latency_ms": 66,
    "level": "D1"
+  },
+  "drpy_js_爱迪影视": {
+   "name": "影视 | 爱迪影视[js]",
+   "health": "dead",
+   "latency_ms": 18995,
+   "level": "D0"
   },
   "drpy_js_西门[V2]": {
    "name": "影视 | 西门[V2]",
@@ -12468,12 +13176,6 @@
    "health": "unknown",
    "latency_ms": null,
    "level": "S0"
-  },
-  "drpy_js_兰花影院": {
-   "name": "起飞 | 兰花影院[js]",
-   "health": "dead",
-   "latency_ms": 1168,
-   "level": "D0"
   },
   "采集之王": {
    "name": "采集｜合集",
@@ -13525,112 +14227,112 @@
    "latency_ms": null,
    "level": "S0"
   },
-  "drpy_js_开眼视频": {
-   "name": "影视 | 开眼视频[js]",
-   "health": "degraded",
-   "latency_ms": 1424,
-   "level": "D2"
-  },
   "央视大全": {
    "name": "《央视🔹大全》",
    "health": "degraded",
-   "latency_ms": 1179,
+   "latency_ms": 1546,
    "level": "D2"
   },
-  "drpy_js_88看球": {
-   "name": "体育 | 88看球[js]",
-   "health": "dead",
-   "latency_ms": 1654,
-   "level": "D0"
+  "drpy_js_开眼视频": {
+   "name": "影视 | 开眼视频[js]",
+   "health": "degraded",
+   "latency_ms": 1949,
+   "level": "D2"
   },
   "88js": {
    "name": "88看球",
    "health": "dead",
-   "latency_ms": 1507,
+   "latency_ms": 1860,
+   "level": "D0"
+  },
+  "drpy_js_88看球": {
+   "name": "体育 | 88看球[js]",
+   "health": "dead",
+   "latency_ms": 2238,
    "level": "D0"
   },
   "JS哔哩直播": {
    "name": "哔哩直播[js]",
    "health": "degraded",
-   "latency_ms": 1265,
+   "latency_ms": 1068,
    "level": "D1"
   },
   "csp_XYQBiu_斗鱼": {
    "name": "🐟┃斗鱼┃直播",
    "health": "healthy",
-   "latency_ms": 1370,
+   "latency_ms": 1069,
    "level": "D3"
   },
   "drpy_js_播客": {
    "name": "聚合 • 播客",
    "health": "degraded",
-   "latency_ms": 124,
+   "latency_ms": 58,
    "level": "D2"
   },
   "drpy_js_短视频": {
    "name": "聚合┃短视频[js]",
    "health": "degraded",
-   "latency_ms": 183,
+   "latency_ms": 139,
    "level": "D2"
-  },
-  "js_B站精简": {
-   "name": "🅱️┃哔哩┃精简",
-   "health": "degraded",
-   "latency_ms": 675,
-   "level": "D1"
   },
   "哔站教育": {
    "name": "🍬🅱哔站教育",
    "health": "unknown",
-   "latency_ms": 727,
+   "latency_ms": 630,
    "level": "S0"
   },
-  "drpy_js_蜻蜓FM": {
-   "name": "广播 • 蜻蜓FM",
+  "js_B站精简": {
+   "name": "🅱️┃哔哩┃精简",
    "health": "degraded",
-   "latency_ms": 2019,
-   "level": "D2"
+   "latency_ms": 856,
+   "level": "D1"
   },
   "dr_兔小贝": {
    "name": "📚儿童┃启蒙",
    "health": "healthy",
-   "latency_ms": 3572,
+   "latency_ms": 4054,
    "level": "D4"
+  },
+  "drpy_js_蜻蜓FM": {
+   "name": "广播 • 蜻蜓FM",
+   "health": "degraded",
+   "latency_ms": 3277,
+   "level": "D2"
   },
   "drpy_js_310直播": {
    "name": "310直播",
    "health": "degraded",
-   "latency_ms": 23,
+   "latency_ms": 27,
    "level": "D2"
   },
   "csp_qiumi": {
    "name": "⚽ Jrs┃球迷",
    "health": "degraded",
-   "latency_ms": 78,
+   "latency_ms": 60,
    "level": "D2"
   },
   "csp_310直播": {
    "name": "⚽310┃看球",
    "health": "degraded",
-   "latency_ms": 47,
+   "latency_ms": 19,
    "level": "D2"
   },
   "drpy_js_玩偶姐姐": {
    "name": "玩偶姐姐",
    "health": "dead",
-   "latency_ms": 614,
+   "latency_ms": 493,
    "level": "D0"
   },
   "drpy_js_酷6网": {
    "name": "聚合 • 酷6网",
    "health": "degraded",
-   "latency_ms": 698,
+   "latency_ms": 912,
    "level": "D2"
   },
   "酷奇js": {
    "name": "🎤酷奇┃MV",
    "health": "degraded",
-   "latency_ms": 18904,
+   "latency_ms": 20039,
    "level": "D2"
   },
   "js豆瓣1": {
@@ -13648,13 +14350,13 @@
   "jrsjs": {
    "name": "《Jrs⚽球吧》",
    "health": "dead",
-   "latency_ms": 238,
+   "latency_ms": 231,
    "level": "D0"
   },
   "310js": {
    "name": "《三一⚽球吧》",
    "health": "dead",
-   "latency_ms": 114,
+   "latency_ms": 102,
    "level": "D0"
   },
   "py_cctv-2": {
@@ -13750,14 +14452,20 @@
   "欧歌网盘": {
    "name": "🤪欧歌┃[网盘]",
    "health": "degraded",
-   "latency_ms": 36,
+   "latency_ms": 15,
    "level": null
   },
-  "ZPan": {
-   "name": "🎈聚盘搜┃四盘",
-   "health": "dead",
-   "latency_ms": 7041,
-   "level": "C0"
+  "盘库": {
+   "name": "🐼盘库资源┃4K弹幕",
+   "health": "degraded",
+   "latency_ms": 32,
+   "level": null
+  },
+  "网盘 | 片库": {
+   "name": "网盘 | 片库",
+   "health": "degraded",
+   "latency_ms": 59,
+   "level": null
   },
   "csp_Qwmp4": {
    "name": "七味|网盘|磁力",
@@ -13765,22 +14473,40 @@
    "latency_ms": 2,
    "level": "C0"
   },
-  "盘库": {
-   "name": "🐼盘库资源┃4K弹幕",
-   "health": "degraded",
-   "latency_ms": 104,
-   "level": null
+  "ZPan": {
+   "name": "🎈聚盘搜┃四盘",
+   "health": "dead",
+   "latency_ms": 7041,
+   "level": "C0"
   },
   "pansou | fish": {
    "name": "pansou | fish",
    "health": "degraded",
-   "latency_ms": 120,
+   "latency_ms": 127,
    "level": null
   },
-  "网盘 | 片库": {
-   "name": "网盘 | 片库",
+  "土豆": {
+   "name": "土豆|网盘",
+   "health": "dead",
+   "latency_ms": 1,
+   "level": "C0"
+  },
+  "csp_Zhaozy": {
+   "name": "📀找资源(搜索)",
+   "health": "dead",
+   "latency_ms": 19,
+   "level": "C0"
+  },
+  "✨雪糕影院✨": {
+   "name": "🍧雪糕┃影院",
    "health": "degraded",
-   "latency_ms": 130,
+   "latency_ms": 204,
+   "level": null
+  },
+  "csp_biubiu_在线之家": {
+   "name": "[默认]防尴尬源",
+   "health": "degraded",
+   "latency_ms": 215,
    "level": null
   },
   "csp_biubiu_短视频": {
@@ -13801,34 +14527,10 @@
    "latency_ms": 22388,
    "level": "C3"
   },
-  "✨雪糕影院✨": {
-   "name": "🍧雪糕┃影院",
-   "health": "degraded",
-   "latency_ms": 354,
-   "level": null
-  },
-  "csp_biubiu_在线之家": {
-   "name": "[默认]防尴尬源",
-   "health": "degraded",
-   "latency_ms": 369,
-   "level": null
-  },
-  "立播弹幕版": {
-   "name": "🐰立播┃弹幕",
-   "health": "degraded",
-   "latency_ms": 377,
-   "level": null
-  },
-  "土豆": {
-   "name": "土豆|网盘",
-   "health": "dead",
-   "latency_ms": 1,
-   "level": "C0"
-  },
   "alist": {
    "name": "🍰小鸭┃网盘",
    "health": "degraded",
-   "latency_ms": 432,
+   "latency_ms": 456,
    "level": null
   },
   "JPan": {
@@ -13837,58 +14539,10 @@
    "latency_ms": 6781,
    "level": "C0"
   },
-  "csp_PingLian": {
-   "name": "😃盘链┃[网盘]",
+  "立播弹幕版": {
+   "name": "🐰立播┃弹幕",
    "health": "degraded",
-   "latency_ms": 484,
-   "level": null
-  },
-  "趣盘-2": {
-   "name": "🥳百度趣盘┃4K弹幕",
-   "health": "degraded",
-   "latency_ms": 493,
-   "level": null
-  },
-  "盤搜天意": {
-   "name": "网盘 | 盤搜天意",
-   "health": "degraded",
-   "latency_ms": 535,
-   "level": null
-  },
-  "pansou|fish": {
-   "name": "📀pansou|fish",
-   "health": "degraded",
-   "latency_ms": 558,
-   "level": null
-  },
-  "观影": {
-   "name": "网盘 | 观影",
-   "health": "degraded",
-   "latency_ms": 610,
-   "level": null
-  },
-  "zmi": {
-   "name": "蜗牛|网盘",
-   "health": "dead",
-   "latency_ms": 2,
-   "level": "C0"
-  },
-  "py_zhaozy": {
-   "name": " 🐦找资源",
-   "health": "degraded",
-   "latency_ms": 634,
-   "level": null
-  },
-  "短木网盘": {
-   "name": "💿端木🔹盘4k",
-   "health": "degraded",
-   "latency_ms": 720,
-   "level": null
-  },
-  "py_alist": {
-   "name": " 🐦Alist",
-   "health": "degraded",
-   "latency_ms": 757,
+   "latency_ms": 552,
    "level": null
   },
   "光鸭社区": {
@@ -13897,58 +14551,106 @@
    "latency_ms": 1,
    "level": "C0"
   },
-  "木偶网盘": {
-   "name": "💿木偶🔹盘4k",
-   "health": "degraded",
-   "latency_ms": 791,
-   "level": null
-  },
-  "py_pansou": {
-   "name": " 🐦盘搜",
-   "health": "degraded",
-   "latency_ms": 802,
-   "level": null
-  },
   "csp_GuanYing": {
    "name": "😂观影┃[网盘]",
    "health": "degraded",
-   "latency_ms": 842,
-   "level": null
-  },
-  "py_gitcafe": {
-   "name": " 🐦小纸条",
-   "health": "degraded",
-   "latency_ms": 911,
+   "latency_ms": 581,
    "level": null
   },
   "小雷": {
    "name": "网盘 | 小雷",
    "health": "degraded",
-   "latency_ms": 992,
+   "latency_ms": 629,
+   "level": null
+  },
+  "盤搜天意": {
+   "name": "网盘 | 盤搜天意",
+   "health": "degraded",
+   "latency_ms": 649,
+   "level": null
+  },
+  "趣盘-2": {
+   "name": "🥳百度趣盘┃4K弹幕",
+   "health": "degraded",
+   "latency_ms": 690,
+   "level": null
+  },
+  "pansou|fish": {
+   "name": "📀pansou|fish",
+   "health": "degraded",
+   "latency_ms": 741,
+   "level": null
+  },
+  "py_zhaozy": {
+   "name": " 🐦找资源",
+   "health": "degraded",
+   "latency_ms": 746,
+   "level": null
+  },
+  "csp_PingLian": {
+   "name": "😃盘链┃[网盘]",
+   "health": "degraded",
+   "latency_ms": 791,
+   "level": null
+  },
+  "zmi": {
+   "name": "蜗牛|网盘",
+   "health": "dead",
+   "latency_ms": 2,
+   "level": "C0"
+  },
+  "短木网盘": {
+   "name": "💿端木🔹盘4k",
+   "health": "degraded",
+   "latency_ms": 830,
    "level": null
   },
   "py_yiso": {
    "name": " 🐦易搜",
    "health": "degraded",
-   "latency_ms": 1009,
+   "latency_ms": 840,
    "level": null
   },
-  "csp_Zhaozy": {
-   "name": "📀找资源(搜索)",
-   "health": "dead",
-   "latency_ms": 19,
-   "level": "C0"
+  "观影": {
+   "name": "网盘 | 观影",
+   "health": "degraded",
+   "latency_ms": 851,
+   "level": null
+  },
+  "木偶网盘": {
+   "name": "💿木偶🔹盘4k",
+   "health": "degraded",
+   "latency_ms": 1193,
+   "level": null
+  },
+  "py_alist": {
+   "name": " 🐦Alist",
+   "health": "degraded",
+   "latency_ms": 1353,
+   "level": null
+  },
+  "py_gitcafe": {
+   "name": " 🐦小纸条",
+   "health": "degraded",
+   "latency_ms": 1425,
+   "level": null
   },
   "csp_Xxzn": {
    "name": "🤑指南┃[网盘]",
    "health": "degraded",
-   "latency_ms": 1372,
+   "latency_ms": 1441,
+   "level": null
+  },
+  "py_pansou": {
+   "name": " 🐦盘搜",
+   "health": "degraded",
+   "latency_ms": 1451,
    "level": null
   },
   "drpy_js_Alist-3": {
    "name": " 🎑Alist[DRPY]",
    "health": "dead",
-   "latency_ms": 81,
+   "latency_ms": 87,
    "level": "D0"
   },
   "123": {
@@ -14725,6 +15427,12 @@
    "latency_ms": 1444,
    "level": "C0"
   },
+  "团长弹幕版": {
+   "name": "🗽团长┃4K弹幕",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "二小-2": {
    "name": "😈二小",
    "health": "dead",
@@ -14803,6 +15511,12 @@
    "latency_ms": null,
    "level": null
   },
+  "csp_AiPanSou": {
+   "name": "🥰爱盘搜┃搜索",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "csp_TgDouban": {
    "name": "🥳豆瓣┃[盘搜]",
    "health": "dead",
@@ -14842,7 +15556,7 @@
   "csp_XBPQ_6080": {
    "name": "6080电影(XBPQ)",
    "health": "unknown",
-   "latency_ms": 77,
+   "latency_ms": 109,
    "level": "C?"
   },
   "Qupans": {
@@ -14947,6 +15661,12 @@
    "latency_ms": 5055,
    "level": "C0"
   },
+  "src_5": {
+   "name": "mb资源",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "裤佬MiFunP动漫": {
    "name": "☁云霄丨MiFunP丨动漫",
    "health": "unknown",
@@ -14974,7 +15694,7 @@
   "csp_Panda_玩偶哥哥": {
    "name": "⚡4K┃玩偶",
    "health": "dead",
-   "latency_ms": 241,
+   "latency_ms": 54,
    "level": null
   },
   "闪电网盘": {
@@ -14986,7 +15706,7 @@
   "卫总影院": {
    "name": "⛲️看正┃能量",
    "health": "dead",
-   "latency_ms": 263,
+   "latency_ms": 409,
    "level": null
   },
   "QuarkTZ": {
@@ -14999,6 +15719,12 @@
    "name": "《土豆💿网盘》",
    "health": "dead",
    "latency_ms": 10014,
+   "level": null
+  },
+  "yppan": {
+   "name": "云盘盘",
+   "health": "unknown",
+   "latency_ms": null,
    "level": null
   },
   "卡卡": {
@@ -15064,7 +15790,7 @@
   "星剧社": {
    "name": "网盘 | 星剧社",
    "health": "dead",
-   "latency_ms": 8008,
+   "latency_ms": 8101,
    "level": null
   },
   "csp_panghu": {
@@ -15076,7 +15802,7 @@
   "csp_xBPQ_胖虎": {
    "name": "胖虎",
    "health": "dead",
-   "latency_ms": 10014,
+   "latency_ms": 10017,
    "level": null
   },
   "觅盘": {
@@ -15100,7 +15826,7 @@
   "EightEight": {
    "name": "🅿️88网盘",
    "health": "dead",
-   "latency_ms": 38,
+   "latency_ms": 34,
    "level": null
   },
   "MoggV2": {
@@ -15238,7 +15964,7 @@
   "猫吃鱼": {
    "name": "💯4K猫王｜极致画质",
    "health": "dead",
-   "latency_ms": 14,
+   "latency_ms": 35,
    "level": null
   },
   "宅男网盘": {
@@ -15256,31 +15982,31 @@
   "二小网盘": {
    "name": "💿二小🔹盘4k",
    "health": "dead",
-   "latency_ms": 66,
+   "latency_ms": 247,
    "level": null
   },
   "多多网盘": {
    "name": "💿多多🔹盘4k",
    "health": "dead",
-   "latency_ms": 10014,
+   "latency_ms": 10015,
    "level": null
   },
   "快映网盘": {
    "name": "💿快映🔹盘4k",
    "health": "dead",
-   "latency_ms": 653,
+   "latency_ms": 878,
    "level": null
   },
   "至臻网盘": {
    "name": "💿至臻🔹盘4k",
    "health": "dead",
-   "latency_ms": 103,
+   "latency_ms": 277,
    "level": null
   },
   "虎斑网盘": {
    "name": "💿虎斑🔹盘4k",
    "health": "dead",
-   "latency_ms": 637,
+   "latency_ms": 923,
    "level": null
   },
   "夸克盘社": {
@@ -15292,7 +16018,7 @@
   "奥秘网盘": {
    "name": "📀奥秘┃网盘",
    "health": "dead",
-   "latency_ms": 85,
+   "latency_ms": 41,
    "level": null
   },
   "天翼": {
@@ -15334,13 +16060,13 @@
   "黑狐": {
    "name": "🦊黑狐┃BPQ",
    "health": "dead",
-   "latency_ms": 187,
+   "latency_ms": 78,
    "level": null
   },
   "8号影院": {
    "name": "🧿8号┃影视",
    "health": "dead",
-   "latency_ms": 184,
+   "latency_ms": 49,
    "level": null
   },
   "baiduyun": {
@@ -15352,26 +16078,20 @@
   "drpy_js_yyets": {
    "name": "夸克 | 人人影视搜[js]",
    "health": "healthy",
-   "latency_ms": 291,
+   "latency_ms": 309,
    "level": "D4"
   },
   "ou多": {
    "name": "讴歌|4k网盘",
    "health": "degraded",
-   "latency_ms": 30,
+   "latency_ms": 22,
    "level": null
   },
-  "白嫖者": {
-   "name": "🧿白嫖┃影视",
+  "baipao": {
+   "name": "💖分享白嫖",
    "health": "degraded",
-   "latency_ms": 58,
+   "latency_ms": 27,
    "level": null
-  },
-  "Wo4k": {
-   "name": "玩偶4k",
-   "health": "dead",
-   "latency_ms": 1,
-   "level": "C0"
   },
   "Moli": {
    "name": "弹幕 | HDmoli[jar]",
@@ -15379,29 +16099,41 @@
    "latency_ms": 1,
    "level": "C0"
   },
+  "白嫖者": {
+   "name": "🧿白嫖┃影视",
+   "health": "degraded",
+   "latency_ms": 56,
+   "level": null
+  },
   "Gaoqing": {
    "name": "弹幕 | 高清网[jar]",
    "health": "dead",
    "latency_ms": 1,
    "level": "C0"
   },
-  "baipao": {
-   "name": "💖分享白嫖",
-   "health": "degraded",
-   "latency_ms": 110,
-   "level": null
-  },
-  "PikaSo": {
-   "name": "网盘 | 皮卡搜[jar]",
+  "Wo4k": {
+   "name": "玩偶4k",
    "health": "dead",
    "latency_ms": 1,
    "level": "C0"
   },
-  "美剧迷": {
-   "name": "弹幕 | 美剧迷[jar]",
+  "✨YY影视✨": {
+   "name": "《天微🔹秒播》",
    "health": "degraded",
-   "latency_ms": 280,
+   "latency_ms": 145,
    "level": null
+  },
+  "FourKFM": {
+   "name": "4K影库|网盘|磁力",
+   "health": "dead",
+   "latency_ms": 0,
+   "level": "C0"
+  },
+  "Ppxzy": {
+   "name": "弹幕 | 皮皮虾[jar]",
+   "health": "dead",
+   "latency_ms": 1,
+   "level": "C0"
   },
   "FourKFox": {
    "name": "4KFox|网盘|磁力",
@@ -15409,20 +16141,26 @@
    "latency_ms": 0,
    "level": "C0"
   },
-  "✨YY影视✨": {
-   "name": "《天微🔹秒播》",
-   "health": "degraded",
-   "latency_ms": 311,
-   "level": null
+  "PikaSo": {
+   "name": "网盘 | 皮卡搜[jar]",
+   "health": "dead",
+   "latency_ms": 1,
+   "level": "C0"
   },
   "云朵影视APP": {
    "name": "🌺云朵┃热门4K",
    "health": "degraded",
-   "latency_ms": 443,
+   "latency_ms": 294,
    "level": null
   },
-  "音范丝": {
-   "name": "音范丝",
+  "TGYunPanLocal": {
+   "name": "搜索 | TG[jar]",
+   "health": "dead",
+   "latency_ms": 555,
+   "level": "C0"
+  },
+  "Leijing": {
+   "name": "雷鲸|网盘",
    "health": "dead",
    "latency_ms": 1,
    "level": "C0"
@@ -15433,14 +16171,20 @@
    "latency_ms": 2,
    "level": "C0"
   },
-  "TGYunPanLocal": {
-   "name": "搜索 | TG[jar]",
+  "Guanying": {
+   "name": "观影|网盘|磁力",
    "health": "dead",
-   "latency_ms": 555,
+   "latency_ms": 2,
    "level": "C0"
   },
-  "Ppxzy": {
-   "name": "弹幕 | 皮皮虾[jar]",
+  "FourKZN": {
+   "name": "4K指南|网盘|磁力",
+   "health": "dead",
+   "latency_ms": 2,
+   "level": "C0"
+  },
+  "Hmxz": {
+   "name": "海绵|网盘",
    "health": "dead",
    "latency_ms": 1,
    "level": "C0"
@@ -15451,40 +16195,22 @@
    "latency_ms": 2,
    "level": "C0"
   },
-  "仓鼠-2": {
-   "name": "仓鼠｜APP",
-   "health": "degraded",
-   "latency_ms": 709,
-   "level": null
-  },
-  "Leijing": {
-   "name": "雷鲸|网盘",
+  "音范丝": {
+   "name": "音范丝",
    "health": "dead",
    "latency_ms": 1,
    "level": "C0"
-  },
-  "Hmxz": {
-   "name": "海绵|网盘",
-   "health": "dead",
-   "latency_ms": 1,
-   "level": "C0"
-  },
-  "Guanying": {
-   "name": "观影|网盘|磁力",
-   "health": "dead",
-   "latency_ms": 2,
-   "level": "C0"
-  },
-  "行动-2": {
-   "name": "😌┃行动┃APP",
-   "health": "degraded",
-   "latency_ms": 819,
-   "level": null
   },
   "盼盼": {
    "name": "海棉|盘搜",
    "health": "degraded",
-   "latency_ms": 890,
+   "latency_ms": 1002,
+   "level": null
+  },
+  "行动-2": {
+   "name": "😌┃行动┃APP",
+   "health": "degraded",
+   "latency_ms": 1109,
    "level": null
   },
   "干饭": {
@@ -15493,16 +16219,16 @@
    "latency_ms": 46,
    "level": "C0"
   },
-  "FourKZN": {
-   "name": "4K指南|网盘|磁力",
-   "health": "dead",
-   "latency_ms": 2,
-   "level": "C0"
-  },
   "csp_樱之空": {
    "name": "💖分享樱空",
    "health": "degraded",
-   "latency_ms": 1468,
+   "latency_ms": 1512,
+   "level": null
+  },
+  "仓鼠-2": {
+   "name": "仓鼠｜APP",
+   "health": "degraded",
+   "latency_ms": 1603,
    "level": null
   },
   "PanSearch": {
@@ -15763,17 +16489,17 @@
    "latency_ms": null,
    "level": null
   },
+  "土豆网盘弹幕": {
+   "name": "🥔土豆┃4K弹幕",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "csp_Wogg": {
    "name": "🧸玩偶┃高峰不卡*网盘4K",
    "health": "dead",
    "latency_ms": null,
    "level": null
-  },
-  "FourKFM": {
-   "name": "4K影库|网盘|磁力",
-   "health": "dead",
-   "latency_ms": 0,
-   "level": "C0"
   },
   "123推送": {
    "name": "[4727ms|2] 123┃网盘搜索",
@@ -15874,13 +16600,13 @@
   "d'd": {
    "name": "修罗|弹幕",
    "health": "dead",
-   "latency_ms": 8966,
+   "latency_ms": 8903,
    "level": null
   },
   "傻样": {
    "name": "傻样|4k网盘",
    "health": "dead",
-   "latency_ms": 802,
+   "latency_ms": 912,
    "level": null
   },
   "兄弟-2": {
@@ -15904,7 +16630,7 @@
   "米": {
    "name": "小米|4k网盘",
    "health": "dead",
-   "latency_ms": 11,
+   "latency_ms": 57,
    "level": null
   },
   "小米网盘": {
@@ -15931,6 +16657,12 @@
    "latency_ms": 1,
    "level": "C0"
   },
+  "美剧迷": {
+   "name": "弹幕 | 美剧迷[jar]",
+   "health": "dead",
+   "latency_ms": 8921,
+   "level": null
+  },
   "Wobg": {
    "name": "弹幕 | 表哥[jar]",
    "health": "dead",
@@ -15946,7 +16678,7 @@
   "P123": {
    "name": "木偶|4k网盘",
    "health": "dead",
-   "latency_ms": 446,
+   "latency_ms": 594,
    "level": null
   },
   "Mogg": {
@@ -16042,7 +16774,7 @@
   "网盘虎斑": {
    "name": "虎斑|4k网盘",
    "health": "dead",
-   "latency_ms": 701,
+   "latency_ms": 863,
    "level": null
   },
   "蜡笔网盘": {
@@ -16060,7 +16792,7 @@
   "泰剧看看": {
    "name": "🇹🇭泰剧┃影视",
    "health": "dead",
-   "latency_ms": 339,
+   "latency_ms": 471,
    "level": null
   },
   "cat_夸克影院": {
@@ -16072,7 +16804,7 @@
   "囧次元动漫": {
    "name": "🔂囧次元┃动漫",
    "health": "dead",
-   "latency_ms": 307,
+   "latency_ms": 372,
    "level": null
   },
   "csp_Duopan": {
@@ -16084,19 +16816,19 @@
   "03影院": {
    "name": "🛀03影┃BPQ",
    "health": "dead",
-   "latency_ms": 29,
+   "latency_ms": 26,
    "level": null
   },
   "drpy_js_愛盤搜": {
    "name": "爱盘搜[js]",
    "health": "dead",
-   "latency_ms": 442,
+   "latency_ms": 378,
    "level": "D0"
   },
   "drpy_js_趣盤搜": {
    "name": "趣盘搜[js]",
    "health": "dead",
-   "latency_ms": 572,
+   "latency_ms": 817,
    "level": "D0"
   },
   "drpy_js_Alist-2": {
@@ -16111,29 +16843,35 @@
    "latency_ms": null,
    "level": "S0"
   },
-  "kkk动漫": {
-   "name": "🌈三看｜动漫",
+  "csp_XBPQ_98影院": {
+   "name": "98影院(XBPQ)",
    "health": "degraded",
-   "latency_ms": 178,
-   "level": null
-  },
-  "mybaidu": {
-   "name": "❤️｜我的┃百度",
-   "health": "degraded",
-   "latency_ms": 193,
-   "level": null
-  },
-  "myquark": {
-   "name": "❤️｜我的┃夸氪",
-   "health": "degraded",
-   "latency_ms": 246,
-   "level": null
+   "latency_ms": 8356,
+   "level": "C1"
   },
   "短视频": {
    "name": "☘️短视频",
    "health": "degraded",
    "latency_ms": 44639,
    "level": "C1"
+  },
+  "mybaidu": {
+   "name": "❤️｜我的┃百度",
+   "health": "degraded",
+   "latency_ms": 155,
+   "level": null
+  },
+  "kkk动漫": {
+   "name": "🌈三看｜动漫",
+   "health": "degraded",
+   "latency_ms": 262,
+   "level": null
+  },
+  "myquark": {
+   "name": "❤️｜我的┃夸氪",
+   "health": "degraded",
+   "latency_ms": 510,
+   "level": null
   },
   "巴士动漫": {
    "name": "巴士 • 动漫",
@@ -16144,14 +16882,8 @@
   "myxunlei": {
    "name": "❤️｜我的┃迅雷",
    "health": "degraded",
-   "latency_ms": 1345,
+   "latency_ms": 2068,
    "level": null
-  },
-  "csp_XBPQ_98影院": {
-   "name": "98影院(XBPQ)",
-   "health": "degraded",
-   "latency_ms": 8356,
-   "level": "C1"
   },
   "AList": {
    "name": "AList",
@@ -16402,115 +17134,127 @@
   "js_蓝莓短剧": {
    "name": "《七星🎦短剧》",
    "health": "degraded",
-   "latency_ms": 1667,
+   "latency_ms": 2063,
    "level": "D1"
+  },
+  " 百姓 ": {
+   "name": "🎦农民影视2",
+   "health": "degraded",
+   "latency_ms": 82,
+   "level": null
   },
   "妖狐影视": {
    "name": "🦊妖妃┃影视",
    "health": "degraded",
-   "latency_ms": 66,
+   "latency_ms": 124,
    "level": null
   },
   "低端影视": {
    "name": "✨低端短剧✨乐哥甄选✨",
    "health": "degraded",
-   "latency_ms": 73,
-   "level": null
-  },
-  " 百姓 ": {
-   "name": "🎦农民影视2",
-   "health": "degraded",
-   "latency_ms": 128,
-   "level": null
-  },
-  "影视森林": {
-   "name": "🐘森林┃影视",
-   "health": "degraded",
-   "latency_ms": 449,
-   "level": null
-  },
-  "赵本山小品网": {
-   "name": "🤡本山┃大全",
-   "health": "degraded",
-   "latency_ms": 454,
-   "level": null
-  },
-  "孜然影视": {
-   "name": "🐐孜然┃影视",
-   "health": "degraded",
-   "latency_ms": 597,
-   "level": null
-  },
-  "HonHon": {
-   "name": "🍅┆红红┆短剧",
-   "health": "degraded",
-   "latency_ms": 824,
-   "level": null
-  },
-  "656": {
-   "name": "🧿梦想┃影视",
-   "health": "degraded",
-   "latency_ms": 1007,
-   "level": null
-  },
-  "csp_XBPQ_动漫": {
-   "name": "动漫┃XBPQ",
-   "health": "degraded",
-   "latency_ms": 1017,
+   "latency_ms": 142,
    "level": null
   },
   "✨HG短剧✨": {
    "name": "✨HG短剧✨乐哥甄选✨",
    "health": "degraded",
-   "latency_ms": 1019,
+   "latency_ms": 178,
    "level": null
   },
-  "csp_XBPQ_6080z": {
-   "name": "💫┃6080┃XB",
+  "csp_XBPQ_碟迷": {
+   "name": "💫┃碟迷┃XB",
    "health": "degraded",
-   "latency_ms": 1079,
+   "latency_ms": 306,
+   "level": null
+  },
+  "乌卡猫影院": {
+   "name": "🙀乌猫┃影视",
+   "health": "degraded",
+   "latency_ms": 324,
+   "level": null
+  },
+  "金漫TV": {
+   "name": "🥝金曼┃影视",
+   "health": "degraded",
+   "latency_ms": 362,
+   "level": null
+  },
+  "影视森林": {
+   "name": "🐘森林┃影视",
+   "health": "degraded",
+   "latency_ms": 407,
+   "level": null
+  },
+  "赵本山小品网": {
+   "name": "🤡本山┃大全",
+   "health": "degraded",
+   "latency_ms": 502,
+   "level": null
+  },
+  "csp_XBPQ_起看": {
+   "name": "[606ms|123] 🧿悦享┃蓝光",
+   "health": "degraded",
+   "latency_ms": 536,
    "level": null
   },
   "csp_XBPQ_毒蛇影院": {
    "name": "💫┃毒蛇影院┃XB",
    "health": "degraded",
-   "latency_ms": 1128,
+   "latency_ms": 567,
    "level": null
   },
-  "TgYunPan|本地": {
-   "name": "🅿TgYunPan|本地",
+  "csp_XBPQ_动漫": {
+   "name": "动漫┃XBPQ",
    "health": "degraded",
-   "latency_ms": 1262,
+   "latency_ms": 665,
+   "level": null
+  },
+  "HonHon": {
+   "name": "🍅┆红红┆短剧",
+   "health": "degraded",
+   "latency_ms": 825,
+   "level": null
+  },
+  "孜然影视": {
+   "name": "🐐孜然┃影视",
+   "health": "degraded",
+   "latency_ms": 875,
+   "level": null
+  },
+  "656": {
+   "name": "🧿梦想┃影视",
+   "health": "degraded",
+   "latency_ms": 985,
    "level": null
   },
   "Hgdh": {
    "name": "🔥短剧推荐",
    "health": "degraded",
-   "latency_ms": 1324,
+   "latency_ms": 1161,
+   "level": null
+  },
+  "TgYunPan|本地": {
+   "name": "🅿TgYunPan|本地",
+   "health": "degraded",
+   "latency_ms": 1300,
    "level": null
   },
   "Tg豆瓣": {
    "name": "🔍Tg豆瓣┃👉公众号【春秋导航】收集整理-🈲贩卖",
    "health": "degraded",
-   "latency_ms": 1348,
+   "latency_ms": 2104,
    "level": null
   },
   "csp_XBPQ_vstv": {
    "name": "♻️VS短剧",
    "health": "degraded",
-   "latency_ms": 1526,
+   "latency_ms": 2146,
    "level": null
   },
   "一起看呀吧": {
    "name": "[1416ms|金鹰] 👨‍👨‍👧一起看┃app",
    "health": "degraded",
-   "latency_ms": 2027,
-   "level": null
-  },
-  "csp_XBPQ_起看": {
-   "name": "[606ms|123] 🧿悦享┃蓝光",
-   "health": "unknown",
-   "latency_ms": null,
+   "latency_ms": 2272,
    "level": null
   },
   "wv_jldj": {
@@ -16699,6 +17443,18 @@
    "latency_ms": null,
    "level": null
   },
+  "世界短剧": {
+   "name": "🌏世界┃短剧",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "种子短剧": {
+   "name": "🌷种子┃短剧",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
   "csp_Bili短剧": {
    "name": "🐞哔哩短剧",
    "health": "healthy",
@@ -16774,13 +17530,13 @@
   "熊猫短剧": {
    "name": "✨熊猫短剧✨乐哥甄选✨",
    "health": "dead",
-   "latency_ms": 8111,
+   "latency_ms": 8334,
    "level": null
   },
   "✨影视大全1✨": {
    "name": "✨短剧大全1✨乐哥甄选✨",
    "health": "dead",
-   "latency_ms": 229,
+   "latency_ms": 340,
    "level": null
   },
   "七猫短剧": {
@@ -16864,7 +17620,13 @@
   "FoFo影院": {
    "name": "🇫Fo┃影视",
    "health": "dead",
-   "latency_ms": 8033,
+   "latency_ms": 8020,
+   "level": null
+  },
+  "追追短剧": {
+   "name": "🌈追追┃短剧",
+   "health": "unknown",
+   "latency_ms": null,
    "level": null
   },
   "七星": {
@@ -16906,13 +17668,13 @@
   "墨点": {
    "name": "🍙墨点┃影视",
    "health": "dead",
-   "latency_ms": 36,
+   "latency_ms": 103,
    "level": null
   },
   "影趣影视": {
    "name": "🎦影趣┃影视",
    "health": "dead",
-   "latency_ms": 8103,
+   "latency_ms": 8062,
    "level": null
   },
   "Qmdj": {
@@ -16966,7 +17728,7 @@
   "csp_Duanju": {
    "name": "🎭短剧",
    "health": "dead",
-   "latency_ms": 58,
+   "latency_ms": 76,
    "level": null
   },
   "csp_Jbdj": {
@@ -16984,19 +17746,19 @@
   "动漫大全": {
    "name": "💖大全动漫",
    "health": "dead",
-   "latency_ms": 290,
+   "latency_ms": 326,
    "level": null
   },
-  "csp_XBPQ_碟迷": {
-   "name": "💫┃碟迷┃XB",
+  "csp_XBPQ_6080z": {
+   "name": "💫┃6080┃XB",
    "health": "dead",
-   "latency_ms": 8107,
+   "latency_ms": 8125,
    "level": null
   },
   "影梦影视": {
    "name": "💭梦莹┃影视",
    "health": "dead",
-   "latency_ms": 304,
+   "latency_ms": 94,
    "level": null
   },
   "WeiguanDJ": {
@@ -17008,13 +17770,13 @@
   "csp_短剧网香": {
    "name": "🔥短剧网[影视]_HK",
    "health": "dead",
-   "latency_ms": 66,
+   "latency_ms": 140,
    "level": null
   },
   " 刘公ff子": {
    "name": "🔮全网┃短剧",
    "health": "dead",
-   "latency_ms": 219,
+   "latency_ms": 211,
    "level": null
   },
   "csp_Kan90": {
@@ -17023,28 +17785,16 @@
    "latency_ms": null,
    "level": null
   },
-  "乌卡猫影院": {
-   "name": "🙀乌猫┃影视",
-   "health": "dead",
-   "latency_ms": 8124,
-   "level": null
-  },
   "偷乐短剧": {
    "name": "🤣偷乐┃短剧┃热推",
    "health": "unknown",
    "latency_ms": null,
    "level": null
   },
-  "金漫TV": {
-   "name": "🥝金曼┃影视",
-   "health": "dead",
-   "latency_ms": 8086,
-   "level": null
-  },
   "csp_Hmys": {
    "name": "🦉河马",
    "health": "dead",
-   "latency_ms": 230,
+   "latency_ms": 256,
    "level": null
   },
   "河马短剧-3": {
@@ -17065,16 +17815,22 @@
    "latency_ms": null,
    "level": "L0"
   },
-  "Cat_百度短剧": {
-   "name": "🎦百度🔹短剧",
+  "暴風短剧": {
+   "name": "短剧大全(1.2万)⚡直连",
    "health": "unknown",
-   "latency_ms": 2498,
-   "level": "S0"
+   "latency_ms": null,
+   "level": null
   },
   "Cat_聚合短剧": {
    "name": "🎦聚合🔹短剧",
    "health": "unknown",
-   "latency_ms": 2503,
+   "latency_ms": 3003,
+   "level": "S0"
+  },
+  "Cat_百度短剧": {
+   "name": "🎦百度🔹短剧",
+   "health": "unknown",
+   "latency_ms": 3038,
    "level": "S0"
   },
   "hgai": {
@@ -17167,52 +17923,64 @@
    "latency_ms": null,
    "level": "S0"
   },
+  "唐人": {
+   "name": "💖分享唐人",
+   "health": "degraded",
+   "latency_ms": 56,
+   "level": null
+  },
   "面包影视": {
    "name": "面包 • 影视",
    "health": "unknown",
-   "latency_ms": 44,
+   "latency_ms": 141,
    "level": "C?"
+  },
+  "XBPQ_短剧TV": {
+   "name": "🆖短剧┃TV",
+   "health": "degraded",
+   "latency_ms": 220,
+   "level": null
+  },
+  "碟迷影院": {
+   "name": "🛸碟迷┃影视",
+   "health": "degraded",
+   "latency_ms": 226,
+   "level": null
   },
   "鹊桥": {
    "name": "鹊桥｜影视 ",
    "health": "degraded",
-   "latency_ms": 117,
+   "latency_ms": 299,
    "level": null
   },
   "OK短剧": {
    "name": "✨OK短剧✨乐哥甄选✨",
    "health": "degraded",
-   "latency_ms": 305,
+   "latency_ms": 528,
    "level": null
   },
   "fok": {
    "name": "🌙┃夸克┃影视",
    "health": "degraded",
-   "latency_ms": 734,
-   "level": null
-  },
-  "唐人": {
-   "name": "💖分享唐人",
-   "health": "degraded",
-   "latency_ms": 746,
-   "level": null
-  },
-  "你好帅2": {
-   "name": "🧸好帅┃短剧",
-   "health": "degraded",
-   "latency_ms": 839,
-   "level": null
-  },
-  "你好帅": {
-   "name": "《好帅🎦短剧》",
-   "health": "degraded",
-   "latency_ms": 848,
+   "latency_ms": 738,
    "level": null
   },
   "234XBPQ": {
    "name": "234|弹幕",
    "health": "degraded",
-   "latency_ms": 1127,
+   "latency_ms": 896,
+   "level": null
+  },
+  "你好帅": {
+   "name": "《好帅🎦短剧》",
+   "health": "degraded",
+   "latency_ms": 1182,
+   "level": null
+  },
+  "你好帅2": {
+   "name": "🧸好帅┃短剧",
+   "health": "degraded",
+   "latency_ms": 1182,
    "level": null
   },
   "追剧影院1": {
@@ -17236,19 +18004,19 @@
   "芒果弹幕": {
    "name": "果果｜星源",
    "health": "healthy",
-   "latency_ms": 7073,
+   "latency_ms": 8511,
    "level": "D5"
   },
   "果果视频": {
    "name": "🎇｜果果｜解析",
    "health": "degraded",
-   "latency_ms": 1734,
+   "latency_ms": 1184,
    "level": "D2"
   },
   "85K影院": {
    "name": "8️⃣85K┃影视",
    "health": "dead",
-   "latency_ms": 16,
+   "latency_ms": 26,
    "level": null
   },
   "喜福短剧": {
@@ -17290,13 +18058,13 @@
   "护航短剧": {
    "name": "✨护航短剧✨乐哥甄选✨",
    "health": "dead",
-   "latency_ms": 296,
+   "latency_ms": 239,
    "level": null
   },
   "短剧好看": {
    "name": "✨短剧好看✨乐哥甄选✨",
    "health": "dead",
-   "latency_ms": 8092,
+   "latency_ms": 8032,
    "level": null
   },
   "全网": {
@@ -17310,12 +18078,6 @@
    "health": "healthy",
    "latency_ms": 1715,
    "level": "C5"
-  },
-  "XBPQ_短剧TV": {
-   "name": "🆖短剧┃TV",
-   "health": "dead",
-   "latency_ms": 8172,
-   "level": null
   },
   "juheduanju": {
    "name": "🌟｜聚合｜短剧",
@@ -17332,13 +18094,13 @@
   "✨纵横|影视✨": {
    "name": "🍓纵横┃影视",
    "health": "dead",
-   "latency_ms": 886,
+   "latency_ms": 6305,
    "level": null
   },
   "凯奇追剧": {
    "name": "🍳凯奇┃追剧",
    "health": "dead",
-   "latency_ms": 29,
+   "latency_ms": 17,
    "level": null
   },
   "七星短剧": {
@@ -17350,7 +18112,7 @@
   "米兔影视": {
    "name": "🐰米兔┃影视",
    "health": "dead",
-   "latency_ms": 33,
+   "latency_ms": 38,
    "level": null
   },
   "聚合短剧_async": {
@@ -17368,13 +18130,7 @@
   "纽约影院": {
    "name": "🗽纽约┃影院",
    "health": "dead",
-   "latency_ms": 14,
-   "level": null
-  },
-  "碟迷影院": {
-   "name": "🛸碟迷┃影视",
-   "health": "dead",
-   "latency_ms": 8074,
+   "latency_ms": 26,
    "level": null
   },
   "短剧one": {
@@ -17386,19 +18142,19 @@
   "狐狸电影": {
    "name": "🦊┃狐狸┃电影",
    "health": "dead",
-   "latency_ms": 164,
+   "latency_ms": 143,
    "level": null
   },
   "红狐狸影院": {
    "name": "🦊红狐狸┃影院",
    "health": "dead",
-   "latency_ms": 9124,
+   "latency_ms": 9035,
    "level": null
   },
   "果果": {
    "name": "☀茫茫🔹人海",
    "health": "degraded",
-   "latency_ms": 1635,
+   "latency_ms": 1392,
    "level": "D2"
   },
   "py_51短剧": {
@@ -17638,8 +18394,20 @@
   "龙伊短剧": {
    "name": "🐲龙儿┃短剧",
    "health": "dead",
-   "latency_ms": 257,
+   "latency_ms": 480,
    "level": null
+  },
+  "drpy_js_秋霞影视": {
+   "name": "影视 | 秋霞影视[js]",
+   "health": "dead",
+   "latency_ms": 410,
+   "level": "D0"
+  },
+  "shayuapi.com": {
+   "name": "成人24",
+   "health": "healthy",
+   "latency_ms": 2428,
+   "level": "L3"
   },
   "秋霞影视": {
    "name": "😐秋霞影视",
@@ -17650,11 +18418,11 @@
   "盘Ta": {
    "name": "网盘 | 盘Ta",
    "health": "dead",
-   "latency_ms": 376,
+   "latency_ms": 482,
    "level": null
   },
-  "shayuapi.com": {
-   "name": "成人24",
+  "tianyazy": {
+   "name": "🍀天涯海角",
    "health": "unknown",
    "latency_ms": null,
    "level": null
@@ -17671,16 +18439,10 @@
    "latency_ms": 2,
    "level": "C0"
   },
-  "drpy_js_秋霞影视": {
-   "name": "影视 | 秋霞影视[js]",
-   "health": "dead",
-   "latency_ms": 682,
-   "level": "D0"
-  },
   "drpy_js_秋霞影院": {
    "name": "影视 | 秋霞影院[js]",
    "health": "dead",
-   "latency_ms": 15808,
+   "latency_ms": 30034,
    "level": "D0"
   },
   "秋霞": {
@@ -17689,106 +18451,106 @@
    "latency_ms": 5741,
    "level": "C1"
   },
-  "py_3qu": {
-   "name": "3QU",
-   "health": "degraded",
-   "latency_ms": 306,
-   "level": null
-  },
   "py_bilimd": {
    "name": "B站影视",
    "health": "degraded",
-   "latency_ms": 383,
+   "latency_ms": 313,
+   "level": null
+  },
+  "py_3qu": {
+   "name": "3QU",
+   "health": "degraded",
+   "latency_ms": 331,
    "level": null
   },
   "py_bilivd": {
    "name": "B站(带搜索)",
    "health": "degraded",
-   "latency_ms": 494,
-   "level": null
-  },
-  "py_douban-2": {
-   "name": " 🐦豆瓣影视",
-   "health": "degraded",
-   "latency_ms": 1203,
-   "level": null
-  },
-  "py_czspp": {
-   "name": " 🐦厂长",
-   "health": "degraded",
-   "latency_ms": 1266,
-   "level": null
-  },
-  "py_voflix": {
-   "name": " 🐦Voflix",
-   "health": "degraded",
-   "latency_ms": 1362,
+   "latency_ms": 599,
    "level": null
   },
   "py_cyys": {
    "name": " 🐦创意影视",
    "health": "degraded",
-   "latency_ms": 1389,
+   "latency_ms": 915,
+   "level": null
+  },
+  "py_czspp": {
+   "name": " 🐦厂长",
+   "health": "degraded",
+   "latency_ms": 1020,
+   "level": null
+  },
+  "py_douban-2": {
+   "name": " 🐦豆瓣影视",
+   "health": "degraded",
+   "latency_ms": 1057,
+   "level": null
+  },
+  "py_voflix": {
+   "name": " 🐦Voflix",
+   "health": "degraded",
+   "latency_ms": 1065,
    "level": null
   },
   "py_zxzj": {
    "name": " 🐦在线之家",
    "health": "degraded",
-   "latency_ms": 1438,
+   "latency_ms": 1136,
    "level": null
   },
   "py_genmov": {
    "name": " 🐦跟剧",
    "health": "degraded",
-   "latency_ms": 1519,
-   "level": null
-  },
-  "py_xmaomi": {
-   "name": " 🐦猫咪",
-   "health": "degraded",
-   "latency_ms": 1521,
+   "latency_ms": 1173,
    "level": null
   },
   "py_libvio-2": {
    "name": " 🐦Libvio",
    "health": "degraded",
-   "latency_ms": 1547,
+   "latency_ms": 1281,
+   "level": null
+  },
+  "py_xmaomi": {
+   "name": " 🐦猫咪",
+   "health": "degraded",
+   "latency_ms": 1377,
    "level": null
   },
   "py_cokemv": {
    "name": " 🐦COKEMV",
    "health": "degraded",
-   "latency_ms": 1554,
-   "level": null
-  },
-  "py_gimytv": {
-   "name": " 🐦剧迷",
-   "health": "degraded",
-   "latency_ms": 1601,
+   "latency_ms": 1391,
    "level": null
   },
   "py_star": {
    "name": " 🐦星光影视 py",
    "health": "degraded",
-   "latency_ms": 1638,
+   "latency_ms": 1505,
    "level": null
   },
   "py_cup": {
    "name": " 🐦茶杯狐 py",
    "health": "degraded",
-   "latency_ms": 1719,
+   "latency_ms": 1519,
    "level": null
   },
-  "py_lezhu": {
-   "name": " 🐦乐猪影视 py",
+  "py_gimytv": {
+   "name": " 🐦剧迷",
    "health": "degraded",
-   "latency_ms": 1752,
+   "latency_ms": 1521,
    "level": null
   },
   "py_if101": {
    "name": " 🐦If101",
    "health": "degraded",
-   "latency_ms": 1793,
+   "latency_ms": 1678,
+   "level": null
+  },
+  "py_lezhu": {
+   "name": " 🐦乐猪影视 py",
+   "health": "degraded",
+   "latency_ms": 1687,
    "level": null
   },
   "6828170191126768707": {
@@ -17812,13 +18574,13 @@
   "hipy_js_腾云驾雾[官]": {
    "name": "[590ms|5] 腾云驾雾[官](drpy_t3)",
    "health": "degraded",
-   "latency_ms": 1785,
+   "latency_ms": 2305,
    "level": "D2"
   },
   "钛金影视": {
    "name": "[590ms|5] 钛金影视",
    "health": "degraded",
-   "latency_ms": 949,
+   "latency_ms": 1087,
    "level": "D2"
   },
   "5005075157250987989": {
@@ -17968,7 +18730,7 @@
   "drpy_js_豆瓣-7": {
    "name": "搜索 • 豆瓣",
    "health": "degraded",
-   "latency_ms": 857,
+   "latency_ms": 1031,
    "level": "D2"
   },
   "drpy_js_毒蛇": {
@@ -17980,7 +18742,7 @@
   "荐片-2": {
    "name": "荐片P2P",
    "health": "degraded",
-   "latency_ms": 726,
+   "latency_ms": 836,
    "level": "D1"
   },
   "lover": {
@@ -17992,11 +18754,23 @@
   "哔哩MV": {
    "name": "🅱️分享歌曲",
    "health": "dead",
-   "latency_ms": 517,
+   "latency_ms": 355,
    "level": "D0"
+  },
+  "ddys_js": {
+   "name": "🍄低端┃在线",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "金牌影视-2": {
    "name": "🏅金牌┃蓝光┃无广",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
+  },
+  "达达龟js": {
+   "name": "🐢达达龟┃在线",
    "health": "unknown",
    "latency_ms": null,
    "level": null
@@ -18015,9 +18789,15 @@
   },
   "虎牙js-3": {
    "name": "🐯虎牙┃直播",
-   "health": "degraded",
-   "latency_ms": 16657,
-   "level": "D2"
+   "health": "healthy",
+   "latency_ms": 3805,
+   "level": "D5"
+  },
+  "libvio_js": {
+   "name": "🐰利播┃在线",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "QD4K": {
    "name": "🐷┃猪猪┃影视",
@@ -18028,7 +18808,7 @@
   "hipy_js_KTV歌厅[听]": {
    "name": "💖分享歌厅",
    "health": "degraded",
-   "latency_ms": 143,
+   "latency_ms": 158,
    "level": "D1"
   },
   "py_金牌影视": {
@@ -18040,13 +18820,13 @@
   "冠建影视": {
    "name": "💝分享冠建",
    "health": "healthy",
-   "latency_ms": 3029,
+   "latency_ms": 3431,
    "level": "D3"
   },
   "哔哩视频JS": {
    "name": "💝分享哔哩",
    "health": "degraded",
-   "latency_ms": 842,
+   "latency_ms": 717,
    "level": "D2"
   },
   "y": {
@@ -18058,7 +18838,7 @@
   "歪片星球[资]": {
    "name": "💝分享歪片",
    "health": "degraded",
-   "latency_ms": 856,
+   "latency_ms": 744,
    "level": "D2"
   },
   "猫头鹰": {
@@ -18070,7 +18850,7 @@
   "飞牛影视": {
    "name": "💝分享飞牛",
    "health": "degraded",
-   "latency_ms": 1319,
+   "latency_ms": 1703,
    "level": "D2"
   },
   "两个BT(js)": {
@@ -18628,7 +19408,7 @@
   "哔幕": {
    "name": "[367ms|直播] 哔哩｜X",
    "health": "degraded",
-   "latency_ms": 1441,
+   "latency_ms": 1668,
    "level": "D2"
   },
   "路漫漫-3": {
@@ -18646,31 +19426,31 @@
   "drpy_js_金牌-2": {
    "name": "[367ms|直播] 金牌影视[js]",
    "health": "healthy",
-   "latency_ms": 4007,
+   "latency_ms": 4573,
    "level": "D3"
   },
   "去看吧-6": {
    "name": "[367ms|直播] 🌾去看动漫",
    "health": "dead",
-   "latency_ms": 161,
+   "latency_ms": 238,
    "level": "D0"
   },
   "腾腾": {
    "name": "[367ms|直播] 🐧腾腾┃JX",
    "health": "healthy",
-   "latency_ms": 4143,
+   "latency_ms": 6243,
    "level": "D5"
   },
   "酷酷": {
    "name": "[367ms|直播] 😎酷酷┃JX",
    "health": "degraded",
-   "latency_ms": 928,
+   "latency_ms": 1505,
    "level": "D1"
   },
   "腾讯视频-2": {
    "name": "[590ms|5] 腾讯视频",
    "health": "degraded",
-   "latency_ms": 927,
+   "latency_ms": 1183,
    "level": "D2"
   },
   "MG-2": {
@@ -18706,7 +19486,7 @@
   "裤佬网易影视": {
    "name": "☁云霄丨网易丨影视",
    "health": "degraded",
-   "latency_ms": 1869,
+   "latency_ms": 2391,
    "level": "D2"
   },
   "裤佬葫芦影视": {
@@ -18718,7 +19498,7 @@
   "19-3": {
    "name": "☁云霄戏曲",
    "health": "degraded",
-   "latency_ms": 3237,
+   "latency_ms": 5079,
    "level": "D2"
   },
   "JD": {
@@ -18742,13 +19522,13 @@
   "drpy_js_优酷1": {
    "name": "♻️优酷(官源)",
    "health": "degraded",
-   "latency_ms": 859,
+   "latency_ms": 1136,
    "level": "D1"
   },
   "搜索┃豆瓣js": {
    "name": "♻️豆瓣┃公众号:业余打发。",
    "health": "degraded",
-   "latency_ms": 1899,
+   "latency_ms": 2480,
    "level": "D2"
   },
   "drpy_js_310直播-3": {
@@ -18760,13 +19540,13 @@
   "人人电影网": {
    "name": "人人｜4K",
    "health": "degraded",
-   "latency_ms": 213,
+   "latency_ms": 202,
    "level": "D2"
   },
   "腾讯幕": {
    "name": "企鹅｜X",
    "health": "healthy",
-   "latency_ms": 3174,
+   "latency_ms": 4235,
    "level": "D5"
   },
   "YK": {
@@ -18778,7 +19558,7 @@
   "优酷幕": {
    "name": "优酷｜X",
    "health": "degraded",
-   "latency_ms": 752,
+   "latency_ms": 1076,
    "level": "D1"
   },
   "drpy_js_ddys": {
@@ -18796,7 +19576,7 @@
   "裤佬博看听书": {
    "name": "博看丨听书",
    "health": "degraded",
-   "latency_ms": 1751,
+   "latency_ms": 2467,
    "level": "D2"
   },
   "drpy_js_听书网": {
@@ -18838,13 +19618,13 @@
   "爱奇艺弹幕": {
    "name": "小艺｜星源",
    "health": "healthy",
-   "latency_ms": 13887,
+   "latency_ms": 17194,
    "level": "D5"
   },
   "优酷弹幕": {
    "name": "小酷｜星源",
    "health": "degraded",
-   "latency_ms": 864,
+   "latency_ms": 1076,
    "level": "D1"
   },
   "drpy_js_1080P": {
@@ -18940,7 +19720,7 @@
   "drpy_js_万能影视": {
    "name": "影视 | 万能影视[js]",
    "health": "dead",
-   "latency_ms": 49,
+   "latency_ms": 46,
    "level": "D0"
   },
   "drpy_js_两个 BT": {
@@ -18958,26 +19738,26 @@
   "drpy_js_九酷": {
    "name": "影视 | 九酷[js]",
    "health": "dead",
-   "latency_ms": 79,
+   "latency_ms": 47,
    "level": "D0"
   },
   "drpy_js_伊人追剧": {
    "name": "影视 | 伊人追剧[js]",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
+   "health": "dead",
+   "latency_ms": 60,
+   "level": "D0"
   },
   "drpy_js_伊雪湾": {
    "name": "影视 | 伊雪湾[js]",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
+   "health": "dead",
+   "latency_ms": 81,
+   "level": "D0"
   },
   "drpy_js_八蛋影视": {
    "name": "影视 | 八蛋影视[js]",
-   "health": "unknown",
-   "latency_ms": null,
-   "level": null
+   "health": "dead",
+   "latency_ms": 99,
+   "level": "D0"
   },
   "drpy_js_六度TV": {
    "name": "影视 | 六度TV[js]",
@@ -18994,7 +19774,7 @@
   "drpy_js_创艺影视": {
    "name": "影视 | 创艺影视[js]",
    "health": "dead",
-   "latency_ms": 74,
+   "latency_ms": 69,
    "level": "D0"
   },
   "drpy_js_利丽娅电影": {
@@ -19042,7 +19822,7 @@
   "drpy_js_哔哩兔": {
    "name": "影视 | 哔哩兔[js]",
    "health": "dead",
-   "latency_ms": 103,
+   "latency_ms": 90,
    "level": "D0"
   },
   "drpy_js_喵喵影院": {
@@ -19060,7 +19840,7 @@
   "drpy_js_土狗影院": {
    "name": "影视 | 土狗影院[js]",
    "health": "dead",
-   "latency_ms": 82,
+   "latency_ms": 95,
    "level": "D0"
   },
   "drpy_js_在线之家2": {
@@ -19132,7 +19912,7 @@
   "drpy_js_布雷蓝光": {
    "name": "影视 | 布雷蓝光[js]",
    "health": "dead",
-   "latency_ms": 103,
+   "latency_ms": 69,
    "level": "D0"
   },
   "drpy_js_影渣渣": {
@@ -19156,7 +19936,7 @@
   "drpy_js_慢大浪": {
    "name": "影视 | 慢大浪[js]",
    "health": "dead",
-   "latency_ms": 112,
+   "latency_ms": 72,
    "level": "D0"
   },
   "drpy_js_我爱电影": {
@@ -19234,13 +20014,13 @@
   "drpy_js_看BZ影视": {
    "name": "影视 | 看BZ影视[js]",
    "health": "dead",
-   "latency_ms": 90,
+   "latency_ms": 82,
    "level": "D0"
   },
   "drpy_js_看看屋": {
    "name": "影视 | 看看屋[js]",
    "health": "dead",
-   "latency_ms": 106,
+   "latency_ms": 78,
    "level": "D0"
   },
   "drpy_js_看看电影": {
@@ -19414,7 +20194,7 @@
   "youyou": {
    "name": "日出|自定",
    "health": "degraded",
-   "latency_ms": 750,
+   "latency_ms": 1081,
    "level": "D1"
   },
   "星河": {
@@ -19426,13 +20206,13 @@
   "qiqi": {
    "name": "晚霞|自定",
    "health": "healthy",
-   "latency_ms": 13104,
+   "latency_ms": 16685,
    "level": "D5"
   },
   "mangmang": {
    "name": "朝阳|自定",
    "health": "degraded",
-   "latency_ms": 1512,
+   "latency_ms": 1198,
    "level": "D2"
   },
   "AQY": {
@@ -19444,7 +20224,7 @@
   "爱奇艺幕": {
    "name": "爱奇艺｜X",
    "health": "healthy",
-   "latency_ms": 13815,
+   "latency_ms": 16986,
    "level": "D5"
   },
   "drpy_js_akjs": {
@@ -19468,19 +20248,19 @@
   "芒果幕": {
    "name": "芒果｜X",
    "health": "healthy",
-   "latency_ms": 5444,
+   "latency_ms": 5128,
    "level": "D5"
   },
   "tenteng": {
    "name": "落日|自定",
    "health": "degraded",
-   "latency_ms": 943,
+   "latency_ms": 1196,
    "level": "D2"
   },
   "腾讯弹幕": {
    "name": "讯讯｜星源",
    "health": "healthy",
-   "latency_ms": 4093,
+   "latency_ms": 4355,
    "level": "D5"
   },
   "drpy_js_种子音乐": {
@@ -19498,13 +20278,13 @@
   "一曲肝肠断": {
    "name": "🇨🇳分享戏曲",
    "health": "degraded",
-   "latency_ms": 3835,
+   "latency_ms": 4080,
    "level": "D2"
   },
   "js_好趣": {
    "name": "🇨🇳分享直播",
    "health": "degraded",
-   "latency_ms": 394,
+   "latency_ms": 545,
    "level": "D2"
   },
   "小优": {
@@ -19528,7 +20308,7 @@
   "drpy_js_金牌": {
    "name": "🌀牌金┃三一",
    "health": "healthy",
-   "latency_ms": 3048,
+   "latency_ms": 5238,
    "level": "D3"
   },
   "茫茫": {
@@ -19558,13 +20338,13 @@
   "奇奇视频": {
    "name": "🎇｜奇奇｜解析",
    "health": "healthy",
-   "latency_ms": 13536,
+   "latency_ms": 17383,
    "level": "D5"
   },
   "酷酷视频": {
    "name": "🎇｜酷酷｜解析",
    "health": "degraded",
-   "latency_ms": 750,
+   "latency_ms": 1083,
    "level": "D1"
   },
   "drpy_js_AGE动漫-2": {
@@ -19582,13 +20362,13 @@
   "js_亲子": {
    "name": "👨‍👨‍👧亲子教育",
    "health": "degraded",
-   "latency_ms": 1402,
+   "latency_ms": 1675,
    "level": "D2"
   },
   "drpy_365": {
    "name": "💖分享年年",
    "health": "healthy",
-   "latency_ms": 6589,
+   "latency_ms": 6019,
    "level": "D5"
   },
   "hipy_js_fxzhz": {
@@ -19600,19 +20380,19 @@
   "优酷视频": {
    "name": "💝分享优酷",
    "health": "degraded",
-   "latency_ms": 731,
+   "latency_ms": 1061,
    "level": "D1"
   },
   "爱奇艺": {
    "name": "💝分享奇艺",
    "health": "healthy",
-   "latency_ms": 13243,
+   "latency_ms": 17366,
    "level": "D5"
   },
   "泥巴视频": {
    "name": "💝分享泥巴",
    "health": "degraded",
-   "latency_ms": 15073,
+   "latency_ms": 9901,
    "level": "D2"
   },
   "爱剧": {
@@ -19630,19 +20410,19 @@
   "腾讯视频": {
    "name": "💝分享腾讯",
    "health": "healthy",
-   "latency_ms": 2847,
+   "latency_ms": 2769,
    "level": "D5"
   },
   "芒果视频": {
    "name": "💝分享芒果",
    "health": "degraded",
-   "latency_ms": 1648,
+   "latency_ms": 1246,
    "level": "D2"
   },
   "drpy_js_360影视-2": {
    "name": "💥360",
    "health": "healthy",
-   "latency_ms": 6058,
+   "latency_ms": 5404,
    "level": "D5"
   },
   "live": {
@@ -19654,19 +20434,19 @@
   "酷我听书": {
    "name": "📚酷我听书",
    "health": "healthy",
-   "latency_ms": 5408,
+   "latency_ms": 6917,
    "level": "D5"
   },
   "drpy_js_348电影": {
    "name": "📹348电影〔SP〕",
    "health": "dead",
-   "latency_ms": 1090,
+   "latency_ms": 1344,
    "level": "D0"
   },
   "爱弹幕": {
    "name": "🥇💢爱弹幕✨｜动漫",
    "health": "degraded",
-   "latency_ms": 49049,
+   "latency_ms": 50012,
    "level": "D2"
   },
   "优幕": {
@@ -20464,91 +21244,91 @@
   "py_kunyu77": {
    "name": "酷云77",
    "health": "degraded",
-   "latency_ms": 802,
+   "latency_ms": 786,
    "level": null
   },
   "py_bilibili": {
    "name": "哔哩",
    "health": "degraded",
-   "latency_ms": 842,
-   "level": null
-  },
-  "py_bilimy": {
-   "name": " 🐦Bilibili自用",
-   "health": "degraded",
-   "latency_ms": 1424,
-   "level": null
-  },
-  "py_jrskbs": {
-   "name": " 🐦JRS直播",
-   "health": "degraded",
-   "latency_ms": 1496,
+   "latency_ms": 790,
    "level": null
   },
   " py_bilimd": {
    "name": " 🐦哔哩影视",
    "health": "degraded",
-   "latency_ms": 1507,
+   "latency_ms": 1564,
    "level": null
   },
-  "py_douyu": {
-   "name": "🔥斗鱼",
+  "py_jrskbs": {
+   "name": " 🐦JRS直播",
    "health": "degraded",
-   "latency_ms": 1587,
+   "latency_ms": 1583,
    "level": null
   },
   " py_kuaikan": {
    "name": " 🐦快看",
    "health": "degraded",
-   "latency_ms": 1677,
-   "level": null
-  },
-  " py_kunyu77": {
-   "name": " 🐦酷云77",
-   "health": "degraded",
-   "latency_ms": 1714,
-   "level": null
-  },
-  "py_push_agent": {
-   "name": " 🐦阿里",
-   "health": "degraded",
-   "latency_ms": 1782,
-   "level": null
-  },
-  " py_3qu": {
-   "name": " 🐦快播影视",
-   "health": "degraded",
-   "latency_ms": 1786,
-   "level": null
-  },
-  " py_yixi": {
-   "name": " 🐦一席",
-   "health": "degraded",
-   "latency_ms": 1839,
-   "level": null
-  },
-  "py_huya": {
-   "name": "🔥虎牙",
-   "health": "degraded",
-   "latency_ms": 1849,
-   "level": null
-  },
-  "py_cctv_full": {
-   "name": " 🐦央视大全",
-   "health": "degraded",
-   "latency_ms": 1867,
+   "latency_ms": 1720,
    "level": null
   },
   " py_test": {
    "name": " 🐦py测试",
    "health": "degraded",
-   "latency_ms": 1974,
+   "latency_ms": 1728,
+   "level": null
+  },
+  "py_bilimy": {
+   "name": " 🐦Bilibili自用",
+   "health": "degraded",
+   "latency_ms": 1746,
+   "level": null
+  },
+  " py_3qu": {
+   "name": " 🐦快播影视",
+   "health": "degraded",
+   "latency_ms": 1805,
+   "level": null
+  },
+  "py_cctv_full": {
+   "name": " 🐦央视大全",
+   "health": "degraded",
+   "latency_ms": 1823,
+   "level": null
+  },
+  "py_huya": {
+   "name": "🔥虎牙",
+   "health": "degraded",
+   "latency_ms": 1908,
+   "level": null
+  },
+  "py_douyu": {
+   "name": "🔥斗鱼",
+   "health": "degraded",
+   "latency_ms": 1959,
+   "level": null
+  },
+  "py_push_agent": {
+   "name": " 🐦阿里",
+   "health": "degraded",
+   "latency_ms": 1961,
+   "level": null
+  },
+  " py_kunyu77": {
+   "name": " 🐦酷云77",
+   "health": "degraded",
+   "latency_ms": 2072,
+   "level": null
+  },
+  " py_yixi": {
+   "name": " 🐦一席",
+   "health": "degraded",
+   "latency_ms": 2290,
    "level": null
   },
   "drpy_js_AGE动漫": {
    "name": "DRPY┃AGE动漫",
    "health": "degraded",
-   "latency_ms": 910,
+   "latency_ms": 1136,
    "level": "D2"
   },
   "drpy_js_JRKAN直播-3": {
@@ -20560,7 +21340,7 @@
   "Jrsjs": {
    "name": "⚽Jrs┃球迷",
    "health": "degraded",
-   "latency_ms": 960,
+   "latency_ms": 1212,
    "level": "D1"
   },
   "py_cctv": {
@@ -20578,13 +21358,13 @@
   "drpy_js_有声小说吧": {
    "name": "有声小说吧",
    "health": "degraded",
-   "latency_ms": 30028,
+   "latency_ms": 30034,
    "level": "D2"
   },
   "dr_猫了个咪": {
    "name": "猫了个咪(drpy)",
    "health": "degraded",
-   "latency_ms": 15019,
+   "latency_ms": 15020,
    "level": "D1"
   },
   "js豆瓣": {
@@ -20596,14 +21376,20 @@
   "酷奇": {
    "name": "🎤酷奇┃MV",
    "health": "degraded",
-   "latency_ms": 20032,
+   "latency_ms": 20034,
    "level": "D2"
   },
   "有声小说js": {
    "name": "🎧有声┃小说",
    "health": "degraded",
-   "latency_ms": 331,
+   "latency_ms": 135,
    "level": "D2"
+  },
+  "海洋听书js": {
+   "name": "🎧海洋┃听书",
+   "health": "unknown",
+   "latency_ms": null,
+   "level": null
   },
   "py_qie": {
    "name": "🏀┃企鹅┃体育",
@@ -20614,7 +21400,7 @@
   "虎牙直播js-3": {
    "name": "🐯虎牙┃直播",
    "health": "dead",
-   "latency_ms": 1894,
+   "latency_ms": 2050,
    "level": "D0"
   },
   "虎牙直播js-4": {
@@ -20650,13 +21436,13 @@
   "儿童": {
    "name": "📚┃儿童┃启蒙",
    "health": "healthy",
-   "latency_ms": 3471,
+   "latency_ms": 4156,
    "level": "D4"
   },
   "dr_兔小贝-7": {
    "name": "📚儿童┃启蒙",
    "health": "healthy",
-   "latency_ms": 3450,
+   "latency_ms": 4181,
    "level": "D4"
   },
   "py_cctv_少儿": {
@@ -20674,19 +21460,19 @@
   "py_zyy": {
    "name": "中医",
    "health": "dead",
-   "latency_ms": 10009,
+   "latency_ms": 8216,
    "level": null
   },
   "py_xiangsh": {
    "name": "相声",
    "health": "dead",
-   "latency_ms": 10009,
+   "latency_ms": 8177,
    "level": null
   },
   "py_Yinl2": {
    "name": "音乐",
    "health": "dead",
-   "latency_ms": 10009,
+   "latency_ms": 7762,
    "level": null
   },
   "vv003": {
@@ -22081,6 +22867,22 @@
   },
   "https://gh.halonice.com/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/lives/live_other.txt": {
    "name": "Guovin·其他",
+   "health": "unknown"
+  },
+  "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/ip.txt": {
+   "name": "iptv",
+   "health": "unknown"
+  },
+  "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/mt.txt": {
+   "name": "mitv",
+   "health": "unknown"
+  },
+  "http://127.0.0.1:9978/proxy?do=live&url=http://mywlkj.ddns.net:754/tv.php": {
+   "name": "ddns",
+   "health": "unknown"
+  },
+  "https://live.fanmingming.com/tv/m3u/index.m3u": {
+   "name": "央视卫视",
    "health": "unknown"
   }
  }

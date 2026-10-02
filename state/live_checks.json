@@ -7,7 +7,7 @@
    "epg": "https://epg.pw/api/v1/getEpgInfo?token=tvbox",
    "ua": "TVBox",
    "status": "dead",
-   "reason": "fetch_error",
+   "reason": "fetch_404",
    "channels": 0
   }
  ]

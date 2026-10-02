@@ -472,26 +472,6 @@
    }
   },
   {
-   "name": "欢雨",
-   "type": 1,
-   "url": "http://www.youhuifuligou.com/json/?id=7&url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "letv",
-     "乐视",
-     "xigua",
-     "西瓜"
-    ]
-   }
-  },
-  {
    "name": "web1",
    "type": 0,
    "url": "https://www.nxflv.com/?url=",
@@ -981,38 +961,6 @@
    }
   },
   {
-   "name": "直解",
-   "type": 1,
-   "url": "http://rxjx.kuanjv.com/allm3u8.php?url=",
-   "ext": {
-    "flag": [
-     "rx",
-     "ltnb",
-     "renrenmi",
-     "rongxing",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩",
-     "youku",
-     "优酷",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "qq",
-     "腾讯",
-     "mgtv",
-     "芒果",
-     "sohu",
-     "搜狐",
-     "letv",
-     "乐视",
-     "xigua",
-     "CL4K",
-     "西瓜"
-    ]
-   }
-  },
-  {
    "name": "极速[②]",
    "type": 1,
    "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
@@ -1420,6 +1368,11 @@
    "url": "http://154.44.26.196/player/qu.php?v="
   },
   {
+   "name": "思古3",
+   "type": 0,
+   "url": "https://jsap.attakids.com/?url="
+  },
+  {
    "name": "网络搜集03",
    "type": 1,
    "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
@@ -1433,24 +1386,12 @@
  ],
  "sites": [
   {
-   "key": "白嫖",
-   "name": "白嫖 | 采集",
+   "key": "小湿妹",
+   "name": "湿妹 | 采集",
    "type": 0,
-   "api": "https://www.kxgav.com/api/xml.php",
+   "api": "http://www.afasu.com/api/xml.php",
    "searchable": 0,
    "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy",
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "香奶儿资源站",
-   "name": "香奶 | 采集",
-   "type": 0,
-   "api": "https://www.gdlsp.com/api/xml.php",
-   "searchable": 0,
-   "quickSearch": 0,
    "ext": "proxy",
    "group": "直连点播",
    "_origin": "feishu-sync"
@@ -1469,12 +1410,24 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "小湿妹",
-   "name": "湿妹 | 采集",
+   "key": "香奶儿资源站",
+   "name": "香奶 | 采集",
    "type": 0,
-   "api": "http://www.afasu.com/api/xml.php",
+   "api": "https://www.gdlsp.com/api/xml.php",
+   "searchable": 0,
+   "quickSearch": 0,
+   "ext": "proxy",
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "白嫖",
+   "name": "白嫖 | 采集",
+   "type": 0,
+   "api": "https://www.kxgav.com/api/xml.php",
    "searchable": 0,
    "quickSearch": 1,
+   "filterable": 1,
    "ext": "proxy",
    "group": "直连点播",
    "_origin": "feishu-sync"
@@ -1502,17 +1455,6 @@
     "ratio": 1.33
    },
    "changeable": 1,
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "请勿贩卖📚在线_采集集合",
-   "name": "请勿贩卖📚在线·采集集合",
-   "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
    "group": "直连点播",
    "_origin": "feishu-sync"
   },

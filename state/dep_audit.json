@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-01T23:42:34",
- "deps_files": 7491,
- "deps_bytes": 755395408,
+ "generated_at": "2026-10-02T23:30:10",
+ "deps_files": 7505,
+ "deps_bytes": 759520842,
  "duplicate_groups": 960,
- "duplicate_savable_bytes": 446671367,
- "unreferenced_count": 6494,
- "unreferenced_bytes": 597254651,
+ "duplicate_savable_bytes": 448621148,
+ "unreferenced_count": 6503,
+ "unreferenced_bytes": 599210720,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
@@ -29,6 +29,11 @@
   },
   {
    "path": "deps/auto/31-51s/jar/fan.txt",
+   "suffix": ".txt",
+   "content": "jar"
+  },
+  {
+   "path": "deps/auto/8-43s/spider.txt",
    "suffix": ".txt",
    "content": "jar"
   },
@@ -88,11 +93,16 @@
    "content": "jar"
   }
  ],
- "jar_suffix_mismatch_count": 16,
+ "jar_suffix_mismatch_count": 17,
  "jar_suffix_rewrite_suggestions": [
   {
    "from": "deps/nxppru/0821/jar/fan.txt",
    "to": "deps/nxppru/0821/jar/fan.jar",
+   "referenced": true
+  },
+  {
+   "from": "deps/auto/8-43s/spider.txt",
+   "to": "deps/auto/8-43s/spider.jar",
    "referenced": true
   },
   {
@@ -280,6 +290,7 @@
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/11-298s/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/10-235s/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/24-3s/js/drpy-core-lite.min.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/js/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/https:/raw.github.com/tly824/tvbox/master/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/https:/raw.githubusercontent.com/qist/tvbox/master/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy-core-lite.min.js",
@@ -402,7 +413,7 @@
   },
   {
    "path": "deps/manifest.json",
-   "bytes": 3332006
+   "bytes": 3338294
   },
   {
    "path": "deps/auto/24-106s/lib/spider.jar",

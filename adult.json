@@ -12,6 +12,18 @@
    "_origin": "qist/9918"
   },
   {
+   "key": "森林专场",
+   "name": "森林 | 采集",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
    "key": "大奶子",
    "name": "大奶子 | 采集",
    "type": 1,
@@ -22,18 +34,6 @@
     "ratio": 1.33
    },
    "changeable": 1,
-   "_origin": "cluntop/fun"
-  },
-  {
-   "key": "玉兔",
-   "name": "玉兔 | 采集",
-   "type": 1,
-   "api": "https://apiyutu.com/api.php/provide/vod/",
-   "playUrl": "https://yutujx.com/?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy",
    "_origin": "cluntop/fun"
   },
   {
@@ -55,27 +55,6 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "森林专场",
-   "name": "森林 | 采集",
-   "type": 1,
-   "api": "https://slapibf.com/api.php/provide/vod/",
-   "playUrl": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy",
-   "_origin": "cluntop/fun"
-  },
-  {
-   "key": "lebozy.com",
-   "name": "💕乐播(直连)",
-   "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "qist/9918"
-  },
-  {
    "key": "lbapi9.com",
    "name": "成人26",
    "type": 1,
@@ -94,13 +73,14 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "番号",
-   "name": "番号 | 采集",
+   "key": "玉兔",
+   "name": "玉兔 | 采集",
    "type": 1,
-   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "api": "https://apiyutu.com/api.php/provide/vod/",
+   "playUrl": "https://yutujx.com/?url=",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 0,
+   "filterable": 1,
    "ext": "proxy",
    "_origin": "cluntop/fun"
   },
@@ -114,41 +94,23 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "bt4.cc",
-   "name": "★91麻豆②(直连)",
+   "key": "番号",
+   "name": "番号 | 采集",
    "type": 1,
-   "api": "http://bt4.cc/api.php/provide/vod/from/mdm3u8/",
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "qist/9918"
-  },
-  {
-   "key": "麻豆视频",
-   "name": "麻豆 | 采集",
-   "type": 1,
-   "api": "https://91md.me/api.php/provide/vod/",
+   "api": "http://fhapi9.com/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1,
+   "filterable": 0,
    "ext": "proxy",
    "_origin": "cluntop/fun"
   },
   {
-   "key": "91md.me",
-   "name": "成人07",
+   "key": "lebozy.com",
+   "name": "💕乐播(直连)",
    "type": 1,
-   "api": "http://91md.me/api.php/provide/vod/",
-   "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
    "searchable": 1,
-   "recordable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "header": {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-   },
+   "filterable": 1,
    "_origin": "qist/9918"
   },
   {
@@ -161,6 +123,15 @@
    "changeable": 1,
    "ext": "proxy",
    "_origin": "cluntop/fun"
+  },
+  {
+   "key": "madouse.la",
+   "name": "★魔法(直连)",
+   "type": 1,
+   "api": "http://madouse.la/api.php/provide/vod/",
+   "searchable": 1,
+   "filterable": 1,
+   "_origin": "qist/9918"
   },
   {
    "key": "18AV",

@@ -1,284 +1,221 @@
 {
- "generated_at": "2026-10-01T23:42:34",
+ "generated_at": "2026-10-02T23:30:11",
  "is_baseline": false,
  "vod": {
-  "total": 3591,
+  "total": 3516,
   "summary": {
-   "healthy": 122,
-   "degraded": 629,
-   "unknown": 1038,
-   "dead": 1802
+   "healthy": 125,
+   "degraded": 655,
+   "unknown": 941,
+   "dead": 1795
   },
   "new": [
    {
-    "key": "haihua",
-    "name": "海豚资源",
+    "key": "api_29",
+    "name": "TV-电影天堂资源",
     "health": "unknown"
    },
    {
-    "key": "极速资源",
-    "name": "影视 • 极速[直连]",
+    "key": "api_39",
+    "name": "TV-豪华资源",
     "health": "unknown"
    },
    {
-    "key": "zuid",
-    "name": "最大资源",
+    "key": "api_23",
+    "name": "TV-暴风资源",
     "health": "unknown"
    },
    {
-    "key": "guangsu2",
-    "name": "🍀光速HTTP",
+    "key": "api_9",
+    "name": "TV-丫丫点播",
     "health": "unknown"
    },
    {
-    "key": "huya",
-    "name": "虎牙资源",
+    "key": "api_14",
+    "name": "TV-天涯资源",
     "health": "unknown"
    },
    {
-    "key": "guangsu",
-    "name": "光速资源",
+    "key": "api_24",
+    "name": "TV-最大点播",
     "health": "unknown"
    },
    {
-    "key": "jiangyu",
-    "name": "鲸鱼资源",
+    "key": "滴滴-2",
+    "name": "[137ms|zy] 🍊滴滴",
     "health": "unknown"
    },
    {
-    "key": "jkunzy.com",
-    "name": "💕jkun(直连)",
+    "key": "cj.lzcaiji.com",
+    "name": "🎬量子资源",
     "health": "unknown"
    },
    {
-    "key": "heimuer",
-    "name": "虎牙",
+    "key": "牛牛资源",
+    "name": "[322ms|我的] 牛牛资源",
     "health": "unknown"
    },
    {
-    "key": "yinghua-2",
-    "name": "樱花资源",
+    "key": "api_7",
+    "name": "TV-ikun资源",
     "health": "unknown"
    },
    {
-    "key": "电影天堂-3",
-    "name": "️天堂┃采集",
+    "key": "a极速资源",
+    "name": "🎀极速┃采集",
     "health": "unknown"
    },
    {
-    "key": "U酷资源-2",
-    "name": "[322ms|我的] U酷资源",
+    "key": "天涯采集",
+    "name": "影视 • 天涯",
     "health": "unknown"
    },
    {
-    "key": "csp_xml_无尽",
-    "name": "❤无尽资源",
+    "key": "api_10",
+    "name": "TV-光速资源",
     "health": "unknown"
    },
    {
-    "key": "csp_非凡资源",
-    "name": "🥗┃非凡┃资源",
+    "key": "api_36",
+    "name": "TV-虎牙资源",
     "health": "unknown"
    },
    {
-    "key": "ikun-3",
-    "name": "iKun资源",
+    "key": "api_20",
+    "name": "TV-无尽资源",
     "health": "unknown"
    }
   ],
   "gone": [
    {
-    "key": "滴滴-2",
-    "name": "[137ms|zy] 🍊滴滴"
+    "key": "laosebizy.com",
+    "name": "💕老色逼(直连)"
    },
    {
-    "key": "mdzy",
-    "name": "魔都资源"
+    "key": "ikunzy-2",
+    "name": "影视 🔰 ikun[直连]"
    },
    {
-    "key": "didizy.com",
-    "name": "♥滴滴(直连)"
+    "key": "电影天堂-4",
+    "name": "🧞无广┃[采集]"
    },
    {
-    "key": "csp_xml_光速",
-    "name": "❤光速资源"
+    "key": "11辣椒资源",
+    "name": "apilj辣椒资源"
    },
    {
-    "key": "精品资源站",
-    "name": "精品 | 采集"
+    "key": "虎牙",
+    "name": "🌼虎牙┃采集🌼"
    },
    {
-    "key": "7e324c0872c13fd329e818c33a659046",
-    "name": "10-如意"
+    "key": "0be92695deec6ee83ef66a6fca1e88e4",
+    "name": "34-魔都"
    },
    {
-    "key": "精品",
-    "name": "[137ms|zy] 🍊精品🪜"
+    "key": "acd47931ed9a83e500f70bbb7c5c0c2b",
+    "name": "54-奇艺"
    },
    {
-    "key": "沙鱼",
-    "name": "沙鱼 | 采集"
+    "key": "3b413ffe4c72f0b8f99ca6a868075d99",
+    "name": "38-U酷"
    },
    {
-    "key": "yhzy",
-    "name": "樱花资源"
+    "key": "baofeng",
+    "name": "暴风资源"
    },
    {
-    "key": "gszy",
-    "name": "光速资源"
+    "key": "zy_优质资源",
+    "name": "接口┃优质资源"
    },
    {
-    "key": "新浪资源",
-    "name": "新浪资源(切)"
+    "key": "2b95a57602ae920c848d81627e162f9e",
+    "name": "28-无尽"
    },
    {
-    "key": "天涯采集",
-    "name": "影视 • 天涯"
+    "key": "c175280641d5263f0d0d9cbfab0162c3",
+    "name": "13-非凡"
    },
    {
-    "key": "api_42",
-    "name": "TV-金鹰点播"
+    "key": "haihua",
+    "name": "海豚资源"
    },
    {
-    "key": "鸭鸭资源",
-    "name": "[322ms|我的] 鸭鸭资源"
+    "key": "极速资源",
+    "name": "影视 • 极速[直连]"
    },
    {
-    "key": "wujin4",
-    "name": "无尽资源3"
+    "key": "zuid",
+    "name": "最大资源"
    }
   ],
   "down": [
    {
-    "key": "fbfa5eed414e1f6137f2496a68005ef5",
-    "name": "43-HG",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "567影院",
-    "name": "5️⃣南瓜┃影院",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "csp_appys_大猫",
-    "name": "大猫",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "冷心",
-    "name": "冷心｜APP",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "BiliXiqu",
-    "name": "🎉戏曲┃Bili",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "BiliGequ",
-    "name": "🎉歌曲┃Bili",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "美剧迷",
-    "name": "弹幕 | 美剧迷[jar]",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "csp_XBPQ_6080z",
-    "name": "💫┃6080┃XB",
+    "key": "csp_sp_龙门影视",
+    "name": "推荐┃龙门影视",
     "from": "degraded",
     "to": "dead"
    }
   ],
   "recovered": [
    {
-    "key": "芬奇",
-    "name": "芬奇｜APP",
+    "key": "csp_appys_大猫",
+    "name": "大猫",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "素白白",
-    "name": "素白白✨蓝光影视",
+    "key": "冷心",
+    "name": "冷心｜APP",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "csp_XBPQ_碟迷",
-    "name": "💫┃碟迷┃XB",
+    "key": "BiliXiqu",
+    "name": "🎉戏曲┃Bili",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "乌卡猫影院",
-    "name": "🙀乌猫┃影视",
+    "key": "BiliGequ",
+    "name": "🎉歌曲┃Bili",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "金漫TV",
-    "name": "🥝金曼┃影视",
+    "key": "美剧迷",
+    "name": "弹幕 | 美剧迷[jar]",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "XBPQ_短剧TV",
-    "name": "🆖短剧┃TV",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "碟迷影院",
-    "name": "🛸碟迷┃影视",
+    "key": "csp_XBPQ_6080z",
+    "name": "💫┃6080┃XB",
     "from": "dead",
     "to": "degraded"
    }
   ],
   "counts": {
-   "new": 182,
-   "gone": 51,
-   "down": 8,
-   "recovered": 7
+   "new": 88,
+   "gone": 163,
+   "down": 1,
+   "recovered": 6
   }
  },
  "live": {
-  "total": 334,
+  "total": 331,
   "summary": {
-   "unknown": 334
+   "unknown": 331
   },
   "counts": {
-   "new": 4,
-   "gone": 0,
+   "new": 1,
+   "gone": 4,
    "down": 0,
    "recovered": 0
   },
   "new": [
    {
-    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/ip.txt",
-    "name": "iptv",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/mt.txt",
-    "name": "mitv",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:9978/proxy?do=live&url=http://mywlkj.ddns.net:754/tv.php",
-    "name": "ddns",
-    "health": "unknown"
-   },
-   {
-    "key": "https://live.fanmingming.com/tv/m3u/index.m3u",
-    "name": "央视卫视",
+    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather",
+    "name": "直播1",
     "health": "unknown"
    }
   ],

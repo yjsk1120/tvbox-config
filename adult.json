@@ -3,6 +3,18 @@
  "wallpaper": "https://t.alcy.cc/ys",
  "sites": [
   {
+   "key": "玉兔",
+   "name": "玉兔 | 采集",
+   "type": 1,
+   "api": "https://apiyutu.com/api.php/provide/vod/",
+   "playUrl": "https://yutujx.com/?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
    "key": "senlinzy.com",
    "name": "♥森林(直连)",
    "type": 1,
@@ -55,6 +67,26 @@
    "_origin": "qist/9918"
   },
   {
+   "key": "senlin",
+   "name": "森林资源",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_origin": "auto/10-36s"
+  },
+  {
+   "key": "xiaoji",
+   "name": "小鸡资源",
+   "type": 1,
+   "api": "https://api.xiaojizy.live/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_origin": "auto/10-36s"
+  },
+  {
    "key": "lbapi9.com",
    "name": "成人26",
    "type": 1,
@@ -73,16 +105,13 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "玉兔",
-   "name": "玉兔 | 采集",
+   "key": "lebozy.com",
+   "name": "💕乐播(直连)",
    "type": 1,
-   "api": "https://apiyutu.com/api.php/provide/vod/",
-   "playUrl": "https://yutujx.com/?url=",
+   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
    "searchable": 1,
-   "quickSearch": 1,
    "filterable": 1,
-   "ext": "proxy",
-   "_origin": "cluntop/fun"
+   "_origin": "qist/9918"
   },
   {
    "key": "fhapi9.com",
@@ -105,13 +134,14 @@
    "_origin": "cluntop/fun"
   },
   {
-   "key": "lebozy.com",
-   "name": "💕乐播(直连)",
+   "key": "fanhao",
+   "name": "番号资源",
    "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
+   "api": "http://fhapi9.com/api.php/provide/vod",
    "searchable": 1,
+   "quickSearch": 1,
    "filterable": 1,
-   "_origin": "qist/9918"
+   "_origin": "auto/10-36s"
   },
   {
    "key": "乐播",
@@ -125,13 +155,34 @@
    "_origin": "cluntop/fun"
   },
   {
-   "key": "madouse.la",
-   "name": "★魔法(直连)",
+   "key": "仓库",
+   "name": "仓库",
    "type": 1,
-   "api": "http://madouse.la/api.php/provide/vod/",
+   "api": "https://hsckzy888.com/api.php/provide/vod/at/json",
    "searchable": 1,
+   "quickSearch": 1,
    "filterable": 1,
-   "_origin": "qist/9918"
+   "_origin": "auto/10-36s"
+  },
+  {
+   "key": "yutu",
+   "name": "玉兔",
+   "type": 1,
+   "api": "https://yutuzy10.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_origin": "auto/10-36s"
+  },
+  {
+   "key": "pgxdy",
+   "name": "黄AV资源站",
+   "type": 1,
+   "api": "https://www.pgxdy.com/api/json.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_origin": "auto/10-36s"
   },
   {
    "key": "18AV",

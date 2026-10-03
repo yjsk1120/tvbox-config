@@ -1,101 +1,101 @@
 {
- "generated_at": "2026-10-02 23:05:45",
+ "generated_at": "2026-10-03 22:16:27",
  "upstreams": [
   {
-   "name": "auto/1-39s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/feimao.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/2-203s",
-   "kind": "tvbox",
-   "url": "https://leezn.eu.org/TVBox/js.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/3-46s",
-   "kind": "tvbox",
-   "url": "http://ztha.top/TVBox/thdjk.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/4-92s",
-   "kind": "tvbox",
-   "url": "https://clun.top/box.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/5-12s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/ouge.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/6-46s",
-   "kind": "tvbox",
-   "url": "https://ztha.top/TVBox/thdjk.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/7-63s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/wangerxiao.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/8-43s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/piaoyoulangzi/xiaobai4k/master/4k.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/9-64s",
-   "kind": "tvbox",
-   "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/10-298s",
-   "kind": "tvbox",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/11-53s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/4k.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/12-106s",
+   "name": "auto/1-106s",
    "kind": "tvbox",
    "url": "http://550.3vcn.work/wdjyys.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/13-48s",
+   "name": "auto/2-151s",
+   "kind": "tvbox",
+   "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/3-151s",
+   "kind": "tvbox",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/4-33s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/lubin776/tvbox/main/0/b.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/5-94s",
+   "kind": "tvbox",
+   "url": "https://clun.top/box.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/6-48s",
    "kind": "tvbox",
    "url": "https://dxawi.github.io/0/0.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/14-167s",
+   "name": "auto/7-46s",
    "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/%E5%8D%95%E4%BB%93%E8%81%9A%E5%90%88.json",
+   "url": "http://ztha.top/TVBox/thdjk.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/8-58s",
+   "kind": "tvbox",
+   "url": "https://fastly.jsdelivr.net/gh/jyoketsu/tv@main/m.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/9-63s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/lubin776/tvbox/main/x4.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/10-36s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/lubin776/tvbox/main/18.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/11-24s",
+   "kind": "tvbox",
+   "url": "https://raw.githubusercontent.com/lubin776/tvbox/main/4X2.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/12-64s",
+   "kind": "tvbox",
+   "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/13-33s",
+   "kind": "tvbox",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+   "auto": true,
+   "score": 90
+  },
+  {
+   "name": "auto/14-203s",
+   "kind": "tvbox",
+   "url": "https://leezn.eu.org/TVBox/js.json",
    "auto": true,
    "score": 90
   },
@@ -107,9 +107,9 @@
    "score": 90
   },
   {
-   "name": "auto/16-151s",
+   "name": "auto/16-46s",
    "kind": "tvbox",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+   "url": "https://ztha.top/TVBox/thdjk.json",
    "auto": true,
    "score": 90
   },
@@ -121,51 +121,30 @@
    "score": 90
   },
   {
-   "name": "auto/18-33s",
+   "name": "auto/18-298s",
    "kind": "tvbox",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
    "auto": true,
    "score": 90
   },
   {
    "name": "auto/19-58s",
    "kind": "tvbox",
-   "url": "https://fastly.jsdelivr.net/gh/jyoketsu/tv@main/m.json",
+   "url": "https://raw.githubusercontent.com/lubin776/tvbox/main/x5.json",
    "auto": true,
    "score": 90
   },
   {
-   "name": "auto/20-48s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/Zss03040464/tvbox-config/main/config.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/21-151s",
-   "kind": "tvbox",
-   "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
-   "auto": true,
-   "score": 90
-  },
-  {
-   "name": "auto/22-4s",
+   "name": "auto/20-4s",
    "kind": "tvbox",
    "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json",
    "auto": true,
    "score": 80
   },
   {
-   "name": "auto/23-23s",
+   "name": "auto/21-23s",
    "kind": "tvbox",
    "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
-   "auto": true,
-   "score": 80
-  },
-  {
-   "name": "auto/24-41s",
-   "kind": "tvbox",
-   "url": "https://raw.githubusercontent.com/gambiarras/legal-iptv/main/legal_iptv/resources/extra_channels.json",
    "auto": true,
    "score": 80
   }

@@ -1,5 +1,5 @@
 {
- "spider": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
+ "spider": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
  "wallpaper": "https://t.alcy.cc/ys",
  "parses": [
   {
@@ -52,6 +52,37 @@
     "header": {
      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
      "referer": "https://www.xyflv.cc/"
+    }
+   }
+  },
+  {
+   "name": "-爱酷-",
+   "type": 0,
+   "url": "https://jx.zhanlangbu.com/?url=",
+   "ext": {
+    "flag": [
+     "qq",
+     "腾讯",
+     "qiyi",
+     "爱奇艺",
+     "奇艺",
+     "youku",
+     "优酷",
+     "mgtv",
+     "芒果",
+     "letv",
+     "乐视",
+     "pptv",
+     "PPTV",
+     "sohu",
+     "bilibili",
+     "哔哩哔哩",
+     "哔哩"
+    ],
+    "ext": {
+     "header": {
+      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+     }
     }
    }
   },
@@ -472,6 +503,26 @@
    }
   },
   {
+   "name": "欢雨",
+   "type": 1,
+   "url": "http://www.youhuifuligou.com/json/?id=7&url=",
+   "ext": {
+    "flag": [
+     "qq",
+     "腾讯",
+     "qiyi",
+     "爱奇艺",
+     "奇艺",
+     "youku",
+     "优酷",
+     "letv",
+     "乐视",
+     "xigua",
+     "西瓜"
+    ]
+   }
+  },
+  {
    "name": "web1",
    "type": 0,
    "url": "https://www.nxflv.com/?url=",
@@ -795,6 +846,11 @@
    }
   },
   {
+   "name": "解析1.6",
+   "type": 1,
+   "url": "https://jx.300ys.xyz/json/m3u8.php/?url="
+  },
+  {
    "name": "☑快速直解",
    "type": 1,
    "url": "https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="
@@ -961,6 +1017,38 @@
    }
   },
   {
+   "name": "直解",
+   "type": 1,
+   "url": "http://rxjx.kuanjv.com/allm3u8.php?url=",
+   "ext": {
+    "flag": [
+     "rx",
+     "ltnb",
+     "renrenmi",
+     "rongxing",
+     "bilibili",
+     "哔哩哔哩",
+     "哔哩",
+     "youku",
+     "优酷",
+     "qiyi",
+     "爱奇艺",
+     "奇艺",
+     "qq",
+     "腾讯",
+     "mgtv",
+     "芒果",
+     "sohu",
+     "搜狐",
+     "letv",
+     "乐视",
+     "xigua",
+     "CL4K",
+     "西瓜"
+    ]
+   }
+  },
+  {
    "name": "极速[②]",
    "type": 1,
    "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
@@ -1008,36 +1096,6 @@
    "name": "Dplayer",
    "type": 1,
    "url": "https://onepage.czl.net/dplayer/?url="
-  },
-  {
-   "name": "解析02",
-   "type": 0,
-   "url": "https://jx.dmflv.cc/?url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "iqiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "mgtv",
-     "芒果",
-     "letv",
-     "乐视",
-     "pptv",
-     "PPTV",
-     "sohu",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩"
-    ],
-    "header": {
-     "User-Agent": "okhttp/4.1.0"
-    }
-   }
   },
   {
    "name": "🎬 影视聚合",
@@ -1333,6 +1391,11 @@
    "url": "https://huayong.net/999/?v="
   },
   {
+   "name": "freejson",
+   "type": 0,
+   "url": "https://h5.freejson.xyz/player/?url="
+  },
+  {
    "name": "789",
    "type": 0,
    "url": "https://m.789bh.com/?url=",
@@ -1386,6 +1449,29 @@
  ],
  "sites": [
   {
+   "key": "香奶儿资源站",
+   "name": "香奶 | 采集",
+   "type": 0,
+   "api": "https://www.gdlsp.com/api/xml.php",
+   "searchable": 0,
+   "quickSearch": 0,
+   "ext": "proxy",
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "白嫖",
+   "name": "白嫖 | 采集",
+   "type": 0,
+   "api": "https://www.kxgav.com/api/xml.php",
+   "searchable": 0,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy",
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
    "key": "小湿妹",
    "name": "湿妹 | 采集",
    "type": 0,
@@ -1410,27 +1496,37 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "香奶儿资源站",
-   "name": "香奶 | 采集",
-   "type": 0,
-   "api": "https://www.gdlsp.com/api/xml.php",
-   "searchable": 0,
-   "quickSearch": 0,
-   "ext": "proxy",
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "白嫖",
-   "name": "白嫖 | 采集",
-   "type": 0,
-   "api": "https://www.kxgav.com/api/xml.php",
-   "searchable": 0,
+   "key": "gdlsp",
+   "name": "香奶儿资源站",
+   "type": 1,
+   "api": "https://www.gdlsp.com/api/json.php",
+   "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "proxy",
-   "group": "直连点播",
-   "_origin": "feishu-sync"
+   "_origin": "auto/10-36s",
+   "group": "直连点播"
+  },
+  {
+   "key": "kxgav",
+   "name": "白嫖资源站",
+   "type": 1,
+   "api": "https://www.kxgav.com/api/json.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_origin": "auto/10-36s",
+   "group": "直连点播"
+  },
+  {
+   "key": "msnii",
+   "name": "美少女资源站",
+   "type": 1,
+   "api": "https://www.msnii.com/api/json.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_origin": "auto/10-36s",
+   "group": "直连点播"
   },
   {
    "key": "CNTV低分辨",
@@ -1459,13 +1555,32 @@
    "_origin": "feishu-sync"
   },
   {
+   "key": "请勿贩卖📚在线_采集集合",
+   "name": "请勿贩卖📚在线·采集集合",
+   "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+   "type": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "e173267b0d7e1f1a1189c22c3bb7b556",
+   "name": "淘片",
+   "type": 0,
+   "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
+   "_origin": "auto/11-24s",
+   "group": "直连点播"
+  },
+  {
    "key": "2-3",
    "name": "👖体育",
    "type": 1,
    "api": "./ext/t4.json",
    "group": "直连点播",
    "_origin": "feishu-sync",
-   "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+   "jar": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
   }
  ]
 }

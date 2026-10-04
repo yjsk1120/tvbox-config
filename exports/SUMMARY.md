@@ -1,39 +1,43 @@
 # 每日健康日报（人读版）
 
-生成时间：2026-10-03T22:45:09
+生成时间：2026-10-04T22:56:59
 
 ## 总览
 
 | 类别 | 总量 | healthy | degraded | unknown | dead |
 |---|---|---|---|---|---|
-| 点播 | 3608 | 127 | 650 | 1036 | 1795 |
-| 直播 | 330 | 0 | 0 | 330 | 0 |
+| 点播 | 3542 | 128 | 630 | 980 | 1804 |
+| 直播 | 336 | 0 | 0 | 336 | 0 |
 
-较上轮变化：新增 180｜掉线 6｜恢复 2｜移除 88（点播）；新增 0｜掉线 0｜恢复 0｜移除 1（直播）
+较上轮变化：新增 118｜掉线 6｜恢复 6｜移除 184（点播）；新增 6｜掉线 0｜恢复 0｜移除 0（直播）
 
 ## 点播掉线（前 10）
 
-- 爬虫┃龙门动漫（healthy → dead）
-- 大猫（degraded → dead）
-- 👻标清┃1080P（degraded → dead）
-- 🎉戏曲┃Bili（degraded → dead）
-- 🎉歌曲┃Bili（degraded → dead）
-- 💖分享唐人（degraded → dead）
+- 闪影｜APP（degraded → dead）
+- 🍓┆热播┆APP（degraded → dead）
+- 💝分享闪影（degraded → dead）
+- рҹҸңв”ғжҪ®жөҒв”ғAPP（degraded → dead）
+- 天天|弹幕（degraded → dead）
+- 💫┃6080┃XB（degraded → dead）
 
 ## 点播恢复（前 10）
 
-- 推荐┃龙门影视（dead → degraded）
-- ✨短剧好看✨乐哥甄选✨（dead → degraded）
+- 大猫（dead → degraded）
+- 👻标清┃1080P（dead → degraded）
+- 🎉歌曲┃Bili（dead → degraded）
+- 🎉戏曲┃Bili（dead → degraded）
+- 🦊黑狐┃BPQ（dead → degraded）
+- 💖分享唐人（dead → degraded）
 
 ## 点播新增（前 10）
 
-- 8-非凡（unknown）
-- [590ms|5] 猫眼影视（unknown）
-- 奥斯卡资源（unknown）
-- 幸资源（unknown）
-- 影视 • 猫眼[直连]（unknown）
-- 接口┃猫眼影视（unknown）
-- 旺旺资源（unknown）
-- 百万资源（unknown）
-- 祥子（unknown）
-- 细胞采集（unknown）
+- 滴滴 | 采集（unknown）
+- 天涯资源（unknown）
+- [137ms|zy] 🍊滴滴（unknown）
+- [322ms|我的] 闪电资源（unknown）
+- [322ms|我的] 牛牛资源（unknown）
+- [193ms|apple] 天涯资源（unknown）
+- [137ms|zy] 🍊越南（unknown）
+- CK（unknown）
+- [322ms|我的] 鸭鸭资源（unknown）
+- [137ms|zy] 🍏OK（unknown）

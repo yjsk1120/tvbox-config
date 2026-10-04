@@ -2745,6 +2745,43 @@
    "type": 0,
    "url": "http://rihou.cc:567/gggg.nzk",
    "playerType": 1
+  },
+  {
+   "name": "直播ipv6",
+   "type": "0",
+   "pass": true,
+   "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+   "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+   "logo": "https://epg.112114.xyz/logo/{name}.png"
+  },
+  {
+   "name": "Mursor",
+   "type": "0",
+   "url": "https://gh.clun.top/raw.githubusercontent.com/Mursor/LIVE/main/iptv.m3u",
+   "playerType": 2,
+   "timeout": 10,
+   "ua": "okHttp/Mod-1.4.0.0"
+  },
+  {
+   "name": "tv_jp",
+   "type": "0",
+   "url": "https://gh.clun.top/raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u"
+  },
+  {
+   "name": "tv_jp_clean",
+   "type": "0",
+   "url": "https://gh.clun.top/raw.githubusercontent.com/luongz/iptv-jp/main/jp_clean.m3u"
+  },
+  {
+   "name": "nctv",
+   "type": 0,
+   "url": "http://live.nctv.top/x.txt",
+   "ua": "okhttp/4.1.0"
+  },
+  {
+   "name": "ofiii",
+   "type": 0,
+   "url": "./lib/ofiii.m3u"
   }
  ],
  "parses": [
@@ -2836,16 +2873,6 @@
    "name": "-云解析-",
    "type": 0,
    "url": "https://jx.yparse.com/index.php?url=",
-   "ext": {
-    "header": {
-     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-    }
-   }
-  },
-  {
-   "name": "-剖云-",
-   "type": 0,
-   "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
    "ext": {
     "header": {
      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
@@ -3592,11 +3619,6 @@
    }
   },
   {
-   "name": "解析1.6",
-   "type": 1,
-   "url": "https://jx.300ys.xyz/json/m3u8.php/?url="
-  },
-  {
    "name": "☑快速直解",
    "type": 1,
    "url": "https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="
@@ -3734,38 +3756,6 @@
    "name": "能解",
    "type": 1,
    "url": "http://jx.vipmv.co/json.php?token=123457&url=",
-   "ext": {
-    "flag": [
-     "rx",
-     "ltnb",
-     "renrenmi",
-     "rongxing",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩",
-     "youku",
-     "优酷",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "qq",
-     "腾讯",
-     "mgtv",
-     "芒果",
-     "sohu",
-     "搜狐",
-     "letv",
-     "乐视",
-     "xigua",
-     "CL4K",
-     "西瓜"
-    ]
-   }
-  },
-  {
-   "name": "直解",
-   "type": 1,
-   "url": "http://rxjx.kuanjv.com/allm3u8.php?url=",
    "ext": {
     "flag": [
      "rx",
@@ -4137,11 +4127,6 @@
    "url": "https://huayong.net/999/?v="
   },
   {
-   "name": "freejson",
-   "type": 0,
-   "url": "https://h5.freejson.xyz/player/?url="
-  },
-  {
    "name": "789",
    "type": 0,
    "url": "https://m.789bh.com/?url=",
@@ -4175,11 +4160,6 @@
    "name": "💕分享者嗅探*",
    "type": 0,
    "url": "http://154.44.26.196/player/qu.php?v="
-  },
-  {
-   "name": "思古3",
-   "type": 0,
-   "url": "https://jsap.attakids.com/?url="
   },
   {
    "name": "网络搜集03",

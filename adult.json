@@ -3,18 +3,6 @@
  "wallpaper": "https://t.alcy.cc/ys",
  "sites": [
   {
-   "key": "玉兔",
-   "name": "玉兔 | 采集",
-   "type": 1,
-   "api": "https://apiyutu.com/api.php/provide/vod/",
-   "playUrl": "https://yutujx.com/?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy",
-   "_origin": "cluntop/fun"
-  },
-  {
    "key": "senlinzy.com",
    "name": "♥森林(直连)",
    "type": 1,
@@ -24,11 +12,11 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "森林专场",
-   "name": "森林 | 采集",
+   "key": "玉兔",
+   "name": "玉兔 | 采集",
    "type": 1,
-   "api": "https://slapibf.com/api.php/provide/vod/",
-   "playUrl": "",
+   "api": "https://apiyutu.com/api.php/provide/vod/",
+   "playUrl": "https://yutujx.com/?url=",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
@@ -49,6 +37,38 @@
    "_origin": "cluntop/fun"
   },
   {
+   "key": "乐播",
+   "name": "乐播 | 采集",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
+   "key": "森林专场",
+   "name": "森林 | 采集",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
+   "key": "lebozy.com",
+   "name": "💕乐播(直连)",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "filterable": 1,
+   "_origin": "qist/9918"
+  },
+  {
    "key": "apilj.com",
    "name": "成人06",
    "type": 1,
@@ -67,53 +87,6 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "senlin",
-   "name": "森林资源",
-   "type": 1,
-   "api": "https://slapibf.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/10-36s"
-  },
-  {
-   "key": "xiaoji",
-   "name": "小鸡资源",
-   "type": 1,
-   "api": "https://api.xiaojizy.live/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/10-36s"
-  },
-  {
-   "key": "lbapi9.com",
-   "name": "成人26",
-   "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/",
-   "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-   "searchable": 1,
-   "recordable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "header": {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-   },
-   "_origin": "qist/9918"
-  },
-  {
-   "key": "lebozy.com",
-   "name": "💕乐播(直连)",
-   "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "qist/9918"
-  },
-  {
    "key": "fhapi9.com",
    "name": "★废柴(直连)",
    "type": 1,
@@ -121,6 +94,15 @@
    "searchable": 1,
    "filterable": 1,
    "_origin": "qist/9918"
+  },
+  {
+   "key": "番号资源",
+   "name": "番号资源(卡切)",
+   "type": 1,
+   "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "_origin": "auto/1-115s"
   },
   {
    "key": "番号",
@@ -134,55 +116,21 @@
    "_origin": "cluntop/fun"
   },
   {
-   "key": "fanhao",
-   "name": "番号资源",
+   "key": "*番号",
+   "name": "*番号",
    "type": 1,
-   "api": "http://fhapi9.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/10-36s"
+   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "_origin": "auto/1-115s"
   },
   {
-   "key": "乐播",
-   "name": "乐播 | 采集",
+   "key": "*乐播资源",
+   "name": "🔞乐播资源",
    "type": 1,
    "api": "https://lbapi9.com/api.php/provide/vod/",
-   "quickSearch": 1,
    "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy",
-   "_origin": "cluntop/fun"
-  },
-  {
-   "key": "仓库",
-   "name": "仓库",
-   "type": 1,
-   "api": "https://hsckzy888.com/api.php/provide/vod/at/json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/10-36s"
-  },
-  {
-   "key": "yutu",
-   "name": "玉兔",
-   "type": 1,
-   "api": "https://yutuzy10.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/10-36s"
-  },
-  {
-   "key": "pgxdy",
-   "name": "黄AV资源站",
-   "type": 1,
-   "api": "https://www.pgxdy.com/api/json.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/10-36s"
+   "quickSearch": 0,
+   "filterable": 0,
+   "_origin": "auto/1-115s"
   },
   {
    "key": "18AV",
@@ -303,6 +251,42 @@
    "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
    "jar": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar",
    "_origin": "cluntop/fun"
+  },
+  {
+   "key": "Cg51",
+   "name": "🔞 51吃瓜 | 图密√",
+   "type": 3,
+   "api": "csp_Cg51",
+   "searchable": 1,
+   "filterable": 1,
+   "_origin": "auto/1-115s"
+  },
+  {
+   "key": "J91",
+   "name": "🔞 91 | 珍惜",
+   "type": 3,
+   "api": "csp_J91",
+   "searchable": 1,
+   "filterable": 1,
+   "_origin": "auto/1-115s"
+  },
+  {
+   "key": "HiPianZhiBo",
+   "name": "🔞 嗨片直播 | 视频",
+   "type": 3,
+   "api": "csp_HiPianZhiBo",
+   "searchable": 1,
+   "filterable": 1,
+   "_origin": "auto/1-115s"
+  },
+  {
+   "key": "MiMei",
+   "name": "🔞 迷妹 | 珍惜",
+   "type": 3,
+   "api": "csp_MiMei",
+   "searchable": 1,
+   "filterable": 1,
+   "_origin": "auto/1-115s"
   }
  ]
 }

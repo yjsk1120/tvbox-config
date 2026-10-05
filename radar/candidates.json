@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28 17:35:48 +08:00",
+ "generated_at": "2026-10-05 18:14:47 +08:00",
  "note": "源雷达候选（自动扫描导航仓 README，仅候选；收编需人工确认后加入 fetch_merge.py UPSTREAMS）",
  "seeds": [
   "https://raw.githubusercontent.com/Zhou-Li-Bin/Tvbox-QingNing/main/README.md",
@@ -8,55 +8,15 @@
  ],
  "summary": {
   "scanned": 120,
-  "reachable": 43
+  "reachable": 40
  },
  "candidates": [
   {
-   "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 15483,
-   "latency_ms": 115,
-   "ok": true
-  },
-  {
-   "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 118,
-   "ok": true
-  },
-  {
-   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#第三方电视直播",
+   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#官方电视直播",
    "source": "ngo5",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 118,
-   "ok": true
-  },
-  {
-   "url": "https://dxawi.github.io/0/0.json",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 18598,
-   "latency_ms": 125,
-   "ok": true
-  },
-  {
-   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#112114",
-   "source": "ngo5",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 133,
-   "ok": true
-  },
-  {
-   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#电视浏览器",
-   "source": "ngo5",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 136,
+   "latency_ms": 47,
    "ok": true
   },
   {
@@ -64,7 +24,7 @@
    "source": "ngo5",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 141,
+   "latency_ms": 49,
    "ok": true
   },
   {
@@ -72,15 +32,15 @@
    "source": "ngo5",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 143,
+   "latency_ms": 53,
    "ok": true
   },
   {
-   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#官方电视直播",
+   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#第三方电视直播",
    "source": "ngo5",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 149,
+   "latency_ms": 53,
    "ok": true
   },
   {
@@ -88,15 +48,15 @@
    "source": "ngo5",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 152,
+   "latency_ms": 55,
    "ok": true
   },
   {
-   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#推荐软件",
-   "source": "ngo5",
+   "url": "https://dxawi.github.io/0/0.json",
+   "source": "QingNing",
    "status": 200,
-   "bytes": 20480,
-   "latency_ms": 153,
+   "bytes": 18598,
+   "latency_ms": 59,
    "ok": true
   },
   {
@@ -104,47 +64,39 @@
    "source": "ngo5",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 165,
+   "latency_ms": 61,
    "ok": true
   },
   {
-   "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-   "source": "QingNing",
+   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#推荐软件",
+   "source": "ngo5",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 213,
+   "latency_ms": 62,
    "ok": true
   },
   {
-   "url": "http://xhztv.top/4k.json",
-   "source": "QingNing",
+   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#112114",
+   "source": "ngo5",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 214,
+   "latency_ms": 64,
    "ok": true
   },
   {
-   "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json",
-   "source": "QingNing",
+   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#电视浏览器",
+   "source": "ngo5",
    "status": 200,
-   "bytes": 1145,
-   "latency_ms": 280,
+   "bytes": 20480,
+   "latency_ms": 74,
    "ok": true
   },
   {
    "url": "http://bp.tvbox.cam",
    "source": "QingNing",
    "status": 200,
-   "bytes": 1589,
-   "latency_ms": 280,
-   "ok": true
-  },
-  {
-   "url": "https://raw.liucn.cc/box/m.json",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 282,
+   "bytes": 1148,
+   "latency_ms": 86,
    "ok": true
   },
   {
@@ -152,7 +104,23 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 18841,
-   "latency_ms": 356,
+   "latency_ms": 135,
+   "ok": true
+  },
+  {
+   "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u",
+   "source": "QingNing",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 137,
+   "ok": true
+  },
+  {
+   "url": "http://xhztv.top/4k.json",
+   "source": "QingNing",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 163,
    "ok": true
   },
   {
@@ -160,7 +128,7 @@
    "source": "ngo5",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 360,
+   "latency_ms": 183,
    "ok": true
   },
   {
@@ -168,103 +136,15 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 378,
+   "latency_ms": 193,
    "ok": true
   },
   {
-   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#点播源",
-   "source": "ngo5",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 445,
-   "ok": true
-  },
-  {
-   "url": "https://github.com/vbskycn/iptv",
-   "source": "ngo5",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 445,
-   "ok": true
-  },
-  {
-   "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+   "url": "https://raw.liucn.cc/box/m.json",
    "source": "QingNing",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 455,
-   "ok": true
-  },
-  {
-   "url": "https://star-history.dera.page/#Zhou-Li-Bin/Tvbox-QingNing&Date",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 14656,
-   "latency_ms": 469,
-   "ok": true
-  },
-  {
-   "url": "https://t.me/iptvorganization",
-   "source": "ngo5",
-   "status": 200,
-   "bytes": 11166,
-   "latency_ms": 471,
-   "ok": true
-  },
-  {
-   "url": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 485,
-   "ok": true
-  },
-  {
-   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#直播源",
-   "source": "ngo5",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 493,
-   "ok": true
-  },
-  {
-   "url": "https://github.com/YueChan/Live",
-   "source": "ngo5",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 495,
-   "ok": true
-  },
-  {
-   "url": "https://github.com/fanmingming/live",
-   "source": "ngo5",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 516,
-   "ok": true
-  },
-  {
-   "url": "https://github.com/Guovin/iptv-api",
-   "source": "ngo5",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 549,
-   "ok": true
-  },
-  {
-   "url": "https://github.com/Zhou-Li-Bin/Tvbox-QingNing",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 589,
-   "ok": true
-  },
-  {
-   "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 20480,
-   "latency_ms": 621,
+   "latency_ms": 204,
    "ok": true
   },
   {
@@ -272,6 +152,94 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 20480,
+   "latency_ms": 266,
+   "ok": true
+  },
+  {
+   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#点播源",
+   "source": "ngo5",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 284,
+   "ok": true
+  },
+  {
+   "url": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json",
+   "source": "QingNing",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 303,
+   "ok": true
+  },
+  {
+   "url": "https://github.com/YueChan/Live",
+   "source": "ngo5",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 375,
+   "ok": true
+  },
+  {
+   "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json",
+   "source": "QingNing",
+   "status": 200,
+   "bytes": 1145,
+   "latency_ms": 382,
+   "ok": true
+  },
+  {
+   "url": "https://github.com/vbskycn/iptv",
+   "source": "ngo5",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 411,
+   "ok": true
+  },
+  {
+   "url": "https://github.com/fanmingming/live",
+   "source": "ngo5",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 414,
+   "ok": true
+  },
+  {
+   "url": "https://github.com/ngo5/IPTV?tab=readme-ov-file#直播源",
+   "source": "ngo5",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 446,
+   "ok": true
+  },
+  {
+   "url": "https://github.com/Guovin/iptv-api",
+   "source": "ngo5",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 469,
+   "ok": true
+  },
+  {
+   "url": "https://github.com/Zhou-Li-Bin/Tvbox-QingNing",
+   "source": "QingNing",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 484,
+   "ok": true
+  },
+  {
+   "url": "https://t.me/iptvorganization",
+   "source": "ngo5",
+   "status": 200,
+   "bytes": 11168,
+   "latency_ms": 540,
+   "ok": true
+  },
+  {
+   "url": "https://star-history.dera.page/#Zhou-Li-Bin/Tvbox-QingNing&Date",
+   "source": "QingNing",
+   "status": 200,
+   "bytes": 14656,
    "latency_ms": 634,
    "ok": true
   },
@@ -280,7 +248,7 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 692,
+   "latency_ms": 719,
    "ok": true
   },
   {
@@ -288,23 +256,23 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 8737,
-   "latency_ms": 921,
+   "latency_ms": 724,
    "ok": true
   },
   {
-   "url": "https://star-history.dera.page/svg?repos=Zhou-Li-Bin/Tvbox-QingNing&type=Date",
+   "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
    "source": "QingNing",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 979,
+   "latency_ms": 727,
    "ok": true
   },
   {
-   "url": "http://home.jundie.top:81/top98.json",
+   "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
    "source": "QingNing",
    "status": 200,
-   "bytes": 16543,
-   "latency_ms": 1242,
+   "bytes": 20480,
+   "latency_ms": 730,
    "ok": true
   },
   {
@@ -312,31 +280,15 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 1279,
+   "latency_ms": 771,
    "ok": true
   },
   {
-   "url": "https://szyyds.cn/tv/x.json",
+   "url": "http://home.jundie.top:81/top98.json",
    "source": "QingNing",
    "status": 200,
-   "bytes": 20480,
-   "latency_ms": 1528,
-   "ok": true
-  },
-  {
-   "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 19892,
-   "latency_ms": 1719,
-   "ok": true
-  },
-  {
-   "url": "http://ztha.top/TVBox/thdjk.json",
-   "source": "QingNing",
-   "status": 200,
-   "bytes": 16530,
-   "latency_ms": 2023,
+   "bytes": 16543,
+   "latency_ms": 838,
    "ok": true
   },
   {
@@ -344,7 +296,31 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 16530,
-   "latency_ms": 2206,
+   "latency_ms": 1072,
+   "ok": true
+  },
+  {
+   "url": "https://szyyds.cn/tv/x.json",
+   "source": "QingNing",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 1162,
+   "ok": true
+  },
+  {
+   "url": "https://star-history.dera.page/svg?repos=Zhou-Li-Bin/Tvbox-QingNing&type=Date",
+   "source": "QingNing",
+   "status": 200,
+   "bytes": 20480,
+   "latency_ms": 1182,
+   "ok": true
+  },
+  {
+   "url": "http://ztha.top/TVBox/thdjk.json",
+   "source": "QingNing",
+   "status": 200,
+   "bytes": 16530,
+   "latency_ms": 1661,
    "ok": true
   },
   {
@@ -352,7 +328,7 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 20480,
-   "latency_ms": 3777,
+   "latency_ms": 2726,
    "ok": true
   },
   {
@@ -360,7 +336,7 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 48,
-   "latency_ms": 284,
+   "latency_ms": 261,
    "ok": false
   },
   {
@@ -368,7 +344,7 @@
    "source": "QingNing",
    "status": 200,
    "bytes": 57,
-   "latency_ms": 1282,
+   "latency_ms": 967,
    "ok": false
   },
   {
@@ -382,7 +358,7 @@
    "url": "https://fmbox.cc/",
    "source": "QingNing",
    "status": 0,
-   "error": "HTTPError: HTTP Error 404: Not Found",
+   "error": "HTTPError: HTTP Error 403: Forbidden",
    "ok": false
   },
   {
@@ -547,6 +523,20 @@
    "ok": false
   },
   {
+   "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+   "source": "QingNing",
+   "status": 0,
+   "error": "HTTPError: HTTP Error 404: Not Found",
+   "ok": false
+  },
+  {
+   "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u",
+   "source": "QingNing",
+   "status": 0,
+   "error": "HTTPError: HTTP Error 404: Not Found",
+   "ok": false
+  },
+  {
    "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
    "source": "QingNing",
    "status": 0,
@@ -585,7 +575,7 @@
    "url": "https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json",
    "source": "QingNing",
    "status": 0,
-   "error": "HTTPError: HTTP Error 404: Not Found",
+   "error": "HTTPError: HTTP Error 418: ",
    "ok": false
   },
   {
@@ -648,14 +638,14 @@
    "url": "http://8.210.232.168/xc.json",
    "source": "QingNing",
    "status": 0,
-   "error": "URLError: <urlopen error timed out>",
+   "error": "URLError: <urlopen error [Errno 111] Connection refused>",
    "ok": false
   },
   {
    "url": "https://weixine.net/ysc.json",
    "source": "QingNing",
    "status": 0,
-   "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+   "error": "URLError: <urlopen error timed out>",
    "ok": false
   },
   {
@@ -722,10 +712,17 @@
    "ok": false
   },
   {
+   "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+   "source": "QingNing",
+   "status": 0,
+   "error": "TimeoutError: timed out",
+   "ok": false
+  },
+  {
    "url": "https://gitee.com/dongchenliu/liu/raw/master/yb.json",
    "source": "QingNing",
    "status": 0,
-   "error": "HTTPError: HTTP Error 423: Locked",
+   "error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>",
    "ok": false
   },
   {
@@ -739,7 +736,7 @@
    "url": "https://fmbox.cc",
    "source": "QingNing",
    "status": 0,
-   "error": "HTTPError: HTTP Error 404: Not Found",
+   "error": "HTTPError: HTTP Error 403: Forbidden",
    "ok": false
   },
   {

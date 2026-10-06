@@ -1,5 +1,5 @@
 {
- "spider": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
+ "spider": "https://ghf.xn--eqrr82bzpe.top/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
  "wallpaper": "https://t.alcy.cc/ys",
  "parses": [
   {
@@ -1392,19 +1392,6 @@
  ],
  "sites": [
   {
-   "key": "小乐",
-   "name": "小乐｜星源",
-   "type": 1,
-   "api": "https://xy.183933.xyz/php/ls.php/vod",
-   "playUrl": "http://8.155.50.80/xiayexk.php?url=",
-   "changeable": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "小湿妹",
    "name": "湿妹 | 采集",
    "type": 0,
@@ -1414,25 +1401,6 @@
    "ext": "proxy",
    "group": "直连点播",
    "_origin": "feishu-sync"
-  },
-  {
-   "key": "*美少女",
-   "name": "*美少女",
-   "type": 0,
-   "api": "https://www.msnii.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/1-115s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*白嫖",
-   "name": "*白嫖",
-   "type": 0,
-   "api": "https://www.kxgav.com/api/xml.php",
-   "_origin": "auto/1-115s",
-   "group": "直连点播"
   },
   {
    "key": "白嫖",
@@ -1447,12 +1415,17 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "*香奶儿",
-   "name": "*香奶儿",
-   "type": 0,
-   "api": "https://www.gdlsp.com/api/xml.php",
-   "_origin": "auto/1-115s",
-   "group": "直连点播"
+   "key": "小乐",
+   "name": "小乐｜星源",
+   "type": 1,
+   "api": "https://xy.183933.xyz/php/ls.php/vod",
+   "playUrl": "http://8.155.50.80/xiayexk.php?url=",
+   "changeable": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "group": "直连点播",
+   "_origin": "feishu-sync"
   },
   {
    "key": "香奶儿资源站",
@@ -1462,19 +1435,6 @@
    "searchable": 0,
    "quickSearch": 0,
    "ext": "proxy",
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "cctv-3",
-   "name": "CCTV",
-   "type": 1,
-   "api": "https://zhangqun19.serv00.net/cctv.php",
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "changeable": 1,
    "group": "直连点播",
    "_origin": "feishu-sync"
   },
@@ -1492,13 +1452,79 @@
    "_origin": "feishu-sync"
   },
   {
+   "key": "cctv-3",
+   "name": "CCTV",
+   "type": 1,
+   "api": "https://zhangqun19.serv00.net/cctv.php",
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "changeable": 1,
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "请勿贩卖📚在线_采集集合",
+   "name": "请勿贩卖📚在线·采集集合",
+   "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+   "type": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "taopian",
+   "name": "🕹️淘片┃采集",
+   "type": 1,
+   "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+   "searchable": 1,
+   "filterable": 0,
+   "categories": [
+    "动漫/国产动漫",
+    "动漫/日本动漫",
+    "动漫/欧美动漫",
+    "动漫/海外动漫",
+    "综艺/大陆综艺",
+    "综艺/港台综艺",
+    "综艺/日韩综艺",
+    "综艺/欧美综艺",
+    "综艺/海外综艺",
+    "电视剧/国产剧",
+    "电视剧/香港剧",
+    "电视剧/欧美剧",
+    "电视剧/海外剧",
+    "电视剧/韩国剧",
+    "电视剧/日本剧",
+    "电视剧/泰国剧",
+    "电视剧/台湾剧",
+    "电影/战争片",
+    "电影/科幻片",
+    "电影/奇幻片",
+    "电影/冒险片",
+    "电影/动画片",
+    "电影/喜剧片",
+    "电影/动作片",
+    "电影/爱情片",
+    "电影/恐怖片",
+    "电影/惊悚片",
+    "电影/剧情片",
+    "电影/悬疑片",
+    "电影/纪录片"
+   ],
+   "_origin": "sv/liucn-m",
+   "group": "直连点播"
+  },
+  {
    "key": "2-3",
    "name": "👖体育",
    "type": 1,
    "api": "./ext/t4.json",
    "group": "直连点播",
    "_origin": "feishu-sync",
-   "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+   "jar": "https://ghf.xn--eqrr82bzpe.top/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
   }
  ]
 }

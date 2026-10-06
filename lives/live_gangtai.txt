@@ -4,8 +4,8 @@ TVBPearl,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVBPearl,http://r.jdshipin.com/jUx8K
 TVBPearl,http://r.jdshipin.com/ZQ4kN
 TVBS亚洲,https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw

@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-04T22:56:59",
- "deps_files": 7612,
- "deps_bytes": 779450929,
- "duplicate_groups": 979,
- "duplicate_savable_bytes": 458769974,
- "unreferenced_count": 6594,
- "unreferenced_bytes": 605280521,
+ "generated_at": "2026-10-06T01:34:24",
+ "deps_files": 7657,
+ "deps_bytes": 790601060,
+ "duplicate_groups": 983,
+ "duplicate_savable_bytes": 460436003,
+ "unreferenced_count": 6619,
+ "unreferenced_bytes": 623696669,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
@@ -282,6 +282,7 @@
    "files": [
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0821/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0825/lib/drpy-core-lite.min.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/16-82s/js/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/11-298s/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/10-235s/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/24-3s/js/drpy-core-lite.min.js",
@@ -305,6 +306,7 @@
    "files": [
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0821/lib/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0825/lib/drpy2.min.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/16-82s/js/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/11-298s/lib/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/29-89s/vox/ext/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/10-235s/lib/drpy2.min.js",
@@ -391,12 +393,24 @@
    "bytes": 5641964
   },
   {
+   "path": "deps/sv/quanying/upload/5695330/2026-09-18/leave/466454997_2_1789736334293.jar",
+   "bytes": 4104670
+  },
+  {
    "path": "deps/auto/20-69s/pg.jar",
    "bytes": 3814000
   },
   {
    "path": "deps/auto/1-140s/pg.jar",
    "bytes": 3814000
+  },
+  {
+   "path": "deps/auto/5-152s/pg.jar",
+   "bytes": 3811113
+  },
+  {
+   "path": "deps/auto/15-74s/pg.jar",
+   "bytes": 3811113
   },
   {
    "path": "deps/auto/4-42s/pg.jar",
@@ -408,7 +422,7 @@
   },
   {
    "path": "deps/manifest.json",
-   "bytes": 3386444
+   "bytes": 3404216
   },
   {
    "path": "deps/auto/24-106s/lib/spider.jar",
@@ -457,18 +471,6 @@
   {
    "path": "deps/auto/13-106s/lib/spider.jar",
    "bytes": 3170703
-  },
-  {
-   "path": "deps/feimao2/catvod/autoupload/f/p8kvh/20260923/XBEL/aidaox-gongju-20260923-104417.jar",
-   "bytes": 3160065
-  },
-  {
-   "path": "deps/feimao2/catvod/autoupload/f/p8kvh/20260921/wZDo/aidaox-gongju-20260921-101405.jar",
-   "bytes": 3160060
-  },
-  {
-   "path": "deps/auto/1-140s/jar/fenghuang.jar",
-   "bytes": 3133839
   }
  ]
 }

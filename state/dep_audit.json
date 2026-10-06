@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-06T01:34:24",
- "deps_files": 7657,
- "deps_bytes": 790601060,
- "duplicate_groups": 983,
- "duplicate_savable_bytes": 460436003,
- "unreferenced_count": 6619,
- "unreferenced_bytes": 623696669,
+ "generated_at": "2026-10-06T23:46:04",
+ "deps_files": 8055,
+ "deps_bytes": 807483422,
+ "duplicate_groups": 989,
+ "duplicate_savable_bytes": 463879509,
+ "unreferenced_count": 6676,
+ "unreferenced_bytes": 635386181,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
@@ -208,6 +208,7 @@
    "md5": "35d5275e3b2011833aed4199509b746d",
    "files": [
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0821/js/酷奇MV.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/8-488s/https:/raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/酷奇MV[音].js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/liu673cn/m/https:/raw.githubusercontent.com/liu673cn/box/main/libs/js/酷奇MV.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/js/酷奇MV.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/qist/tvbox/master/js/酷奇MV.js",
@@ -248,6 +249,7 @@
    "md5": "1d67b9ddcb0b6f69ec48dc9260460a6d",
    "files": [
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0821/js/评书随身听.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/8-488s/https:/raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/评书随身听[听].js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/js/评书随身听.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/qist/tvbox/master/js/评书随身听.js"
    ]
@@ -393,6 +395,10 @@
    "bytes": 5641964
   },
   {
+   "path": "deps/auto/19-15s/yt.jar",
+   "bytes": 4604240
+  },
+  {
    "path": "deps/sv/quanying/upload/5695330/2026-09-18/leave/466454997_2_1789736334293.jar",
    "bytes": 4104670
   },
@@ -422,7 +428,7 @@
   },
   {
    "path": "deps/manifest.json",
-   "bytes": 3404216
+   "bytes": 3616372
   },
   {
    "path": "deps/auto/24-106s/lib/spider.jar",
@@ -466,10 +472,6 @@
   },
   {
    "path": "deps/auto/1-106s/lib/spider.jar",
-   "bytes": 3170703
-  },
-  {
-   "path": "deps/auto/13-106s/lib/spider.jar",
    "bytes": 3170703
   }
  ]

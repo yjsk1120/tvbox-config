@@ -3,24 +3,11 @@
  "wallpaper": "https://t.alcy.cc/ys",
  "sites": [
   {
-   "key": "大奶子",
-   "name": "大奶子 | 采集",
+   "key": "玉兔",
+   "name": "玉兔 | 采集",
    "type": 1,
-   "api": "https://apidanaizi.com/api.php/provide/vod",
-   "searchable": 1,
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "changeable": 1,
-   "_origin": "cluntop/fun"
-  },
-  {
-   "key": "森林专场",
-   "name": "森林 | 采集",
-   "type": 1,
-   "api": "https://slapibf.com/api.php/provide/vod/",
-   "playUrl": "",
+   "api": "https://apiyutu.com/api.php/provide/vod/",
+   "playUrl": "https://yutujx.com/?url=",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
@@ -37,44 +24,16 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "lebozy.com",
-   "name": "💕乐播(直连)",
+   "key": "大奶子",
+   "name": "大奶子 | 采集",
    "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
+   "api": "https://apidanaizi.com/api.php/provide/vod",
    "searchable": 1,
-   "filterable": 1,
-   "_origin": "qist/9918"
-  },
-  {
-   "key": "fhapi9.com",
-   "name": "★废柴(直连)",
-   "type": 1,
-   "api": "http://fhapi9.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "qist/9918"
-  },
-  {
-   "key": "玉兔",
-   "name": "玉兔 | 采集",
-   "type": 1,
-   "api": "https://apiyutu.com/api.php/provide/vod/",
-   "playUrl": "https://yutujx.com/?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy",
-   "_origin": "cluntop/fun"
-  },
-  {
-   "key": "番号",
-   "name": "番号 | 采集",
-   "type": 1,
-   "api": "http://fhapi9.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "proxy",
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "changeable": 1,
    "_origin": "cluntop/fun"
   },
   {
@@ -96,6 +55,18 @@
    "_origin": "qist/9918"
   },
   {
+   "key": "森林专场",
+   "name": "森林 | 采集",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
    "key": "乐播",
    "name": "乐播 | 采集",
    "type": 1,
@@ -107,13 +78,83 @@
    "_origin": "cluntop/fun"
   },
   {
-   "key": "madouse.la",
-   "name": "★魔法(直连)",
+   "key": "*乐播资源",
+   "name": "[167ms|apple] 🔞乐播资源",
    "type": 1,
-   "api": "http://madouse.la/api.php/provide/vod/",
+   "api": "https://lbapi9.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "_origin": "auto/22-168s"
+  },
+  {
+   "key": "lebozy.com",
+   "name": "💕乐播(直连)",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
    "searchable": 1,
    "filterable": 1,
    "_origin": "qist/9918"
+  },
+  {
+   "key": "lebo",
+   "name": "[620ms|123] 🧿乐播┃资源",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_origin": "auto/22-168s"
+  },
+  {
+   "key": "番号",
+   "name": "番号 | 采集",
+   "type": 1,
+   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
+   "key": "*番号资源",
+   "name": "[167ms|apple] 🔞番号资源",
+   "type": 1,
+   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 0,
+   "_origin": "auto/22-168s"
+  },
+  {
+   "key": "fhapi9.com",
+   "name": "★废柴(直连)",
+   "type": 1,
+   "api": "http://fhapi9.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "filterable": 1,
+   "_origin": "qist/9918"
+  },
+  {
+   "searchable": 1,
+   "search": 1,
+   "quickSearch": 1,
+   "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",
+   "key": "黄仓",
+   "type": 1,
+   "name": "[303ms|zy] 🍊黄仓",
+   "_origin": "auto/22-168s"
+  },
+  {
+   "searchable": 1,
+   "search": 1,
+   "quickSearch": 1,
+   "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
+   "key": "精东",
+   "type": 1,
+   "name": "[303ms|zy] 🍊精东",
+   "_origin": "auto/22-168s"
   },
   {
    "key": "18AV",
@@ -212,6 +253,90 @@
    "_origin": "qist/9918"
   },
   {
+   "key": "快活影網",
+   "name": "[620ms|123] 🧿快活┃影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "主页url": "https://www.777mmx.com/yazhouxingai/index.html",
+    "播放数组": "mod play-list&&</ul",
+    "跳转播放链接": "var playUrl=\"&&\"",
+    "链接": "href=\"&&\"",
+    "标题": "alt=\"&&\"",
+    "直接播放": "1",
+    "分类url": "https://www.777mmx.com/{cateId}/{class}/index.html",
+    "分类": "亚洲性爱$yazhouxingai#欧美高清$oumeixingai#亚洲无码$yazhouav#欧美短AV$oumeiav#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#中文熟女$luanlunshunv#三级经典$sanjijingdian"
+   },
+   "_origin": "auto/22-168s"
+  },
+  {
+   "key": "SOAV",
+   "name": "[620ms|123] 🧿搜视┃影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+   "style": {
+    "type": "rect",
+    "ratio": 1.5
+   },
+   "ext": {
+    "主页url": "https://777170.xyz/%e6%97%a5%e9%9f%a9%e8%a7%86%e9%a2%91/",
+    "搜索url": "https://777170.xyz/?s={wd}",
+    "数组": "data-video-uid=&&</div>",
+    "图片": "data-src=\"&&\"",
+    "标题": "alt=\"&&\"",
+    "副标题": "</i>&&</span>",
+    "链接": "href=\"&&\"",
+    "简介": "⚠️少看点，再看你就废了！！！",
+    "分类url": "https://777170.xyz/category/{cateId}/page/{catePg}/;;z",
+    "分类": "中文字幕$中文字幕#國產精選$國產精選#探花約炮$探花約炮#日韩视频$日韩视频#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
+   },
+   "_origin": "auto/22-168s"
+  },
+  {
+   "key": "JAVSB",
+   "name": "[620ms|123] 🧿春堂┃资源",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+   "ext": {
+    "主页url": "https://jav.sb/",
+    "直接播放": "1",
+    "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+    "图片": "data-src=\"&&\"",
+    "标题": "alt=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
+    "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur#欧美$Western_Porn"
+   },
+   "_origin": "auto/22-168s"
+  },
+  {
+   "key": "jap影網",
+   "name": "[620ms|123] 🧿流云┃影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "主页url": "https://www.1av.shop/vodtype/25.html",
+    "播放数组": "mod play-list&&</ul",
+    "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+    "链接": "href=\"&&\"",
+    "标题": "alt=\"&&\"",
+    "直接播放": "1",
+    "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
+    "分类": "国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
+   },
+   "_origin": "auto/22-168s"
+  },
+  {
    "key": "py_javdb",
    "name": "javdb[py]",
    "type": 3,
@@ -234,15 +359,6 @@
    "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
    "jar": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar",
    "_origin": "cluntop/fun"
-  },
-  {
-   "key": "Wex4Kav",
-   "name": "🎇急速┃秒播🎇",
-   "type": 3,
-   "api": "csp_Wex4KavGuard",
-   "searchable": 1,
-   "changeable": 1,
-   "_origin": "auto/6-91s"
   }
  ]
 }

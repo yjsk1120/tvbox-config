@@ -1,37 +1,36 @@
 # 每日健康日报（人读版）
 
-生成时间：2026-10-06T23:46:05
+生成时间：2026-10-08T01:21:18
 
 ## 总览
 
 | 类别 | 总量 | healthy | degraded | unknown | dead |
 |---|---|---|---|---|---|
-| 点播 | 4010 | 124 | 642 | 1440 | 1804 |
-| 直播 | 346 | 0 | 0 | 346 | 0 |
+| 点播 | 4124 | 122 | 629 | 1583 | 1790 |
+| 直播 | 334 | 0 | 0 | 334 | 0 |
 
-较上轮变化：新增 578｜掉线 1｜恢复 5｜移除 265（点播）；新增 16｜掉线 0｜恢复 0｜移除 1（直播）
+较上轮变化：新增 717｜掉线 3｜恢复 2｜移除 603（点播）；新增 4｜掉线 0｜恢复 0｜移除 16（直播）
 
 ## 点播掉线（前 10）
 
-- ✨短剧好看✨乐哥甄选✨（degraded → dead）
+- 萌蛋（degraded → dead）
+- 🎉戏曲┃Bili（degraded → dead）
+- 🎉歌曲┃Bili（degraded → dead）
 
 ## 点播恢复（前 10）
 
-- 版本｜信息（dead → degraded）
-- 🎉歌曲┃Bili（dead → degraded）
-- 🎉戏曲┃Bili（dead → degraded）
-- 💫┃6080┃XB（dead → degraded）
-- 🆖短剧┃TV（dead → degraded）
+- 影视 • 奇迹[直连]（dead → healthy）
+- 💖分享魅影（dead → degraded）
 
 ## 点播新增（前 10）
 
-- [167ms|apple] *色南国资源（unknown）
-- 🍃华为资源┃采集（unknown）
-- 🍃天空影院┃采集（unknown）
-- 🍃影图影视┃采集（unknown）
-- 🍃快车资源┃采集（unknown）
-- 🍃易看资源┃采集（unknown）
-- 🍃映迷影院┃采集（unknown）
-- 🍃豆瓣┃采集（unknown）
-- 🍃追风资源┃采集（unknown）
-- 索尼资源（unknown）
+- *老鸭福利（unknown）
+- 49(采集)（unknown）
+- [137ms|zy] 🍏虎牙（unknown）
+- 光速云（unknown）
+- 博天堂三级（unknown）
+- 奶茶资源(已修复)（unknown）
+- 快云(采集)（unknown）
+- 快帆(采集)（unknown）
+- 快看(采集)（unknown）
+- 快看┃资源（unknown）

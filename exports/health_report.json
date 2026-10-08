@@ -1,285 +1,224 @@
 {
- "generated_at": "2026-10-06T23:46:05",
+ "generated_at": "2026-10-08T01:21:18",
  "is_baseline": false,
  "vod": {
-  "total": 4010,
+  "total": 4124,
   "summary": {
-   "healthy": 124,
-   "degraded": 642,
-   "unknown": 1440,
-   "dead": 1804
+   "healthy": 122,
+   "degraded": 629,
+   "unknown": 1583,
+   "dead": 1790
   },
   "new": [
    {
-    "key": "*色南国资源",
-    "name": "[167ms|apple] *色南国资源",
+    "key": "*老鸭福利",
+    "name": "*老鸭福利",
     "health": "unknown"
    },
    {
-    "key": "t1_华为资源",
-    "name": "🍃华为资源┃采集",
+    "key": "49zyw",
+    "name": "49(采集)",
     "health": "unknown"
    },
    {
-    "key": "t1_天空影院",
-    "name": "🍃天空影院┃采集",
+    "key": "虎牙-4",
+    "name": "[137ms|zy] 🍏虎牙",
     "health": "unknown"
    },
    {
-    "key": "t1_影图影视",
-    "name": "🍃影图影视┃采集",
+    "key": "site_1787074663422",
+    "name": "光速云",
     "health": "unknown"
    },
    {
-    "key": "t1_快车资源",
-    "name": "🍃快车资源┃采集",
+    "key": "bttcj",
+    "name": "博天堂三级",
     "health": "unknown"
    },
    {
-    "key": "t1_易看资源",
-    "name": "🍃易看资源┃采集",
+    "key": "ap4i156dlyE",
+    "name": "奶茶资源(已修复)",
     "health": "unknown"
    },
    {
-    "key": "t1_映迷影院",
-    "name": "🍃映迷影院┃采集",
+    "key": "kuaiyunzy",
+    "name": "快云(采集)",
     "health": "unknown"
    },
    {
-    "key": "t1_豆瓣",
-    "name": "🍃豆瓣┃采集",
+    "key": "kuaifan",
+    "name": "快帆(采集)",
     "health": "unknown"
    },
    {
-    "key": "t1_追风资源",
-    "name": "🍃追风资源┃采集",
+    "key": "kuaikan-ap",
+    "name": "快看(采集)",
     "health": "unknown"
    },
    {
-    "key": "suoni",
-    "name": "索尼资源",
+    "key": "kkzy",
+    "name": "快看┃资源",
     "health": "unknown"
    },
    {
-    "key": "t1_闪电资源",
-    "name": "🍃闪电资源┃采集",
+    "key": "zy_豆瓣资源",
+    "name": "接口┃豆瓣资源",
     "health": "unknown"
    },
    {
-    "key": "csp_xml_无尽",
-    "name": "❤无尽资源",
+    "key": "bfzy",
+    "name": "暴风(采集)",
     "health": "unknown"
    },
    {
-    "key": "天涯资源",
-    "name": "[193ms|apple] 天涯资源",
+    "key": "aHRfhd",
+    "name": "色色资源",
     "health": "unknown"
    },
    {
-    "key": "jisu",
-    "name": "🍀极速资源",
+    "key": "guangsu2",
+    "name": "🍀光速HTTP",
     "health": "unknown"
    },
    {
-    "key": "tyyszy",
-    "name": "天涯资源",
+    "key": "guangsu",
+    "name": "🍀光速资源",
     "health": "unknown"
    }
   ],
   "gone": [
    {
-    "key": "iKun资源",
-    "name": "[590ms|5] iKun资源"
+    "key": "奶香",
+    "name": "🚀奶香"
    },
    {
-    "key": "11辣椒资源",
-    "name": "apilj辣椒资源"
+    "key": "77791ef659e8282af587e24e7b0c18a5",
+    "name": "33-墨斗"
    },
    {
-    "key": "lsb",
-    "name": "lsb"
+    "key": "滴滴",
+    "name": "滴滴 | 采集"
    },
    {
-    "key": "魔都",
-    "name": "🥇💢魔都✨"
+    "key": "360-4",
+    "name": "[137ms|zy] 🍏360"
    },
    {
-    "key": "360zy",
-    "name": "☀三六🔹秒播"
+    "key": "360",
+    "name": "360 | 采集"
    },
    {
-    "key": "zy_猫眼资源",
-    "name": "接口┃猫眼影视"
+    "key": "建安采集",
+    "name": "影视 • 建安"
    },
    {
-    "key": "yinghua-2",
-    "name": "樱花资源"
+    "key": "1080资源库",
+    "name": "1080资源库(切)"
    },
    {
-    "key": "c175280641d5263f0d0d9cbfab0162c3",
-    "name": "13-非凡"
+    "key": "柚子影视",
+    "name": "[590ms|5] 柚子影视"
    },
    {
-    "key": "西瓜",
-    "name": "[137ms|zy] 🍏西瓜"
+    "key": "csp_xml_优质",
+    "name": "❤优质资源"
    },
    {
-    "key": "lezi2",
-    "name": "🍀乐子HTTP"
+    "key": "暴风影视",
+    "name": "[590ms|5] 暴风影视"
    },
    {
-    "key": "黑木影视",
-    "name": "黑木影视"
+    "key": "*色南国资源",
+    "name": "[167ms|apple] *色南国资源"
    },
    {
-    "key": "dyttzy",
-    "name": "电影天堂"
+    "key": "t1_华为资源",
+    "name": "🍃华为资源┃采集"
    },
    {
-    "key": "量子-2",
-    "name": "♻️量子"
+    "key": "t1_天空影院",
+    "name": "🍃天空影院┃采集"
    },
    {
-    "key": "极速资源",
-    "name": "影视 • 极速[直连]"
+    "key": "t1_影图影视",
+    "name": "🍃影图影视┃采集"
    },
    {
-    "key": "csp_xml_量子资源",
-    "name": "[367ms|直播] 🐝量子资源"
+    "key": "t1_快车资源",
+    "name": "🍃快车资源┃采集"
    }
   ],
   "down": [
    {
-    "key": "短剧好看",
-    "name": "✨短剧好看✨乐哥甄选✨",
+    "key": "csp_appys_萌蛋蛋",
+    "name": "萌蛋",
+    "from": "degraded",
+    "to": "dead"
+   },
+   {
+    "key": "BiliXiqu",
+    "name": "🎉戏曲┃Bili",
+    "from": "degraded",
+    "to": "dead"
+   },
+   {
+    "key": "BiliGequ",
+    "name": "🎉歌曲┃Bili",
     "from": "degraded",
     "to": "dead"
    }
   ],
   "recovered": [
    {
-    "key": "版本信息",
-    "name": "版本｜信息",
+    "key": "奇迹资源",
+    "name": "影视 • 奇迹[直连]",
     "from": "dead",
-    "to": "degraded"
+    "to": "healthy"
    },
    {
-    "key": "BiliGequ",
-    "name": "🎉歌曲┃Bili",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "BiliXiqu",
-    "name": "🎉戏曲┃Bili",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "csp_XBPQ_6080z",
-    "name": "💫┃6080┃XB",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "XBPQ_短剧TV",
-    "name": "🆖短剧┃TV",
+    "key": "魅影影视",
+    "name": "💖分享魅影",
     "from": "dead",
     "to": "degraded"
    }
   ],
   "counts": {
-   "new": 578,
-   "gone": 265,
-   "down": 1,
-   "recovered": 5
+   "new": 717,
+   "gone": 603,
+   "down": 3,
+   "recovered": 2
   }
  },
  "live": {
-  "total": 346,
+  "total": 334,
   "summary": {
-   "unknown": 346
+   "unknown": 334
   },
   "counts": {
-   "new": 16,
-   "gone": 1,
+   "new": 4,
+   "gone": 16,
    "down": 0,
    "recovered": 0
   },
   "new": [
    {
-    "key": "https://ghfast.top/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/result.m3u",
-    "name": "IPTV-result",
+    "key": "https://www.fenwe.tk:521/tv/大全.txt",
+    "name": "大全",
     "health": "unknown"
    },
    {
-    "key": "https://ghfast.top/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/live.txt",
-    "name": "雷蒙",
+    "key": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt",
+    "name": "10086",
     "health": "unknown"
    },
    {
-    "key": "https://ghfast.top/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/live_ipv4.m3u",
-    "name": "iptv_api",
+    "key": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/tv/IPV6.txt",
+    "name": "IPV6专用",
     "health": "unknown"
    },
    {
-    "key": "https://ghfast.top/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/ipv4.m3u",
-    "name": "myIPTV",
-    "health": "unknown"
-   },
-   {
-    "key": "https://tv.iill.top/m3u/MyTV",
-    "name": "MyTV",
-    "health": "unknown"
-   },
-   {
-    "key": "https://ghfast.top/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/iptv4.m3u",
-    "name": "vbsk",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:35457/tv.m3u",
-    "name": "feiyang.allinone",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:35457/bililive.m3u",
-    "name": "feiyang.bililive",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:35457/huyayqk.m3u",
-    "name": "feiyang.huyayqk",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:35457/douyuyqk.m3u",
-    "name": "feiyang.douyuyqk",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:35457/yylunbo.m3u",
-    "name": "feiyang.yylunbo",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/PeIgAty8.txt",
-    "name": "综合",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750254905151/bsttsb.txt",
-    "name": "肥羊BST",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740592110565/zq.fif.txt",
-    "name": "国内Live",
-    "health": "unknown"
-   },
-   {
-    "key": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739616589773/zq.txt",
-    "name": "国内移动",
+    "key": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
+    "name": "饭太硬•综合",
     "health": "unknown"
    }
   ],

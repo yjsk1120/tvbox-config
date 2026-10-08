@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-06T23:46:04",
- "deps_files": 8055,
- "deps_bytes": 807483422,
- "duplicate_groups": 989,
- "duplicate_savable_bytes": 463879509,
- "unreferenced_count": 6676,
- "unreferenced_bytes": 635386181,
+ "generated_at": "2026-10-08T01:21:17",
+ "deps_files": 8336,
+ "deps_bytes": 817308027,
+ "duplicate_groups": 1008,
+ "duplicate_savable_bytes": 467897435,
+ "unreferenced_count": 7116,
+ "unreferenced_bytes": 654433135,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
@@ -351,6 +351,7 @@
    "md5": "11bd296d1be47f643e77a2891aacc605",
    "files": [
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0825/js/qimiao.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/24-149s/https:/raw.githubusercontent.com/13998394872/TVBox/main/js/qimiao.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/6-109s/drpy/js/qimiao.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/js/qimiao.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/qist/tvbox/master/js/qimiao.js"
@@ -368,6 +369,7 @@
    "md5": "6ccb57cee11086a495ad92d0cc0acdb7",
    "files": [
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0825/js/cilixiong.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/24-149s/https:/raw.githubusercontent.com/13998394872/TVBox/main/js/cilixiong.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/js/cilixiong.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/qist/tvbox/master/js/cilixiong.js"
    ]
@@ -419,6 +421,10 @@
    "bytes": 3811113
   },
   {
+   "path": "deps/auto/12-83s/PG/pg.jar",
+   "bytes": 3788519
+  },
+  {
    "path": "deps/auto/4-42s/pg.jar",
    "bytes": 3763438
   },
@@ -428,7 +434,7 @@
   },
   {
    "path": "deps/manifest.json",
-   "bytes": 3616372
+   "bytes": 3744533
   },
   {
    "path": "deps/auto/24-106s/lib/spider.jar",
@@ -468,10 +474,6 @@
   },
   {
    "path": "deps/auto/4-106s/lib/spider.jar",
-   "bytes": 3170703
-  },
-  {
-   "path": "deps/auto/1-106s/lib/spider.jar",
    "bytes": 3170703
   }
  ]

@@ -3,113 +3,6 @@
  "wallpaper": "https://t.alcy.cc/ys",
  "sites": [
   {
-   "key": "xjzyapi.xyz",
-   "name": "小鸡资源",
-   "type": 1,
-   "api": "https://api.xjzyapi.xyz/provide/vod",
-   "searchable": 1,
-   "changeable": 1,
-   "categories": [
-    "欧美精选",
-    "日韩精选",
-    "国产精选",
-    "VR专区",
-    "性感网红",
-    "重口调教",
-    "厂牌经典",
-    "人兽",
-    "其他",
-    "强奸迷奸",
-    "网曝黑料",
-    "国产厂牌",
-    "丝袜制服",
-    "主播网红",
-    "AI换脸",
-    "乱伦",
-    "SM调教",
-    "群交多P",
-    "学生萝莉",
-    "自拍偷拍",
-    "口交自慰",
-    "国产三级",
-    "日韩AV",
-    "素人特摄",
-    "无码高清",
-    "经典有码",
-    "中文字幕",
-    "日韩三级",
-    "东南亚",
-    "阿拉伯",
-    "印巴拉丁",
-    "激情H漫",
-    "3D"
-   ],
-   "_origin": "auto/5-13s"
-  },
-  {
-   "key": "jkzyuan.cc",
-   "name": "爱坤资源",
-   "type": 1,
-   "api": "https://jkunzyapi.com/api.php/provide/vod",
-   "searchable": 1,
-   "changeable": 1,
-   "categories": [
-    "国产传媒",
-    "黑丝诱惑",
-    "SWAG",
-    "中文字幕",
-    "日本有码",
-    "日本无码",
-    "AV解说",
-    "cosplay",
-    "激情动漫",
-    "自拍偷拍",
-    "网红主播",
-    "探花系列",
-    "三级伦理",
-    "VR视角",
-    "素人搭讪",
-    "门事件",
-    "抖阴视频"
-   ],
-   "_origin": "auto/5-13s"
-  },
-  {
-   "key": "doudouzy.com",
-   "name": "豆豆资源",
-   "type": 1,
-   "api": "https://doudouzy.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "changeable": 1,
-   "categories": [
-    "欧美精品",
-    "国产传媒",
-    "国产视频",
-    "国产探花",
-    "极品学生",
-    "野战户外",
-    "网曝黑料",
-    "日本有码",
-    "校园春色",
-    "SM虐待",
-    "巨乳系列",
-    "偷拍自拍",
-    "强奸乱伦",
-    "制服诱惑",
-    "AV解说",
-    "成人动漫",
-    "日本无码",
-    "重口猎奇",
-    "少妇人妻",
-    "角色扮演",
-    "女同性恋",
-    "中文字幕",
-    "男同性恋",
-    "反差系列"
-   ],
-   "_origin": "auto/5-13s"
-  },
-  {
    "key": "senlinzy.com",
    "name": "♥森林(直连)",
    "type": 1,
@@ -119,64 +12,14 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "danaizi.com",
-   "name": "奶子资源",
+   "key": "森林专场",
+   "name": "森林 | 采集",
    "type": 1,
-   "api": "https://apidanaizi.com/api.php/provide/vod/",
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "playUrl": "",
    "searchable": 1,
-   "changeable": 1,
-   "categories": [
-    "欧美激情",
-    "中文字幕",
-    "国产乱伦",
-    "自拍偷拍",
-    "制服丝袜",
-    "网曝事件",
-    "传媒探花",
-    "清纯学生",
-    "国产主播",
-    "A V 解说",
-    "淫妻作乐",
-    "港台辣妹",
-    "足浴撩妹",
-    "反差母狗",
-    "A I 换脸",
-    "V R 视角",
-    "重口性癖",
-    "制服诱惑",
-    "丝袜美腿",
-    "无码流出",
-    "多人群交",
-    "凌辱快感",
-    "角色剧情",
-    "强奸乱伦",
-    "韩国三级",
-    "人妻熟女",
-    "主奴调教",
-    "动漫卡通",
-    "变性伪娘",
-    "女同性恋",
-    "野外露出"
-   ],
-   "_origin": "auto/5-13s"
-  },
-  {
-   "key": "lebozy.com",
-   "name": "💕乐播(直连)",
-   "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "qist/9918"
-  },
-  {
-   "key": "乐播",
-   "name": "乐播 | 采集",
-   "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/",
    "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
+   "filterable": 1,
    "ext": "proxy",
    "_origin": "cluntop/fun"
   },
@@ -193,26 +36,73 @@
    "_origin": "cluntop/fun"
   },
   {
-   "key": "森林专场",
-   "name": "森林 | 采集",
+   "key": "lbapi9.com",
+   "name": "成人26",
    "type": 1,
-   "api": "https://slapibf.com/api.php/provide/vod/",
-   "playUrl": "",
+   "api": "https://lbapi9.com/api.php/provide/vod/",
+   "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
    "searchable": 1,
-   "quickSearch": 1,
+   "recordable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "header": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+   },
+   "_origin": "qist/9918"
+  },
+  {
+   "key": "lebozy.com",
+   "name": "💕乐播(直连)",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
    "filterable": 1,
-   "ext": "proxy",
+   "_origin": "qist/9918"
+  },
+  {
+   "key": "大奶子",
+   "name": "大奶子 | 采集",
+   "type": 1,
+   "api": "https://apidanaizi.com/api.php/provide/vod",
+   "searchable": 1,
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "changeable": 1,
    "_origin": "cluntop/fun"
   },
   {
-   "key": "*乐播资源",
-   "name": "🔞乐播资源",
+   "key": "apilj.com",
+   "name": "成人06",
+   "type": 1,
+   "api": "http://apilj.com/api.php/provide/vod/at/json/",
+   "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+   "searchable": 1,
+   "recordable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "header": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+   },
+   "_origin": "qist/9918"
+  },
+  {
+   "key": "乐播",
+   "name": "乐播 | 采集",
    "type": 1,
    "api": "https://lbapi9.com/api.php/provide/vod/",
+   "quickSearch": 1,
    "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "_origin": "auto/5-13s"
+   "changeable": 1,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
   },
   {
    "key": "fhapi9.com",
@@ -233,24 +123,6 @@
    "filterable": 0,
    "ext": "proxy",
    "_origin": "cluntop/fun"
-  },
-  {
-   "key": "apilj.com",
-   "name": "成人06",
-   "type": 1,
-   "api": "http://apilj.com/api.php/provide/vod/at/json/",
-   "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-   "searchable": 1,
-   "recordable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "header": {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-   },
-   "_origin": "qist/9918"
   },
   {
    "key": "18AV",
@@ -371,17 +243,6 @@
    "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
    "jar": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar",
    "_origin": "cluntop/fun"
-  },
-  {
-   "key": "csp_biubiu_四虎影院",
-   "name": "🙅🏻‍♂️🔞四虎影院(XB)",
-   "type": 3,
-   "api": "csp_XBiubiu",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "clan://tvbox/dlyok2/6/MaooXB2/四虎影院.json",
-   "_origin": "auto/3-58s"
   }
  ]
 }

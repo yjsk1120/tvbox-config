@@ -1,5 +1,5 @@
 {
- "spider": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
+ "spider": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
  "wallpaper": "https://t.alcy.cc/ys",
  "parses": [
   {
@@ -90,6 +90,16 @@
    "name": "-云解析-",
    "type": 0,
    "url": "https://jx.yparse.com/index.php?url=",
+   "ext": {
+    "header": {
+     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }
+   }
+  },
+  {
+   "name": "-剖云-",
+   "type": 0,
+   "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
    "ext": {
     "header": {
      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
@@ -768,6 +778,11 @@
    "url": "https://play.dadiapi.com/watch?url="
   },
   {
+   "name": "m3u8-ttbfp1",
+   "type": 0,
+   "url": "https://jiexi.ttbfp1.com/m3u8/?url="
+  },
+  {
    "name": "m3u8-zykbf",
    "type": 0,
    "url": "https://vip.zykbf.com/?url="
@@ -791,11 +806,6 @@
      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
     }
    }
-  },
-  {
-   "name": "剖云",
-   "type": 0,
-   "url": "https://www.pouyun.com/?url="
   },
   {
    "name": "虾米2",
@@ -1404,14 +1414,9 @@
    "url": "http://154.44.26.196/player/qu.php?v="
   },
   {
-   "name": "GGTV自用",
+   "name": "冰哲",
    "type": 1,
-   "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai666&url="
-  },
-  {
-   "name": "解析23",
-   "type": 0,
-   "url": "https://www.pangujiexi.cc/jiexi.php?url="
+   "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url="
   },
   {
    "name": "网络搜集03",
@@ -1426,6 +1431,28 @@
   }
  ],
  "sites": [
+  {
+   "key": "香奶儿资源站",
+   "name": "香奶 | 采集",
+   "type": 0,
+   "api": "https://www.gdlsp.com/api/xml.php",
+   "searchable": 0,
+   "quickSearch": 0,
+   "ext": "proxy",
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "米色",
+   "name": "米色(18)",
+   "type": 1,
+   "api": "https://www.msnii.com/api/json.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_origin": "auto/28-11s",
+   "group": "直连点播"
+  },
   {
    "key": "小湿妹",
    "name": "湿妹 | 采集",
@@ -1451,17 +1478,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "香奶儿资源站",
-   "name": "香奶 | 采集",
-   "type": 0,
-   "api": "https://www.gdlsp.com/api/xml.php",
-   "searchable": 0,
-   "quickSearch": 0,
-   "ext": "proxy",
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "白嫖",
    "name": "白嫖 | 采集",
    "type": 0,
@@ -1470,6 +1486,30 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "proxy",
+   "group": "直连点播",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "奶儿",
+   "name": "奶儿(18)",
+   "type": 1,
+   "api": "https://www.gdlsp.com/api/json.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_origin": "auto/28-11s",
+   "group": "直连点播"
+  },
+  {
+   "key": "cctv-3",
+   "name": "CCTV",
+   "type": 1,
+   "api": "https://zhangqun19.serv00.net/cctv.php",
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "changeable": 1,
    "group": "直连点播",
    "_origin": "feishu-sync"
   },
@@ -1487,51 +1527,15 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "cctv-3",
-   "name": "CCTV",
+   "key": "请勿贩卖📚在线_采集集合",
+   "name": "请勿贩卖📚在线·采集集合",
+   "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
    "type": 1,
-   "api": "https://zhangqun19.serv00.net/cctv.php",
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "changeable": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
    "group": "直连点播",
    "_origin": "feishu-sync"
-  },
-  {
-   "key": "乐鱼",
-   "name": "乐鱼",
-   "type": 0,
-   "api": "https://www.leyuzyapi.com/inc/zyapimac.php",
-   "playUrl": "https://player.leyuzy.net/?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "_origin": "auto/3-58s",
-   "group": "直连点播"
-  },
-  {
-   "key": "小姐1",
-   "name": "小姐姐",
-   "type": 0,
-   "api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml/m3u8",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "_origin": "auto/3-58s",
-   "group": "直连点播"
-  },
-  {
-   "key": "青青草",
-   "name": "青青草",
-   "type": 0,
-   "api": "https://www.caiji05.com/home/cjapi/cfda/mc/vod/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "_origin": "auto/3-58s",
-   "group": "直连点播"
   },
   {
    "key": "2-3",
@@ -1540,7 +1544,7 @@
    "api": "./ext/t4.json",
    "group": "直连点播",
    "_origin": "feishu-sync",
-   "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+   "jar": "https://github.mxw.qzz.io/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
   }
  ]
 }

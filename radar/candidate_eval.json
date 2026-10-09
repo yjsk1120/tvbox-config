@@ -1,36 +1,18 @@
 {
- "generated_at": "2026-10-08T23:55:30",
+ "generated_at": "2026-10-09T23:21:16",
  "note": "候选独有度评估：unique=该候选带来、当前产物里没有的新站点数。收编应看 unique 而非 score。",
  "base": {
   "file": "tvbox.json",
-  "sites": 4124,
-  "unique_fps": 4121
+  "sites": 3690,
+  "unique_fps": 3687
  },
  "summary": {
   "candidates": 80,
-  "fetch_ok": 29,
-  "with_unique": 27,
-  "total_unique_sites": 1891
+  "fetch_ok": 40,
+  "with_unique": 39,
+  "total_unique_sites": 1378
  },
  "candidates": [
-  {
-   "url": "https://raw.githubusercontent.com/jane3824/CatVodSpider/main/tools/src/main/resources/data.json",
-   "reachable": true,
-   "kind": "tvbox",
-   "score": 80,
-   "evidence": {
-    "sites": 534,
-    "lives": 0,
-    "parses": 0,
-    "spider": false
-   },
-   "bytes": 54638,
-   "total": 534,
-   "dup": 0,
-   "unique": 534,
-   "unique_rate": 1.0,
-   "err": ""
-  },
   {
    "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
    "reachable": true,
@@ -65,24 +47,6 @@
    "dup": 66,
    "unique": 232,
    "unique_rate": 0.779,
-   "err": ""
-  },
-  {
-   "url": "https://raw.githubusercontent.com/tv189ymail/2023/main/6/js.json",
-   "reachable": true,
-   "kind": "tvbox",
-   "score": 90,
-   "evidence": {
-    "sites": 163,
-    "lives": 1,
-    "parses": 20,
-    "spider": true
-   },
-   "bytes": 51068,
-   "total": 163,
-   "dup": 1,
-   "unique": 162,
-   "unique_rate": 0.994,
    "err": ""
   },
   {
@@ -134,27 +98,27 @@
    },
    "bytes": 48029,
    "total": 203,
-   "dup": 85,
-   "unique": 118,
-   "unique_rate": 0.581,
+   "dup": 84,
+   "unique": 119,
+   "unique_rate": 0.586,
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/wuqi0430/TVBox_code_tvbox-_tvbox-/main/app/src/main/assets/site_test.json",
+   "url": "https://raw.githubusercontent.com/shidahuilang/shuyuan-bak/main/UZ.json",
    "reachable": true,
    "kind": "tvbox",
-   "score": 90,
+   "score": 80,
    "evidence": {
-    "sites": 70,
-    "lives": 2,
-    "parses": 6,
-    "spider": true
+    "sites": 117,
+    "lives": 0,
+    "parses": 0,
+    "spider": false
    },
-   "bytes": 35466,
-   "total": 70,
-   "dup": 13,
-   "unique": 57,
-   "unique_rate": 0.814,
+   "bytes": 17641,
+   "total": 117,
+   "dup": 7,
+   "unique": 110,
+   "unique_rate": 0.94,
    "err": ""
   },
   {
@@ -170,9 +134,81 @@
    },
    "bytes": 37676,
    "total": 97,
-   "dup": 52,
-   "unique": 45,
-   "unique_rate": 0.464,
+   "dup": 51,
+   "unique": 46,
+   "unique_rate": 0.474,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/huangxiong1992/jt/main/hxsr.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 90,
+   "evidence": {
+    "sites": 32,
+    "lives": 1,
+    "parses": 0,
+    "spider": true
+   },
+   "bytes": 16335,
+   "total": 32,
+   "dup": 1,
+   "unique": 31,
+   "unique_rate": 0.969,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/FreeDTV/FreeD/master/box.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 90,
+   "evidence": {
+    "sites": 36,
+    "lives": 0,
+    "parses": 16,
+    "spider": true
+   },
+   "bytes": 11351,
+   "total": 36,
+   "dup": 8,
+   "unique": 28,
+   "unique_rate": 0.778,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/shidahuilang/shuyuan-bak/main/jinghua.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 80,
+   "evidence": {
+    "sites": 26,
+    "lives": 0,
+    "parses": 0,
+    "spider": false
+   },
+   "bytes": 30253,
+   "total": 26,
+   "dup": 0,
+   "unique": 26,
+   "unique_rate": 1.0,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/wuqi0430/TVBox_code_tvbox-_tvbox-/main/app/src/main/assets/site_test.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 90,
+   "evidence": {
+    "sites": 70,
+    "lives": 2,
+    "parses": 6,
+    "spider": true
+   },
+   "bytes": 35466,
+   "total": 70,
+   "dup": 47,
+   "unique": 23,
+   "unique_rate": 0.329,
    "err": ""
   },
   {
@@ -194,42 +230,6 @@
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/local.json",
-   "reachable": true,
-   "kind": "tvbox",
-   "score": 80,
-   "evidence": {
-    "sites": 23,
-    "lives": 1,
-    "parses": 10,
-    "spider": false
-   },
-   "bytes": 10603,
-   "total": 23,
-   "dup": 0,
-   "unique": 23,
-   "unique_rate": 1.0,
-   "err": ""
-  },
-  {
-   "url": "https://ghproxy.net/https://raw.githubusercontent.com/Greatwallcorner/CatVodSpider/master/json/config.json",
-   "reachable": true,
-   "kind": "tvbox",
-   "score": 90,
-   "evidence": {
-    "sites": 36,
-    "lives": 0,
-    "parses": 0,
-    "spider": true
-   },
-   "bytes": 6823,
-   "total": 36,
-   "dup": 15,
-   "unique": 21,
-   "unique_rate": 0.583,
-   "err": ""
-  },
-  {
    "url": "https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json",
    "reachable": true,
    "kind": "tvbox",
@@ -242,9 +242,9 @@
    },
    "bytes": 27984,
    "total": 58,
-   "dup": 37,
-   "unique": 21,
-   "unique_rate": 0.362,
+   "dup": 36,
+   "unique": 22,
+   "unique_rate": 0.379,
    "err": ""
   },
   {
@@ -260,27 +260,9 @@
    },
    "bytes": 18841,
    "total": 46,
-   "dup": 26,
-   "unique": 20,
-   "unique_rate": 0.435,
-   "err": ""
-  },
-  {
-   "url": "http://ztha.top/TVBox/thdjk.json",
-   "reachable": true,
-   "kind": "tvbox",
-   "score": 90,
-   "evidence": {
-    "sites": 46,
-    "lives": 10,
-    "parses": 0,
-    "spider": true
-   },
-   "bytes": 16530,
-   "total": 46,
-   "dup": 29,
-   "unique": 17,
-   "unique_rate": 0.37,
+   "dup": 25,
+   "unique": 21,
+   "unique_rate": 0.457,
    "err": ""
   },
   {
@@ -302,6 +284,24 @@
    "err": ""
   },
   {
+   "url": "http://ztha.top/TVBox/thdjk.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 90,
+   "evidence": {
+    "sites": 46,
+    "lives": 10,
+    "parses": 0,
+    "spider": true
+   },
+   "bytes": 16530,
+   "total": 46,
+   "dup": 29,
+   "unique": 17,
+   "unique_rate": 0.37,
+   "err": ""
+  },
+  {
    "url": "https://ztha.top/TVBox/thdjk.json",
    "reachable": true,
    "kind": "tvbox",
@@ -320,6 +320,42 @@
    "err": ""
   },
   {
+   "url": "https://raw.githubusercontent.com/huangxiong1992/jt/main/dw.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 90,
+   "evidence": {
+    "sites": 20,
+    "lives": 13,
+    "parses": 4,
+    "spider": true
+   },
+   "bytes": 17099,
+   "total": 20,
+   "dup": 4,
+   "unique": 16,
+   "unique_rate": 0.8,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/dxawi/0/main/0.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 90,
+   "evidence": {
+    "sites": 48,
+    "lives": 4,
+    "parses": 0,
+    "spider": true
+   },
+   "bytes": 18598,
+   "total": 48,
+   "dup": 33,
+   "unique": 15,
+   "unique_rate": 0.312,
+   "err": ""
+  },
+  {
    "url": "https://dxawi.github.io/0/0.json",
    "reachable": true,
    "kind": "tvbox",
@@ -332,27 +368,45 @@
    },
    "bytes": 18598,
    "total": 48,
-   "dup": 34,
-   "unique": 14,
-   "unique_rate": 0.292,
+   "dup": 33,
+   "unique": 15,
+   "unique_rate": 0.312,
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/FanchangWang/tvbox_config/main/fl/2.json",
+   "url": "https://raw.githubusercontent.com/shidahuilang/shuyuan-bak/main/tts.json",
    "reachable": true,
    "kind": "tvbox",
-   "score": 90,
+   "score": 80,
    "evidence": {
-    "sites": 13,
-    "lives": 28,
-    "parses": 35,
-    "spider": true
+    "sites": 14,
+    "lives": 0,
+    "parses": 0,
+    "spider": false
    },
-   "bytes": 28328,
-   "total": 13,
+   "bytes": 4929,
+   "total": 14,
+   "dup": 0,
+   "unique": 14,
+   "unique_rate": 1.0,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/ngt022/tvbox-config/main/tvbox-working.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 80,
+   "evidence": {
+    "sites": 14,
+    "lives": 5,
+    "parses": 0,
+    "spider": false
+   },
+   "bytes": 3654,
+   "total": 14,
    "dup": 1,
-   "unique": 12,
-   "unique_rate": 0.923,
+   "unique": 13,
+   "unique_rate": 0.929,
    "err": ""
   },
   {
@@ -374,61 +428,61 @@
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/bhsherry/vod-source-feed/main/public/vod-sources.json",
+   "url": "https://raw.githubusercontent.com/963540817/dashu/main/18%2B.json",
    "reachable": true,
    "kind": "tvbox",
    "score": 80,
    "evidence": {
-    "sites": 24,
+    "sites": 11,
     "lives": 0,
     "parses": 0,
     "spider": false
    },
-   "bytes": 5289,
-   "total": 24,
-   "dup": 14,
+   "bytes": 1614,
+   "total": 11,
+   "dup": 1,
    "unique": 10,
-   "unique_rate": 0.417,
+   "unique_rate": 0.909,
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/bhsherry/vod-source-feed/main/public/zyfun-vod-import.json",
+   "url": "https://raw.githubusercontent.com/huangxiong1992/jt/main/hx.txt",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 90,
+   "evidence": {
+    "sites": 15,
+    "lives": 13,
+    "parses": 4,
+    "spider": true
+   },
+   "bytes": 14780,
+   "total": 15,
+   "dup": 6,
+   "unique": 9,
+   "unique_rate": 0.6,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/mrxorz1327/tvbox-config/main/zidayuan.json",
    "reachable": true,
    "kind": "tvbox",
    "score": 80,
    "evidence": {
-    "sites": 24,
+    "sites": 10,
     "lives": 0,
     "parses": 0,
     "spider": false
    },
-   "bytes": 5289,
-   "total": 24,
-   "dup": 14,
-   "unique": 10,
-   "unique_rate": 0.417,
+   "bytes": 2535,
+   "total": 10,
+   "dup": 2,
+   "unique": 8,
+   "unique_rate": 0.8,
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/guot55/yourtv/main/app/src/main/res/raw/rawstablesource.txt",
-   "reachable": true,
-   "kind": "tvbox",
-   "score": 70,
-   "evidence": {
-    "sites": 7,
-    "lives": 0,
-    "parses": 0,
-    "spider": false
-   },
-   "bytes": 2113,
-   "total": 7,
-   "dup": 0,
-   "unique": 7,
-   "unique_rate": 1.0,
-   "err": ""
-  },
-  {
-   "url": "https://raw.githubusercontent.com/jane3824/CatVodSpider/main/json/market.json",
+   "url": "https://raw.githubusercontent.com/mlzbest/tvbox-api-backup/main/ry/%E5%A4%A9%E7%A5%9E%E4%B8%8B%E8%BD%BD.json",
    "reachable": true,
    "kind": "tvbox",
    "score": 70,
@@ -438,7 +492,7 @@
     "parses": 0,
     "spider": false
    },
-   "bytes": 3979,
+   "bytes": 9739,
    "total": 4,
    "dup": 0,
    "unique": 4,
@@ -446,7 +500,61 @@
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/wuqi0430/TVBox_code_tvbox-_tvbox-/main/app/src/main/assets/site.json",
+   "url": "https://raw.githubusercontent.com/mlzbest/tvbox-api-backup/main/ry/%E5%A5%87%E5%A5%87%E4%B8%8B%E8%BD%BD.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 70,
+   "evidence": {
+    "sites": 3,
+    "lives": 0,
+    "parses": 0,
+    "spider": false
+   },
+   "bytes": 1000,
+   "total": 3,
+   "dup": 0,
+   "unique": 3,
+   "unique_rate": 1.0,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/huangxiong1992/jt/main/dw4k.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 80,
+   "evidence": {
+    "sites": 5,
+    "lives": 1,
+    "parses": 2,
+    "spider": true
+   },
+   "bytes": 3197,
+   "total": 5,
+   "dup": 3,
+   "unique": 2,
+   "unique_rate": 0.4,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/huangxiong1992/jt/main/vip.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 80,
+   "evidence": {
+    "sites": 7,
+    "lives": 1,
+    "parses": 2,
+    "spider": true
+   },
+   "bytes": 3344,
+   "total": 7,
+   "dup": 5,
+   "unique": 2,
+   "unique_rate": 0.286,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/wuqi0430/TVBox_code_tvbox-_tvbox-/main/app/src/main/assets/site_bak.json",
    "reachable": true,
    "kind": "tvbox",
    "score": 70,
@@ -482,7 +590,7 @@
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/wuqi0430/TVBox_code_tvbox-_tvbox-/main/app/src/main/assets/site_bak.json",
+   "url": "https://raw.githubusercontent.com/wuqi0430/TVBox_code_tvbox-_tvbox-/main/app/src/main/assets/site.json",
    "reachable": true,
    "kind": "tvbox",
    "score": 70,
@@ -500,40 +608,112 @@
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/tv189ymail/2023/main/6/18.json",
+   "url": "https://raw.githubusercontent.com/mlzbest/tvbox-api-backup/main/ry/%E6%BD%87%E6%B4%92%E4%B8%8B%E8%BD%BD.json",
    "reachable": true,
    "kind": "tvbox",
-   "score": 90,
+   "score": 60,
    "evidence": {
-    "sites": 58,
-    "lives": 1,
-    "parses": 19,
-    "spider": true
+    "sites": 2,
+    "lives": 0,
+    "parses": 0,
+    "spider": false
    },
-   "bytes": 24153,
-   "total": 0,
+   "bytes": 747,
+   "total": 2,
    "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
+   "unique": 2,
+   "unique_rate": 1.0,
+   "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/lmlmi/xxxx/main/xys18.json",
+   "url": "https://raw.githubusercontent.com/mlzbest/tvbox-api-backup/main/ry/%E5%A5%87%E5%A5%87%E5%89%AF%E6%9C%AC.json",
    "reachable": true,
    "kind": "tvbox",
-   "score": 90,
+   "score": 60,
    "evidence": {
-    "sites": 61,
+    "sites": 2,
+    "lives": 0,
+    "parses": 0,
+    "spider": false
+   },
+   "bytes": 593,
+   "total": 2,
+   "dup": 0,
+   "unique": 2,
+   "unique_rate": 1.0,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/huangxiong1992/jt/main/Jtyy.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 70,
+   "evidence": {
+    "sites": 2,
     "lives": 1,
-    "parses": 26,
+    "parses": 2,
     "spider": true
    },
-   "bytes": 24412,
-   "total": 0,
+   "bytes": 2016,
+   "total": 2,
+   "dup": 1,
+   "unique": 1,
+   "unique_rate": 0.5,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/huangxiong1992/jt/main/bb.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 70,
+   "evidence": {
+    "sites": 1,
+    "lives": 0,
+    "parses": 2,
+    "spider": true
+   },
+   "bytes": 1821,
+   "total": 1,
    "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
+   "unique": 1,
+   "unique_rate": 1.0,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/kdxy2233/box-1/main/hk.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 70,
+   "evidence": {
+    "sites": 1,
+    "lives": 1,
+    "parses": 4,
+    "spider": true
+   },
+   "bytes": 3568,
+   "total": 1,
+   "dup": 0,
+   "unique": 1,
+   "unique_rate": 1.0,
+   "err": ""
+  },
+  {
+   "url": "https://raw.githubusercontent.com/mlzbest/tvbox-api-backup/main/ry/%E6%9F%92%E8%B1%AA%E4%B8%8B%E8%BD%BD.json",
+   "reachable": true,
+   "kind": "tvbox",
+   "score": 60,
+   "evidence": {
+    "sites": 1,
+    "lives": 0,
+    "parses": 0,
+    "spider": false
+   },
+   "bytes": 502,
+   "total": 1,
+   "dup": 0,
+   "unique": 1,
+   "unique_rate": 1.0,
+   "err": ""
   },
   {
    "url": "https://szyyds.cn/tv/x.json",
@@ -572,24 +752,6 @@
    "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
   },
   {
-   "url": "https://raw.githubusercontent.com/tv189ymail/2023/main/6/C%E7%BA%BF.json",
-   "reachable": true,
-   "kind": "tvbox",
-   "score": 90,
-   "evidence": {
-    "sites": 185,
-    "lives": 1,
-    "parses": 28,
-    "spider": true
-   },
-   "bytes": 71448,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
-  },
-  {
    "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json",
    "reachable": true,
    "kind": "tvbox",
@@ -608,32 +770,14 @@
    "err": ""
   },
   {
-   "url": "https://raw.githubusercontent.com/jane3824/CatVodSpider/main/json/demo.json",
-   "reachable": true,
-   "kind": "tvbox",
-   "score": 80,
-   "evidence": {
-    "sites": 3,
-    "lives": 0,
-    "parses": 0,
-    "spider": true
-   },
-   "bytes": 3999,
-   "total": 3,
-   "dup": 3,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": ""
-  },
-  {
-   "url": "https://raw.githubusercontent.com/9527xiao9527/iptv/main/iptv.txt",
+   "url": "https://raw.githubusercontent.com/dxawi/0/main/xiutan.m3u",
    "reachable": true,
    "kind": "m3u",
    "score": 60,
    "evidence": {
-    "entries": 177
+    "entries": 46
    },
-   "bytes": 42136,
+   "bytes": 7609,
    "total": 0,
    "dup": 0,
    "unique": 0,
@@ -656,17 +800,17 @@
    "err": "Expecting value: line 1 column 1 (char 0)"
   },
   {
-   "url": "https://raw.githubusercontent.com/jane3824/CatVodSpider/main/json/douban.json",
+   "url": "http://xhztv.top/4k.json",
    "reachable": true,
-   "kind": "json(非配置)",
+   "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 13861,
+   "bytes": 30612,
    "total": 0,
    "dup": 0,
    "unique": 0,
    "unique_rate": 0.0,
-   "err": "无站点数组（格式未识别）"
+   "err": "Expecting value: line 54 column 5 (char 1310)"
   },
   {
    "url": "https://star-history.dera.page/#Zhou-Li-Bin/Tvbox-QingNing&Date",
@@ -682,12 +826,12 @@
    "err": "Expecting value: line 1 column 1 (char 0)"
   },
   {
-   "url": "https://raw.githubusercontent.com/guot55/yourtv/main/app/src/main/assets/webview_loading_blacklist.json",
+   "url": "https://raw.githubusercontent.com/FreeDTV/FreeD/master/public.json",
    "reachable": true,
    "kind": "json(非配置)",
    "score": 0,
    "evidence": {},
-   "bytes": 1241,
+   "bytes": 685,
    "total": 0,
    "dup": 0,
    "unique": 0,
@@ -695,25 +839,38 @@
    "err": "无站点数组（格式未识别）"
   },
   {
-   "url": "https://raw.githubusercontent.com/FanchangWang/tvbox_config/main/dist/my.json",
-   "reachable": true,
-   "kind": "json(非配置)",
-   "score": 0,
-   "evidence": {},
-   "bytes": 1380,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "无站点数组（格式未识别）"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/lmlmi/xxxx/main/tvbox18.json",
+   "url": "https://github.com/Rivens7/Livelist",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 42497,
+   "bytes": 238985,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "Expecting value: line 7 column 1 (char 8)"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/svefnz/gpt_register/main/package.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 569,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/shareu007/tvbox-Swift-macOS/main/tvbox/Resources/Licenses/Vulkan-Headers-LICENSE.txt",
+   "reachable": true,
+   "kind": "other",
+   "score": 0,
+   "evidence": {},
+   "bytes": 11817,
    "total": 0,
    "dup": 0,
    "unique": 0,
@@ -734,225 +891,30 @@
    "err": "Expecting value: line 7 column 1 (char 8)"
   },
   {
-   "url": "https://tv.cctv.com/live/",
+   "url": "https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 32496,
+   "bytes": 13664,
    "total": 0,
    "dup": 0,
    "unique": 0,
    "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 18 (char 17)"
+   "err": "Expecting value: line 1 column 1 (char 0)"
   },
   {
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 64233,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Extra data: line 1 column 16 (char 15)"
-  },
-  {
-   "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
+   "url": "https://raw.githubusercontent.com/shidahuilang/shuyuan-bak/main/%E5%A4%A7%E7%81%B0%E7%8B%BC%E8%AE%A2%E9%98%85%E6%BA%90.json",
    "reachable": true,
    "kind": "json(非配置)",
    "score": 0,
    "evidence": {},
-   "bytes": 57,
+   "bytes": 35331,
    "total": 0,
    "dup": 0,
    "unique": 0,
    "unique_rate": 0.0,
    "err": "无站点数组（格式未识别）"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/otter2002/LG-TVbox/main/service-src/vendor/muban.txt",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 15217,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "url": "http://ztha.top/TVBox/GYCK.json",
-   "reachable": true,
-   "kind": "json(非配置)",
-   "score": 0,
-   "evidence": {},
-   "bytes": 3532,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "无站点数组（格式未识别）"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/guot55/yourtv/main/app/src/main/res/raw/webchannelsiniptv.txt",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 147278,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Extra data: line 1 column 21 (char 20)"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/tv189ymail/2023/main/6/XYQ.json",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 9588,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://live.fanmingming.cn/e.xml",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 300000,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/guot55/yourtv/main/app/src/main/res/raw/channels.txt",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 221582,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Extra data: line 1 column 21 (char 20)"
-  },
-  {
-   "url": "https://www.rjjjh.com/xzbgg.json",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 29015,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/tv189ymail/2023/main/6/%E6%97%A0%E5%90%8D.json",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 19750,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
-  },
-  {
-   "url": "http://xmbjm.fh4u.org/dc.txt",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 6075,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Extra data: line 221 column 1 (char 5277)"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/wuqi0430/TVBox_code_tvbox-_tvbox-/main/app/schemas/com.github.tvbox.osc.data.AppDataBase/3.json",
-   "reachable": true,
-   "kind": "json(非配置)",
-   "score": 0,
-   "evidence": {},
-   "bytes": 6261,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "无站点数组（格式未识别）"
-  },
-  {
-   "url": "http://xhztv.top/dc",
-   "reachable": true,
-   "kind": "json(非配置)",
-   "score": 0,
-   "evidence": {},
-   "bytes": 1312,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://www.cztv.com/liveTV",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 3917,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://live.kankanews.com/huikan",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 105166,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/lmlmi/xxxx/main/18jin.json",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 102695,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
   },
   {
    "url": "https://raw.githubusercontent.com/wuqi0430/TVBox_code_tvbox-_tvbox-/main/app/schemas/com.github.tvbox.osc.data.AppDataBase/1.json",
@@ -968,38 +930,51 @@
    "err": "无站点数组（格式未识别）"
   },
   {
-   "url": "https://github.com/YueChan/Live",
+   "url": "https://raw.githubusercontent.com/shidahuilang/shuyuan-bak/main/ipa/apps.json",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 229951,
+   "bytes": 300000,
    "total": 0,
    "dup": 0,
    "unique": 0,
    "unique_rate": 0.0,
-   "err": "Expecting value: line 7 column 1 (char 8)"
+   "err": "无站点数组（格式未识别）"
   },
   {
-   "url": "https://raw.githubusercontent.com/tv189ymail/2023/main/6/%E6%97%A0%E5%BF%A7.json",
+   "url": "https://raw.githubusercontent.com/huangxiong1992/jt/main/dwtv.txt",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 36833,
+   "bytes": 240644,
    "total": 0,
    "dup": 0,
    "unique": 0,
    "unique_rate": 0.0,
-   "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
+   "err": "Expecting value: line 9 column 1 (char 16)"
   },
   {
-   "url": "https://live.mgtv.com/",
+   "url": "https://raw.githubusercontent.com/mlzbest/tvbox-api-backup/main/api_list.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 817,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://xn--qoqw77q.top/",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 21648,
+   "bytes": 183,
    "total": 0,
    "dup": 0,
    "unique": 0,
@@ -1007,30 +982,160 @@
    "err": "Expecting value: line 1 column 1 (char 0)"
   },
   {
-   "url": "https://raw.githubusercontent.com/lmlmi/xxxx/main/vip.json",
+   "url": "https://raw.githubusercontent.com/kdxy2233/box-1/main/sp.json",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 27142,
+   "bytes": 17911,
    "total": 0,
    "dup": 0,
    "unique": 0,
    "unique_rate": 0.0,
-   "err": "Expecting property name enclosed in double quotes: line 383 column 1 (char 20481)"
+   "err": "Expecting value: line 94 column 1 (char 6133)"
   },
   {
-   "url": "http://itv666.cc/aowu/config.webp",
+   "url": "https://raw.githubusercontent.com/FreeDTV/FreeD/master/tv/mjxd.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 3228,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 1924,
+   "bytes": 64233,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "Extra data: line 1 column 16 (char 15)"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/shidahuilang/shuyuan-bak/main/ipa/test.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 10326,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/FreeDTV/FreeD/master/videoNavigation.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 6286,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/wuqi0430/TVBox_code_tvbox-_tvbox-/main/app/schemas/com.github.tvbox.osc.data.AppDataBase/3.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 6261,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/mlzbest/tvbox-api-backup/main/config.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 2176,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/mlzbest/tvbox-api-backup/main/apilinks.txt",
+   "reachable": true,
+   "kind": "other",
+   "score": 0,
+   "evidence": {},
+   "bytes": 918,
    "total": 0,
    "dup": 0,
    "unique": 0,
    "unique_rate": 0.0,
    "err": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/yanyusln/Film-stack/main/src-tauri/tauri.conf.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 1658,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://t.me/TVBoxxoo",
+   "reachable": true,
+   "kind": "other",
+   "score": 0,
+   "evidence": {},
+   "bytes": 10813,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+   "reachable": true,
+   "kind": "other",
+   "score": 0,
+   "evidence": {},
+   "bytes": 48,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/kdxy2233/box-1/main/py.json",
+   "reachable": true,
+   "kind": "other",
+   "score": 0,
+   "evidence": {},
+   "bytes": 17880,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "Expecting property name enclosed in double quotes: line 491 column 1 (char 12365)"
   },
   {
    "url": "https://github.com/qist/tvbox",
@@ -1046,25 +1151,12 @@
    "err": "Expecting value: line 7 column 1 (char 8)"
   },
   {
-   "url": "https://raw.githubusercontent.com/jane3824/CatVodSpider/main/json/alist.json",
-   "reachable": true,
-   "kind": "json(非配置)",
-   "score": 0,
-   "evidence": {},
-   "bytes": 883,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "无站点数组（格式未识别）"
-  },
-  {
-   "url": "https://star-history.dera.page/svg?repos=Zhou-Li-Bin/Tvbox-QingNing&type=Date",
+   "url": "http://itv666.cc/aowu/config.webp",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 70238,
+   "bytes": 1924,
    "total": 0,
    "dup": 0,
    "unique": 0,
@@ -1072,108 +1164,17 @@
    "err": "Expecting value: line 1 column 1 (char 0)"
   },
   {
-   "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
+   "url": "https://raw.githubusercontent.com/963540817/dashu/main/1.txt",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 188789,
+   "bytes": 11771,
    "total": 0,
    "dup": 0,
    "unique": 0,
    "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://live.jstv.com/",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 1367,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://github.com/fanmingming/live",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 300000,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 7 column 1 (char 8)"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/otter2002/LG-TVbox/main/package.json",
-   "reachable": true,
-   "kind": "json(非配置)",
-   "score": 0,
-   "evidence": {},
-   "bytes": 1436,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "无站点数组（格式未识别）"
-  },
-  {
-   "url": "https://t.me/TVBoxxoo",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 10812,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://raw.githubusercontent.com/otter2002/LG-TVbox/main/service-src/vendor/gbk.txt",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 56246,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 19203,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 29 column 9 (char 1414)"
-  },
-  {
-   "url": "http://xhztv.top/4k.json",
-   "reachable": true,
-   "kind": "other",
-   "score": 0,
-   "evidence": {},
-   "bytes": 30612,
-   "total": 0,
-   "dup": 0,
-   "unique": 0,
-   "unique_rate": 0.0,
-   "err": "Expecting value: line 54 column 5 (char 1310)"
+   "err": "Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)"
   },
   {
    "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -1189,25 +1190,25 @@
    "err": "Extra data: line 1 column 16 (char 15)"
   },
   {
-   "url": "https://live.fanmingming.com/e.xml",
+   "url": "https://raw.githubusercontent.com/kdxy2233/box-1/main/18.json",
    "reachable": true,
    "kind": "other",
    "score": 0,
    "evidence": {},
-   "bytes": 300000,
+   "bytes": 19455,
    "total": 0,
    "dup": 0,
    "unique": 0,
    "unique_rate": 0.0,
-   "err": "Expecting value: line 1 column 1 (char 0)"
+   "err": "Expecting value: line 78 column 1 (char 5482)"
   },
   {
-   "url": "https://raw.githubusercontent.com/FanchangWang/tvbox_config/main/dist/tvbox.json",
+   "url": "https://raw.githubusercontent.com/LanLanff/FlyTV/main/update.json",
    "reachable": true,
    "kind": "json(非配置)",
    "score": 0,
    "evidence": {},
-   "bytes": 899,
+   "bytes": 841,
    "total": 0,
    "dup": 0,
    "unique": 0,
@@ -1215,12 +1216,51 @@
    "err": "无站点数组（格式未识别）"
   },
   {
-   "url": "https://raw.githubusercontent.com/jane3824/CatVodSpider/main/json/jianpian.json",
+   "url": "https://raw.githubusercontent.com/shareu007/tvbox-Swift-macOS/main/tvbox/Resources/Licenses/MPVKit-LICENSE.txt",
+   "reachable": true,
+   "kind": "other",
+   "score": 0,
+   "evidence": {},
+   "bytes": 7650,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "Expecting value: line 1 column 20 (char 19)"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/shareu007/tvbox-Swift-macOS/main/tvbox/Assets.xcassets/AppIcon.appiconset/Contents.json",
    "reachable": true,
    "kind": "json(非配置)",
    "score": 0,
    "evidence": {},
-   "bytes": 7547,
+   "bytes": 1405,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/FreeDTV/FreeD/master/searchUrl.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 5391,
+   "total": 0,
+   "dup": 0,
+   "unique": 0,
+   "unique_rate": 0.0,
+   "err": "无站点数组（格式未识别）"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/FreeDTV/FreeD/master/sourceNavigation.json",
+   "reachable": true,
+   "kind": "json(非配置)",
+   "score": 0,
+   "evidence": {},
+   "bytes": 3101,
    "total": 0,
    "dup": 0,
    "unique": 0,

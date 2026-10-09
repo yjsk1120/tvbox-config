@@ -2747,19 +2747,71 @@
    "playerType": 1
   },
   {
-   "name": "天上人间",
+   "name": "飞快线",
    "type": 0,
-   "url": "https://github.allproxy.dpdns.org/https://raw.githubusercontent.com/FanchangWang/tvbox_config/main/fl/live.txt",
-   "playerType": 1,
-   "ua": "okhttp/3.15",
-   "epg": "https://diyp20.112114.xyz/",
-   "logo": "https://gd-hbimg.huaban.com/ca8b4e7379e601bca6eb21c33c1994e59e991b481ec6c7-RbvXmL_fw658"
+   "url": "https://gitee.com/qqyywb/250321/raw/master/123.json",
+   "playerType": 1
   },
   {
-   "name": "hsck",
+   "name": "拾光",
    "type": 0,
-   "url": "https://github.allproxy.dpdns.org/https://raw.githubusercontent.com/fuxkjd/hsck/main/dist/all.m3u",
-   "ua": "okhttp/3.15"
+   "url": "https://slink.ltd/https://raw.githubusercontent.com/xmbjm/TV/refs/heads/master/output/user_result.txt",
+   "playerType": 1
+  },
+  {
+   "name": "Govin",
+   "type": 0,
+   "url": "https://slink.ltd/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+   "playerType": 1
+  },
+  {
+   "name": "大葱MyTV",
+   "type": 0,
+   "url": "https://tv.iill.top/m3u/MyTV",
+   "playerType": 1
+  },
+  {
+   "name": "大葱Gather",
+   "type": 0,
+   "url": "https://tv.iill.top/m3u/Gather",
+   "playerType": 1
+  },
+  {
+   "name": "大葱Live",
+   "type": 0,
+   "url": "https://tv.iill.top/m3u/Live",
+   "playerType": 1
+  },
+  {
+   "name": "大葱Sport",
+   "type": 0,
+   "url": "https://tv.iill.top/m3u/Sport",
+   "playerType": 1
+  },
+  {
+   "name": "天微",
+   "type": 0,
+   "url": "https://7337.kstore.space/twkj/tvzb.txt",
+   "playerType": 1
+  },
+  {
+   "name": "开心",
+   "type": 0,
+   "url": "http://kxrj.site:55/lib/kx2024.txt",
+   "playerType": 1
+  },
+  {
+   "name": "华夏少儿",
+   "type": 0,
+   "url": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/sr.txt",
+   "ua": "okhttp/3.15",
+   "playerType": 2
+  },
+  {
+   "name": "央视卫视",
+   "type": 0,
+   "url": "https://live.fanmingming.com/tv/m3u/index.m3u",
+   "playerType": 1
   }
  ],
  "parses": [
@@ -2851,6 +2903,16 @@
    "name": "-云解析-",
    "type": 0,
    "url": "https://jx.yparse.com/index.php?url=",
+   "ext": {
+    "header": {
+     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }
+   }
+  },
+  {
+   "name": "-剖云-",
+   "type": 0,
+   "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
    "ext": {
     "header": {
      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
@@ -3529,6 +3591,11 @@
    "url": "https://play.dadiapi.com/watch?url="
   },
   {
+   "name": "m3u8-ttbfp1",
+   "type": 0,
+   "url": "https://jiexi.ttbfp1.com/m3u8/?url="
+  },
+  {
    "name": "m3u8-zykbf",
    "type": 0,
    "url": "https://vip.zykbf.com/?url="
@@ -3552,11 +3619,6 @@
      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
     }
    }
-  },
-  {
-   "name": "剖云",
-   "type": 0,
-   "url": "https://www.pouyun.com/?url="
   },
   {
    "name": "虾米2",
@@ -4165,14 +4227,9 @@
    "url": "http://154.44.26.196/player/qu.php?v="
   },
   {
-   "name": "GGTV自用",
+   "name": "冰哲",
    "type": 1,
-   "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai666&url="
-  },
-  {
-   "name": "解析23",
-   "type": 0,
-   "url": "https://www.pangujiexi.cc/jiexi.php?url="
+   "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url="
   },
   {
    "name": "网络搜集03",

@@ -1,224 +1,214 @@
 {
- "generated_at": "2026-10-08T01:21:18",
+ "generated_at": "2026-10-09T00:26:23",
  "is_baseline": false,
  "vod": {
-  "total": 4124,
+  "total": 3690,
   "summary": {
-   "healthy": 122,
-   "degraded": 629,
-   "unknown": 1583,
-   "dead": 1790
+   "healthy": 127,
+   "degraded": 636,
+   "unknown": 1115,
+   "dead": 1812
   },
   "new": [
    {
-    "key": "*老鸭福利",
-    "name": "*老鸭福利",
+    "key": "豆瓣采集",
+    "name": "[322ms|我的] 豆瓣采集",
     "health": "unknown"
    },
    {
-    "key": "49zyw",
-    "name": "49(采集)",
+    "key": "🌈北雁资源",
+    "name": "北燕资源",
     "health": "unknown"
    },
    {
-    "key": "虎牙-4",
-    "name": "[137ms|zy] 🍏虎牙",
+    "key": "csp_xml_冠军资源",
+    "name": "🐝冠军资源",
     "health": "unknown"
    },
    {
-    "key": "site_1787074663422",
-    "name": "光速云",
+    "key": "csp_xml_外国影源",
+    "name": "🐝外国影源",
     "health": "unknown"
    },
    {
-    "key": "bttcj",
-    "name": "博天堂三级",
+    "key": "csp_xml_趣看采集",
+    "name": "🐝趣看采集",
     "health": "unknown"
    },
    {
-    "key": "ap4i156dlyE",
-    "name": "奶茶资源(已修复)",
+    "key": "csp_xml_酷点资源",
+    "name": "🐝酷点资源",
     "health": "unknown"
    },
    {
-    "key": "kuaiyunzy",
-    "name": "快云(采集)",
+    "key": "vod_liangzi_xml",
+    "name": "量子 XML",
     "health": "unknown"
    },
    {
-    "key": "kuaifan",
-    "name": "快帆(采集)",
+    "key": "vod_sony_xml",
+    "name": "索尼资源 XML",
     "health": "unknown"
    },
    {
-    "key": "kuaikan-ap",
-    "name": "快看(采集)",
+    "key": "csp_xml_无尽",
+    "name": "❤无尽资源",
     "health": "unknown"
    },
    {
-    "key": "kkzy",
-    "name": "快看┃资源",
+    "key": "suoni",
+    "name": "索尼资源",
     "health": "unknown"
    },
    {
-    "key": "zy_豆瓣资源",
-    "name": "接口┃豆瓣资源",
+    "key": "牛牛资源",
+    "name": "[322ms|我的] 牛牛资源",
     "health": "unknown"
    },
    {
-    "key": "bfzy",
-    "name": "暴风(采集)",
+    "key": "tyyszy",
+    "name": "天涯资源",
     "health": "unknown"
    },
    {
-    "key": "aHRfhd",
-    "name": "色色资源",
+    "key": "天涯采集",
+    "name": "影视 • 天涯",
     "health": "unknown"
    },
    {
-    "key": "guangsu2",
-    "name": "🍀光速HTTP",
+    "key": "滴滴-2",
+    "name": "[137ms|zy] 🍊滴滴",
     "health": "unknown"
    },
    {
-    "key": "guangsu",
-    "name": "🍀光速资源",
+    "key": "滴滴",
+    "name": "滴滴 | 采集",
     "health": "unknown"
    }
   ],
   "gone": [
    {
-    "key": "奶香",
-    "name": "🚀奶香"
+    "key": "色逼",
+    "name": "[137ms|zy] 🍊色逼"
    },
    {
-    "key": "77791ef659e8282af587e24e7b0c18a5",
-    "name": "33-墨斗"
+    "key": "ikunzy-2",
+    "name": "影视 🔰 ikun[直连]"
    },
    {
-    "key": "滴滴",
-    "name": "滴滴 | 采集"
+    "key": "csp_sp_龙门动漫",
+    "name": "爬虫┃龙门动漫"
    },
    {
-    "key": "360-4",
-    "name": "[137ms|zy] 🍏360"
+    "key": "site_1788420456236",
+    "name": "爱奇艺"
    },
    {
-    "key": "360",
-    "name": "360 | 采集"
+    "key": "3b413ffe4c72f0b8f99ca6a868075d99",
+    "name": "38-U酷"
    },
    {
-    "key": "建安采集",
-    "name": "影视 • 建安"
+    "key": "ffzy-2",
+    "name": "非凡影视"
    },
    {
-    "key": "1080资源库",
-    "name": "1080资源库(切)"
+    "key": "电影天堂-4",
+    "name": "🧞无广┃[采集]"
    },
    {
-    "key": "柚子影视",
-    "name": "[590ms|5] 柚子影视"
+    "key": "lezi",
+    "name": "🍀乐子资源"
    },
    {
-    "key": "csp_xml_优质",
-    "name": "❤优质资源"
+    "key": "zy_优质资源",
+    "name": "接口┃优质资源"
    },
    {
-    "key": "暴风影视",
-    "name": "[590ms|5] 暴风影视"
+    "key": "*老鸭福利",
+    "name": "*老鸭福利"
    },
    {
-    "key": "*色南国资源",
-    "name": "[167ms|apple] *色南国资源"
+    "key": "49zyw",
+    "name": "49(采集)"
    },
    {
-    "key": "t1_华为资源",
-    "name": "🍃华为资源┃采集"
+    "key": "虎牙-4",
+    "name": "[137ms|zy] 🍏虎牙"
    },
    {
-    "key": "t1_天空影院",
-    "name": "🍃天空影院┃采集"
+    "key": "site_1787074663422",
+    "name": "光速云"
    },
    {
-    "key": "t1_影图影视",
-    "name": "🍃影图影视┃采集"
+    "key": "bttcj",
+    "name": "博天堂三级"
    },
    {
-    "key": "t1_快车资源",
-    "name": "🍃快车资源┃采集"
+    "key": "ap4i156dlyE",
+    "name": "奶茶资源(已修复)"
    }
   ],
   "down": [
    {
-    "key": "csp_appys_萌蛋蛋",
-    "name": "萌蛋",
+    "key": "fbfa5eed414e1f6137f2496a68005ef5",
+    "name": "43-HG",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "BiliXiqu",
-    "name": "🎉戏曲┃Bili",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "BiliGequ",
-    "name": "🎉歌曲┃Bili",
-    "from": "degraded",
+    "key": "奇迹资源",
+    "name": "影视 • 奇迹[直连]",
+    "from": "healthy",
     "to": "dead"
    }
   ],
   "recovered": [
    {
-    "key": "奇迹资源",
-    "name": "影视 • 奇迹[直连]",
+    "key": "永乐APP",
+    "name": "🌺永乐 • FS",
     "from": "dead",
-    "to": "healthy"
+    "to": "degraded"
    },
    {
-    "key": "魅影影视",
-    "name": "💖分享魅影",
+    "key": "BiliGequ",
+    "name": "🎉歌曲┃Bili",
+    "from": "dead",
+    "to": "degraded"
+   },
+   {
+    "key": "BiliXiqu",
+    "name": "🎉戏曲┃Bili",
     "from": "dead",
     "to": "degraded"
    }
   ],
   "counts": {
-   "new": 717,
-   "gone": 603,
-   "down": 3,
-   "recovered": 2
+   "new": 255,
+   "gone": 689,
+   "down": 2,
+   "recovered": 3
   }
  },
  "live": {
-  "total": 334,
+  "total": 332,
   "summary": {
-   "unknown": 334
+   "unknown": 332
   },
   "counts": {
-   "new": 4,
-   "gone": 16,
+   "new": 2,
+   "gone": 4,
    "down": 0,
    "recovered": 0
   },
   "new": [
    {
-    "key": "https://www.fenwe.tk:521/tv/大全.txt",
-    "name": "大全",
+    "key": "https://github.allproxy.dpdns.org/https://raw.githubusercontent.com/FanchangWang/tvbox_config/main/fl/live.txt",
+    "name": "天上人间",
     "health": "unknown"
    },
    {
-    "key": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt",
-    "name": "10086",
-    "health": "unknown"
-   },
-   {
-    "key": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/tv/IPV6.txt",
-    "name": "IPV6专用",
-    "health": "unknown"
-   },
-   {
-    "key": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
-    "name": "饭太硬•综合",
+    "key": "https://github.allproxy.dpdns.org/https://raw.githubusercontent.com/fuxkjd/hsck/main/dist/all.m3u",
+    "name": "hsck",
     "health": "unknown"
    }
   ],

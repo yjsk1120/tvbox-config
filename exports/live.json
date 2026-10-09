@@ -2747,49 +2747,19 @@
    "playerType": 1
   },
   {
-   "name": "大全",
+   "name": "天上人间",
    "type": 0,
-   "url": "https://www.fenwe.tk:521/tv/大全.txt",
-   "epg": "http://epg.hklive.tv",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "10086",
-   "type": 0,
-   "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
-  },
-  {
-   "name": "IPV6专用",
-   "type": 0,
-   "url": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/tv/IPV6.txt",
-   "playerType": 1,
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "tvboxtv",
-   "type": 0,
-   "url": "./tvboxtv.txt",
-   "playerType": 1,
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "tvlive",
-   "type": 0,
-   "url": "./tvlive.txt",
-   "playerType": 1,
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "饭太硬•综合",
-   "type": 0,
-   "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
+   "url": "https://github.allproxy.dpdns.org/https://raw.githubusercontent.com/FanchangWang/tvbox_config/main/fl/live.txt",
    "playerType": 1,
    "ua": "okhttp/3.15",
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
+   "epg": "https://diyp20.112114.xyz/",
+   "logo": "https://gd-hbimg.huaban.com/ca8b4e7379e601bca6eb21c33c1994e59e991b481ec6c7-RbvXmL_fw658"
+  },
+  {
+   "name": "hsck",
+   "type": 0,
+   "url": "https://github.allproxy.dpdns.org/https://raw.githubusercontent.com/fuxkjd/hsck/main/dist/all.m3u",
+   "ua": "okhttp/3.15"
   }
  ],
  "parses": [
@@ -3559,11 +3529,6 @@
    "url": "https://play.dadiapi.com/watch?url="
   },
   {
-   "name": "m3u8-ttbfp1",
-   "type": 0,
-   "url": "https://jiexi.ttbfp1.com/m3u8/?url="
-  },
-  {
    "name": "m3u8-zykbf",
    "type": 0,
    "url": "https://vip.zykbf.com/?url="
@@ -3625,11 +3590,6 @@
    "header": {
     "User-Agent": "Mozilla/5.0"
    }
-  },
-  {
-   "name": "解析1.6",
-   "type": 1,
-   "url": "https://jx.300ys.xyz/json/m3u8.php/?url="
   },
   {
    "name": "☑快速直解",
@@ -4170,11 +4130,6 @@
    "url": "https://huayong.net/999/?v="
   },
   {
-   "name": "freejson",
-   "type": 0,
-   "url": "https://h5.freejson.xyz/player/?url="
-  },
-  {
    "name": "789",
    "type": 0,
    "url": "https://m.789bh.com/?url=",
@@ -4210,251 +4165,25 @@
    "url": "http://154.44.26.196/player/qu.php?v="
   },
   {
-   "name": "思古3",
+   "name": "GGTV自用",
+   "type": 1,
+   "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai666&url="
+  },
+  {
+   "name": "解析23",
    "type": 0,
-   "url": "https://jsap.attakids.com/?url="
+   "url": "https://www.pangujiexi.cc/jiexi.php?url="
   },
   {
-   "name": "Jsonaiaine",
-   "type": 1,
-   "url": "http://www.aiaine.com/api/?key=zJQvr5baYHz7vpNSy9&url="
-  },
-  {
-   "name": "综合线路解析",
-   "type": 1,
-   "url": "https://laisoyiba.com/mov/s/?sv=3&url="
-  },
-  {
-   "name": "百域",
-   "type": 1,
-   "url": "https://jx.618g.com/?url="
-  },
-  {
-   "name": "大幕",
-   "type": 1,
-   "url": "https://jx.52damu.com/dmjx/jiexi.php?url="
-  },
-  {
-   "name": "维多",
-   "type": 1,
-   "url": "https://jx.ivito.cn/?url="
-  },
-  {
-   "name": "LE",
-   "type": 1,
-   "url": "https://lecurl.cn/?url="
-  },
-  {
-   "name": "ccyjjd",
-   "type": 1,
-   "url": "https://ckmov.ccyjjd.com/ckmov/?url="
-  },
-  {
-   "name": "诺诺",
-   "type": 1,
-   "url": "https://www.ckmov.com/?url="
-  },
-  {
-   "name": "MUTV",
-   "type": 1,
-   "url": "https://jiexi.janan.net/jiexi/?url="
-  },
-  {
-   "name": "MAO",
-   "type": 1,
-   "url": "https://www.mtosz.com/m3u8.php?url="
-  },
-  {
-   "name": "小蒋",
-   "type": 1,
-   "url": "https://www.kpezp.cn/jlexi.php?url="
-  },
-  {
-   "name": "YiTV",
-   "type": 1,
-   "url": "https://jiexi.us/?url="
-  },
-  {
-   "name": "星空",
-   "type": 1,
-   "url": "http://60jx.com/?url="
-  },
-  {
-   "name": "江湖",
-   "type": 1,
-   "url": "https://api.jhdyw.vip/?url="
-  },
-  {
-   "name": "黑米",
-   "type": 1,
-   "url": "https://www.myxin.top/jx/api/?url="
-  },
-  {
-   "name": "凉城",
-   "type": 1,
-   "url": "https://jx.mw0.cc/?url="
-  },
-  {
-   "name": "无名",
-   "type": 1,
-   "url": "https://www.administratorw.com/video.php?url="
-  },
-  {
-   "name": "解10",
-   "type": 1,
-   "url": "https://jf.96ym.cn/api/?key=4tuNi0EjxTYFzJIN5r&url="
-  },
-  {
-   "name": "解15",
-   "type": 1,
-   "url": "https://jx.7kjx.com/?url="
-  },
-  {
-   "name": "解23",
-   "type": 1,
-   "url": "https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="
-  },
-  {
-   "name": "解24",
-   "type": 1,
-   "url": "https://sbsb.i8k.cc/?url="
-  },
-  {
-   "name": "解25",
-   "type": 1,
-   "url": "http://gq.bywdtk.cn/?url="
-  },
-  {
-   "name": "解38",
-   "type": 1,
-   "url": "https://jx.zhanlangbu.com/json.php/?url="
-  },
-  {
-   "name": "解46",
-   "type": 1,
-   "url": "https://player.leyuzy.net/?url="
-  },
-  {
-   "name": "解51",
-   "type": 1,
-   "url": "http://www.ikukk.com/?url="
-  },
-  {
-   "name": "解54",
-   "type": 1,
-   "url": "http://api.diliktv.xyz/vip/jx.php?url="
-  },
-  {
-   "name": "解57",
-   "type": 1,
-   "url": "https://www.xymav.com/?url="
-  },
-  {
-   "name": "解58",
-   "type": 1,
-   "url": "https://9kjx.com/?url="
-  },
-  {
-   "name": "解61",
-   "type": 1,
-   "url": "https://api.iztyy.com/jiexi/?url="
-  },
-  {
-   "name": "解62",
-   "type": 1,
-   "url": "https://www.91jxs.com/jiexi/?url="
-  },
-  {
-   "name": "解63",
-   "type": 1,
-   "url": "http://vip.26db.cn/c/?url="
-  },
-  {
-   "name": "解64",
-   "type": 1,
-   "url": "http://vip.26db.cn/f/?url="
-  },
-  {
-   "name": "解65",
-   "type": 1,
-   "url": "http://vip.26db.cn/a/?url="
-  },
-  {
-   "name": "解67",
-   "type": 1,
-   "url": "http://jx.xdiaosi.com/?url="
-  },
-  {
-   "name": "解75",
-   "type": 1,
-   "url": "https://json.legendwhb.cn/json.php/?url="
-  },
-  {
-   "name": "解85",
-   "type": 1,
-   "url": "https://www.1717yun.com/api/?url="
-  },
-  {
-   "name": "解89",
-   "type": 1,
-   "url": "https://api.qianqi.net/vip/?url="
-  },
-  {
-   "name": "解95",
-   "type": 1,
-   "url": "https://660e.com/?url="
-  },
-  {
-   "name": "解102",
-   "type": 1,
-   "url": "https://jx.renrenmi.cc/?url="
-  },
-  {
-   "name": "播放呀",
-   "type": 1,
-   "url": "https://jx.vk95.com/xx/?url="
-  },
-  {
-   "name": "aiaine02",
+   "name": "网络搜集03",
    "type": 1,
    "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
    "ext": {
     "flag": [
-     "ltnb",
-     "renrenmi",
-     "xfyun",
-     "miaoparty",
-     "miaoparty2",
-     "miaoparty3",
-     "longteng",
-     "xueren"
+     "Itnb",
+     "wuduzy"
     ]
    }
-  },
-  {
-   "name": "semao",
-   "type": 1,
-   "url": "https://jiexi.99mao.xyz/m3u8/?url="
-  },
-  {
-   "name": "豆瓣",
-   "type": 1,
-   "url": "https://douban.armytea.com/json.php?url="
-  },
-  {
-   "name": "冰哲",
-   "type": 1,
-   "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url="
-  },
-  {
-   "name": "ovvo",
-   "type": 0,
-   "url": "https://json.ovvo.pro/jx.php?url="
-  },
-  {
-   "name": "猫群专用5",
-   "type": 1,
-   "url": "http://120.77.94.20/jx?url="
   }
  ]
 }

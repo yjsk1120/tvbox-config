@@ -2749,49 +2749,19 @@
    "playerType": 1
   },
   {
-   "name": "大全",
+   "name": "天上人间",
    "type": 0,
-   "url": "https://www.fenwe.tk:521/tv/大全.txt",
-   "epg": "http://epg.hklive.tv",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "10086",
-   "type": 0,
-   "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
-  },
-  {
-   "name": "IPV6专用",
-   "type": 0,
-   "url": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/tv/IPV6.txt",
-   "playerType": 1,
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "tvboxtv",
-   "type": 0,
-   "url": "./tvboxtv.txt",
-   "playerType": 1,
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "tvlive",
-   "type": 0,
-   "url": "./tvlive.txt",
-   "playerType": 1,
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "饭太硬•综合",
-   "type": 0,
-   "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
+   "url": "https://github.allproxy.dpdns.org/https://raw.githubusercontent.com/FanchangWang/tvbox_config/main/fl/live.txt",
    "playerType": 1,
    "ua": "okhttp/3.15",
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
+   "epg": "https://diyp20.112114.xyz/",
+   "logo": "https://gd-hbimg.huaban.com/ca8b4e7379e601bca6eb21c33c1994e59e991b481ec6c7-RbvXmL_fw658"
+  },
+  {
+   "name": "hsck",
+   "type": 0,
+   "url": "https://github.allproxy.dpdns.org/https://raw.githubusercontent.com/fuxkjd/hsck/main/dist/all.m3u",
+   "ua": "okhttp/3.15"
   }
  ],
  "parses": [
@@ -3561,11 +3531,6 @@
    "url": "https://play.dadiapi.com/watch?url="
   },
   {
-   "name": "m3u8-ttbfp1",
-   "type": 0,
-   "url": "https://jiexi.ttbfp1.com/m3u8/?url="
-  },
-  {
    "name": "m3u8-zykbf",
    "type": 0,
    "url": "https://vip.zykbf.com/?url="
@@ -3627,11 +3592,6 @@
    "header": {
     "User-Agent": "Mozilla/5.0"
    }
-  },
-  {
-   "name": "解析1.6",
-   "type": 1,
-   "url": "https://jx.300ys.xyz/json/m3u8.php/?url="
   },
   {
    "name": "☑快速直解",
@@ -4172,11 +4132,6 @@
    "url": "https://huayong.net/999/?v="
   },
   {
-   "name": "freejson",
-   "type": 0,
-   "url": "https://h5.freejson.xyz/player/?url="
-  },
-  {
    "name": "789",
    "type": 0,
    "url": "https://m.789bh.com/?url=",
@@ -4212,251 +4167,25 @@
    "url": "http://154.44.26.196/player/qu.php?v="
   },
   {
-   "name": "思古3",
+   "name": "GGTV自用",
+   "type": 1,
+   "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai666&url="
+  },
+  {
+   "name": "解析23",
    "type": 0,
-   "url": "https://jsap.attakids.com/?url="
+   "url": "https://www.pangujiexi.cc/jiexi.php?url="
   },
   {
-   "name": "Jsonaiaine",
-   "type": 1,
-   "url": "http://www.aiaine.com/api/?key=zJQvr5baYHz7vpNSy9&url="
-  },
-  {
-   "name": "综合线路解析",
-   "type": 1,
-   "url": "https://laisoyiba.com/mov/s/?sv=3&url="
-  },
-  {
-   "name": "百域",
-   "type": 1,
-   "url": "https://jx.618g.com/?url="
-  },
-  {
-   "name": "大幕",
-   "type": 1,
-   "url": "https://jx.52damu.com/dmjx/jiexi.php?url="
-  },
-  {
-   "name": "维多",
-   "type": 1,
-   "url": "https://jx.ivito.cn/?url="
-  },
-  {
-   "name": "LE",
-   "type": 1,
-   "url": "https://lecurl.cn/?url="
-  },
-  {
-   "name": "ccyjjd",
-   "type": 1,
-   "url": "https://ckmov.ccyjjd.com/ckmov/?url="
-  },
-  {
-   "name": "诺诺",
-   "type": 1,
-   "url": "https://www.ckmov.com/?url="
-  },
-  {
-   "name": "MUTV",
-   "type": 1,
-   "url": "https://jiexi.janan.net/jiexi/?url="
-  },
-  {
-   "name": "MAO",
-   "type": 1,
-   "url": "https://www.mtosz.com/m3u8.php?url="
-  },
-  {
-   "name": "小蒋",
-   "type": 1,
-   "url": "https://www.kpezp.cn/jlexi.php?url="
-  },
-  {
-   "name": "YiTV",
-   "type": 1,
-   "url": "https://jiexi.us/?url="
-  },
-  {
-   "name": "星空",
-   "type": 1,
-   "url": "http://60jx.com/?url="
-  },
-  {
-   "name": "江湖",
-   "type": 1,
-   "url": "https://api.jhdyw.vip/?url="
-  },
-  {
-   "name": "黑米",
-   "type": 1,
-   "url": "https://www.myxin.top/jx/api/?url="
-  },
-  {
-   "name": "凉城",
-   "type": 1,
-   "url": "https://jx.mw0.cc/?url="
-  },
-  {
-   "name": "无名",
-   "type": 1,
-   "url": "https://www.administratorw.com/video.php?url="
-  },
-  {
-   "name": "解10",
-   "type": 1,
-   "url": "https://jf.96ym.cn/api/?key=4tuNi0EjxTYFzJIN5r&url="
-  },
-  {
-   "name": "解15",
-   "type": 1,
-   "url": "https://jx.7kjx.com/?url="
-  },
-  {
-   "name": "解23",
-   "type": 1,
-   "url": "https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="
-  },
-  {
-   "name": "解24",
-   "type": 1,
-   "url": "https://sbsb.i8k.cc/?url="
-  },
-  {
-   "name": "解25",
-   "type": 1,
-   "url": "http://gq.bywdtk.cn/?url="
-  },
-  {
-   "name": "解38",
-   "type": 1,
-   "url": "https://jx.zhanlangbu.com/json.php/?url="
-  },
-  {
-   "name": "解46",
-   "type": 1,
-   "url": "https://player.leyuzy.net/?url="
-  },
-  {
-   "name": "解51",
-   "type": 1,
-   "url": "http://www.ikukk.com/?url="
-  },
-  {
-   "name": "解54",
-   "type": 1,
-   "url": "http://api.diliktv.xyz/vip/jx.php?url="
-  },
-  {
-   "name": "解57",
-   "type": 1,
-   "url": "https://www.xymav.com/?url="
-  },
-  {
-   "name": "解58",
-   "type": 1,
-   "url": "https://9kjx.com/?url="
-  },
-  {
-   "name": "解61",
-   "type": 1,
-   "url": "https://api.iztyy.com/jiexi/?url="
-  },
-  {
-   "name": "解62",
-   "type": 1,
-   "url": "https://www.91jxs.com/jiexi/?url="
-  },
-  {
-   "name": "解63",
-   "type": 1,
-   "url": "http://vip.26db.cn/c/?url="
-  },
-  {
-   "name": "解64",
-   "type": 1,
-   "url": "http://vip.26db.cn/f/?url="
-  },
-  {
-   "name": "解65",
-   "type": 1,
-   "url": "http://vip.26db.cn/a/?url="
-  },
-  {
-   "name": "解67",
-   "type": 1,
-   "url": "http://jx.xdiaosi.com/?url="
-  },
-  {
-   "name": "解75",
-   "type": 1,
-   "url": "https://json.legendwhb.cn/json.php/?url="
-  },
-  {
-   "name": "解85",
-   "type": 1,
-   "url": "https://www.1717yun.com/api/?url="
-  },
-  {
-   "name": "解89",
-   "type": 1,
-   "url": "https://api.qianqi.net/vip/?url="
-  },
-  {
-   "name": "解95",
-   "type": 1,
-   "url": "https://660e.com/?url="
-  },
-  {
-   "name": "解102",
-   "type": 1,
-   "url": "https://jx.renrenmi.cc/?url="
-  },
-  {
-   "name": "播放呀",
-   "type": 1,
-   "url": "https://jx.vk95.com/xx/?url="
-  },
-  {
-   "name": "aiaine02",
+   "name": "网络搜集03",
    "type": 1,
    "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
    "ext": {
     "flag": [
-     "ltnb",
-     "renrenmi",
-     "xfyun",
-     "miaoparty",
-     "miaoparty2",
-     "miaoparty3",
-     "longteng",
-     "xueren"
+     "Itnb",
+     "wuduzy"
     ]
    }
-  },
-  {
-   "name": "semao",
-   "type": 1,
-   "url": "https://jiexi.99mao.xyz/m3u8/?url="
-  },
-  {
-   "name": "豆瓣",
-   "type": 1,
-   "url": "https://douban.armytea.com/json.php?url="
-  },
-  {
-   "name": "冰哲",
-   "type": 1,
-   "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url="
-  },
-  {
-   "name": "ovvo",
-   "type": 0,
-   "url": "https://json.ovvo.pro/jx.php?url="
-  },
-  {
-   "name": "猫群专用5",
-   "type": 1,
-   "url": "http://120.77.94.20/jx?url="
   }
  ],
  "sites": [
@@ -4478,52 +4207,27 @@
    "_origin": "feishu-sync",
    "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 21,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 44,
    "_level": null,
    "_source": null,
    "_type": "网盘"
   },
   {
-   "key": "盘库",
-   "name": "🐼盘库资源┃4K弹幕",
+   "key": "csp_biubiu_在线之家",
+   "name": "[默认]防尴尬源",
    "type": 3,
-   "api": "csp_PanWebKuBa",
-   "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;b752cad81649bf070c934c423c3a1b86",
+   "api": "csp_XBiubiu",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "url": "https://panku8.com,https://yipanso.com"
-   },
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 57,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "网盘 | 片库",
-   "name": "网盘 | 片库",
-   "type": 3,
-   "api": "csp_Qiwei",
-   "searchable": 1,
    "filterable": 0,
-   "switchable": 0,
-   "ext": {
-    "siteUrl": "https://www.qwnull.com",
-    "commonConfig": "./deps/sv/fongmi-z/z/json/peizhi.json"
-   },
-   "jar": "./deps/sv/fongmi-z/z/custom_spider.jar;md5;9f0f10fb162ccfa135349cfadaeb95c4",
+   "ext": "https://pan.css.lc/api/v3/file/get/131/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B60714.json?sign=oZLLkoVrc4nHPpNMMkmxPKdljvWYfIvm8-UeFsEGc0w%3D%3A0",
+   "jar": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/maodu.jar",
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 106,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 102,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -4553,8 +4257,8 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 136,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 153,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -4604,27 +4308,125 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 209,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 179,
    "_level": null,
    "_source": null,
    "_type": "网盘"
   },
   {
-   "key": "csp_biubiu_在线之家",
-   "name": "[默认]防尴尬源",
+   "key": "盘库",
+   "name": "🐼盘库资源┃4K弹幕",
    "type": 3,
-   "api": "csp_XBiubiu",
+   "api": "csp_PanWebKuBa",
+   "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;b752cad81649bf070c934c423c3a1b86",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 0,
-   "ext": "https://pan.css.lc/api/v3/file/get/131/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B60714.json?sign=oZLLkoVrc4nHPpNMMkmxPKdljvWYfIvm8-UeFsEGc0w%3D%3A0",
-   "jar": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/maodu.jar",
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "url": "https://panku8.com,https://yipanso.com"
+   },
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 222,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 188,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "网盘 | 片库",
+   "name": "网盘 | 片库",
+   "type": 3,
+   "api": "csp_Qiwei",
+   "searchable": 1,
+   "filterable": 0,
+   "switchable": 0,
+   "ext": {
+    "siteUrl": "https://www.qwnull.com",
+    "commonConfig": "./deps/sv/fongmi-z/z/json/peizhi.json"
+   },
+   "jar": "./deps/sv/fongmi-z/z/custom_spider.jar;md5;9f0f10fb162ccfa135349cfadaeb95c4",
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 203,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "alist",
+   "name": "🍰小鸭┃网盘",
+   "type": 3,
+   "playerType": "1",
+   "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+   "api": "csp_AList",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": {
+    "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
+    "drives": [
+     {
+      "name": "🦆托盘",
+      "server": "https://pan.mediy.cn/"
+     }
+    ]
+   },
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 208,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "迅雷吧",
+   "name": "迅雷吧 • 磁力",
+   "type": 3,
+   "api": "csp_Xunlei8",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://xunlei8.me",
+   "_origin": "qist/jsm",
+   "jar": "./deps/qist/jsm/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce",
+   "group": "网盘",
+   "_health": "healthy",
+   "_checked_at": "2026-09-19 21:48:08",
+   "_latency_ms": 22388,
+   "_level": "C3",
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "立播弹幕版",
+   "name": "🐰立播┃弹幕",
+   "type": 3,
+   "api": "csp_Libvio",
+   "searchable": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+    "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+    "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt",
+    "site": "https://libvio.link",
+    "danmu": true
+   },
+   "timeout": 25,
+   "jar": "./deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/spider.jar",
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 411,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -4664,55 +4466,8 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 230,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "迅雷吧",
-   "name": "迅雷吧 • 磁力",
-   "type": 3,
-   "api": "csp_Xunlei8",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "https://xunlei8.me",
-   "_origin": "qist/jsm",
-   "jar": "./deps/qist/jsm/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce",
-   "group": "网盘",
-   "_health": "healthy",
-   "_checked_at": "2026-09-19 21:48:08",
-   "_latency_ms": 22388,
-   "_level": "C3",
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "alist",
-   "name": "🍰小鸭┃网盘",
-   "type": 3,
-   "playerType": "1",
-   "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-   "api": "csp_AList",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": {
-    "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
-    "drives": [
-     {
-      "name": "🦆托盘",
-      "server": "https://pan.mediy.cn/"
-     }
-    ]
-   },
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 442,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 413,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -4733,105 +4488,57 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 468,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 553,
    "_level": null,
    "_source": null,
    "_type": "网盘"
   },
   {
-   "key": "立播弹幕版",
-   "name": "🐰立播┃弹幕",
+   "key": "趣盘-2",
+   "name": "🥳百度趣盘┃4K弹幕",
    "type": 3,
-   "api": "csp_Libvio",
+   "api": "csp_PanWebQu",
+   "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;b752cad81649bf070c934c423c3a1b86",
    "searchable": 1,
+   "quickSearch": 1,
    "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-    "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
-    "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt",
-    "site": "https://libvio.link",
-    "danmu": true
+   "style": {
+    "type": "list",
+    "ratio": 1.433
    },
-   "timeout": 25,
-   "jar": "./deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/spider.jar",
+   "ext": {
+    "url": "https://www.qupanshe.com"
+   },
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 520,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 569,
    "_level": null,
    "_source": null,
    "_type": "网盘"
   },
   {
-   "key": "csp_GuanYing",
-   "name": "😂观影┃[网盘]",
+   "key": "csp_PingLian",
+   "name": "😃盘链┃[网盘]",
    "type": 3,
-   "api": "csp_GuanYing",
+   "api": "csp_PingLian",
    "searchable": 1,
    "changeable": 1,
    "timeout": 60,
    "ext": {
     "cookie": "",
-    "filters": "./ext/guanying.json",
-    "sites": "https://www.xn--wcv59z.com/",
+    "filters": "./ext/pinglian.json",
+    "sites": "https://pinglian.lol",
     "proxy": "noproxy"
    },
    "group": "网盘",
    "_origin": "feishu-sync",
    "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 526,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "观影",
-   "name": "网盘 | 观影",
-   "type": 3,
-   "api": "csp_GuanYing",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "commonConfig": "./deps/sv/fongmi-z/z/json/peizhi.json",
-    "siteUrl": "https://www.xn--wcv59z.com//",
-    "username": "",
-    "password": "",
-    "cookie": ""
-   },
-   "jar": "./deps/sv/fongmi-z/z/custom_spider.jar;md5;9f0f10fb162ccfa135349cfadaeb95c4",
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 638,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "小雷",
-   "name": "网盘 | 小雷",
-   "type": 3,
-   "api": "csp_PanTa",
-   "searchable": 1,
-   "filterable": 0,
-   "switchable": 0,
-   "ext": {
-    "siteUrl": "https://www.leijing1.com/",
-    "cookie": "JSESSIONID=B24E6992236274BD6A636FE8EAA2FDA; cms_token=25968d70e1c64c3fa475c5bb15946443; cms_accessToken=8c67340ebecb46b88f9c85492bfe1cf1; cms_refreshToken=0af0ab743ae243be99b29c2af5b449a",
-    "commonConfig": "./deps/sv/fongmi-z/z/json/peizhi.json"
-   },
-   "jar": "./deps/sv/fongmi-z/z/custom_spider.jar;md5;9f0f10fb162ccfa135349cfadaeb95c4",
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 680,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 599,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -4857,56 +4564,8 @@
    "_origin": "feishu-sync",
    "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 751,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "csp_PingLian",
-   "name": "😃盘链┃[网盘]",
-   "type": 3,
-   "api": "csp_PingLian",
-   "searchable": 1,
-   "changeable": 1,
-   "timeout": 60,
-   "ext": {
-    "cookie": "",
-    "filters": "./ext/pinglian.json",
-    "sites": "https://pinglian.lol",
-    "proxy": "noproxy"
-   },
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 924,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "木偶网盘",
-   "name": "💿木偶🔹盘4k",
-   "type": 3,
-   "api": "csp_Wobg",
-   "jar": "./deps/xingwei/kstore/twvip/jarR/raw/master/ox.jar",
-   "searchable": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "timeout": 60,
-   "ext": {
-    "sites": "https://www.muou.site",
-    "filters": "./deps/xingwei/kstore/xw/js/wogg.json",
-    "proxy": "noproxy"
-   },
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 934,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 686,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -4929,33 +4588,55 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 941,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 782,
    "_level": null,
    "_source": null,
    "_type": "网盘"
   },
   {
-   "key": "趣盘-2",
-   "name": "🥳百度趣盘┃4K弹幕",
+   "key": "小雷",
+   "name": "网盘 | 小雷",
    "type": 3,
-   "api": "csp_PanWebQu",
-   "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;b752cad81649bf070c934c423c3a1b86",
+   "api": "csp_PanTa",
    "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
+   "filterable": 0,
+   "switchable": 0,
    "ext": {
-    "url": "https://www.qupanshe.com"
+    "siteUrl": "https://www.leijing1.com/",
+    "cookie": "JSESSIONID=B24E6992236274BD6A636FE8EAA2FDA; cms_token=25968d70e1c64c3fa475c5bb15946443; cms_accessToken=8c67340ebecb46b88f9c85492bfe1cf1; cms_refreshToken=0af0ab743ae243be99b29c2af5b449a",
+    "commonConfig": "./deps/sv/fongmi-z/z/json/peizhi.json"
+   },
+   "jar": "./deps/sv/fongmi-z/z/custom_spider.jar;md5;9f0f10fb162ccfa135349cfadaeb95c4",
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 865,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "木偶网盘",
+   "name": "💿木偶🔹盘4k",
+   "type": 3,
+   "api": "csp_Wobg",
+   "jar": "./deps/xingwei/kstore/twvip/jarR/raw/master/ox.jar",
+   "searchable": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "timeout": 60,
+   "ext": {
+    "sites": "https://www.muou.site",
+    "filters": "./deps/xingwei/kstore/xw/js/wogg.json",
+    "proxy": "noproxy"
    },
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 1140,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 896,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -4977,80 +4658,56 @@
    "_origin": "feishu-sync",
    "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 1690,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 1355,
    "_level": null,
    "_source": null,
    "_type": "网盘"
   },
   {
-   "key": "py_gitcafe",
-   "name": " 🐦小纸条",
+   "key": "观影",
+   "name": "网盘 | 观影",
    "type": 3,
-   "api": "py_gitcafe",
+   "api": "csp_GuanYing",
    "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "https://gh.halonice.com/https://github.com/heroaku/TVboxo/raw/main/Py/py_gitcafe.py",
+   "changeable": 0,
+   "ext": {
+    "commonConfig": "./deps/sv/fongmi-z/z/json/peizhi.json",
+    "siteUrl": "https://www.xn--wcv59z.com//",
+    "username": "",
+    "password": "",
+    "cookie": ""
+   },
+   "jar": "./deps/sv/fongmi-z/z/custom_spider.jar;md5;9f0f10fb162ccfa135349cfadaeb95c4",
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 1951,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 2323,
    "_level": null,
    "_source": null,
    "_type": "网盘"
   },
   {
-   "key": "py_yiso",
-   "name": " 🐦易搜",
+   "key": "csp_GuanYing",
+   "name": "😂观影┃[网盘]",
    "type": 3,
-   "api": "py_yiso",
+   "api": "csp_GuanYing",
    "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "https://gh.halonice.com/https://github.com/heroaku/TVboxo/raw/main/Py/py_yiso.py",
+   "changeable": 1,
+   "timeout": 60,
+   "ext": {
+    "cookie": "",
+    "filters": "./ext/guanying.json",
+    "sites": "https://www.xn--wcv59z.com/",
+    "proxy": "noproxy"
+   },
    "group": "网盘",
    "_origin": "feishu-sync",
+   "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 2272,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "py_alist",
-   "name": " 🐦Alist",
-   "type": 3,
-   "api": "py_alist",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "https://gh.halonice.com/https://github.com/heroaku/TVboxo/raw/main/Py/py_alist.py",
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 2278,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "py_pansou",
-   "name": " 🐦盘搜",
-   "type": 3,
-   "api": "py_pansou",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "https://gh.halonice.com/https://github.com/heroaku/TVboxo/raw/main/Py/py_pansou.py",
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 2341,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 2688,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5067,8 +4724,80 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 2536,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 4669,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "py_yiso",
+   "name": " 🐦易搜",
+   "type": 3,
+   "api": "py_yiso",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://gh.halonice.com/https://github.com/heroaku/TVboxo/raw/main/Py/py_yiso.py",
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 5235,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "py_alist",
+   "name": " 🐦Alist",
+   "type": 3,
+   "api": "py_alist",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh.halonice.com/https://github.com/heroaku/TVboxo/raw/main/Py/py_alist.py",
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 5848,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "py_pansou",
+   "name": " 🐦盘搜",
+   "type": 3,
+   "api": "py_pansou",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://gh.halonice.com/https://github.com/heroaku/TVboxo/raw/main/Py/py_pansou.py",
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 6013,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "py_gitcafe",
+   "name": " 🐦小纸条",
+   "type": 3,
+   "api": "py_gitcafe",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://gh.halonice.com/https://github.com/heroaku/TVboxo/raw/main/Py/py_gitcafe.py",
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 6923,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5307,8 +5036,8 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-07 23:48:46",
-   "_latency_ms": 308,
+   "_checked_at": "2026-10-08 23:53:25",
+   "_latency_ms": 161,
    "_level": "D4",
    "_source": null,
    "_type": "网盘"
@@ -5326,29 +5055,8 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 24,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "baipao",
-   "name": "💖分享白嫖",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "ext": {
-    "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-    "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-    "副标题": "分享者在线+class=\"pic-text text-right\"&&</span>",
-    "简介": "💕一个分享者💕+剧情介绍：&&</p >"
-   },
-   "jar": "./deps/sv/fenxiangzhe/download/4127/Jar/分享者0.zip;md5;f2f74d72c025a19ba4ade4d148d6d419",
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 29,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 34,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5368,28 +5076,8 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 105,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "美剧迷",
-   "name": "弹幕 | 美剧迷[jar]",
-   "type": 3,
-   "api": "csp_Meijumi",
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 1,
-   "timeout": 30,
-   "ext": "./lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1",
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 235,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 35,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5413,8 +5101,29 @@
    "_origin": "feishu-sync",
    "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 320,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 62,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "baipao",
+   "name": "💖分享白嫖",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": {
+    "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+    "副标题": "分享者在线+class=\"pic-text text-right\"&&</span>",
+    "简介": "💕一个分享者💕+剧情介绍：&&</p >"
+   },
+   "jar": "./deps/sv/fenxiangzhe/download/4127/Jar/分享者0.zip;md5;f2f74d72c025a19ba4ade4d148d6d419",
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 84,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5447,28 +5156,28 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 336,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 275,
    "_level": null,
    "_source": null,
    "_type": "网盘"
   },
   {
-   "key": "盼盼",
-   "name": "海棉|盘搜",
+   "key": "美剧迷",
+   "name": "弹幕 | 美剧迷[jar]",
    "type": 3,
-   "playerType": 2,
-   "api": "csp_HBhaiM",
-   "ext": {
-    "hmianck": "",
-    "site": "https://www.haimianxz.com"
-   },
+   "api": "csp_Meijumi",
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "timeout": 30,
+   "ext": "./lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1",
    "group": "网盘",
    "_origin": "feishu-sync",
    "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 1130,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 281,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5483,8 +5192,8 @@
    "_origin": "feishu-sync",
    "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 1286,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 857,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5507,8 +5216,28 @@
    "_origin": "feishu-sync",
    "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 1411,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 903,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "盼盼",
+   "name": "海棉|盘搜",
+   "type": 3,
+   "playerType": 2,
+   "api": "csp_HBhaiM",
+   "ext": {
+    "hmianck": "",
+    "site": "https://www.haimianxz.com"
+   },
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 903,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5534,8 +5263,8 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 1635,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 1595,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5578,8 +5307,33 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 119,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 243,
+   "_level": null,
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "myquark",
+   "name": "❤️｜我的┃夸氪",
+   "type": 3,
+   "api": "csp_MyQuark",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "filterable": 0,
+   "indexs": 0,
+   "style": {
+    "type": "list"
+   },
+   "timeout": 30,
+   "ext": "https://v6.gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/config/myquark.json",
+   "jar": "./deps/dongli/chigua/https:/raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;b6c28db3ed75438481f2fbae81a58428",
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "_health": "degraded",
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 257,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5638,33 +5392,8 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 394,
-   "_level": null,
-   "_source": null,
-   "_type": "网盘"
-  },
-  {
-   "key": "myquark",
-   "name": "❤️｜我的┃夸氪",
-   "type": 3,
-   "api": "csp_MyQuark",
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0,
-   "filterable": 0,
-   "indexs": 0,
-   "style": {
-    "type": "list"
-   },
-   "timeout": 30,
-   "ext": "https://v6.gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/config/myquark.json",
-   "jar": "./deps/dongli/chigua/https:/raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;b6c28db3ed75438481f2fbae81a58428",
-   "group": "网盘",
-   "_origin": "feishu-sync",
-   "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 455,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 424,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -5716,8 +5445,8 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "degraded",
-   "_checked_at": "2026-10-07 23:36:11",
-   "_latency_ms": 2063,
+   "_checked_at": "2026-10-08 23:46:47",
+   "_latency_ms": 1622,
    "_level": null,
    "_source": null,
    "_type": "网盘"
@@ -6015,6 +5744,24 @@
    "_health": "degraded",
    "_checked_at": "2026-09-19 21:48:08",
    "_latency_ms": 71,
+   "_level": "C1",
+   "_source": null,
+   "_type": "网盘"
+  },
+  {
+   "key": "csp_Xunlei8",
+   "name": "🧲迅雷吧",
+   "type": 3,
+   "api": "csp_Xunlei8",
+   "searchable": 0,
+   "quickSearch": 1,
+   "filterable": 1,
+   "group": "网盘",
+   "_origin": "feishu-sync",
+   "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+   "_health": "degraded",
+   "_checked_at": "2026-09-19 21:48:08",
+   "_latency_ms": 40119,
    "_level": "C1",
    "_source": null,
    "_type": "网盘"

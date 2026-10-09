@@ -1,5 +1,5 @@
 {
- "spider": "https://git.820828.xyz/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
+ "spider": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/lwlxh/tvhome/raw/master/o.jar;md5;38599acd689d216c53f0b62fe4cca17b",
  "wallpaper": "https://t.alcy.cc/ys",
  "parses": [
   {
@@ -768,11 +768,6 @@
    "url": "https://play.dadiapi.com/watch?url="
   },
   {
-   "name": "m3u8-ttbfp1",
-   "type": 0,
-   "url": "https://jiexi.ttbfp1.com/m3u8/?url="
-  },
-  {
    "name": "m3u8-zykbf",
    "type": 0,
    "url": "https://vip.zykbf.com/?url="
@@ -834,11 +829,6 @@
    "header": {
     "User-Agent": "Mozilla/5.0"
    }
-  },
-  {
-   "name": "解析1.6",
-   "type": 1,
-   "url": "https://jx.300ys.xyz/json/m3u8.php/?url="
   },
   {
    "name": "☑快速直解",
@@ -1379,11 +1369,6 @@
    "url": "https://huayong.net/999/?v="
   },
   {
-   "name": "freejson",
-   "type": 0,
-   "url": "https://h5.freejson.xyz/player/?url="
-  },
-  {
    "name": "789",
    "type": 0,
    "url": "https://m.789bh.com/?url=",
@@ -1419,285 +1404,51 @@
    "url": "http://154.44.26.196/player/qu.php?v="
   },
   {
-   "name": "思古3",
+   "name": "GGTV自用",
+   "type": 1,
+   "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai666&url="
+  },
+  {
+   "name": "解析23",
    "type": 0,
-   "url": "https://jsap.attakids.com/?url="
+   "url": "https://www.pangujiexi.cc/jiexi.php?url="
   },
   {
-   "name": "Jsonaiaine",
-   "type": 1,
-   "url": "http://www.aiaine.com/api/?key=zJQvr5baYHz7vpNSy9&url="
-  },
-  {
-   "name": "综合线路解析",
-   "type": 1,
-   "url": "https://laisoyiba.com/mov/s/?sv=3&url="
-  },
-  {
-   "name": "百域",
-   "type": 1,
-   "url": "https://jx.618g.com/?url="
-  },
-  {
-   "name": "大幕",
-   "type": 1,
-   "url": "https://jx.52damu.com/dmjx/jiexi.php?url="
-  },
-  {
-   "name": "维多",
-   "type": 1,
-   "url": "https://jx.ivito.cn/?url="
-  },
-  {
-   "name": "LE",
-   "type": 1,
-   "url": "https://lecurl.cn/?url="
-  },
-  {
-   "name": "ccyjjd",
-   "type": 1,
-   "url": "https://ckmov.ccyjjd.com/ckmov/?url="
-  },
-  {
-   "name": "诺诺",
-   "type": 1,
-   "url": "https://www.ckmov.com/?url="
-  },
-  {
-   "name": "MUTV",
-   "type": 1,
-   "url": "https://jiexi.janan.net/jiexi/?url="
-  },
-  {
-   "name": "MAO",
-   "type": 1,
-   "url": "https://www.mtosz.com/m3u8.php?url="
-  },
-  {
-   "name": "小蒋",
-   "type": 1,
-   "url": "https://www.kpezp.cn/jlexi.php?url="
-  },
-  {
-   "name": "YiTV",
-   "type": 1,
-   "url": "https://jiexi.us/?url="
-  },
-  {
-   "name": "星空",
-   "type": 1,
-   "url": "http://60jx.com/?url="
-  },
-  {
-   "name": "江湖",
-   "type": 1,
-   "url": "https://api.jhdyw.vip/?url="
-  },
-  {
-   "name": "黑米",
-   "type": 1,
-   "url": "https://www.myxin.top/jx/api/?url="
-  },
-  {
-   "name": "凉城",
-   "type": 1,
-   "url": "https://jx.mw0.cc/?url="
-  },
-  {
-   "name": "无名",
-   "type": 1,
-   "url": "https://www.administratorw.com/video.php?url="
-  },
-  {
-   "name": "解10",
-   "type": 1,
-   "url": "https://jf.96ym.cn/api/?key=4tuNi0EjxTYFzJIN5r&url="
-  },
-  {
-   "name": "解15",
-   "type": 1,
-   "url": "https://jx.7kjx.com/?url="
-  },
-  {
-   "name": "解23",
-   "type": 1,
-   "url": "https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="
-  },
-  {
-   "name": "解24",
-   "type": 1,
-   "url": "https://sbsb.i8k.cc/?url="
-  },
-  {
-   "name": "解25",
-   "type": 1,
-   "url": "http://gq.bywdtk.cn/?url="
-  },
-  {
-   "name": "解38",
-   "type": 1,
-   "url": "https://jx.zhanlangbu.com/json.php/?url="
-  },
-  {
-   "name": "解46",
-   "type": 1,
-   "url": "https://player.leyuzy.net/?url="
-  },
-  {
-   "name": "解51",
-   "type": 1,
-   "url": "http://www.ikukk.com/?url="
-  },
-  {
-   "name": "解54",
-   "type": 1,
-   "url": "http://api.diliktv.xyz/vip/jx.php?url="
-  },
-  {
-   "name": "解57",
-   "type": 1,
-   "url": "https://www.xymav.com/?url="
-  },
-  {
-   "name": "解58",
-   "type": 1,
-   "url": "https://9kjx.com/?url="
-  },
-  {
-   "name": "解61",
-   "type": 1,
-   "url": "https://api.iztyy.com/jiexi/?url="
-  },
-  {
-   "name": "解62",
-   "type": 1,
-   "url": "https://www.91jxs.com/jiexi/?url="
-  },
-  {
-   "name": "解63",
-   "type": 1,
-   "url": "http://vip.26db.cn/c/?url="
-  },
-  {
-   "name": "解64",
-   "type": 1,
-   "url": "http://vip.26db.cn/f/?url="
-  },
-  {
-   "name": "解65",
-   "type": 1,
-   "url": "http://vip.26db.cn/a/?url="
-  },
-  {
-   "name": "解67",
-   "type": 1,
-   "url": "http://jx.xdiaosi.com/?url="
-  },
-  {
-   "name": "解75",
-   "type": 1,
-   "url": "https://json.legendwhb.cn/json.php/?url="
-  },
-  {
-   "name": "解85",
-   "type": 1,
-   "url": "https://www.1717yun.com/api/?url="
-  },
-  {
-   "name": "解89",
-   "type": 1,
-   "url": "https://api.qianqi.net/vip/?url="
-  },
-  {
-   "name": "解95",
-   "type": 1,
-   "url": "https://660e.com/?url="
-  },
-  {
-   "name": "解102",
-   "type": 1,
-   "url": "https://jx.renrenmi.cc/?url="
-  },
-  {
-   "name": "播放呀",
-   "type": 1,
-   "url": "https://jx.vk95.com/xx/?url="
-  },
-  {
-   "name": "aiaine02",
+   "name": "网络搜集03",
    "type": 1,
    "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
    "ext": {
     "flag": [
-     "ltnb",
-     "renrenmi",
-     "xfyun",
-     "miaoparty",
-     "miaoparty2",
-     "miaoparty3",
-     "longteng",
-     "xueren"
+     "Itnb",
+     "wuduzy"
     ]
    }
-  },
-  {
-   "name": "semao",
-   "type": 1,
-   "url": "https://jiexi.99mao.xyz/m3u8/?url="
-  },
-  {
-   "name": "豆瓣",
-   "type": 1,
-   "url": "https://douban.armytea.com/json.php?url="
-  },
-  {
-   "name": "冰哲",
-   "type": 1,
-   "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url="
-  },
-  {
-   "name": "ovvo",
-   "type": 0,
-   "url": "https://json.ovvo.pro/jx.php?url="
-  },
-  {
-   "name": "猫群专用5",
-   "type": 1,
-   "url": "http://120.77.94.20/jx?url="
   }
  ],
  "sites": [
   {
-   "key": "白嫖",
-   "name": "白嫖 | 采集",
+   "key": "小湿妹",
+   "name": "湿妹 | 采集",
    "type": 0,
-   "api": "https://www.kxgav.com/api/xml.php",
+   "api": "http://www.afasu.com/api/xml.php",
    "searchable": 0,
    "quickSearch": 1,
-   "filterable": 1,
    "ext": "proxy",
    "group": "直连点播",
    "_origin": "feishu-sync"
   },
   {
-   "key": "*白嫖资源",
-   "name": "*白嫖资源",
-   "type": 0,
-   "api": "https://www.kxgav.com/api/xml.php",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*美少女资源",
-   "name": "*美少女资源",
-   "type": 0,
-   "api": "https://www.msnii.com/api/xml.php",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
+   "key": "小乐",
+   "name": "小乐｜星源",
+   "type": 1,
+   "api": "https://xy.183933.xyz/php/ls.php/vod",
+   "playUrl": "http://8.155.50.80/xiayexk.php?url=",
+   "changeable": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "group": "直连点播",
+   "_origin": "feishu-sync"
   },
   {
    "key": "香奶儿资源站",
@@ -1711,47 +1462,16 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "*香奶儿资源",
-   "name": "*香奶儿资源",
+   "key": "白嫖",
+   "name": "白嫖 | 采集",
    "type": 0,
-   "api": "https://www.gdlsp.com/api/xml.php",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "★香乃儿资源",
-   "name": "★香乃儿资源",
-   "type": 1,
-   "api": "https://www.gdlsp.com/api/json.php",
-   "playUrl": "",
-   "categories": [],
-   "quickSearch": 0,
-   "_origin": "auto/21-194s",
-   "group": "直连点播"
-  },
-  {
-   "key": "小湿妹",
-   "name": "湿妹 | 采集",
-   "type": 0,
-   "api": "http://www.afasu.com/api/xml.php",
+   "api": "https://www.kxgav.com/api/xml.php",
    "searchable": 0,
    "quickSearch": 1,
+   "filterable": 1,
    "ext": "proxy",
    "group": "直连点播",
    "_origin": "feishu-sync"
-  },
-  {
-   "key": "★白嫖资源",
-   "name": "★白嫖资源",
-   "type": 1,
-   "api": "https://www.kxgav.com/api/json.php",
-   "playUrl": "",
-   "categories": [],
-   "quickSearch": 0,
-   "_origin": "auto/21-194s",
-   "group": "直连点播"
   },
   {
    "key": "CNTV低分辨",
@@ -1763,30 +1483,6 @@
     "ratio": 1.33
    },
    "changeable": 1,
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "★美少女资源",
-   "name": "★美少女资源",
-   "type": 1,
-   "api": "https://www.msnii.com/api/json.php",
-   "playUrl": "",
-   "categories": [],
-   "quickSearch": 0,
-   "_origin": "auto/21-194s",
-   "group": "直连点播"
-  },
-  {
-   "key": "小乐",
-   "name": "小乐｜星源",
-   "type": 1,
-   "api": "https://xy.183933.xyz/php/ls.php/vod",
-   "playUrl": "http://8.155.50.80/xiayexk.php?url=",
-   "changeable": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
    "group": "直连点播",
    "_origin": "feishu-sync"
   },
@@ -1804,54 +1500,38 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "请勿贩卖📚在线_采集集合",
-   "name": "请勿贩卖📚在线·采集集合",
-   "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "group": "直连点播",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "99zywcj",
-   "name": "玖玖",
+   "key": "乐鱼",
+   "name": "乐鱼",
    "type": 0,
-   "api": "http://99zywcj.com/inc/sck.php?ac=videolist",
+   "api": "https://www.leyuzyapi.com/inc/zyapimac.php",
+   "playUrl": "https://player.leyuzy.net/?url=",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1,
-   "_origin": "auto/3-257s",
+   "filterable": 0,
+   "_origin": "auto/3-58s",
    "group": "直连点播"
   },
   {
-   "id": "82",
-   "key": "利来资源",
-   "name": "利来资源",
-   "api": "http://llzxcj.com/inc/sck.php",
-   "playUrl": "",
-   "search": 1,
-   "group": "直连点播",
+   "key": "小姐1",
+   "name": "小姐姐",
    "type": 0,
-   "ext": "",
-   "categories": "",
-   "isActive": true,
-   "_origin": "auto/36-144s"
+   "api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml/m3u8",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "_origin": "auto/3-58s",
+   "group": "直连点播"
   },
   {
-   "id": "81",
-   "key": "富二代资源",
-   "name": "富二代资源",
-   "api": "http://f2dcj6.com/sapi",
-   "playUrl": "",
-   "search": 1,
-   "group": "直连点播",
+   "key": "青青草",
+   "name": "青青草",
    "type": 0,
-   "ext": "",
-   "categories": "",
-   "isActive": true,
-   "_origin": "auto/36-144s"
+   "api": "https://www.caiji05.com/home/cjapi/cfda/mc/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "_origin": "auto/3-58s",
+   "group": "直连点播"
   },
   {
    "key": "2-3",
@@ -1860,151 +1540,7 @@
    "api": "./ext/t4.json",
    "group": "直连点播",
    "_origin": "feishu-sync",
-   "jar": "https://git.820828.xyz/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
-  },
-  {
-   "key": "*010爱资源",
-   "name": "*010爱资源",
-   "type": 0,
-   "api": "http://www.010aizy.com/API/macs.php",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*52AVAV",
-   "name": "*52AVAV",
-   "type": 0,
-   "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*久久热在线",
-   "name": "*久久热在线",
-   "type": 0,
-   "api": "https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*夜夜撸资源",
-   "name": "*夜夜撸资源",
-   "type": 0,
-   "api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*天噜啦资源",
-   "name": "*天噜啦资源",
-   "type": 0,
-   "api": "http://www.987caiji.com/api/max.php",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*富二代资源",
-   "name": "*富二代资源",
-   "type": 0,
-   "api": "http://f2dcj6.com/sapi?ac=videolist",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*小姐姐资源",
-   "name": "*小姐姐资源",
-   "type": 0,
-   "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*日本AV在线",
-   "name": "*日本AV在线",
-   "type": 0,
-   "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*青青草视频",
-   "name": "*青青草视频",
-   "type": 0,
-   "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "*鲍鱼AV",
-   "name": "*鲍鱼AV",
-   "type": 0,
-   "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "dr_banan",
-   "name": "banan(道长)",
-   "type": 1,
-   "api": "http://www.fenwe.tk:5700/vod?rule=banan&ext=txt/js/18/banan.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "dr_养端",
-   "name": "养端(道长)",
-   "type": 1,
-   "api": "http://www.fenwe.tk:5700/vod?rule=养端&ext=txt/js/18/养端.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "dr_吸瓜",
-   "name": "吸瓜(道长)",
-   "type": 1,
-   "api": "http://www.fenwe.tk:5700/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
-  },
-  {
-   "key": "dr_玩偶姐姐",
-   "name": "玩偶姐姐(道长)",
-   "type": 1,
-   "api": "http://www.fenwe.tk:5700/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "_origin": "auto/3-257s",
-   "group": "直连点播"
+   "jar": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/hebijunge/tvbox-config/main/deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
   }
  ]
 }

@@ -1,34 +1,42 @@
 # 每日健康日报（人读版）
 
-生成时间：2026-10-09T23:54:34
+生成时间：2026-10-10T23:02:55
 
 ## 总览
 
 | 类别 | 总量 | healthy | degraded | unknown | dead |
 |---|---|---|---|---|---|
-| 点播 | 3608 | 124 | 631 | 1021 | 1832 |
-| 直播 | 338 | 0 | 0 | 338 | 0 |
+| 点播 | 4336 | 124 | 628 | 1768 | 1816 |
+| 直播 | 370 | 0 | 0 | 370 | 0 |
 
-较上轮变化：新增 144｜掉线 2｜恢复 1｜移除 226（点播）；新增 8｜掉线 0｜恢复 0｜移除 2（直播）
+较上轮变化：新增 913｜掉线 6｜恢复 5｜移除 185（点播）；新增 40｜掉线 0｜恢复 0｜移除 8（直播）
 
 ## 点播掉线（前 10）
 
-- 🌺永乐 • FS（degraded → dead）
--  🐦快看（degraded → dead）
+- 大猫（degraded → dead）
+- 💖分享魅影（degraded → dead）
+- 弹幕 | 美剧迷[jar]（degraded → dead）
+-  🐦JRS直播（degraded → dead）
+-  🐦py测试（degraded → dead）
+- 🔥虎牙（degraded → dead）
 
 ## 点播恢复（前 10）
 
-- 大猫（dead → degraded）
+- 43-HG（dead → degraded）
+- 影视 • 奇迹[直连]（dead → healthy）
+- 萌蛋（dead → degraded）
+- 💖喵喵动漫（dead → degraded）
+-  🐦快看（dead → degraded）
 
 ## 点播新增（前 10）
 
-- 8-非凡（unknown）
-- 非凡2（unknown）
-- 🥗┃非凡┃资源（unknown）
-- 🍀海豚资源（unknown）
-- 影视 • 索尼[直连]（unknown）
-- 🍀光速HTTP（unknown）
-- 最大资源（unknown）
-- 🎀极速┃采集（unknown）
-- 影视 • 极速[直连]（unknown）
-- 💕jkun(直连)（unknown）
+- 快播（unknown）
+- 酷豆（unknown）
+- 💥龙马💥（unknown）
+- 索尼资源（unknown）
+- 影视 • 天涯（unknown）
+- [137ms|zy] 🍊色逼（unknown）
+- 天涯资源（unknown）
+- 魔都资源（unknown）
+- 滴滴资源【密】（unknown）
+- [137ms|zy] 🍊滴滴（unknown）

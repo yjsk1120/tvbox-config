@@ -1,14 +1,19 @@
 {
- "generated_at": "2026-10-09T23:54:33",
- "deps_files": 8427,
- "deps_bytes": 820157571,
- "duplicate_groups": 1020,
- "duplicate_savable_bytes": 469071445,
- "unreferenced_count": 7405,
- "unreferenced_bytes": 662703552,
+ "generated_at": "2026-10-10T23:02:54",
+ "deps_files": 8792,
+ "deps_bytes": 837381659,
+ "duplicate_groups": 1049,
+ "duplicate_savable_bytes": 477585152,
+ "unreferenced_count": 7486,
+ "unreferenced_bytes": 667889676,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
+   "suffix": ".txt",
+   "content": "jar"
+  },
+  {
+   "path": "deps/auto/25-111s/jar/fan.txt",
    "suffix": ".txt",
    "content": "jar"
   },
@@ -63,6 +68,11 @@
    "content": "jar"
   },
   {
+   "path": "deps/auto/23-65s/jar/fan.txt",
+   "suffix": ".txt",
+   "content": "jar"
+  },
+  {
    "path": "deps/xiaokai/kai/jyqhkd/kd/-/raw/main/fan.txt",
    "suffix": ".txt",
    "content": "jar"
@@ -93,11 +103,21 @@
    "content": "jar"
   }
  ],
- "jar_suffix_mismatch_count": 17,
+ "jar_suffix_mismatch_count": 19,
  "jar_suffix_rewrite_suggestions": [
   {
    "from": "deps/nxppru/0821/jar/fan.txt",
    "to": "deps/nxppru/0821/jar/fan.jar",
+   "referenced": true
+  },
+  {
+   "from": "deps/auto/25-111s/jar/fan.txt",
+   "to": "deps/auto/25-111s/jar/fan.jar",
+   "referenced": true
+  },
+  {
+   "from": "deps/auto/23-65s/jar/fan.txt",
+   "to": "deps/auto/23-65s/jar/fan.jar",
    "referenced": true
   },
   {
@@ -174,6 +194,7 @@
    "md5": "8e07d6562757e509146739edb84abc9e",
    "files": [
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0821/js/广播迷FM.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/2-678s/https:/raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/广播迷FM.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/js/广播迷FM.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/qist/tvbox/master/js/广播迷FM.js"
    ]
@@ -250,6 +271,7 @@
    "files": [
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0821/js/评书随身听.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/8-488s/https:/raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/评书随身听[听].js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/2-678s/https:/raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/评书随身听.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/js/评书随身听.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/qist/js/qist/tvbox/master/js/评书随身听.js"
    ]
@@ -286,6 +308,7 @@
     "/home/runner/work/tvbox-config/tvbox-config/deps/nxppru/0825/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/16-82s/js/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/11-298s/lib/drpy-core-lite.min.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/2-678s/https:/raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/10-235s/lib/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/24-3s/js/drpy-core-lite.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/js/drpy-core-lite.min.js",
@@ -311,6 +334,8 @@
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/16-82s/js/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/11-298s/lib/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/29-89s/vox/ext/drpy2.min.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/2-678s/https:/raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/drpy2.min_2.js",
+    "/home/runner/work/tvbox-config/tvbox-config/deps/auto/2-678s/https:/raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/10-235s/lib/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/auto/24-3s/js/drpy2.min.js",
     "/home/runner/work/tvbox-config/tvbox-config/deps/feishu-sync/js/drpy2.min.js",
@@ -405,6 +430,10 @@
    "bytes": 4104670
   },
   {
+   "path": "deps/manifest.json",
+   "bytes": 3949058
+  },
+  {
    "path": "deps/auto/20-69s/pg.jar",
    "bytes": 3814000
   },
@@ -423,10 +452,6 @@
   {
    "path": "deps/auto/12-83s/PG/pg.jar",
    "bytes": 3788519
-  },
-  {
-   "path": "deps/manifest.json",
-   "bytes": 3782840
   },
   {
    "path": "deps/auto/4-42s/pg.jar",

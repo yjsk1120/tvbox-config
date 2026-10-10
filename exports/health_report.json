@@ -1,232 +1,315 @@
 {
- "generated_at": "2026-10-09T23:54:34",
+ "generated_at": "2026-10-10T23:02:55",
  "is_baseline": false,
  "vod": {
-  "total": 3608,
+  "total": 4336,
   "summary": {
    "healthy": 124,
-   "degraded": 631,
-   "unknown": 1021,
-   "dead": 1832
+   "degraded": 628,
+   "unknown": 1768,
+   "dead": 1816
   },
   "new": [
    {
-    "key": "4d6422f0a2bc81fc9606ecc2d97208eb",
-    "name": "8-非凡",
+    "key": "快播",
+    "name": "快播",
     "health": "unknown"
    },
    {
-    "key": "ffzy.tv",
-    "name": "非凡2",
+    "key": "kd",
+    "name": "酷豆",
     "health": "unknown"
    },
    {
-    "key": "csp_非凡资源",
-    "name": "🥗┃非凡┃资源",
+    "key": "qc555",
+    "name": "💥龙马💥",
     "health": "unknown"
    },
    {
-    "key": "haihua",
-    "name": "🍀海豚资源",
+    "key": "suoni",
+    "name": "索尼资源",
     "health": "unknown"
    },
    {
-    "key": "索尼",
-    "name": "影视 • 索尼[直连]",
+    "key": "天涯采集",
+    "name": "影视 • 天涯",
     "health": "unknown"
    },
    {
-    "key": "guangsu2",
-    "name": "🍀光速HTTP",
+    "key": "色逼",
+    "name": "[137ms|zy] 🍊色逼",
     "health": "unknown"
    },
    {
-    "key": "zuid",
-    "name": "最大资源",
+    "key": "tyyszy",
+    "name": "天涯资源",
     "health": "unknown"
    },
    {
-    "key": "a极速资源",
-    "name": "🎀极速┃采集",
+    "key": "mdzy",
+    "name": "魔都资源",
     "health": "unknown"
    },
    {
-    "key": "极速资源",
-    "name": "影视 • 极速[直连]",
+    "key": "滴滴资源",
+    "name": "滴滴资源【密】",
     "health": "unknown"
    },
    {
-    "key": "jkunzy.com",
-    "name": "💕jkun(直连)",
+    "key": "滴滴-2",
+    "name": "[137ms|zy] 🍊滴滴",
     "health": "unknown"
    },
    {
-    "key": "U酷影视",
-    "name": "[590ms|5] U酷影视",
+    "key": "huosuapi",
+    "name": "💞火速资源💞",
     "health": "unknown"
    },
    {
-    "key": "heimuer",
-    "name": "虎牙",
+    "key": "辣椒",
+    "name": "辣椒 | 采集",
     "health": "unknown"
    },
    {
-    "key": "dyttzy",
-    "name": "电影天堂",
+    "key": "155资源站",
+    "name": "155 | 采集",
     "health": "unknown"
    },
    {
-    "key": "量子-2",
-    "name": "♻️量子",
+    "key": "牛牛资源",
+    "name": "[322ms|我的] 牛牛资源",
     "health": "unknown"
    },
    {
-    "key": "ikunzy-2",
-    "name": "影视 🔰 ikun[直连]",
+    "key": "鸭鸭资源",
+    "name": "[322ms|我的] 鸭鸭资源",
     "health": "unknown"
    }
   ],
   "gone": [
    {
-    "key": "辣椒",
-    "name": "辣椒 | 采集"
+    "key": "77791ef659e8282af587e24e7b0c18a5",
+    "name": "33-墨斗"
    },
    {
-    "key": "mdzy",
-    "name": "魔都资源"
+    "key": "zy_猫眼资源",
+    "name": "接口┃猫眼影视"
    },
    {
-    "key": "lajiaozy.com",
-    "name": "辣椒(FQ)"
+    "key": "360-4",
+    "name": "[137ms|zy] 🍏360"
    },
    {
-    "key": "0a80243b21a08dc935258557df03cf34",
-    "name": "75-辣椒资源*"
+    "key": "csp_xml_ikun",
+    "name": "❤ikun资源"
    },
    {
-    "key": "155资源站",
-    "name": "155 | 采集"
+    "key": "csp_xml_光速",
+    "name": "❤光速资源"
    },
    {
-    "key": "didizy.com",
-    "name": "♥滴滴(直连)"
+    "key": "7e324c0872c13fd329e818c33a659046",
+    "name": "10-如意"
    },
    {
-    "key": "奶香香",
-    "name": "奶香 | 采集"
+    "key": "360",
+    "name": "360 | 采集"
    },
    {
-    "key": "蝙蝠",
-    "name": "[137ms|zy] 🍊蝙蝠"
+    "key": "csp_xml_量子资源",
+    "name": "[367ms|直播] 🐝量子资源"
    },
    {
-    "key": "沙鱼",
-    "name": "沙鱼 | 采集"
+    "key": "73b5c89acc8a7c24118857fc514e9218",
+    "name": "6-非凡"
    },
    {
-    "key": "2b95a57602ae920c848d81627e162f9e",
-    "name": "28-无尽"
+    "key": "csp_xml_无尽",
+    "name": "❤无尽资源"
    },
    {
-    "key": "16952cefcaeeda11b0bae2529a576e12",
-    "name": "11-暴风"
+    "key": "U酷资源-2",
+    "name": "[322ms|我的] U酷资源"
    },
    {
-    "key": "csp_xml_暴风",
-    "name": "❤暴风资源"
+    "key": "1080资源库",
+    "name": "1080资源库(切)"
    },
    {
-    "key": "柚子资源",
-    "name": "🍊柚子资源"
+    "key": "4d6422f0a2bc81fc9606ecc2d97208eb",
+    "name": "8-非凡"
    },
    {
-    "key": "暴风资源2",
-    "name": "[322ms|我的] 暴风资源2"
+    "key": "ffzy.tv",
+    "name": "非凡2"
    },
    {
-    "key": "豆瓣采集",
-    "name": "[322ms|我的] 豆瓣采集"
+    "key": "csp_非凡资源",
+    "name": "🥗┃非凡┃资源"
    }
   ],
   "down": [
    {
-    "key": "永乐APP",
-    "name": "🌺永乐 • FS",
+    "key": "csp_appys_大猫",
+    "name": "大猫",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": " py_kuaikan",
-    "name": " 🐦快看",
+    "key": "魅影影视",
+    "name": "💖分享魅影",
+    "from": "degraded",
+    "to": "dead"
+   },
+   {
+    "key": "美剧迷",
+    "name": "弹幕 | 美剧迷[jar]",
+    "from": "degraded",
+    "to": "dead"
+   },
+   {
+    "key": "py_jrskbs",
+    "name": " 🐦JRS直播",
+    "from": "degraded",
+    "to": "dead"
+   },
+   {
+    "key": " py_test",
+    "name": " 🐦py测试",
+    "from": "degraded",
+    "to": "dead"
+   },
+   {
+    "key": "py_huya",
+    "name": "🔥虎牙",
     "from": "degraded",
     "to": "dead"
    }
   ],
   "recovered": [
    {
-    "key": "csp_appys_大猫",
-    "name": "大猫",
+    "key": "fbfa5eed414e1f6137f2496a68005ef5",
+    "name": "43-HG",
+    "from": "dead",
+    "to": "degraded"
+   },
+   {
+    "key": "奇迹资源",
+    "name": "影视 • 奇迹[直连]",
+    "from": "dead",
+    "to": "healthy"
+   },
+   {
+    "key": "csp_appys_萌蛋蛋",
+    "name": "萌蛋",
+    "from": "dead",
+    "to": "degraded"
+   },
+   {
+    "key": "xbpq_喵次元",
+    "name": "💖喵喵动漫",
+    "from": "dead",
+    "to": "degraded"
+   },
+   {
+    "key": " py_kuaikan",
+    "name": " 🐦快看",
     "from": "dead",
     "to": "degraded"
    }
   ],
   "counts": {
-   "new": 144,
-   "gone": 226,
-   "down": 2,
-   "recovered": 1
+   "new": 913,
+   "gone": 185,
+   "down": 6,
+   "recovered": 5
   }
  },
  "live": {
-  "total": 338,
+  "total": 370,
   "summary": {
-   "unknown": 338
+   "unknown": 370
   },
   "counts": {
-   "new": 8,
-   "gone": 2,
+   "new": 40,
+   "gone": 8,
    "down": 0,
    "recovered": 0
   },
   "new": [
    {
-    "key": "https://gitee.com/qqyywb/250321/raw/master/123.json",
-    "name": "飞快线",
+    "key": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt",
+    "name": "🐬各大源合集 海豚影视永久免费如有收费的都是骗子",
     "health": "unknown"
    },
    {
-    "key": "https://slink.ltd/https://raw.githubusercontent.com/xmbjm/TV/refs/heads/master/output/user_result.txt",
-    "name": "拾光",
+    "key": "http://tv.anbox.ip-ddns.com/live",
+    "name": "🐬多源直播",
     "health": "unknown"
    },
    {
-    "key": "https://slink.ltd/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
-    "name": "Govin",
+    "key": "https://ytv1.ccwu.cc/output/live.m3u",
+    "name": "🐬精彩TV",
     "health": "unknown"
    },
    {
-    "key": "https://tv.iill.top/m3u/MyTV",
-    "name": "大葱MyTV",
+    "key": "http://46.207.209.www.hxyy.jiaheysyy.top/jhzb.json",
+    "name": "嘉禾直播",
     "health": "unknown"
    },
    {
-    "key": "https://7337.kstore.space/twkj/tvzb.txt",
-    "name": "天微",
+    "key": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/监控.m3u",
+    "name": "🐬监控国际",
     "health": "unknown"
    },
    {
-    "key": "http://kxrj.site:55/lib/kx2024.txt",
-    "name": "开心",
+    "key": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt",
+    "name": "🐬港台",
     "health": "unknown"
    },
    {
-    "key": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/sr.txt",
-    "name": "华夏少儿",
+    "key": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/haiyan.txt",
+    "name": "🐬海燕直播",
     "health": "unknown"
    },
    {
-    "key": "https://live.fanmingming.com/tv/m3u/index.m3u",
-    "name": "央视卫视",
+    "key": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/xiangxi.txt",
+    "name": "🐬湘西直播",
+    "health": "unknown"
+   },
+   {
+    "key": "https://jsnzkpg2.pages.dev/live.m3u",
+    "name": "🐬jsnzkpg2",
+    "health": "unknown"
+   },
+   {
+    "key": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%87%A0%E4%B8%87%E7%94%B5%E5%BD%B1%E9%A2%1%E9%81%93.m3u",
+    "name": "🐬好朋友直播",
+    "health": "unknown"
+   },
+   {
+    "key": "https://ha.msbot.dpdns.org/wall.php",
+    "name": "🐬北美长城源",
+    "health": "unknown"
+   },
+   {
+    "key": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u",
+    "name": "🐬国际TV 有🔞",
+    "health": "unknown"
+   },
+   {
+    "key": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/unifi.txt",
+    "name": "🐬UnifiTV(马来节点)",
+    "health": "unknown"
+   },
+   {
+    "key": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u",
+    "name": "🐬国外TV",
+    "health": "unknown"
+   },
+   {
+    "key": "https://4key.cn/vy6",
+    "name": "🐬暮雨TV",
     "health": "unknown"
    }
   ],

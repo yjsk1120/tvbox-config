@@ -2747,306 +2747,6 @@
    "type": 0,
    "url": "http://rihou.cc:567/gggg.nzk",
    "playerType": 1
-  },
-  {
-   "name": "🐬各大源合集 海豚影视永久免费如有收费的都是骗子",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
-  },
-  {
-   "name": "🐬多源直播",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "http://tv.anbox.ip-ddns.com/live"
-  },
-  {
-   "name": "🐬精彩TV",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://ytv1.ccwu.cc/output/live.m3u"
-  },
-  {
-   "name": "嘉禾直播",
-   "type": 0,
-   "url": "http://46.207.209.www.hxyy.jiaheysyy.top/jhzb.json",
-   "playerType": 2,
-   "ua": "okhttp/3",
-   "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-  },
-  {
-   "name": "🐬监控国际",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/监控.m3u"
-  },
-  {
-   "name": "🐬港台",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
-  },
-  {
-   "name": "🐬海燕直播",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/haiyan.txt"
-  },
-  {
-   "name": "🐬湘西直播",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/xiangxi.txt"
-  },
-  {
-   "name": "🐬至尊11",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
-  },
-  {
-   "name": "🐬哈TV18",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://live.445569.xyz/live.m3u"
-  },
-  {
-   "name": "🐬twitch",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://twitch.445569.xyz/live.m3u"
-  },
-  {
-   "name": "🐬jsnzkpg2",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://jsnzkpg2.pages.dev/live.m3u"
-  },
-  {
-   "name": "🐬jsnzkpg3",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://jsnzkpg.de5.net/all.m3u"
-  },
-  {
-   "name": "🐬酷捞直播",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://445569.pages.dev/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
-  },
-  {
-   "name": "🐬好朋友直播",
-   "type": 0,
-   "ua": "okhttp/5.3.2",
-   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%87%A0%E4%B8%87%E7%94%B5%E5%BD%B1%E9%A2%1%E9%81%93.m3u"
-  },
-  {
-   "name": "🐬北美长城源",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://ha.msbot.dpdns.org/wall.php"
-  },
-  {
-   "name": "🐬国际TV 有🔞",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
-  },
-  {
-   "name": "🐬UnifiTV(马来节点)",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/unifi.txt"
-  },
-  {
-   "name": "🐬国外TV",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u"
-  },
-  {
-   "name": "🐬暮雨TV",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://4key.cn/vy6"
-  },
-  {
-   "name": "🐬四季直播",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "http://4gtv.cnlive.club/4gtv.m3u"
-  },
-  {
-   "name": "🐬atryffad源 有🔞",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/atryffad.txt"
-  },
-  {
-   "name": "🐬易发源 有🔞",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-  },
-  {
-   "name": "🐬俄罗斯源 有🔞",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://m3u.biluspeh.com/hls/token=M4xovdRfcMXMXS9M"
-  },
-  {
-   "name": "🐬4GTV(梯子台湾节点)720p",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"
-  },
-  {
-   "name": "🐬4GTV(梯子任何节点)1080p",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
-  },
-  {
-   "name": "🐬安博(梯子)卡顿 有🔞",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/安博.txt"
-  },
-  {
-   "name": "🐬台湾频道(梯子台湾节点)",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://epg.pw/test_channels_taiwan.m3u"
-  },
-  {
-   "name": "🐬欧美主播直播🔞",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://chaturbate.xvideos4.tk/api5.php?m3u&all"
-  },
-  {
-   "name": "🐬亚洲主播直播🔞",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://chaturbate.xvideos4.tk/api6.php?m3u"
-  },
-  {
-   "name": "🐬欧美大片直播🔞",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "http://xtvantsc.xyz/欧美2160.m3u"
-  },
-  {
-   "name": "🐬日本女优11🔞",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://cloud.7so.top/f/RO04U5/%E4%B8%BD%E5%BD%B1%E7%90%BC%E5%A7%BF.m3u"
-  },
-  {
-   "name": "🐬裤佬qTV",
-   "type": 0,
-   "ua": "okhttp",
-   "url": "https://live.445569.xyz/live.m3u"
-  },
-  {
-   "name": "iptv",
-   "type": 0,
-   "url": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/ip.txt",
-   "playerType": 1,
-   "ua": "okhttp/3.15",
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png",
-   "timeout": 10
-  },
-  {
-   "name": "mitv",
-   "type": 0,
-   "url": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/mt.txt",
-   "playerType": 1,
-   "ua": "okhttp/3.15",
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png",
-   "timeout": 10
-  },
-  {
-   "name": "ddns",
-   "type": 0,
-   "url": "http://127.0.0.1:9978/proxy?do=live&url=http://mywlkj.ddns.net:754/tv.php",
-   "playerType": 1,
-   "ua": "okhttp/3.15",
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png",
-   "timeout": 10
-  },
-  {
-   "name": "体育Live",
-   "type": 0,
-   "url": "./lives/体育Live.txt",
-   "epg": ""
-  },
-  {
-   "name": "MyTV",
-   "type": 0,
-   "url": "./lives/MyTV.txt",
-   "epg": ""
-  },
-  {
-   "name": "gat",
-   "type": 0,
-   "url": "./lives/gat.txt",
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-  },
-  {
-   "name": "范明明•综合",
-   "type": 0,
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "那里花开•综合",
-   "type": 0,
-   "url": "http://hz752.love:63/txt/tvbs.txt",
-   "playerType": 1,
-   "ua": "okhttp/3.12.13",
-   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "https://epg.112114.xyz/logo/{name}.png"
-  },
-  {
-   "name": "范明明•电台",
-   "type": 0,
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u"
-  },
-  {
-   "name": "YanG•斗鱼",
-   "type": 0,
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u"
-  },
-  {
-   "name": "YanG•虎牙",
-   "type": 0,
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"
-  },
-  {
-   "name": "肥羊•斗鱼",
-   "type": 0,
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u"
-  },
-  {
-   "name": "肥羊•虎牙",
-   "type": 0,
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u"
-  },
-  {
-   "name": "肥羊•YY",
-   "type": 0,
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yylunbo.m3u"
-  },
-  {
-   "name": "初秋语•哔哩",
-   "type": 0,
-   "url": "./bili.m3u"
   }
  ],
  "parses": [
@@ -3889,6 +3589,11 @@
    }
   },
   {
+   "name": "解析1.6",
+   "type": 1,
+   "url": "https://jx.300ys.xyz/json/m3u8.php/?url="
+  },
+  {
    "name": "☑快速直解",
    "type": 1,
    "url": "https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="
@@ -4427,6 +4132,57 @@
    "url": "https://huayong.net/999/?v="
   },
   {
+   "name": "freejson",
+   "type": 0,
+   "url": "https://h5.freejson.xyz/player/?url="
+  },
+  {
+   "name": "夜猫超聚合",
+   "type": 1,
+   "url": "https://hd.396pay.cn/lib/diy/?key=pFELnzclw6RdhxNlH6&url=",
+   "ext": {
+    "flag": [
+     "qq",
+     "腾讯",
+     "企鹅",
+     "IQiYi",
+     "qiyi",
+     "爱奇艺",
+     "奇艺",
+     "youku",
+     "YouKu",
+     "优酷",
+     "sohu",
+     "SoHu",
+     "搜狐",
+     "letv",
+     "LeShi",
+     "乐视",
+     "imgo",
+     "mgtv",
+     "MangGuo",
+     "芒果",
+     "SLYS4k",
+     "BYGA",
+     "luanzi",
+     "AliS",
+     "dxzy",
+     "bilibili",
+     "QEYSS",
+     "xigua",
+     "西瓜视频",
+     "腾讯视频",
+     "奇艺视频",
+     "优酷视频",
+     "芒果视频",
+     "乐视视频"
+    ],
+    "header": {
+     "User-Agent": "Dart/2.18 (dart:io)"
+    }
+   }
+  },
+  {
    "name": "789",
    "type": 0,
    "url": "https://m.789bh.com/?url=",
@@ -4462,285 +4218,6 @@
    "url": "http://154.44.26.196/player/qu.php?v="
   },
   {
-   "name": "cygc",
-   "type": 1,
-   "url": "https://api.cygc.xyz/analysis/?url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "sohu",
-     "搜狐",
-     "letv",
-     "乐视",
-     "imgo",
-     "mgtv",
-     "芒果",
-     "rx",
-     "ltnb",
-     "bilibili",
-     "1905",
-     "xigua"
-    ]
-   }
-  },
-  {
-   "name": "组4K·P",
-   "type": 1,
-   "url": "https://jx.meilinvps.com/api/?key=7dba17e4cc9b887faf7afaf9a20fd391&url="
-  },
-  {
-   "name": "组4K·C",
-   "type": 1,
-   "url": "https://vip1.123jx.vip/api/?key=f60311e9bc7c1eac9dcaf5e336647b65&url="
-  },
-  {
-   "name": "组C4K·E",
-   "type": 1,
-   "url": "http://175.24.181.180:5000/api/jiexi/common?Key=Dg3tqWmzSgcKGlZY2c&url="
-  },
-  {
-   "name": "官方·达嘎",
-   "type": 0,
-   "url": "https://www.daga.cc/vip1/?url="
-  },
-  {
-   "name": "高兴不起来",
-   "type": 1,
-   "url": "http://php.xuan666.icu/高兴/api11.php?url="
-  },
-  {
-   "name": "丰",
-   "type": 1,
-   "url": "https://fzl4k.xyz/jx.php?url="
-  },
-  {
-   "name": "4K - API解析",
-   "type": 1,
-   "url": "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="
-  },
-  {
-   "name": "嘉禾解析B",
-   "url": "https://jx.789jiexi.com/?url=",
-   "type": 0,
-   "ext": {
-    "flag": [
-     "qiyi",
-     "imgo",
-     "爱奇艺",
-     "奇艺",
-     "qq",
-     "qq 预告及花絮",
-     "腾讯",
-     "youku",
-     "优酷",
-     "pptv",
-     "PPTV",
-     "letv",
-     "乐视",
-     "leshi",
-     "mgtv",
-     "芒果",
-     "sohu",
-     "xigua",
-     "fun",
-     "风行"
-    ]
-   },
-   "header": {
-    "User-Agent": "Mozilla/5.0"
-   }
-  },
-  {
-   "name": "极速222",
-   "type": 0,
-   "url": "https://jx.789jiexi.icu:4433/?url=",
-   "ext": {
-    "header": {
-     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-    }
-   }
-  },
-  {
-   "name": "公益解析",
-   "type": 1,
-   "url": "https://rizzon.in/wp-content/json.php?url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "sohu",
-     "搜狐",
-     "letv",
-     "乐视",
-     "mgtv",
-     "芒果",
-     "tnmb",
-     "seven",
-     "bilibili",
-     "1905"
-    ],
-    "header": {
-     "User-Agent": "okhttp/4.9.1"
-    }
-   }
-  },
-  {
-   "name": "Easy解析13",
-   "type": 4,
-   "url": "https://jxc.easy123.ccwu.cc/easy13?pwd=qun807916734&url=",
-   "ext": {
-    "header": {
-     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
-    }
-   }
-  },
-  {
-   "name": "Easy解析14",
-   "type": 0,
-   "url": "https://jxc.easy123.ccwu.cc/easy14?pwd=qun807916734&url=",
-   "ext": {
-    "flag": [
-     "mgtv",
-     "qiyi",
-     "imgo",
-     "爱奇艺",
-     "奇艺",
-     "qq",
-     "腾讯",
-     "youku",
-     "优酷",
-     "pptv",
-     "PPTV",
-     "letv",
-     "乐视",
-     "leshi",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩",
-     "芒果"
-    ],
-    "header": {
-     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
-    }
-   }
-  },
-  {
-   "name": "华夏臻彩",
-   "type": 1,
-   "url": "https://xy.183933.xyz/xiayede.php?key=hy1966&url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "tucheng",
-     "sohu",
-     "搜狐",
-     "letv",
-     "乐视",
-     "mgtv",
-     "芒果",
-     "tnmb",
-     "seven",
-     "yzm",
-     "aliyun",
-     "RJuMao",
-     "bilibili",
-     "1905",
-     "xinvip",
-     "XAL",
-     "qiqi",
-     "XALS",
-     "YuMi-vip"
-    ]
-   }
-  },
-  {
-   "name": "极速HD4",
-   "type": 0,
-   "url": "https://jiexi.789jiexi.net:4433/?url=",
-   "ext": {
-    "header": {
-     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-    }
-   }
-  },
-  {
-   "name": "推荐2",
-   "type": 1,
-   "url": "https://www.1717yun.com/beiyongjiexi/?url="
-  },
-  {
-   "name": "官解6",
-   "type": 1,
-   "url": "https://wuzei.serv00.net/jx/kk.php?url="
-  },
-  {
-   "name": "官解7",
-   "type": 1,
-   "url": "https://wuzei.serv00.net/jx/bl.php?v="
-  },
-  {
-   "name": "官解8",
-   "type": 1,
-   "url": "https://wuzei.serv00.net/jx/lianfaka.php?url="
-  },
-  {
-   "name": "嗅探10",
-   "type": 0,
-   "url": "https://jx.0ry.cn/?url="
-  },
-  {
-   "name": "全部",
-   "type": 0,
-   "url": "https://yun.ckmov.com/?url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "mgtv",
-     "imgo",
-     "芒果",
-     "letv",
-     "乐视",
-     "pptv",
-     "PPTV",
-     "sohu",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩"
-    ],
-    "header": {
-     "User-Agent": "okhttp/4.1.0"
-    }
-   }
-  },
-  {
-   "name": "-听乐-",
-   "type": 0,
-   "url": "https://jx.dj6u.com/?url="
-  },
-  {
    "name": "网络搜集03",
    "type": 1,
    "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
@@ -4750,21 +4227,58 @@
      "wuduzy"
     ]
    }
+  },
+  {
+   "name": "思古3",
+   "type": 0,
+   "url": "https://jsap.attakids.com/?url="
   }
  ],
  "sites": [
   {
-   "key": "laosebizy.com",
-   "name": "💕老色逼(直连)",
+   "key": "155zy.com",
+   "name": "♥155(直连)",
    "type": 1,
-   "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+   "api": "https://155api.com/api.php/provide/vod/?ac=list",
    "searchable": 1,
    "filterable": 1,
+   "_origin": "qist/9918",
+   "group": "采集站",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 658,
+   "_level": "L3",
+   "_source": null,
+   "_type": "采集站"
+  },
+  {
+   "key": "虎牙",
+   "name": "🌼虎牙┃采集🌼",
+   "type": 1,
+   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+   "searchable": 1,
+   "quickSearch": 1,
+   "_origin": "hajimi/kstore",
+   "group": "采集站",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 130,
+   "_level": "L3",
+   "_source": null,
+   "_type": "采集站"
+  },
+  {
+   "key": "iKun资源",
+   "name": "[590ms|5] iKun资源",
+   "type": 0,
+   "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 264,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 179,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -4780,75 +4294,8 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 92,
-   "_level": "L3",
-   "_source": null,
-   "_type": "采集站"
-  },
-  {
-   "key": "虎牙",
-   "name": "🌼虎牙┃采集🌼",
-   "type": 1,
-   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-   "searchable": 1,
-   "quickSearch": 1,
-   "_origin": "hajimi/kstore",
-   "group": "采集站",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 49,
-   "_level": "L3",
-   "_source": null,
-   "_type": "采集站"
-  },
-  {
-   "searchable": 1,
-   "search": 1,
-   "quickSearch": 1,
-   "api": "https://api.xjzyapi.com/provide/vod",
-   "key": "小鸡",
-   "type": 1,
-   "name": "[137ms|zy] 🍊小鸡",
-   "group": "采集站",
-   "_origin": "feishu-sync",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 102,
-   "_level": "L3",
-   "_source": null,
-   "_type": "采集站"
-  },
-  {
-   "name": "apilj辣椒资源",
-   "key": "11辣椒资源",
-   "type": 1,
-   "api": "https://apilj.com/api.php/provide/vod/at/json/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "group": "采集站",
-   "_origin": "feishu-sync",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 101,
-   "_level": "L3",
-   "_source": null,
-   "_type": "采集站"
-  },
-  {
-   "key": "奶香",
-   "name": "🚀奶香",
-   "type": 1,
-   "api": "https://naixxzy.com/api.php/provide/vod/at/json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "group": "采集站",
-   "_origin": "feishu-sync",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 709,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 163,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -4864,59 +4311,44 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 226,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 168,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
   },
   {
-   "key": "iKun资源",
-   "name": "[590ms|5] iKun资源",
-   "type": 0,
-   "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
    "searchable": 1,
+   "search": 1,
    "quickSearch": 1,
+   "api": "https://api.xjzyapi.com/provide/vod",
+   "key": "小鸡",
+   "type": 1,
+   "name": "[137ms|zy] 🍊小鸡",
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 71,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 188,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
   },
   {
-   "key": "滴滴",
-   "name": "滴滴 | 采集",
+   "key": "辣椒",
+   "name": "辣椒 | 采集",
    "type": 1,
-   "api": "https://api.ddapi.cc/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy",
-   "_origin": "cluntop/fun",
-   "group": "采集站",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 380,
-   "_level": "L3",
-   "_source": null,
-   "_type": "采集站"
-  },
-  {
-   "key": "lsb",
-   "name": "lsb",
-   "api": "https://apilsbzy1.com/api.php/provide/vod",
-   "type": 1,
+   "api": "https://apilj.com/api.php/provide/vod/",
+   "playUrl": "",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
+   "ext": "proxy",
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 137,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 227,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -4939,25 +4371,8 @@
    "_origin": "franksun/cks2026",
    "group": "采集站",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 126,
-   "_level": "L3",
-   "_source": null,
-   "_type": "采集站"
-  },
-  {
-   "searchable": 1,
-   "search": 1,
-   "quickSearch": 1,
-   "api": "https://jipinvip.com/api.php/provide/vod/",
-   "key": "极品",
-   "type": 1,
-   "name": "[137ms|zy] 🍊极品",
-   "group": "采集站",
-   "_origin": "feishu-sync",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 409,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 487,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -4973,8 +4388,24 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 538,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 350,
+   "_level": "L3",
+   "_source": null,
+   "_type": "采集站"
+  },
+  {
+   "key": "didizy.com",
+   "name": "♥滴滴(直连)",
+   "type": 1,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "filterable": 1,
+   "group": "采集站",
+   "_origin": "feishu-sync",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 167,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -4992,8 +4423,40 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 403,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 585,
+   "_level": "L3",
+   "_source": null,
+   "_type": "采集站"
+  },
+  {
+   "key": "jingpinx.com",
+   "name": "★精品下(直连)",
+   "type": 1,
+   "api": "http://www.jingpinx.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "filterable": 1,
+   "group": "采集站",
+   "_origin": "feishu-sync",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 828,
+   "_level": "L3",
+   "_source": null,
+   "_type": "采集站"
+  },
+  {
+   "key": "如意资源",
+   "name": "🌼如意┃影视🌼",
+   "type": 1,
+   "api": "http://cj.rycjapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "_origin": "hajimi/kstore",
+   "group": "采集站",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 1089,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -5009,71 +4472,61 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 559,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 621,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
   },
   {
-   "key": "jingpinx.com",
-   "name": "★精品下(直连)",
+   "key": "155资源站",
+   "name": "155 | 采集",
    "type": 1,
-   "api": "http://www.jingpinx.com/api.php/provide/vod/?ac=list",
+   "api": "https://155api.com/api.php/provide/vod/",
+   "quickSearch": 1,
    "searchable": 1,
-   "filterable": 1,
+   "changeable": 1,
+   "ext": "proxy",
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 656,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 647,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
   },
   {
-   "api": "https://iqiyizyapi.com/api.php/provide/vod/",
-   "key": "acd47931ed9a83e500f70bbb7c5c0c2b",
-   "name": "54-奇艺",
+   "key": "奶香香",
+   "name": "奶香 | 采集",
    "type": 1,
+   "api": "https://naixxzy.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy",
    "group": "采集站",
    "_origin": "feishu-sync",
-   "searchable": 1,
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 528,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 159,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
   },
   {
-   "key": "155zy.com",
-   "name": "♥155(直连)",
+   "key": "巨量",
+   "name": "巨量",
    "type": 1,
-   "api": "https://155api.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "qist/9918",
-   "group": "采集站",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 537,
-   "_level": "L3",
-   "_source": null,
-   "_type": "采集站"
-  },
-  {
-   "key": "如意资源",
-   "name": "🌼如意┃影视🌼",
-   "type": 1,
-   "api": "http://cj.rycjapi.com/api.php/provide/vod",
+   "api": "https://api.juliang.live/api/provide/vod/?ac=detail",
    "searchable": 1,
    "quickSearch": 1,
-   "_origin": "hajimi/kstore",
+   "filterable": 1,
    "group": "采集站",
+   "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 632,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 2575,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -5089,8 +4542,8 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 1080,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 1027,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -5106,8 +4559,41 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 1251,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 1177,
+   "_level": "L3",
+   "_source": null,
+   "_type": "采集站"
+  },
+  {
+   "key": "沙鱼",
+   "name": "沙鱼 | 采集",
+   "type": 1,
+   "api": "https://shayuapi.com/api.php/provide/vod/",
+   "ext": "proxy",
+   "group": "采集站",
+   "searchable": 1,
+   "_origin": "feishu-sync",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 3603,
+   "_level": "L3",
+   "_source": null,
+   "_type": "采集站"
+  },
+  {
+   "key": "Ckzy",
+   "name": "Ck资源",
+   "type": 1,
+   "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+   "searchable": 0,
+   "quickSearch": 1,
+   "filterable": 0,
+   "group": "采集站",
+   "_origin": "feishu-sync",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 596,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -5124,25 +4610,25 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 33,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 358,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
   },
   {
-   "key": "Ckzy",
-   "name": "Ck资源",
+   "key": "森林资源",
+   "name": "森林资源",
    "type": 1,
-   "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+   "api": "https://madoucun.com//api.php/provide/vod/?ac=list",
    "searchable": 0,
    "quickSearch": 1,
-   "filterable": 0,
+   "filterable": 1,
+   "_origin": "auto/28-101s",
    "group": "采集站",
-   "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 83,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 258,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -5158,87 +4644,8 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 160,
-   "_level": "L3",
-   "_source": null,
-   "_type": "采集站"
-  },
-  {
-   "key": "zy_豆瓣资源",
-   "name": "接口┃豆瓣资源",
-   "type": 1,
-   "api": "https://caiji.dbzy5.com/api.php/provide/vod/",
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "categories": [
-    "纪录片",
-    "动作片",
-    "爱情片",
-    "喜剧片",
-    "科幻片",
-    "恐怖片",
-    "剧情片",
-    "战争片",
-    "动漫电影",
-    "惊悚片",
-    "国产剧",
-    "香港剧",
-    "欧美剧",
-    "韩剧",
-    "泰国剧",
-    "日本剧",
-    "台湾剧",
-    "海外剧",
-    "大陆综艺",
-    "日韩综艺",
-    "港台综艺",
-    "欧美综艺",
-    "演唱会",
-    "国产动漫",
-    "日本动漫",
-    "欧美动漫",
-    "海外动漫",
-    "体育赛事",
-    "篮球",
-    "足球",
-    "网球",
-    "斯诺克",
-    "LPL",
-    "重生民国",
-    "穿越现代",
-    "反转爽剧",
-    "言情总裁",
-    "现代都市",
-    "古装仙侠",
-    "悬疑烧脑",
-    "新闻资讯",
-    "电影资讯",
-    "娱乐新闻"
-   ],
-   "_origin": "sv/iqinu",
-   "group": "采集站",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 526,
-   "_level": "L3",
-   "_source": null,
-   "_type": "采集站"
-  },
-  {
-   "key": "奇迹资源",
-   "name": "影视 • 奇迹[直连]",
-   "type": 1,
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod/",
-   "group": "采集站",
-   "_origin": "feishu-sync",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 705,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 300,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -5254,8 +4661,24 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 723,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 627,
+   "_level": "L3",
+   "_source": null,
+   "_type": "采集站"
+  },
+  {
+   "key": "豆瓣采集",
+   "name": "[322ms|我的] 豆瓣采集",
+   "type": 0,
+   "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/xml/",
+   "searchable": 0,
+   "quickSearch": 1,
+   "group": "采集站",
+   "_origin": "feishu-sync",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 1002,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
@@ -5271,11 +4694,46 @@
    "group": "采集站",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 861,
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 1432,
    "_level": "L3",
    "_source": null,
    "_type": "采集站"
+  },
+  {
+   "key": "白嫖",
+   "name": "白嫖 | 采集",
+   "type": 0,
+   "api": "https://www.kxgav.com/api/xml.php",
+   "searchable": 0,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy",
+   "group": "直连点播",
+   "_origin": "feishu-sync",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11T23:04:13",
+   "_latency_ms": 200,
+   "_level": "L3",
+   "_source": null,
+   "_type": "直连点播"
+  },
+  {
+   "key": "枫叶影视",
+   "name": "枫叶 • 影视",
+   "type": 3,
+   "api": "csp_FengYe",
+   "ext": "https://www.vip1949.com/",
+   "group": "蜘蛛源",
+   "searchable": 1,
+   "_origin": "feishu-sync",
+   "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+   "_health": "healthy",
+   "_checked_at": "2026-09-19 21:48:08",
+   "_latency_ms": 5831,
+   "_level": "C5",
+   "_source": null,
+   "_type": "蜘蛛源"
   },
   {
    "key": "布布",
@@ -5394,31 +4852,6 @@
    "_type": "蜘蛛源"
   },
   {
-   "key": "csp_小学",
-   "name": "📚┃小学┃课堂",
-   "type": 3,
-   "api": "csp_Bili",
-   "playerType": 2,
-   "ext": {
-    "json": "https://img2.gelonghui.com/library/a1140-144855fe-3eaa-44f3-b689-6812c233de54null",
-    "cookie": ""
-   },
-   "style": {
-    "type": "rect",
-    "ratio": 1.333
-   },
-   "jar": "./deps/sv/feimao/https:/github.com/Supprise0901/api/blob/main/feimao.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0",
-   "group": "蜘蛛源",
-   "searchable": 1,
-   "_origin": "feishu-sync",
-   "_health": "healthy",
-   "_checked_at": "2026-09-19 21:48:08",
-   "_latency_ms": 1086,
-   "_level": "C3",
-   "_source": null,
-   "_type": "蜘蛛源"
-  },
-  {
    "key": "csp_初中",
    "name": "📚┃初中┃课堂",
    "type": 3,
@@ -5439,6 +4872,31 @@
    "_health": "healthy",
    "_checked_at": "2026-09-19 21:48:08",
    "_latency_ms": 1740,
+   "_level": "C3",
+   "_source": null,
+   "_type": "蜘蛛源"
+  },
+  {
+   "key": "csp_小学",
+   "name": "📚┃小学┃课堂",
+   "type": 3,
+   "api": "csp_Bili",
+   "playerType": 2,
+   "ext": {
+    "json": "https://img2.gelonghui.com/library/a1140-144855fe-3eaa-44f3-b689-6812c233de54null",
+    "cookie": ""
+   },
+   "style": {
+    "type": "rect",
+    "ratio": 1.333
+   },
+   "jar": "./deps/sv/feimao/https:/github.com/Supprise0901/api/blob/main/feimao.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0",
+   "group": "蜘蛛源",
+   "searchable": 1,
+   "_origin": "feishu-sync",
+   "_health": "healthy",
+   "_checked_at": "2026-09-19 21:48:08",
+   "_latency_ms": 1086,
    "_level": "C3",
    "_source": null,
    "_type": "蜘蛛源"
@@ -5942,23 +5400,6 @@
    "_type": "蜘蛛源"
   },
   {
-   "key": "枫叶影视",
-   "name": "枫叶 • 影视",
-   "type": 3,
-   "api": "csp_FengYe",
-   "ext": "https://www.vip1949.com/",
-   "group": "蜘蛛源",
-   "searchable": 1,
-   "_origin": "feishu-sync",
-   "jar": "./deps/feishu-sync/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
-   "_health": "healthy",
-   "_checked_at": "2026-09-19 21:48:08",
-   "_latency_ms": 5831,
-   "_level": "C5",
-   "_source": null,
-   "_type": "蜘蛛源"
-  },
-  {
    "key": "热播影视",
    "name": "热播✨蓝光影视",
    "type": 3,
@@ -6100,26 +5541,28 @@
    "searchable": 1,
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 1412,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 2082,
    "_level": "D3",
    "_source": null,
    "_type": "本地JS"
   },
   {
-   "key": "dr_iqiyi",
-   "name": "🥝┃爱奇异(官)",
+   "key": "DRJS_虎牙",
+   "name": "虎牙直播(JS)",
    "type": 3,
-   "api": "./deps/sv/liucn-m/box/libs/js/drpy2.min.js",
-   "ext": "./deps/sv/liucn-m/box/libs/js/iqiyi.js",
-   "jar": "./deps/sv/liucn-m/box/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
-   "group": "本地JS",
+   "api": "./deps/qist/XYQ/lib/drpy2.min.js",
+   "ext": "./deps/qist/XYQ/js/虎牙直播.js",
    "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "jar": "./deps/qist/XYQ/jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 13330,
-   "_level": "D5",
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 2661,
+   "_level": "D3",
    "_source": null,
    "_type": "本地JS"
   },
@@ -6134,8 +5577,8 @@
    "searchable": 1,
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 13432,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 13989,
    "_level": "D5",
    "_source": null,
    "_type": "本地JS"
@@ -6151,29 +5594,25 @@
    "searchable": 1,
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 14572,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 15180,
    "_level": "D5",
    "_source": null,
    "_type": "本地JS"
   },
   {
-   "key": "虎牙直播",
-   "name": "《虎牙🐯直播》",
+   "key": "dr_iqiyi",
+   "name": "🥝┃爱奇异(官)",
    "type": 3,
-   "api": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/api/drpy2.min.js",
-   "ext": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/js/虎牙直播.js",
-   "style": {
-    "type": "rect",
-    "ratio": 1.597
-   },
-   "jar": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/spider.jar",
+   "api": "./deps/sv/liucn-m/box/libs/js/drpy2.min.js",
+   "ext": "./deps/sv/liucn-m/box/libs/js/iqiyi.js",
+   "jar": "./deps/sv/liucn-m/box/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
    "group": "本地JS",
    "searchable": 1,
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 3246,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 13921,
    "_level": "D5",
    "_source": null,
    "_type": "本地JS"
@@ -6194,28 +5633,30 @@
    "group": "本地JS",
    "searchable": 1,
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 5263,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 2533,
    "_level": "D3",
    "_source": null,
    "_type": "本地JS"
   },
   {
-   "key": "DRJS_虎牙",
-   "name": "虎牙直播(JS)",
+   "key": "虎牙直播",
+   "name": "《虎牙🐯直播》",
    "type": 3,
-   "api": "./deps/qist/XYQ/lib/drpy2.min.js",
-   "ext": "./deps/qist/XYQ/js/虎牙直播.js",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "jar": "./deps/qist/XYQ/jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "api": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/api/drpy2.min.js",
+   "ext": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/js/虎牙直播.js",
+   "style": {
+    "type": "rect",
+    "ratio": 1.597
+   },
+   "jar": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/spider.jar",
    "group": "本地JS",
+   "searchable": 1,
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 6597,
-   "_level": "D3",
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 5479,
+   "_level": "D5",
    "_source": null,
    "_type": "本地JS"
   },
@@ -6238,8 +5679,8 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 2047,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 1372,
    "_level": "D3",
    "_source": null,
    "_type": "本地JS"
@@ -6257,9 +5698,29 @@
    "jar": "./deps/nxppru/0825/jar/pg_upgraded.jar;md5;e58c3a2975d24db4978065ab895cf297",
    "group": "本地JS",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 138,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 217,
    "_level": "D4",
+   "_source": null,
+   "_type": "本地JS"
+  },
+  {
+   "key": "斗鱼直播",
+   "name": "《斗鱼🐟直播》",
+   "type": 3,
+   "api": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/api/drpy2.min.js",
+   "ext": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/js/斗鱼直播.js",
+   "style": {
+    "type": "rect",
+    "ratio": 1.597
+   },
+   "jar": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/spider.jar",
+   "group": "本地JS",
+   "_origin": "feishu-sync",
+   "_health": "healthy",
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 2852,
+   "_level": "D3",
    "_source": null,
    "_type": "本地JS"
   },
@@ -6278,8 +5739,8 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 1245,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 1530,
    "_level": "D3",
    "_source": null,
    "_type": "本地JS"
@@ -6294,29 +5755,9 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 5085,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 5975,
    "_level": "D5",
-   "_source": null,
-   "_type": "本地JS"
-  },
-  {
-   "key": "斗鱼直播",
-   "name": "《斗鱼🐟直播》",
-   "type": 3,
-   "api": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/api/drpy2.min.js",
-   "ext": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/js/斗鱼直播.js",
-   "style": {
-    "type": "rect",
-    "ratio": 1.597
-   },
-   "jar": "./deps/sv/tianwei/%E5%A4%A9%E5%BE%AE/spider.jar",
-   "group": "本地JS",
-   "_origin": "feishu-sync",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 1127,
-   "_level": "D3",
    "_source": null,
    "_type": "本地JS"
   },
@@ -6330,8 +5771,8 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 173,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 233,
    "_level": "D5",
    "_source": null,
    "_type": "本地JS"
@@ -6349,8 +5790,8 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 2697,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 1845,
    "_level": "D3",
    "_source": null,
    "_type": "本地JS"
@@ -6365,8 +5806,8 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 3420,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 3898,
    "_level": "D5",
    "_source": null,
    "_type": "本地JS"
@@ -6382,8 +5823,8 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 3160,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 3559,
    "_level": "D4",
    "_source": null,
    "_type": "本地JS"
@@ -6398,8 +5839,8 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 5380,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 8563,
    "_level": "D5",
    "_source": null,
    "_type": "本地JS"
@@ -6422,8 +5863,8 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 1124,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 2167,
    "_level": "D3",
    "_source": null,
    "_type": "本地JS"
@@ -6445,8 +5886,8 @@
    "group": "本地JS",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 3209,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 3534,
    "_level": "D4",
    "_source": null,
    "_type": "本地JS"
@@ -6704,8 +6145,8 @@
    "group": "网盘",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 175,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 284,
    "_level": "D4",
    "_source": null,
    "_type": "网盘"
@@ -6806,8 +6247,8 @@
    "group": "短剧",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 6665,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 9457,
    "_level": "D5",
    "_source": null,
    "_type": "短剧"
@@ -6829,55 +6270,6 @@
    "_type": "短剧"
   },
   {
-   "key": "shayuapi.com",
-   "name": "成人24",
-   "type": 1,
-   "api": "https://shayuapi.com/api.php/provide/vod/",
-   "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-   "searchable": 1,
-   "recordable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "header": {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-   },
-   "_origin": "qist/99188",
-   "group": "成人",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10T22:38:14",
-   "_latency_ms": 2254,
-   "_level": "L3",
-   "_source": null,
-   "_type": "成人"
-  },
-  {
-   "key": "虎牙js-3",
-   "name": "🐯虎牙┃直播",
-   "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/FTY/drpy2.min.js",
-   "ext": "./deps/feishu-sync/https:/raw.githubusercontent.com/qist/tvbox/master/FTY/虎牙.js",
-   "style": {
-    "type": "rect",
-    "ratio": 1.755
-   },
-   "timeout": 10,
-   "playerType": "2",
-   "searchable": 1,
-   "quickSearch": 0,
-   "changeable": 0,
-   "group": "其他",
-   "_origin": "feishu-sync",
-   "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 3738,
-   "_level": "D5",
-   "_source": null,
-   "_type": "其他"
-  },
-  {
    "key": "冠建影视",
    "name": "💝分享冠建",
    "type": 3,
@@ -6890,8 +6282,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 5112,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 2814,
    "_level": "D3",
    "_source": null,
    "_type": "其他"
@@ -6905,8 +6297,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 3665,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 4030,
    "_level": "D3",
    "_source": null,
    "_type": "其他"
@@ -6922,8 +6314,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 4460,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 4721,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -6937,8 +6329,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 3262,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 3761,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -6952,8 +6344,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 14038,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 14854,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -6967,8 +6359,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 13483,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 13887,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -6982,8 +6374,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 14029,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 14600,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -6997,8 +6389,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 4419,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 5381,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -7013,8 +6405,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 3433,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 3366,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -7028,8 +6420,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 4012,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 4282,
    "_level": "D3",
    "_source": null,
    "_type": "其他"
@@ -7043,8 +6435,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 13625,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 14525,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -7058,8 +6450,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 4387,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 5798,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -7073,8 +6465,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 636,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 1293,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -7088,8 +6480,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 13732,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 14098,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -7103,8 +6495,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 2621,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 3668,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -7118,8 +6510,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 3653,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 4866,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -7133,8 +6525,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 5117,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 6089,
    "_level": "D5",
    "_source": null,
    "_type": "其他"
@@ -7155,8 +6547,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 2941,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 3460,
    "_level": "D4",
    "_source": null,
    "_type": "其他"
@@ -7177,8 +6569,8 @@
    "group": "其他",
    "_origin": "feishu-sync",
    "_health": "healthy",
-   "_checked_at": "2026-10-10 22:33:14",
-   "_latency_ms": 2958,
+   "_checked_at": "2026-10-11 22:58:45",
+   "_latency_ms": 3480,
    "_level": "D4",
    "_source": null,
    "_type": "其他"

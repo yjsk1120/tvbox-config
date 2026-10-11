@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-10T23:02:54",
- "deps_files": 8792,
- "deps_bytes": 837381659,
- "duplicate_groups": 1049,
- "duplicate_savable_bytes": 477585152,
- "unreferenced_count": 7486,
- "unreferenced_bytes": 667889676,
+ "generated_at": "2026-10-11T23:35:18",
+ "deps_files": 8805,
+ "deps_bytes": 841239530,
+ "duplicate_groups": 1051,
+ "duplicate_savable_bytes": 481436515,
+ "unreferenced_count": 7790,
+ "unreferenced_bytes": 679123150,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
@@ -108,16 +108,6 @@
   {
    "from": "deps/nxppru/0821/jar/fan.txt",
    "to": "deps/nxppru/0821/jar/fan.jar",
-   "referenced": true
-  },
-  {
-   "from": "deps/auto/25-111s/jar/fan.txt",
-   "to": "deps/auto/25-111s/jar/fan.jar",
-   "referenced": true
-  },
-  {
-   "from": "deps/auto/23-65s/jar/fan.txt",
-   "to": "deps/auto/23-65s/jar/fan.jar",
    "referenced": true
   },
   {
@@ -431,7 +421,7 @@
   },
   {
    "path": "deps/manifest.json",
-   "bytes": 3949058
+   "bytes": 3955788
   },
   {
    "path": "deps/auto/20-69s/pg.jar",
@@ -460,6 +450,10 @@
   {
    "path": "deps/auto/3-26s/pg.jar",
    "bytes": 3763438
+  },
+  {
+   "path": "deps/auto/15-33s/jar/fm.jar",
+   "bytes": 3314512
   },
   {
    "path": "deps/auto/24-106s/lib/spider.jar",
@@ -495,10 +489,6 @@
   },
   {
    "path": "deps/auto/23-106s/lib/spider.jar",
-   "bytes": 3170703
-  },
-  {
-   "path": "deps/auto/4-106s/lib/spider.jar",
    "bytes": 3170703
   }
  ]

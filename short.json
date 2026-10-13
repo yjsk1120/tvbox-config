@@ -650,35 +650,6 @@
    }
   },
   {
-   "name": "解析16",
-   "type": 1,
-   "url": "http://api.huohua.vip/api/?key=6qwYWYpe4mSaPhFvSw&url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "mgtv",
-     "芒果",
-     "letv",
-     "乐视",
-     "pptv",
-     "PPTV",
-     "sohu",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩"
-    ],
-    "header": {
-     "User-Agent": "okhttp/4.1.0"
-    }
-   }
-  },
-  {
    "name": "解析21",
    "type": 0,
    "url": "https://jx.haokantv.cyou/player/?url="
@@ -1435,6 +1406,41 @@
    }
   },
   {
+   "name": "公众号机缘巧盒凯弟1",
+   "type": 1,
+   "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
+   "ext": {
+    "flag": [
+     "qq",
+     "腾讯",
+     "qiyi",
+     "爱奇艺",
+     "奇艺",
+     "youku",
+     "优酷",
+     "tucheng",
+     "sohu",
+     "搜狐",
+     "letv",
+     "乐视",
+     "mgtv",
+     "芒果",
+     "tnmb",
+     "seven",
+     "yzm",
+     "aliyun",
+     "RJuMao",
+     "bilibili",
+     "1905",
+     "xinvip",
+     "XAL",
+     "qiqi",
+     "XALS",
+     "YuMi-vip"
+    ]
+   }
+  },
+  {
    "name": "789",
    "type": 0,
    "url": "https://m.789bh.com/?url=",
@@ -1470,6 +1476,11 @@
    "url": "http://154.44.26.196/player/qu.php?v="
   },
   {
+   "name": "思古3",
+   "type": 0,
+   "url": "https://jsap.attakids.com/?url="
+  },
+  {
    "name": "网络搜集03",
    "type": 1,
    "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
@@ -1479,11 +1490,6 @@
      "wuduzy"
     ]
    }
-  },
-  {
-   "name": "思古3",
-   "type": 0,
-   "url": "https://jsap.attakids.com/?url="
   }
  ],
  "sites": [
@@ -1517,6 +1523,23 @@
     "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#热门短剧$remenduanju#体育赛事$tiyusaishi",
     "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju#爽文短剧$shuangwenduanju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||篮球$lanqiu#足球$zuqiu"
    },
+   "group": "短剧",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": " 百姓 ",
+   "name": "🎦农民影视2",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
+    "分类url": "https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
+    "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"
+   },
+   "jar": "./deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/spider.jar",
    "group": "短剧",
    "_origin": "feishu-sync"
   },
@@ -1563,19 +1586,53 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": " 百姓 ",
-   "name": "🎦农民影视2",
+   "key": "✨HG短剧✨",
+   "name": "✨HG短剧✨乐哥甄选✨",
    "type": 3,
    "api": "csp_XBPQ",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
    "ext": {
-    "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
-    "分类url": "https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
-    "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "图片代理": "",
+    "主页url": "https://hong.hgyx.vip/index.php/vod/show/id/20.html",
+    "首页": "200",
+    "起始页": "1",
+    "分类url": "https://hong.hgyx.vip/index.php/vod/show/class/{cateId}/id/20/page/{catePg}.html",
+    "分类": "古装&虐恋&逆袭&悬疑&神豪&重生&反转&穿越&总裁&甜宠&言情&爽文&女恋&都市&脑洞&仙侠",
+    "分类值": "*",
+    "简介": "👉请不要相信视频中的广告，以免上当受骗！+<p>&&</p>"
    },
-   "jar": "./deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/spider.jar",
+   "jar": "./deps/sv/lege-dj/https:/raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar",
+   "group": "短剧",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "孜然影视",
+   "name": "🐐孜然┃影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "jar": "./deps/auto/16-106s/xyqxbpq.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类url": "https://zrys1.icu/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}/",
+    "分类": "电影$1#剧集$2#综艺$3#动漫$4#短视频$47",
+    "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#记录片$29||国产剧$13#港台剧$14#韩日剧$15#欧美剧$16#海外剧$20#泰国剧$21||大陆综艺$22#港台综艺$23#日韩综艺$24#欧美综艺$25||里番动漫$46#动漫电影$30#国产动漫$26#韩日动漫$27#欧美动漫$28||网络剧$48#短剧$44",
+    "地区": "中国大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||中国大陆&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||空||中国大陆&日本&欧美&其他||空",
+    "地区值": "*",
+    "年份": "2000-2024",
+    "年份值": "*",
+    "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
+    "字母值": "*",
+    "排序": "时间&人气&评分",
+    "排序值": "time&hits&score"
+   },
    "group": "短剧",
    "_origin": "feishu-sync"
   },
@@ -1610,50 +1667,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "影视森林",
-   "name": "🐘森林┃影视",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "jar": "./deps/auto/16-106s/xyqxbpq.jar",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "主页url": "https://www.ncshdxx.com/",
-    "分类url": "https://www.ncshdxx.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
-    "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
-    "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian#武侠片$wuxiapian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||空||空"
-   },
-   "group": "短剧",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "✨HG短剧✨",
-   "name": "✨HG短剧✨乐哥甄选✨",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "图片代理": "",
-    "主页url": "https://hong.hgyx.vip/index.php/vod/show/id/20.html",
-    "首页": "200",
-    "起始页": "1",
-    "分类url": "https://hong.hgyx.vip/index.php/vod/show/class/{cateId}/id/20/page/{catePg}.html",
-    "分类": "古装&虐恋&逆袭&悬疑&神豪&重生&反转&穿越&总裁&甜宠&言情&爽文&女恋&都市&脑洞&仙侠",
-    "分类值": "*",
-    "简介": "👉请不要相信视频中的广告，以免上当受骗！+<p>&&</p>"
-   },
-   "jar": "./deps/sv/lege-dj/https:/raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar",
-   "group": "短剧",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "赵本山小品网",
    "name": "🤡本山┃大全",
    "type": 3,
@@ -1679,8 +1692,8 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "孜然影视",
-   "name": "🐐孜然┃影视",
+   "key": "影视森林",
+   "name": "🐘森林┃影视",
    "type": 3,
    "api": "csp_XBPQ",
    "jar": "./deps/auto/16-106s/xyqxbpq.jar",
@@ -1690,18 +1703,25 @@
    "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
-    "分类url": "https://zrys1.icu/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}/",
-    "分类": "电影$1#剧集$2#综艺$3#动漫$4#短视频$47",
-    "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#记录片$29||国产剧$13#港台剧$14#韩日剧$15#欧美剧$16#海外剧$20#泰国剧$21||大陆综艺$22#港台综艺$23#日韩综艺$24#欧美综艺$25||里番动漫$46#动漫电影$30#国产动漫$26#韩日动漫$27#欧美动漫$28||网络剧$48#短剧$44",
-    "地区": "中国大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||中国大陆&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||空||中国大陆&日本&欧美&其他||空",
-    "地区值": "*",
-    "年份": "2000-2024",
-    "年份值": "*",
-    "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
-    "字母值": "*",
-    "排序": "时间&人气&评分",
-    "排序值": "time&hits&score"
+    "主页url": "https://www.ncshdxx.com/",
+    "分类url": "https://www.ncshdxx.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
+    "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
+    "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian#武侠片$wuxiapian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||空||空"
    },
+   "group": "短剧",
+   "_origin": "feishu-sync"
+  },
+  {
+   "name": "🔥短剧推荐",
+   "key": "Hgdh",
+   "type": 3,
+   "api": "csp_HgdhAmns",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "genre": "shortdrama",
+   "ext": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/Hgdh",
+   "jar": "https://yydsok.com/api/bendi/yydsapi/nf/lib/f7a737368ecfe7c8413a773614e60807.png",
    "group": "短剧",
    "_origin": "feishu-sync"
   },
@@ -1745,20 +1765,6 @@
     "简介": "detail-desc\">&&</p>"
    },
    "jar": "./deps/sv/tiantiankaixin/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/spider.jar",
-   "group": "短剧",
-   "_origin": "feishu-sync"
-  },
-  {
-   "name": "🔥短剧推荐",
-   "key": "Hgdh",
-   "type": 3,
-   "api": "csp_HgdhAmns",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 0,
-   "genre": "shortdrama",
-   "ext": "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/Hgdh",
-   "jar": "https://yydsok.com/api/bendi/yydsapi/nf/lib/f7a737368ecfe7c8413a773614e60807.png",
    "group": "短剧",
    "_origin": "feishu-sync"
   },
@@ -2620,14 +2626,17 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "Cat_百度短剧",
-   "name": "🎦百度🔹短剧",
-   "type": 3,
-   "api": "./deps/xingwei/kstore/xw/js/baidu_dj.js",
+   "key": "暴風短剧",
+   "name": "短剧大全(1.2万)⚡直连",
+   "type": 1,
+   "api": "https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8",
    "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 1,
-   "jar": "./deps/xingwei/kstore/twvip/jarR/raw/master/kjtw.jar",
+   "quickSearch": 1,
+   "changeable": 1,
+   "categories": [
+    "短剧大全",
+    "影视解说"
+   ],
    "group": "短剧",
    "_origin": "feishu-sync"
   },
@@ -2644,39 +2653,14 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "鹊桥",
-   "name": "鹊桥｜影视 ",
+   "key": "Cat_百度短剧",
+   "name": "🎦百度🔹短剧",
    "type": 3,
-   "api": "csp_XBPQ",
-   "jar": "./deps/hajimi/kstore/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
-   "ext": {
-    "副标题": "保护正版，人人有责",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类url": "http://114bate.com/hdshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#日韩$6"
-   },
-   "group": "短剧",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "XBPQ_短剧TV",
-   "name": "🆖短剧┃TV",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "jar": "./deps/auto/16-106s/yt.jar",
-   "ext": {
-    "副标题": "公子专属",
-    "线路数组": "stui-pannel__head bottom-line&&",
-    "线路标题": "title\">&&",
-    "播放数组": "stui-content__playlist&&",
-    "播放列表": "",
-    "播放标题": ">&&",
-    "播放链接": "href='&&'",
-    "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-    "分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
-    "分类url": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html"
-   },
+   "api": "./deps/xingwei/kstore/xw/js/baidu_dj.js",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1,
+   "jar": "./deps/xingwei/kstore/twvip/jarR/raw/master/kjtw.jar",
    "group": "短剧",
    "_origin": "feishu-sync"
   },
@@ -2716,6 +2700,22 @@
     "分类": "女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#脑洞悬疑$naodongxuanyi#年代穿越$niandaichuanyue#古装仙侠$guzhuangxianxia#现代都市$xiandaidushi"
    },
    "jar": "./deps/sv/lege-dj/https:/raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar",
+   "group": "短剧",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "鹊桥",
+   "name": "鹊桥｜影视 ",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "jar": "./deps/hajimi/kstore/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+   "ext": {
+    "副标题": "保护正版，人人有责",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类url": "http://114bate.com/hdshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#日韩$6"
+   },
    "group": "短剧",
    "_origin": "feishu-sync"
   },
@@ -2936,6 +2936,27 @@
    "name": "全网|短剧",
    "type": 4,
    "api": "http://38.76.197.172:15151/duanju.php?type=dquark",
+   "group": "短剧",
+   "_origin": "feishu-sync"
+  },
+  {
+   "key": "XBPQ_短剧TV",
+   "name": "🆖短剧┃TV",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "jar": "./deps/auto/16-106s/yt.jar",
+   "ext": {
+    "副标题": "公子专属",
+    "线路数组": "stui-pannel__head bottom-line&&",
+    "线路标题": "title\">&&",
+    "播放数组": "stui-content__playlist&&",
+    "播放列表": "",
+    "播放标题": ">&&",
+    "播放链接": "href='&&'",
+    "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+    "分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
+    "分类url": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html"
+   },
    "group": "短剧",
    "_origin": "feishu-sync"
   },

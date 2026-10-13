@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-11T23:35:18",
- "deps_files": 8805,
- "deps_bytes": 841239530,
- "duplicate_groups": 1051,
- "duplicate_savable_bytes": 481436515,
- "unreferenced_count": 7790,
- "unreferenced_bytes": 679123150,
+ "generated_at": "2026-10-13T02:02:11",
+ "deps_files": 8812,
+ "deps_bytes": 846337639,
+ "duplicate_groups": 1052,
+ "duplicate_savable_bytes": 482487389,
+ "unreferenced_count": 7792,
+ "unreferenced_bytes": 679868861,
  "jar_suffix_mismatch": [
   {
    "path": "deps/nxppru/0821/jar/fan.txt",
@@ -421,7 +421,7 @@
   },
   {
    "path": "deps/manifest.json",
-   "bytes": 3955788
+   "bytes": 3958707
   },
   {
    "path": "deps/auto/20-69s/pg.jar",

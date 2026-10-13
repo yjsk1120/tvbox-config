@@ -1,248 +1,241 @@
 {
- "generated_at": "2026-10-11T23:35:19",
+ "generated_at": "2026-10-13T02:02:12",
  "is_baseline": false,
  "vod": {
-  "total": 3695,
+  "total": 3527,
   "summary": {
    "healthy": 122,
-   "degraded": 635,
-   "unknown": 1113,
-   "dead": 1825
+   "degraded": 637,
+   "unknown": 940,
+   "dead": 1828
   },
   "new": [
    {
-    "key": "性南国",
-    "name": "(vpn)性南国",
+    "key": "天涯采集",
+    "name": "影视 • 天涯",
     "health": "unknown"
    },
    {
-    "key": "7000影视",
-    "name": "7000影视",
+    "key": "滴滴",
+    "name": "滴滴 | 采集",
     "health": "unknown"
    },
    {
-    "key": "KK资源网",
-    "name": "KK资源网",
+    "key": "滴滴-2",
+    "name": "[137ms|zy] 🍊滴滴",
     "health": "unknown"
    },
    {
-    "key": "shayu",
-    "name": "shayu",
+    "key": "奶香",
+    "name": "🚀奶香",
     "health": "unknown"
    },
    {
-    "key": "f81ab05d-3269-5fb9-97bb-1597b00e0e02",
-    "name": "伊人",
+    "key": "OK",
+    "name": "[137ms|zy] 🍏OK",
     "health": "unknown"
    },
    {
-    "key": "伊人资源",
-    "name": "伊人资源",
+    "key": "tyyszy",
+    "name": "天涯资源",
     "health": "unknown"
    },
    {
-    "key": "免費AV線上看",
-    "name": "免費AV線上看",
+    "key": "semaozy.com",
+    "name": "色猫(FQ)",
     "health": "unknown"
    },
    {
-    "key": "37f548f0-4a9d-5da4-b3de-87552f2eb8d0",
-    "name": "壹壹资源",
+    "key": "天涯资源",
+    "name": "[193ms|apple] 天涯资源",
     "health": "unknown"
    },
    {
-    "key": "b8b48f6e-9e96-5619-96ba-d884ef9cb442",
-    "name": "奥斯卡",
+    "key": "zy_豆瓣资源",
+    "name": "接口┃豆瓣资源",
     "health": "unknown"
    },
    {
-    "key": "好片资源",
-    "name": "好片资源",
+    "key": "lajiaozy.com",
+    "name": "辣椒(FQ)",
     "health": "unknown"
    },
    {
-    "key": "宝塔资源",
-    "name": "宝塔资源",
+    "key": "闪电资源-2",
+    "name": "[322ms|我的] 闪电资源",
     "health": "unknown"
    },
    {
-    "key": "8a885bf6-666b-5bbf-8669-4c7f1ffb7a71",
-    "name": "开云",
+    "key": "11辣椒资源",
+    "name": "apilj辣椒资源",
     "health": "unknown"
    },
    {
-    "key": "开云资源",
-    "name": "开云资源",
+    "key": "鸭鸭资源",
+    "name": "[322ms|我的] 鸭鸭资源",
     "health": "unknown"
    },
    {
-    "key": "极致资源",
-    "name": "极致资源",
+    "key": "鸭鸭资源2",
+    "name": "[322ms|我的] 鸭鸭资源2",
     "health": "unknown"
    },
    {
-    "key": "极速官采",
-    "name": "极速官采",
+    "key": "csp_xml_暴风",
+    "name": "❤暴风资源",
     "health": "unknown"
    }
   ],
   "gone": [
    {
-    "key": "11辣椒资源",
-    "name": "apilj辣椒资源"
+    "key": "155zy.com",
+    "name": "♥155(直连)"
    },
    {
-    "key": "奶香",
-    "name": "🚀奶香"
+    "key": "虎牙",
+    "name": "🌼虎牙┃采集🌼"
    },
    {
-    "key": "滴滴",
-    "name": "滴滴 | 采集"
+    "key": "iKun资源",
+    "name": "[590ms|5] iKun资源"
    },
    {
-    "key": "acd47931ed9a83e500f70bbb7c5c0c2b",
-    "name": "54-奇艺"
+    "key": "魔都",
+    "name": "🥇💢魔都✨"
    },
    {
-    "key": "快播",
-    "name": "快播"
+    "key": "如意资源",
+    "name": "🌼如意┃影视🌼"
    },
    {
-    "key": "kd",
-    "name": "酷豆"
+    "key": "猫眼资源-3",
+    "name": "影视 • 猫眼[直连]"
    },
    {
-    "key": "qc555",
-    "name": "💥龙马💥"
+    "key": "3b413ffe4c72f0b8f99ca6a868075d99",
+    "name": "38-U酷"
    },
    {
-    "key": "天涯采集",
-    "name": "影视 • 天涯"
+    "key": "2b95a57602ae920c848d81627e162f9e",
+    "name": "28-无尽"
    },
    {
-    "key": "tyyszy",
-    "name": "天涯资源"
+    "key": "电影天堂-4",
+    "name": "🧞无广┃[采集]"
    },
    {
-    "key": "mdzy",
-    "name": "魔都资源"
+    "key": "a794df941b177a5eb1e4e991fb5eaccb",
+    "name": "9-非凡"
    },
    {
-    "key": "滴滴资源",
-    "name": "滴滴资源【密】"
+    "key": "lezi2",
+    "name": "🍀乐子HTTP"
    },
    {
-    "key": "滴滴-2",
-    "name": "[137ms|zy] 🍊滴滴"
+    "key": "yilingba2",
+    "name": "1080JSON"
    },
    {
-    "key": "huosuapi",
-    "name": "💞火速资源💞"
+    "key": "柚子影视",
+    "name": "[590ms|5] 柚子影视"
    },
    {
-    "key": "牛牛资源",
-    "name": "[322ms|我的] 牛牛资源"
+    "key": "csp_xml_优质",
+    "name": "❤优质资源"
    },
    {
-    "key": "鸭鸭资源",
-    "name": "[322ms|我的] 鸭鸭资源"
+    "key": "yzzy",
+    "name": "优质资源"
    }
   ],
   "down": [
    {
-    "key": "lsb",
-    "name": "lsb",
-    "from": "healthy",
-    "to": "dead"
-   },
-   {
-    "key": "奇迹资源",
-    "name": "影视 • 奇迹[直连]",
-    "from": "healthy",
-    "to": "dead"
-   },
-   {
-    "key": "laosebizy.com",
-    "name": "💕老色逼(直连)",
-    "from": "healthy",
-    "to": "dead"
-   },
-   {
-    "key": "csp_appys_萌蛋蛋",
-    "name": "萌蛋",
+    "key": "电影先生",
+    "name": "👨‍💼电影先生",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "csp_XBPQ_6080z",
-    "name": "💫┃6080┃XB",
+    "key": "听心99",
+    "name": "☀听心🔹视频",
     "from": "degraded",
     "to": "dead"
    },
    {
-    "key": "py_star",
-    "name": " 🐦星光影视 py",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "py_bilivd",
-    "name": "B站(带搜索)",
+    "key": "XBPQ_短剧TV",
+    "name": "🆖短剧┃TV",
     "from": "degraded",
     "to": "dead"
    }
   ],
   "recovered": [
    {
-    "key": "电影先生",
-    "name": "👨‍💼电影先生",
+    "key": "lsb",
+    "name": "lsb",
+    "from": "dead",
+    "to": "healthy"
+   },
+   {
+    "key": "魅影影视",
+    "name": "💖分享魅影",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "csp_appys_大猫",
-    "name": "大猫",
+    "key": "旗星",
+    "name": "旗星｜APP",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "py_huya",
-    "name": "🔥虎牙",
+    "key": "csp_XBPQ_6080z",
+    "name": "💫┃6080┃XB",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "py_jrskbs",
-    "name": " 🐦JRS直播",
+    "key": "py_bilivd",
+    "name": "B站(带搜索)",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": " py_test",
-    "name": " 🐦py测试",
+    "key": "py_star",
+    "name": " 🐦星光影视 py",
     "from": "dead",
     "to": "degraded"
    }
   ],
   "counts": {
-   "new": 261,
-   "gone": 902,
-   "down": 7,
-   "recovered": 5
+   "new": 90,
+   "gone": 258,
+   "down": 3,
+   "recovered": 6
   }
  },
  "live": {
-  "total": 330,
+  "total": 332,
   "summary": {
-   "unknown": 330
+   "unknown": 332
   },
   "counts": {
-   "new": 0,
-   "gone": 40,
+   "new": 2,
+   "gone": 0,
    "down": 0,
    "recovered": 0
   },
-  "new": [],
+  "new": [
+   {
+    "key": "https://gitcode.net/tushaoyong543452/tsy543452/-/raw/master/%E8%B6%85%E6%B8%85v6.txt",
+    "name": "Tsy电视直播",
+    "health": "unknown"
+   },
+   {
+    "key": "http://111.67.193.2:89/dg66.txt",
+    "name": "DG直播",
+    "health": "unknown"
+   }
+  ],
   "down": []
  }
 }

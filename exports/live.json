@@ -2745,18 +2745,6 @@
    "type": 0,
    "url": "http://rihou.cc:567/gggg.nzk",
    "playerType": 1
-  },
-  {
-   "name": "Tsy电视直播",
-   "type": 0,
-   "url": "https://gitcode.net/tushaoyong543452/tsy543452/-/raw/master/%E8%B6%85%E6%B8%85v6.txt",
-   "playerType": 1
-  },
-  {
-   "name": "DG直播",
-   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-   "type": 0,
-   "url": "http://111.67.193.2:89/dg66.txt"
   }
  ],
  "parses": [
@@ -3570,11 +3558,6 @@
    }
   },
   {
-   "name": "解析1.6",
-   "type": 1,
-   "url": "https://jx.300ys.xyz/json/m3u8.php/?url="
-  },
-  {
    "name": "☑快速直解",
    "type": 1,
    "url": "https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="
@@ -4113,11 +4096,6 @@
    "url": "https://huayong.net/999/?v="
   },
   {
-   "name": "freejson",
-   "type": 0,
-   "url": "https://h5.freejson.xyz/player/?url="
-  },
-  {
    "name": "夜猫超聚合",
    "type": 1,
    "url": "https://hd.396pay.cn/lib/diy/?key=pFELnzclw6RdhxNlH6&url=",
@@ -4232,11 +4210,6 @@
    "name": "💕分享者嗅探*",
    "type": 0,
    "url": "http://154.44.26.196/player/qu.php?v="
-  },
-  {
-   "name": "思古3",
-   "type": 0,
-   "url": "https://jsap.attakids.com/?url="
   },
   {
    "name": "网络搜集03",

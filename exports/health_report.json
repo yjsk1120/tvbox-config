@@ -1,241 +1,200 @@
 {
- "generated_at": "2026-10-13T02:02:12",
+ "generated_at": "2026-10-14T00:08:08",
  "is_baseline": false,
  "vod": {
-  "total": 3527,
+  "total": 3608,
   "summary": {
-   "healthy": 122,
-   "degraded": 637,
-   "unknown": 940,
-   "dead": 1828
+   "healthy": 118,
+   "degraded": 636,
+   "unknown": 1039,
+   "dead": 1815
   },
   "new": [
    {
-    "key": "天涯采集",
-    "name": "影视 • 天涯",
+    "key": "bwzyz",
+    "name": "【9kg】百万资源",
     "health": "unknown"
    },
    {
-    "key": "滴滴",
-    "name": "滴滴 | 采集",
+    "key": "xxibaozyw",
+    "name": "【9kg】细胞网资源",
     "health": "unknown"
    },
    {
-    "key": "滴滴-2",
-    "name": "[137ms|zy] 🍊滴滴",
+    "key": "wolongzyw",
+    "name": "卧龙资源",
     "health": "unknown"
    },
    {
-    "key": "奶香",
-    "name": "🚀奶香",
+    "key": "xmm",
+    "name": "小猫咪资源",
     "health": "unknown"
    },
    {
-    "key": "OK",
-    "name": "[137ms|zy] 🍏OK",
+    "key": "p2100",
+    "name": "飘零资源",
     "health": "unknown"
    },
    {
-    "key": "tyyszy",
-    "name": "天涯资源",
+    "key": "mozhuazy",
+    "name": "魔爪资源",
     "health": "unknown"
    },
    {
-    "key": "semaozy.com",
-    "name": "色猫(FQ)",
+    "key": "qilinzyz",
+    "name": "麒麟资源",
     "health": "unknown"
    },
    {
-    "key": "天涯资源",
-    "name": "[193ms|apple] 天涯资源",
+    "key": "site_1788070701483",
+    "name": "电影天堂",
     "health": "unknown"
    },
    {
-    "key": "zy_豆瓣资源",
-    "name": "接口┃豆瓣资源",
+    "key": "suoni",
+    "name": "索尼资源",
     "health": "unknown"
    },
    {
-    "key": "lajiaozy.com",
-    "name": "辣椒(FQ)",
+    "key": "155zy.com",
+    "name": "♥155(直连)",
     "health": "unknown"
    },
    {
-    "key": "闪电资源-2",
-    "name": "[322ms|我的] 闪电资源",
+    "key": "a极速资源",
+    "name": "🎀极速┃采集",
     "health": "unknown"
    },
    {
-    "key": "11辣椒资源",
-    "name": "apilj辣椒资源",
+    "key": "4d6422f0a2bc81fc9606ecc2d97208eb",
+    "name": "8-非凡",
     "health": "unknown"
    },
    {
-    "key": "鸭鸭资源",
-    "name": "[322ms|我的] 鸭鸭资源",
+    "key": "dyttzy",
+    "name": "电影天堂",
     "health": "unknown"
    },
    {
-    "key": "鸭鸭资源2",
-    "name": "[322ms|我的] 鸭鸭资源2",
+    "key": "a红牛资源",
+    "name": "🐂红牛┃采集",
     "health": "unknown"
    },
    {
-    "key": "csp_xml_暴风",
-    "name": "❤暴风资源",
+    "key": "heimuer",
+    "name": "虎牙",
     "health": "unknown"
    }
   ],
   "gone": [
    {
-    "key": "155zy.com",
-    "name": "♥155(直连)"
+    "key": "辣椒",
+    "name": "辣椒 | 采集"
    },
    {
-    "key": "虎牙",
-    "name": "🌼虎牙┃采集🌼"
+    "key": "didizy.com",
+    "name": "♥滴滴(直连)"
    },
    {
-    "key": "iKun资源",
-    "name": "[590ms|5] iKun资源"
+    "key": "lsb",
+    "name": "lsb"
    },
    {
-    "key": "魔都",
-    "name": "🥇💢魔都✨"
+    "key": "csp_xml_ikun",
+    "name": "❤ikun资源"
    },
    {
-    "key": "如意资源",
-    "name": "🌼如意┃影视🌼"
+    "key": "奶香香",
+    "name": "奶香 | 采集"
    },
    {
-    "key": "猫眼资源-3",
-    "name": "影视 • 猫眼[直连]"
+    "key": "360",
+    "name": "360 | 采集"
    },
    {
-    "key": "3b413ffe4c72f0b8f99ca6a868075d99",
-    "name": "38-U酷"
+    "key": "沙鱼",
+    "name": "沙鱼 | 采集"
    },
    {
-    "key": "2b95a57602ae920c848d81627e162f9e",
-    "name": "28-无尽"
+    "key": "baofeng",
+    "name": "🍀暴风资源"
    },
    {
-    "key": "电影天堂-4",
-    "name": "🧞无广┃[采集]"
+    "key": "e750d6da567daae09c179aec32891d63",
+    "name": "35-最大"
    },
    {
-    "key": "a794df941b177a5eb1e4e991fb5eaccb",
-    "name": "9-非凡"
+    "key": "wujincc",
+    "name": "无尽CC"
    },
    {
-    "key": "lezi2",
-    "name": "🍀乐子HTTP"
+    "key": "yinghua-2",
+    "name": "樱花资源"
    },
    {
-    "key": "yilingba2",
-    "name": "1080JSON"
+    "key": "iqiyi",
+    "name": "iqiyi资源"
    },
    {
-    "key": "柚子影视",
-    "name": "[590ms|5] 柚子影视"
+    "key": "天涯采集",
+    "name": "影视 • 天涯"
    },
    {
-    "key": "csp_xml_优质",
-    "name": "❤优质资源"
+    "key": "滴滴-2",
+    "name": "[137ms|zy] 🍊滴滴"
    },
    {
-    "key": "yzzy",
-    "name": "优质资源"
+    "key": "OK",
+    "name": "[137ms|zy] 🍏OK"
    }
   ],
   "down": [
    {
-    "key": "电影先生",
-    "name": "👨‍💼电影先生",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "听心99",
-    "name": "☀听心🔹视频",
-    "from": "degraded",
-    "to": "dead"
-   },
-   {
-    "key": "XBPQ_短剧TV",
-    "name": "🆖短剧┃TV",
+    "key": "小鹿",
+    "name": "小鹿｜APP",
     "from": "degraded",
     "to": "dead"
    }
   ],
   "recovered": [
    {
-    "key": "lsb",
-    "name": "lsb",
-    "from": "dead",
-    "to": "healthy"
-   },
-   {
-    "key": "魅影影视",
-    "name": "💖分享魅影",
+    "key": "csp_appys_萌蛋蛋",
+    "name": "萌蛋",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "旗星",
-    "name": "旗星｜APP",
+    "key": "永乐APP",
+    "name": "🌺永乐 • FS",
     "from": "dead",
     "to": "degraded"
    },
    {
-    "key": "csp_XBPQ_6080z",
-    "name": "💫┃6080┃XB",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "py_bilivd",
-    "name": "B站(带搜索)",
-    "from": "dead",
-    "to": "degraded"
-   },
-   {
-    "key": "py_star",
-    "name": " 🐦星光影视 py",
+    "key": "XBPQ_短剧TV",
+    "name": "🆖短剧┃TV",
     "from": "dead",
     "to": "degraded"
    }
   ],
   "counts": {
-   "new": 90,
-   "gone": 258,
-   "down": 3,
-   "recovered": 6
+   "new": 188,
+   "gone": 107,
+   "down": 1,
+   "recovered": 3
   }
  },
  "live": {
-  "total": 332,
+  "total": 330,
   "summary": {
-   "unknown": 332
+   "unknown": 330
   },
   "counts": {
-   "new": 2,
-   "gone": 0,
+   "new": 0,
+   "gone": 2,
    "down": 0,
    "recovered": 0
   },
-  "new": [
-   {
-    "key": "https://gitcode.net/tushaoyong543452/tsy543452/-/raw/master/%E8%B6%85%E6%B8%85v6.txt",
-    "name": "Tsy电视直播",
-    "health": "unknown"
-   },
-   {
-    "key": "http://111.67.193.2:89/dg66.txt",
-    "name": "DG直播",
-    "health": "unknown"
-   }
-  ],
+  "new": [],
   "down": []
  }
 }

@@ -12,6 +12,18 @@
    "_origin": "qist/9918"
   },
   {
+   "key": "森林专场",
+   "name": "森林 | 采集",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
    "key": "apilj.com",
    "name": "成人06",
    "type": 1,
@@ -30,29 +42,24 @@
    "_origin": "qist/9918"
   },
   {
-   "key": "森林专场",
-   "name": "森林 | 采集",
-   "type": 1,
-   "api": "https://slapibf.com/api.php/provide/vod/",
-   "playUrl": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy",
-   "_origin": "cluntop/fun"
-  },
-  {
-   "key": "大奶子",
-   "name": "大奶子 | 采集",
+   "key": "apidanaizi",
+   "name": "【9kg】大奶子资源",
    "type": 1,
    "api": "https://apidanaizi.com/api.php/provide/vod",
    "searchable": 1,
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "changeable": 1,
-   "_origin": "cluntop/fun"
+   "quickSearch": 0,
+   "filterable": 1,
+   "_origin": "auto/29-14s"
+  },
+  {
+   "key": "slapibf",
+   "name": "【9kg】森林资源",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1,
+   "_origin": "auto/29-14s"
   },
   {
    "key": "lbapi9.com",
@@ -94,6 +101,17 @@
    "_origin": "cluntop/fun"
   },
   {
+   "key": "乐播",
+   "name": "乐播 | 采集",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy",
+   "_origin": "cluntop/fun"
+  },
+  {
    "key": "fhapi9.com",
    "name": "★废柴(直连)",
    "type": 1,
@@ -114,17 +132,6 @@
    "_origin": "cluntop/fun"
   },
   {
-   "key": "乐播",
-   "name": "乐播 | 采集",
-   "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy",
-   "_origin": "cluntop/fun"
-  },
-  {
    "key": "18AV",
    "name": "18AV",
    "type": 3,
@@ -141,9 +148,9 @@
    "key": "4Kav",
    "name": "4Kav|弹幕",
    "type": 3,
-   "api": "csp_HB4kavCAT",
+   "api": "csp_HB4kav",
    "playerType": 2,
-   "_origin": "xiaohuban/hb"
+   "_origin": "sv/xiaogege"
   },
   {
    "key": "py_91porn",
@@ -243,15 +250,6 @@
    "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
    "jar": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar",
    "_origin": "cluntop/fun"
-  },
-  {
-   "key": "Wex4Kav",
-   "name": "🎇急速┃秒播🎇",
-   "type": 3,
-   "api": "csp_Wex4KavGuard",
-   "searchable": 1,
-   "changeable": 1,
-   "_origin": "auto/13-91s"
   }
  ]
 }

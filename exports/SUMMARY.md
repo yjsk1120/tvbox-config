@@ -1,40 +1,35 @@
 # 每日健康日报（人读版）
 
-生成时间：2026-10-13T02:02:12
+生成时间：2026-10-14T00:08:08
 
 ## 总览
 
 | 类别 | 总量 | healthy | degraded | unknown | dead |
 |---|---|---|---|---|---|
-| 点播 | 3527 | 122 | 637 | 940 | 1828 |
-| 直播 | 332 | 0 | 0 | 332 | 0 |
+| 点播 | 3608 | 118 | 636 | 1039 | 1815 |
+| 直播 | 330 | 0 | 0 | 330 | 0 |
 
-较上轮变化：新增 90｜掉线 3｜恢复 6｜移除 258（点播）；新增 2｜掉线 0｜恢复 0｜移除 0（直播）
+较上轮变化：新增 188｜掉线 1｜恢复 3｜移除 107（点播）；新增 0｜掉线 0｜恢复 0｜移除 2（直播）
 
 ## 点播掉线（前 10）
 
-- 👨‍💼电影先生（degraded → dead）
-- ☀听心🔹视频（degraded → dead）
-- 🆖短剧┃TV（degraded → dead）
+- 小鹿｜APP（degraded → dead）
 
 ## 点播恢复（前 10）
 
-- lsb（dead → healthy）
-- 💖分享魅影（dead → degraded）
-- 旗星｜APP（dead → degraded）
-- 💫┃6080┃XB（dead → degraded）
-- B站(带搜索)（dead → degraded）
--  🐦星光影视 py（dead → degraded）
+- 萌蛋（dead → degraded）
+- 🌺永乐 • FS（dead → degraded）
+- 🆖短剧┃TV（dead → degraded）
 
 ## 点播新增（前 10）
 
-- 影视 • 天涯（unknown）
-- 滴滴 | 采集（unknown）
-- [137ms|zy] 🍊滴滴（unknown）
-- 🚀奶香（unknown）
-- [137ms|zy] 🍏OK（unknown）
-- 天涯资源（unknown）
-- 色猫(FQ)（unknown）
-- [193ms|apple] 天涯资源（unknown）
-- 接口┃豆瓣资源（unknown）
-- 辣椒(FQ)（unknown）
+- 【9kg】百万资源（unknown）
+- 【9kg】细胞网资源（unknown）
+- 卧龙资源（unknown）
+- 小猫咪资源（unknown）
+- 飘零资源（unknown）
+- 魔爪资源（unknown）
+- 麒麟资源（unknown）
+- 电影天堂（unknown）
+- 索尼资源（unknown）
+- ♥155(直连)（unknown）

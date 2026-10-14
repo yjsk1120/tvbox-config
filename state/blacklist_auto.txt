@@ -11,6 +11,7 @@ nxppru/duanju
 qist/duanju
 qist/duoduo
 qist/wogg
+xiaohuban/hb
 yang-migu
 zbds-iptv4
 zwc456baby-iptv
